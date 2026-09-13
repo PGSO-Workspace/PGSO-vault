@@ -1,0 +1,47 @@
+knowledge/evidence/EVID-48ffa1f408.yaml
+  s_81bf62597beb77::t_f6c3a28ba98a2e 1-17
+knowledge/sources/SRC-78e9b2b8bb.yaml
+  s_81bf62597beb77::t_9f3383f9591545 1-18
+phdude.yaml
+  s_81bf62597beb77::t_d04483f0564f7b 14-16
+knowledge/sources/SRC-fd16d0b0ed.yaml
+  s_81bf62597beb77::t_9f3383f9591545 1-18
+knowledge/artifacts/ART-ff3aef8b78.yaml
+  s_81bf62597beb77::t_9f3383f9591545 15
+  s_81bf62597beb77::t_d04483f0564f7b 1-14,16-23
+.phdude/events.jsonl
+  s_81bf62597beb77::t_d04483f0564f7b 3-4
+  s_81bf62597beb77::t_9f3383f9591545 5-12
+  s_81bf62597beb77::t_f6c3a28ba98a2e 13-14
+knowledge/facts/FACT-218e90cd2b.yaml
+  s_81bf62597beb77::t_9f3383f9591545 1-14
+knowledge/artifacts/ART-b4475a3bd2.yaml
+  s_81bf62597beb77::t_9f3383f9591545 15
+  s_81bf62597beb77::t_d04483f0564f7b 1-14,16-23
+knowledge/artifacts/ART-07c6900787.yaml
+  s_81bf62597beb77::t_d04483f0564f7b 1-14,16-23
+  s_81bf62597beb77::t_9f3383f9591545 15
+knowledge/artifacts/ART-29ad619744.yaml
+  s_81bf62597beb77::t_d04483f0564f7b 1-14,16-23
+  s_81bf62597beb77::t_9f3383f9591545 15
+knowledge/sources/SRC-569cf4cb14.yaml
+  s_81bf62597beb77::t_9f3383f9591545 1-18
+knowledge/claims/CLAIM-8fda0fb3f9.yaml
+  s_81bf62597beb77::t_f6c3a28ba98a2e 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5bb19c5da134cef022bd78deaf4227bb3d9a5a90",
+  "prompts": {},
+  "sessions": {
+    "s_81bf62597beb77": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a09634-16f5-7683-8dee-23f8ff5526b5",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Lucio <lucioyen1@gmail.com>"
+    }
+  }
+}
