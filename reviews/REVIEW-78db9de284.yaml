@@ -1,0 +1,19 @@
+schema: phdude.review
+version: 1
+id: REVIEW-78db9de284
+created: 2026-09-13T06:51:21.071Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+kind: methodology
+target: project
+severity: note
+message: The current paper limits deterministic directive guarantees to insertion/removal, not resulting model behavior. Retain that boundary wherever two deterministic levers or safe behavior are claimed.
+evidence:
+  - EVID-8cac9afc1a
+status: open
+by:
+  researcher: Lucio
+  agent: codex
+mode: full

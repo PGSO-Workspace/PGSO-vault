@@ -1,0 +1,21 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-64d2a0acc3
+created: 2026-09-13T06:48:17.311Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The thesis describes Phase 0 as a controlled acted-speech mechanism demonstration and defers naturalistic and summative validation.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-838a83cb80
+questions: []
+sections:
+  - introduction
+  - discussion
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-07c6900787

@@ -1,0 +1,19 @@
+schema: phdude.evidence
+version: 1
+id: EVID-74161f4077
+created: 2026-09-13T06:48:19.181Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-d1bf717338
+locator: PDF page 16; tests
+excerpt: |-
+  The battery consists of 65 automated tests of the SDK and 33 tests of the
+  demonstration harness, all passing, and the core is unsafe code free by construction.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

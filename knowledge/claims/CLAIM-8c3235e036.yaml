@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-8c3235e036
+created: 2026-09-13T06:48:18.982Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The thesis reports an activation AUC of 0.602 on acted MUStARD++ speech; this is a different metric from the paper correlation estimates and needs its own underlying analysis.
+kind: empirical
+state: candidate
+supported_by:
+  - EVID-f2463219d0
+questions: []
+sections:
+  - results
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-07c6900787

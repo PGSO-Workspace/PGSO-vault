@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-d10fd9e207
+created: 2026-09-13T06:48:16.472Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The paper describes a problem-centered Design Science Research study organized through the six activities of DSRM.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-c58d3adec6
+questions: []
+sections:
+  - methods
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

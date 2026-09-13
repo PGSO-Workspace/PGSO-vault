@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-386073b9fd
+created: 2026-09-13T06:48:16.060Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: "The paper defines five guarantees: prompt sovereignty, protected-tool preservation, non-punitive reversible reductions, low-confidence abstention, and auditability."
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-8e5b367d3b
+questions: []
+sections:
+  - methods
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

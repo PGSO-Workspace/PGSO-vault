@@ -1,0 +1,24 @@
+schema: phdude.evidence
+version: 1
+id: EVID-c702ebc134
+created: 2026-09-13T06:48:21.265Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-d1bf717338
+locator: PDF page 16; null_floor
+excerpt: |-
+  finally 0.583 with a null signal, a value
+  that sits at the corresponding chance level. The degradation is gradual and without catastrophic
+  collapse, and the two control points, the perfect signal at 1.000 and the null signal at chance, confirm
+  the validity of the sweep. Figure 9 presents the curve alongside the chance level corresponding to
+  each point, which descends from 0.578 with a perfect signal to 0.555 with a null signal; the coincidence
+  of the observed floor with that level confirms that the value with a null signal corresponds to the
+  expected behavior under a signal without information.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

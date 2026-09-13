@@ -1,0 +1,19 @@
+schema: phdude.source
+version: 1
+id: SRC-97cc7051bf
+created: 2026-09-13T06:48:39.886Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: Selective Classification for Deep Neural Networks
+authors:
+  - Y. Geifman
+  - R. El-Yaniv
+type: article
+artifacts:
+  - ART-29ad619744
+state: candidate
+year: 2017
+venue: NeurIPS
+abstract: Bibliographic metadata transcribed from Reference 12, PDF page 25. Primary publication has not been retrieved or verified. Listed abbreviated authors are retained as printed.

@@ -1,0 +1,26 @@
+schema: phdude.evidence
+version: 1
+id: EVID-564a4dc082
+created: 2026-09-13T06:48:22.104Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-d1bf717338
+locator: PDF page 23; validity
+excerpt: |-
+  As to internal validity, the governance curve is obtained by degrading
+  the signal with synthetic noise, which isolates the quality axis but does not reproduce the structured
+  error of a real extractor, and the demonstration scenarios employ deterministic readings to guarantee
+  reproducibility, so that the tolerance of the mechanism to a synthetic correlation of 0.2 does not
+  establish its tolerance to the real signal in deployment. As to external validity, the evaluation is carried
+  out over a single corpus of acted speech, the triggering of the directive from real audio corresponds
+  to a single speaker in a controlled session, and only the activation axis is instrumented, so that
+  generalization to spontaneous speech, to diverse speakers, to other languages, and to additional axes
+  falls outside what is established.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

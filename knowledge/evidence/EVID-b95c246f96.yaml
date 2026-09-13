@@ -1,0 +1,27 @@
+schema: phdude.evidence
+version: 1
+id: EVID-b95c246f96
+created: 2026-09-13T06:48:14.615Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-78e9b2b8bb
+locator: PDF page 9; charter_objectives
+excerpt: |-
+  OG: Desarrollar un SDK de gobernanza determinista y auditable del tool-calling, basado en señales
+  paralingüísticas, para el control del comportamiento de agentes de voz autónomos a partir del estado
+  del interlocutor percibido sin transcripción.
+
+
+
+  OBJETIVOS ESPECÍFICOS
+  OE1: Analizar la viabilidad y el rendimiento de las señales paralingüísticas y de los mecanismos de
+  percepción afectiva del habla para gobernar el comportamiento de un agente conversacional sin recurrir
+  a la transcripción,
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-ff3aef8b78

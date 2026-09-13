@@ -1,0 +1,21 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-88d1c9f7e7
+created: 2026-09-13T06:48:16.888Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The paper describes its evaluation as formative and artificial under FEDS, with spontaneous-speech, naturalistic and summative validation deferred.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-77cec054b6
+questions: []
+sections:
+  - methods
+  - discussion
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

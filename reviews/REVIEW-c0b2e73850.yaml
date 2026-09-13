@@ -1,0 +1,21 @@
+schema: phdude.review
+version: 1
+id: REVIEW-c0b2e73850
+created: 2026-09-13T06:51:21.563Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+kind: citation
+target: project
+severity: major
+message: The paper explains DSR, DSRM and FEDS in section 3, but its supplied 44-item bibliography contains no Peffers/Hevner/Venable methodology entries. Add verified primary methodological citations, not citations back to the thesis or this draft.
+evidence:
+  - ART-29ad619744
+  - EVID-c58d3adec6
+  - EVID-77cec054b6
+status: open
+by:
+  researcher: Lucio
+  agent: codex
+mode: full

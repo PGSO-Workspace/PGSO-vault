@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-b114bdeb45
+created: 2026-09-13T06:48:15.646Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The thesis labels transcription-free perception as G1 and catalog enforcement as G2.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-b2185b1453
+questions: []
+sections:
+  - methods
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-07c6900787

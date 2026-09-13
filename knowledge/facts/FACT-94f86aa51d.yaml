@@ -1,0 +1,14 @@
+schema: phdude.fact
+version: 1
+id: FACT-94f86aa51d
+created: 2026-09-13T06:50:24.899Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+key: charter_reported_success_gaps
+value: '{"minimum_candidate_extractors": 3, "cross_corpus_transfer_required": true, "literature_minimum_primary_articles": 25, "confidence_abstention_verification_required": true, "status": "Charter requirements; completion is not established by the uploaded PDFs."}'
+from:
+  artifact: ART-ff3aef8b78
+  locator: PDF pages 10–11, OE1-I1/I2/I3 and OE4-I5
+state: candidate

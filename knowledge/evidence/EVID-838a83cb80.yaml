@@ -1,0 +1,21 @@
+schema: phdude.evidence
+version: 1
+id: EVID-838a83cb80
+created: 2026-09-13T06:48:17.099Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-fd16d0b0ed
+locator: PDF page 11; thesis_scope
+excerpt: |-
+  El alcance
+  de esta memoria corresponde a una Fase-0: se demuestra el mecanismo en
+  condiciones controladas (habla actuada) y se difiere explícitamente la validación
+  naturalista y sumativa.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-07c6900787

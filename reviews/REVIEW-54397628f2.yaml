@@ -1,0 +1,20 @@
+schema: phdude.review
+version: 1
+id: REVIEW-54397628f2
+created: 2026-09-13T06:51:21.067Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+kind: methodology
+target: project
+severity: major
+message: "G1 has incompatible labels across documents: thesis PDF p12 defines transcription-free perception; paper PDF p7 defines prompt sovereignty. Keep transcription independence as an input-path constraint and ask the researcher to approve the common guarantee dictionary."
+evidence:
+  - EVID-b2185b1453
+  - EVID-8e5b367d3b
+status: open
+by:
+  researcher: Lucio
+  agent: codex
+mode: full

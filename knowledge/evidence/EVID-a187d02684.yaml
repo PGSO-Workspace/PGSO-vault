@@ -1,0 +1,24 @@
+schema: phdude.evidence
+version: 1
+id: EVID-a187d02684
+created: 2026-09-13T06:48:17.521Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-78e9b2b8bb
+locator: PDF page 12; charter_scope
+excerpt: |-
+  Resolución del problema de percepción afectiva. El proyecto no busca resolver la estimación
+          fiable del afecto desde la voz, que constituye un problema abierto del campo. La calidad de la
+          señal se caracteriza, no se resuelve, y el mecanismo se diseña para ser robusto a la imperfección
+          de la percepción.
+      ●   Detección o clasificación de emociones discretas. El sistema no es un detector de estados
+          emocionales ni un clasificador de emociones. Emplea la prosodia como señal de gobernanza y
+          no afirma reconocer de forma fiable categorías emocionales del interlocutor.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-ff3aef8b78

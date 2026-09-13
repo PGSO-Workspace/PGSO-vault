@@ -1,0 +1,27 @@
+schema: phdude.evidence
+version: 1
+id: EVID-8e5b367d3b
+created: 2026-09-13T06:48:15.850Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-d1bf717338
+locator: PDF page 7; paper_guarantees
+excerpt: |-
+  The first is prompt sovereignty, according to which the textual instruction
+  layer retains its authority, since the mechanism governs the tool catalog and can only add an additive,
+  removable directive, without rewriting the agent's behavior. The second is the inviolability of the
+  allowlist, according to which no protected tool can be withdrawn from the catalog, and enforcement
+  is deterministic and does not depend on the reliability of the perceptual module. The third is non
+  punitiveness, according to which scope reductions are reversible and proportional to the perceived
+  state. The fourth is abstention under low confidence, according to which in the face of an unreliable
+  prosodic reading the system expresses its uncertainty and abstains rather than committing a
+  classification. The fifth is auditability, according to which every scope decision is recorded with its rule,
+  axis, and associated deviation.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

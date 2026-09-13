@@ -1,0 +1,23 @@
+schema: phdude.evidence
+version: 1
+id: EVID-b2185b1453
+created: 2026-09-13T06:48:15.438Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-fd16d0b0ed
+locator: PDF page 12; thesis_g1_g2
+excerpt: |-
+  G1 - Percepción sin ASR: estimar la activación del hablante a partir de
+         descriptores acústicos (eGeMAPS) relativos a su propia línea base, sin
+         transcribir el canal léxico.
+     •   G2 - Enforcement determinista del catálogo: restringir la superficie de
+         herramientas expuesta mediante una allowlist gobernada por reglas; una
+         herramienta no expuesta no puede invocarse.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-07c6900787

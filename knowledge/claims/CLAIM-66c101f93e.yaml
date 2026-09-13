@@ -1,0 +1,21 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-66c101f93e
+created: 2026-09-13T06:48:20.629Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The paper states that its signal-quality sweep keeps confidence high, never activates abstention, and therefore does not measure the contribution of confidence-based abstention.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-1e0af5a3c9
+questions: []
+sections:
+  - results
+  - discussion
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

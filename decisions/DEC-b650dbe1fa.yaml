@@ -1,0 +1,69 @@
+schema: phdude.decision
+version: 1
+id: DEC-b650dbe1fa
+created: 2026-09-13T06:50:25.327Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: PGSO paper continuation work queue and separate validation deliverable
+rationale: Lucio requested PhDude as the harness for the investigation and paper continuation, with the validation plan separate. The work queue prioritizes traceability and current-paper corrections before new conclusions. It is planning, not approval of results or permission to invent missing evidence.
+proposed_by:
+  researcher: Lucio
+  agent: codex
+approved_by: []
+status: proposed
+change:
+  steps:
+    - order: 1
+      action: Review and adopt or revise the proposed research baseline
+      requires: Researcher decision
+      output: Recorded RQ and method, objective crosswalk and reconciled guarantee definitions
+    - order: 2
+      action: Trace existing reported results to the current SDK revision, datasets and run records
+      requires: Source-code revision, dataset IDs/splits, scripts, seeds, prompts and logs
+      output: Registered DATASET/ANALYSIS/RESULT records through PhDude; identify missing results before reruns
+    - order: 3
+      action: Resolve current-paper inconsistencies
+      items:
+        - G1 labels and G2a/G2b distinction
+        - 0.583 versus 0.555 chance statement
+        - AUC versus Spearman metric lineage
+        - No confidence-axis claim from constant-confidence ablation
+        - Two reported extractors versus charter requirement for at least three; cross-corpus commitment not yet evidenced
+    - order: 4
+      action: Verify bibliography and literature novelty through recorded PhDude research
+      requires: Network policy enabled for PhDude research
+      items:
+        - Repair thesis p5/p6 and p44 mappings and missing p42/p43
+        - Verify DSRM/FEDS methodological references
+        - Verify current novelty claims against primary publications
+        - Register remaining paper references; current anchor registry is partial
+    - order: 5
+      action: Continue the current paper section by section
+      workflow:
+        - phdude write <section>
+        - draft in scratch file using only recorded evidence
+        - phdude manuscript submit <section> --file <draft>
+        - phdude prose <section>
+        - phdude review methodology/reviewer2/reproducibility
+        - researcher section approval
+        - phdude ready and build
+      section_order:
+        - methods
+        - results
+        - discussion
+        - introduction
+        - conclusions
+        - abstract
+      mapping: PhDude currently scaffolds six standard sections. Original Related Work maps initially to introduction context; Solution to methods context. Do not silently discard the original seven-section structure; choose a publication profile when the venue is known.
+    - order: 6
+      action: Develop the separate validation plan when commissioned
+      boundary: Do not report planned validation as completed evidence in the mechanism paper.
+  harness: Use PhDude for inventory, candidate knowledge, decisions, recorded searches, declared analyses, manuscripts, review and build. GitHub is transport/version control.
+  current_limits:
+    - Only one active manuscript is supported by this installed PhDude CLI. The separate validation document will need a deliberate output/workspace arrangement.
+    - Network and execution remain disabled by existing policy; no command in this pass fetches literature or runs analysis.
+    - No publication venue or author-approved voice sample has been supplied.
+affects:
+  - SRC-d1bf717338

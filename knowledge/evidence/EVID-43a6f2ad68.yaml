@@ -1,0 +1,20 @@
+schema: phdude.evidence
+version: 1
+id: EVID-43a6f2ad68
+created: 2026-09-13T06:48:20.004Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-d1bf717338
+locator: PDF page 17; oracle
+excerpt: |-
+  It is worth clarifying that the oracle is defined as the
+  decision of the full mechanism under a perfect signal, so that the ablation measures the relative
+  contribution of the components and not a comparison against an external ground truth.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

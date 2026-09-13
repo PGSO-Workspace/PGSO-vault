@@ -1,0 +1,20 @@
+schema: phdude.evidence
+version: 1
+id: EVID-442bd17b78
+created: 2026-09-13T06:48:19.588Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-d1bf717338
+locator: PDF page 17; protected_tools
+excerpt: |-
+  During the entire sweep, the guarantee of inviolability of the allowlist holds without a single violation
+  across 64,152 decisions, which include levels of pure noise and an adversarial rule designed to attempt
+  to withdraw the protected tool.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

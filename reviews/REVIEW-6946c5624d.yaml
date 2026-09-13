@@ -1,0 +1,21 @@
+schema: phdude.review
+version: 1
+id: REVIEW-6946c5624d
+created: 2026-09-13T06:51:21.308Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+kind: reproducibility
+target: project
+severity: major
+message: The paper reports 65 SDK tests, 33 harness tests, zero protected-tool withdrawals over 64,152 decisions and 47/512 versus 0/512 prohibited invocations, but the vault currently contains PDFs rather than registered datasets, analysis scripts, code revision and run traces. An empty phdude repro check is not verification. Register the original inputs, scripts and logs before treating these figures as reproduced.
+evidence:
+  - EVID-74161f4077
+  - EVID-442bd17b78
+  - EVID-5bdd5c3062
+status: open
+by:
+  researcher: Lucio
+  agent: codex
+mode: full

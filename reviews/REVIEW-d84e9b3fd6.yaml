@@ -1,0 +1,19 @@
+schema: phdude.review
+version: 1
+id: REVIEW-d84e9b3fd6
+created: 2026-09-13T06:51:21.563Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+kind: citation
+target: project
+severity: minor
+message: The paper title page does not state a publication year or target venue. Its source record deliberately leaves the year unset; confirm the manuscript date instead of inferring it from the upload or reference-access dates.
+evidence:
+  - SRC-d1bf717338
+status: open
+by:
+  researcher: Lucio
+  agent: codex
+mode: full

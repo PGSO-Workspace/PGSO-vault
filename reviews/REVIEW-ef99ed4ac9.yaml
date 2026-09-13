@@ -1,0 +1,19 @@
+schema: phdude.review
+version: 1
+id: REVIEW-ef99ed4ac9
+created: 2026-09-13T06:51:21.068Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+kind: methodology
+target: project
+severity: major
+message: "The null-signal explanation is numerically inconsistent: paper p16 reports agreement 0.583 and later null-signal chance 0.555 while asserting coincidence. Inspect the underlying chance estimator and uncertainty before choosing a value or claiming equivalence."
+evidence:
+  - EVID-c702ebc134
+status: open
+by:
+  researcher: Lucio
+  agent: codex
+mode: full

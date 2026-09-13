@@ -1,0 +1,20 @@
+schema: phdude.source
+version: 1
+id: SRC-e16606e2af
+created: 2026-09-13T06:48:39.673Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: The Geneva Minimalistic Acoustic Parameter Set (GeMAPS)
+authors:
+  - F. Eyben
+  - K. R. Scherer
+  - B. W. Schuller et al.
+type: article
+artifacts:
+  - ART-29ad619744
+state: candidate
+year: 2016
+venue: IEEE Transactions on Affective Computing
+abstract: Bibliographic metadata transcribed from Reference 6, PDF page 24. Primary publication has not been retrieved or verified. Listed abbreviated authors are retained as printed.

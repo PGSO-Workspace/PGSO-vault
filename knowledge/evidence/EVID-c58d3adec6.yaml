@@ -1,0 +1,29 @@
+schema: phdude.evidence
+version: 1
+id: EVID-c58d3adec6
+created: 2026-09-13T06:48:16.267Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-d1bf717338
+locator: PDF page 6; dsrm
+excerpt: |-
+  The present research is conducted under the Design Science Research (DSR) paradigm. In the
+  information systems discipline two complementary paradigms coexist, namely behavioral science,
+  which develops and verifies theories that explain or predict human or organizational behavior, and
+  design science, which seeks to extend human and organizational capabilities through the creation of
+  new and innovative artifacts. Since the central contribution of this work is an artifact, that is a
+  governance mechanism and its instantiation in software, design science constitutes the appropriate
+  epistemological framework.
+
+  To structure the process, the Design Science Research Methodology (DSRM) is adopted, which
+  organizes the research into six activities, namely the identification of the problem and motivation, the
+  definition of the solution objectives, the design and development of the artifact, the demonstration,
+  the evaluation, and the communication. This research adopts a problem centered entry point,
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

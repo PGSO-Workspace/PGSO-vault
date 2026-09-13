@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-6a3c51c154
+created: 2026-09-13T06:48:21.053Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The paper reports a gpt-4o-mini prompt-governance baseline with 47 prohibited-tool invocations out of 512 decisions versus zero for PGSO; the reported result is limited to this setup and remains unverified against raw traces.
+kind: empirical
+state: candidate
+supported_by:
+  - EVID-5bdd5c3062
+questions: []
+sections:
+  - results
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

@@ -1,0 +1,29 @@
+schema: phdude.decision
+version: 1
+id: DEC-2525642b2b
+created: 2026-09-13T06:52:28.781Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: Enable PhDude recorded research and analysis capabilities
+rationale: Lucio requested PhDude as the harness for the investigation and all tools needed to continue the paper. The installed default policy disables network and script execution and withholds research, analysis and figures skills. These four explicit settings make those capabilities available through PhDude while preserving its audit trail. This proposal does not launch a search or execute a script.
+proposed_by:
+  researcher: Lucio
+  agent: codex
+approved_by: []
+status: proposed
+change:
+  file: .phdude/research-policy.yaml
+  settings:
+    network.enabled: true
+    skills.allow_network: true
+    execution.enabled: true
+    skills.allow_execution: true
+  after_approval:
+    - Update only the four listed settings under explicit researcher authorization.
+    - Run phdude init --agents codex to install the research, analysis and figures skills permitted by the policy.
+    - Use phdude research/research-fresh for literature and phdude analyze run/figure build for declared scripts; retain the recorded search/run audit trail.
+  unchanged: Retain provider list, research filters, timeout, runtimes, publication gates and full review mode. Revisit the default five-year/Q1-Q2 filters explicitly when selecting foundational or conference publications.
+  scope: Enable PhDude tools for this investigation, not unrecorded searches, ad-hoc execution or automatic approval of findings.
+affects: []

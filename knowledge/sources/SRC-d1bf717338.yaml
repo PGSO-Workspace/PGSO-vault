@@ -1,0 +1,17 @@
+schema: phdude.source
+version: 1
+id: SRC-d1bf717338
+created: 2026-09-13T06:48:13.989Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: Paralinguistic Governance for State Orchestration in Tool-Augmented Conversational Agents
+authors:
+  - Juan Fabritzzio Pescoran Angulo
+  - Lucio Heli Yen Cerna
+type: other
+artifacts:
+  - ART-29ad619744
+state: candidate
+abstract: "Unpublished project manuscript supplied by the researcher. Publication year and target venue are not stated on the title page; do not infer them from upload or access dates. Subtitle: Deterministic Tool-Catalog Control from Speech Prosody."

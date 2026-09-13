@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-b484974fb3
+created: 2026-09-13T06:48:15.233Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: Charter OE4 requires artifact-level verification, characterization under varying signal quality, and an integrated agent demonstration.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-6fe7c7bb8e
+questions: []
+sections:
+  - methods
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-ff3aef8b78

@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-93b55e7eaa
+created: 2026-09-13T06:48:19.383Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The paper reports 65 SDK tests and 33 demonstration-harness tests passing; no corresponding code checkout or run evidence is currently registered in this vault.
+kind: empirical
+state: candidate
+supported_by:
+  - EVID-74161f4077
+questions: []
+sections:
+  - results
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

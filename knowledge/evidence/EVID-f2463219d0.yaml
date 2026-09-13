@@ -1,0 +1,19 @@
+schema: phdude.evidence
+version: 1
+id: EVID-f2463219d0
+created: 2026-09-13T06:48:18.772Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-fd16d0b0ed
+locator: PDF page 24; thesis_auc
+excerpt: |-
+  AUC (activación,                0,602                         Zona gris; reportado con
+   MUStARD++ actuado)                                            IC95% por bootstrap
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-07c6900787

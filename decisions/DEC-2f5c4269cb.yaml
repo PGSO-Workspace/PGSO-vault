@@ -1,0 +1,85 @@
+schema: phdude.decision
+version: 1
+id: DEC-2f5c4269cb
+created: 2026-09-13T06:50:25.114Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: Reconcile PGSO research baseline for continuation of the mechanism paper
+rationale: The four current PDFs agree on a deterministic governance artifact and formative DSR evaluation, but differ in objective levels and guarantee labels. This proposal maps the layers instead of deleting charter commitments, separates two different safety properties, and follows Lucio’s instruction to keep the validation plan separate. It must change if the researcher identifies a superseding charter, a different research question, or implementation evidence that contradicts these contracts.
+proposed_by:
+  researcher: Lucio
+  agent: codex
+approved_by: []
+status: proposed
+change:
+  status: Proposed synthesis for researcher review; document statements remain candidate.
+  research_question: How can transcription-independent, speaker-relative prosodic signals govern a conversational agent’s tool catalog through a deterministic and auditable mechanism, and which policy invariants remain preserved as signal quality varies in controlled formative evaluation?
+  general_objective: Design, implement and formatively evaluate the PGSO governance mechanism and reference SDK, reporting structural policy guarantees separately from perceptual accuracy and practical utility.
+  objective_mapping:
+    - paper: O1 — Formulate the governance mechanism
+      charter:
+        - OE2
+        - OE3
+      verification: Explicit state machine, catalog/directive contracts, reference SDK and integrated demonstration.
+    - paper: O2 — Separate uncertain perception from deterministic policy enforcement
+      charter:
+        - OE2
+        - OE3
+        - OE4
+      verification: Separate tests for prompt integrity, protected-tool preservation, prohibited-tool invocation rejection, abstention and audit completeness.
+    - paper: O3 — Characterize mechanism and signal within stated limits
+      charter:
+        - OE1
+        - OE4
+      verification: Extractor coverage/quality, oracle-relative ablation, signal/noise characterization and scoped prompt baseline; no deployment-effectiveness inference.
+  proposed_guarantee_mapping:
+    G1: "Prompt sovereignty: preserve the sovereign prompt; additive directives have governed insertion/removal, not guaranteed model obedience."
+    G2a: "Protected-tool preservation: a protected tool is never pruned."
+    G2b: "Invocation-policy enforcement: prohibited tool calls cannot execute through the governed path; verify dispatch rejection and bypass assumptions independently of G2a."
+    G3: Proportional and reversible governance interventions; state whether a change in catalog scope or a completed external action is being reversed.
+    G4: Low-confidence abstention under a specified threshold; its empirical utility needs a confidence-varying test.
+    G5: Complete audit record for every governance decision.
+    input_constraint: No ASR/transcription in the governance signal path; lexical ASR for the conversational agent is a separate path.
+  method:
+    name: PGSO formative Design Science Research study
+    design: Problem-centered DSR using six-activity DSRM; method/safety-automaton artifact and Rust SDK instantiation; FEDS formative/artificial evaluation.
+    paradigm: computational
+    sampling: "As reported: one acted-speech corpus, 396 utterances; heuristic subset 377 after 19 abstentions; learned extractor 396. Synthetic sweeps and one-speaker controlled live demonstration are distinct evaluation episodes. Verify splits and identities from original data before accepting results."
+    instruments:
+      - Rust SDK and MCP actuator
+      - speaker-relative acoustic arousal extractor
+      - learned reference extractor
+      - property-based tests
+      - paired demonstration harness
+      - prompt-governance baseline
+    analysis:
+      - Separate formal/structural invariants from finite test observations
+      - Report discrimination and coverage separately for each extractor
+      - Treat full-mechanism oracle agreement as internal consistency, not external policy utility
+      - Characterize confidence/abstention separately from signal-value degradation
+      - Report comparator-specific prohibited-invocation counts with model/prompt/seed traceability
+    limitations:
+      - Single acted corpus and no established spontaneous-speech transfer
+      - Unequal extractor subsets; no paired superiority conclusion
+      - Confidence axis not exercised in existing sweep
+      - One-speaker controlled live demonstration
+      - Raw data, code revision, seeds and logs not yet registered
+      - No claimed deployment utility or reliable emotion recognition
+  hypotheses: Retain the thesis H1–H3 as historical proposals; do not accept or reject them from PDF summaries alone. H1 usability is not established by above-chance association; H2 requires execution-path checks; H3 is limited to named invariants.
+  outputs:
+    active: Continuation of the current mechanism paper in English
+    context: Thesis, capstone and charter retained as source artifacts with explicit crosswalks
+    separate: Validation plan and later naturalistic/summative study remain a separate deliverable; do not overwrite the active manuscript with them.
+  source_precedence: The charter governs institutional commitments only after researcher confirmation; paper objectives express contribution, guarantees express properties. No document silently overrides another.
+affects:
+  - CLAIM-39cc369de9
+  - CLAIM-b114bdeb45
+  - CLAIM-386073b9fd
+  - CLAIM-d10fd9e207
+  - CLAIM-88d1c9f7e7
+  - CLAIM-64d2a0acc3
+  - CLAIM-b484974fb3
+  - FACT-7ae3344e18
+  - FACT-b7008190da

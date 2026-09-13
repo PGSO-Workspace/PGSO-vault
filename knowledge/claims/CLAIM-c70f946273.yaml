@@ -1,0 +1,21 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-c70f946273
+created: 2026-09-13T06:48:18.144Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The paper reports 377 evaluated heuristic utterances after 19 abstentions from 396, and 396 learned-extractor utterances without abstention; these are distinct evaluation sets.
+kind: empirical
+state: candidate
+supported_by:
+  - EVID-c2213960f9
+questions: []
+sections:
+  - methods
+  - results
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

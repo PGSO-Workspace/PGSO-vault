@@ -1,0 +1,19 @@
+schema: phdude.evidence
+version: 1
+id: EVID-1c134db926
+created: 2026-09-13T06:48:22.520Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-569cf4cb14
+locator: PDF page 20; capstone_mapping
+excerpt: |-
+  Reconciliar las banderas pendientes (roles Charter vs. Scrum, objetivos O1–O3 vs. OG/OE1–
+           OE4, presupuesto, redacción oficial ABET y competencias generales) antes de la entrega.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-b4475a3bd2

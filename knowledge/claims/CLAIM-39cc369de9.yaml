@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-39cc369de9
+created: 2026-09-13T06:48:14.404Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: "The supplied paper sets three contribution objectives: formulate prosody-driven tool-catalog governance, separate perceptual uncertainty from authorization, and characterize the mechanism and signal on acted speech."
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-4bc9e0abd4
+questions: []
+sections:
+  - introduction
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

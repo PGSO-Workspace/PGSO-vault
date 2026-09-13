@@ -1,0 +1,21 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-af9e547ea8
+created: 2026-09-13T06:48:20.214Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The paper uses the full mechanism under perfect signal as its oracle, so ablation agreement measures internal consistency rather than independently established policy utility.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-43a6f2ad68
+questions: []
+sections:
+  - methods
+  - discussion
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

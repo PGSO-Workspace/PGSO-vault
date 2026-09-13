@@ -1,0 +1,21 @@
+schema: phdude.review
+version: 1
+id: REVIEW-f5da7b0f39
+created: 2026-09-13T06:51:21.070Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+kind: methodology
+target: project
+severity: major
+message: Charter OE1 requires at least three extractors and cross-corpus transfer, but the current paper reports two extractors on one acted corpus. The PDFs do not establish completion of those charter commitments. Separate paper scope from thesis/project completion, and resolve through evidence or an explicit scope decision.
+evidence:
+  - EVID-0890c1b68b
+  - EVID-564a4dc082
+  - FACT-94f86aa51d
+status: open
+by:
+  researcher: Lucio
+  agent: codex
+mode: full

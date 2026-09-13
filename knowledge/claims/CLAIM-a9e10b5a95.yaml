@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-a9e10b5a95
+created: 2026-09-13T06:48:21.473Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The paper calls null-signal agreement 0.583 a coincidence with chance while later naming the null-signal chance level as 0.555; the numerical interpretation needs reconciliation.
+kind: empirical
+state: candidate
+supported_by:
+  - EVID-c702ebc134
+questions: []
+sections:
+  - results
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

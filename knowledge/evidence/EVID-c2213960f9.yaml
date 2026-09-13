@@ -1,0 +1,21 @@
+schema: phdude.evidence
+version: 1
+id: EVID-c2213960f9
+created: 2026-09-13T06:48:17.935Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-d1bf717338
+locator: PDF page 15; sampling
+excerpt: |-
+  n equal to 377 utterances, resulting from applying the abstention policy
+  to the 396 balanced utterances of the corpus, with 19 abstentions due to insufficient duration or low
+  voicing; the learned reference extractor, a wav2vec2 model fine tuned for the dimensional estimation
+  of emotions, is evaluated over the 396 utterances without abstention,
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

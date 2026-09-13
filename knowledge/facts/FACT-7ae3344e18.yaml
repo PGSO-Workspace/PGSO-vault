@@ -1,0 +1,14 @@
+schema: phdude.fact
+version: 1
+id: FACT-7ae3344e18
+created: 2026-09-13T06:50:24.484Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+key: charter_reported_objective_framework
+value: '{"OG": "Develop a deterministic and auditable paralinguistic tool-calling governance SDK.", "OE1": "Analyze signal feasibility using candidate-extractor benchmarking: discrimination, cross-corpus generalization, computational cost and interpretability.", "OE2": "Design the software architecture: C4, state machine, interface traits, guarantee catalog and audit model.", "OE3": "Develop the Rust deterministic core, MCP catalog actuator and audit trail.", "OE4": "Validate artifact correctness, safety and behavior under varying signal quality, property tests and a real-agent demonstration.", "status": "AI paraphrase of the charter; not an approved replacement for institutional wording."}'
+from:
+  artifact: ART-ff3aef8b78
+  locator: PDF pages 9–12, Objetivos and Indicadores de éxito
+state: candidate

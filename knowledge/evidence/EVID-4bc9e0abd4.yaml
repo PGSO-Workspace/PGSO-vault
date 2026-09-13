@@ -1,0 +1,24 @@
+schema: phdude.evidence
+version: 1
+id: EVID-4bc9e0abd4
+created: 2026-09-13T06:48:14.201Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-d1bf717338
+locator: PDF page 2; paper_objectives
+excerpt: |-
+  The purpose of this research is to design and validate a mechanism that governs, in a deterministic
+  and auditable manner, the behavior of a tool augmented conversational agent from the interlocutor's
+  paralinguistic signal estimated without transcription. From this purpose three objectives are derived,
+  namely to formulate paralinguistic governance as a control mechanism that translates prosody into
+  decisions over the tool catalog, to guarantee that the uncertainty of perception does not propagate
+  to authorization through an explicit separation between perception and action, and to honestly
+  characterize the scope of the mechanism and of the signal on acted speech.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

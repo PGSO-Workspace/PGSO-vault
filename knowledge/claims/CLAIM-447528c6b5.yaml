@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-447528c6b5
+created: 2026-09-13T06:48:14.826Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The charter frames the overall project as development of an auditable deterministic SDK, with its first objective addressing paralinguistic signal feasibility.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-b95c246f96
+questions: []
+sections:
+  - introduction
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-ff3aef8b78

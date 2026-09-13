@@ -1,0 +1,18 @@
+schema: phdude.source
+version: 1
+id: SRC-f2e7be8661
+created: 2026-09-13T06:48:39.464Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: Design Science in Information Systems Research
+authors:
+  - A. Hevner et al.
+type: article
+artifacts:
+  - ART-07c6900787
+state: candidate
+year: 2004
+venue: MIS Quarterly
+abstract: Bibliographic metadata transcribed from Reference p41, PDF page 28. Primary publication has not been retrieved or verified. Listed abbreviated authors are retained as printed.

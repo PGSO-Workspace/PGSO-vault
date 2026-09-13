@@ -1,0 +1,21 @@
+schema: phdude.review
+version: 1
+id: REVIEW-f6e0458c89
+created: 2026-09-13T06:51:21.058Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+kind: methodology
+target: project
+severity: major
+message: "Objective levels need an explicit crosswalk: charter OE1–OE4 are project commitments, paper O1–O3 are contribution objectives, and thesis G1–G5 are design properties. The capstone already flags this mismatch. Proposed reconciliation is DEC-2f5c4269cb; do not treat the layers as interchangeable."
+evidence:
+  - EVID-4bc9e0abd4
+  - EVID-b95c246f96
+  - EVID-1c134db926
+status: open
+by:
+  researcher: Lucio
+  agent: codex
+mode: full

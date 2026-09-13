@@ -3,7 +3,8 @@ version: 1
 workspace_version: 5
 title: PGSO Research Vault
 language: en
-fields: []
+fields:
+  - computer-science
 methods: []
 venues: []
 outputs:

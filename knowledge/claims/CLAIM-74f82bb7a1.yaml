@@ -1,0 +1,21 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-74f82bb7a1
+created: 2026-09-13T06:48:21.895Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The paper limits the deterministic directive guarantee to its generation, application and removal, not the resulting language-model behavior.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-8cac9afc1a
+questions: []
+sections:
+  - methods
+  - discussion
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

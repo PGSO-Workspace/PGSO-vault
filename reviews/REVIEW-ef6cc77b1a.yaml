@@ -1,0 +1,20 @@
+schema: phdude.review
+version: 1
+id: REVIEW-ef6cc77b1a
+created: 2026-09-13T06:51:21.316Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+kind: reproducibility
+target: project
+severity: major
+message: The thesis AUC 0.602 and paper Spearman correlations 0.206/0.271 are distinct measurements, not necessarily contradictory results. Link each to its labels, subset, script, split and run before reconciling the results narrative; do not replace one metric with the other.
+evidence:
+  - EVID-f2463219d0
+  - EVID-0890c1b68b
+status: open
+by:
+  researcher: Lucio
+  agent: codex
+mode: full

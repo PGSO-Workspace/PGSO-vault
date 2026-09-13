@@ -1,0 +1,22 @@
+schema: phdude.evidence
+version: 1
+id: EVID-1e0af5a3c9
+created: 2026-09-13T06:48:20.422Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-d1bf717338
+locator: PDF page 18; abstention
+excerpt: |-
+  the sweep degrades the value of the signal while keeping confidence fixed at
+  a high value, so that the abstention gate, which depends on confidence and not on value, never gets
+  activated. This result does not indicate that abstention lacks value, but rather that this sweep does
+  not exercise the confidence axis, and the characterization of the contribution of abstention requires a
+  sweep that degrades confidence, which remains as pending work.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

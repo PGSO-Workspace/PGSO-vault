@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-d589879f58
+created: 2026-09-13T06:48:19.798Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The paper reports zero protected-tool withdrawal violations across 64,152 decisions; this observation is distinct from preventing execution of a prohibited tool.
+kind: empirical
+state: candidate
+supported_by:
+  - EVID-442bd17b78
+questions: []
+sections:
+  - results
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

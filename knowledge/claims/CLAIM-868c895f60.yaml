@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-868c895f60
+created: 2026-09-13T06:48:18.563Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The paper reports heuristic Spearman correlation 0.206 on 377 utterances and learned correlation 0.271 on 396, explicitly avoiding a paired superiority claim because the sets are not aligned.
+kind: empirical
+state: candidate
+supported_by:
+  - EVID-0890c1b68b
+questions: []
+sections:
+  - results
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

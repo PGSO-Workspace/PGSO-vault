@@ -1,0 +1,20 @@
+schema: phdude.evidence
+version: 1
+id: EVID-8cac9afc1a
+created: 2026-09-13T06:48:21.686Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-d1bf717338
+locator: PDF page 15; directive_boundary
+excerpt: |-
+  The deterministic guarantee of the mechanism resides,
+  therefore, in the governed generation, application, and removal of both levers, not in the resulting
+  behavior of the model.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

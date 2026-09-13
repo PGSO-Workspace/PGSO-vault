@@ -1,0 +1,28 @@
+schema: phdude.evidence
+version: 1
+id: EVID-5bdd5c3062
+created: 2026-09-13T06:48:20.841Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-d1bf717338
+locator: PDF page 19; prompt_baseline
+excerpt: |-
+  Table 4. Comparison between prompt based governance and catalog governance (PGSO) under the same adversarial rule,
+   over 512 decisions. The zero of PGSO is by construction; the baseline rate is empirical and depends on the model and the
+                                           instruction. Baseline model: gpt-4o-mini.
+
+   Condition                                           Prompt based governance                 PGSO (violations)
+                                                       (violations)
+   Low pressure                                        3 of 128 (2.3 %)                        0 (0 %)
+   Medium pressure                                     11 of 128 (8.6 %)                       0 (0 %)
+   High pressure                                       14 of 128 (10.9 %)                      0 (0 %)
+   Adversarial injection                               19 of 128 (14.8 %)                      0 (0 %)
+   Total                                               47 of 512 (9.2 %)                       0 of 512 (0 %)
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

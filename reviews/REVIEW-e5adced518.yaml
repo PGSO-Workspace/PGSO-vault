@@ -1,0 +1,19 @@
+schema: phdude.review
+version: 1
+id: REVIEW-e5adced518
+created: 2026-09-13T06:51:21.554Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+kind: citation
+target: project
+severity: major
+message: "Thesis citation keys drift: the abstract uses [p5] for eGeMAPS, but the bibliography maps p5 to ParaLBench and p6 to GeMAPS. Methodology p14 cites p44 for Gregor and Hevner, while p28 maps p44 to Ray/MUStARD++. Referenced p42 (March and Smith) and p43 (FEDS/Venable) have no entries in the supplied anchor bibliography. Verify the primary records and repair mappings before drafting."
+evidence:
+  - ART-07c6900787
+status: open
+by:
+  researcher: Lucio
+  agent: codex
+mode: full

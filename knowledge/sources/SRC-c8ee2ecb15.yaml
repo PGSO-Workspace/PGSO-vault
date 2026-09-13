@@ -1,0 +1,21 @@
+schema: phdude.source
+version: 1
+id: SRC-c8ee2ecb15
+created: 2026-09-13T06:48:40.099Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: A multimodal corpus for emotion recognition in sarcasm
+authors:
+  - A. Ray
+  - S. Mishra
+  - A. Nunna
+  - P. Bhattacharyya
+type: article
+artifacts:
+  - ART-29ad619744
+state: candidate
+year: 2022
+venue: LREC
+abstract: Bibliographic metadata transcribed from Reference 44, PDF page 26. Primary publication has not been retrieved or verified. Listed abbreviated authors are retained as printed.

@@ -1,0 +1,14 @@
+schema: phdude.fact
+version: 1
+id: FACT-b7008190da
+created: 2026-09-13T06:50:24.692Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+key: thesis_reported_hypotheses
+value: '{"H1": "Speaker-relative arousal from eGeMAPS without ASR discriminates above chance and may be usable for governance.", "H2": "Deterministic allowlist enforcement prevents invoking tools outside the active policy.", "H3": "Separating abstaining perception from deterministic action preserves authorization guarantees under perceptual uncertainty.", "status": "Hypotheses transcribed in paraphrase from the thesis, not accepted results or newly approved hypotheses."}'
+from:
+  artifact: ART-07c6900787
+  locator: PDF page 24, chapter 5 opening
+state: candidate

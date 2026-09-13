@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-9fefdbb627
+created: 2026-09-13T06:48:22.728Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The capstone itself lists unresolved alignment between paper O1–O3 and charter OG/OE1–OE4, along with project-role and institutional reporting issues.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-1c134db926
+questions: []
+sections:
+  - discussion
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-b4475a3bd2

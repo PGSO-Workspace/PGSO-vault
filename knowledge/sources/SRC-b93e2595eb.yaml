@@ -1,0 +1,18 @@
+schema: phdude.source
+version: 1
+id: SRC-b93e2595eb
+created: 2026-09-13T06:48:39.255Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: A Design Science Research Methodology for Information Systems Research
+authors:
+  - K. Peffers et al.
+type: article
+artifacts:
+  - ART-07c6900787
+state: candidate
+year: 2007
+venue: JMIS
+abstract: Bibliographic metadata transcribed from Reference p40, PDF page 28. Primary publication has not been retrieved or verified. Listed abbreviated authors are retained as printed.

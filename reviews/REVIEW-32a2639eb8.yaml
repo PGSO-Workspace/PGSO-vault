@@ -1,0 +1,19 @@
+schema: phdude.review
+version: 1
+id: REVIEW-32a2639eb8
+created: 2026-09-13T06:51:21.069Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+kind: methodology
+target: project
+severity: note
+message: The constant-high-confidence ablation cannot estimate abstention efficacy. The paper acknowledges this limitation. Preserve that limit in current-paper claims; any confidence-varying experiment belongs in an explicit experiment plan and must not be reported as already performed.
+evidence:
+  - EVID-1e0af5a3c9
+status: open
+by:
+  researcher: Lucio
+  agent: codex
+mode: full

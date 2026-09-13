@@ -1,0 +1,21 @@
+schema: phdude.review
+version: 1
+id: REVIEW-17880d1e42
+created: 2026-09-13T06:51:21.068Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+kind: methodology
+target: project
+severity: major
+message: G2 conflates protected-tool preservation with prohibited-tool non-execution. The 64,152-decision sweep tests attempted withdrawal of a protected tool; the 512-decision comparator reports invocation of a prohibited closing tool. Neither property alone proves the other. Document and test separate invariants, including the execution/dispatch boundary.
+evidence:
+  - EVID-442bd17b78
+  - EVID-5bdd5c3062
+  - EVID-b2185b1453
+status: open
+by:
+  researcher: Lucio
+  agent: codex
+mode: full

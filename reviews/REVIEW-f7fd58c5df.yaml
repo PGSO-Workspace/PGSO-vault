@@ -1,0 +1,21 @@
+schema: phdude.review
+version: 1
+id: REVIEW-f7fd58c5df
+created: 2026-09-13T06:51:21.070Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+kind: methodology
+target: project
+severity: note
+message: Extractor results use different subsets (377 versus 396 utterances), and the paper correctly avoids a paired superiority claim. Preserve that restriction; distinguishing association from governance utility is also necessary because the oracle is the full mechanism itself.
+evidence:
+  - EVID-c2213960f9
+  - EVID-0890c1b68b
+  - EVID-43a6f2ad68
+status: open
+by:
+  researcher: Lucio
+  agent: codex
+mode: full

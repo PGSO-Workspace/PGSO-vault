@@ -1,0 +1,22 @@
+schema: phdude.evidence
+version: 1
+id: EVID-6fe7c7bb8e
+created: 2026-09-13T06:48:15.025Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-78e9b2b8bb
+locator: PDF page 10; charter_validation
+excerpt: |-
+  OE4: Validar la corrección, la seguridad y el comportamiento del mecanismo bajo distintas calidades de
+  señal, para demostrar que la gobernanza es determinista y auditable con independencia de la fiabilidad
+  de la percepción, mediante pruebas basadas en propiedades sobre las garantías de diseño, una
+  caracterización experimental de la degradación de la gobernanza frente a la calidad de la señal, y una
+  demostración del mecanismo integrado a un agente real.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-ff3aef8b78

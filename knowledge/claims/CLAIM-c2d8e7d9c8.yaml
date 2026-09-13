@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-c2d8e7d9c8
+created: 2026-09-13T06:48:22.314Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The paper declares synthetic-noise, deterministic-demo, single acted-corpus and single-speaker limitations; it does not establish deployment usefulness or spontaneous-speech generalization.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-564a4dc082
+questions: []
+sections:
+  - discussion
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

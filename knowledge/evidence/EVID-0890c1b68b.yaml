@@ -1,0 +1,22 @@
+schema: phdude.evidence
+version: 1
+id: EVID-0890c1b68b
+created: 2026-09-13T06:48:18.353Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-d1bf717338
+locator: PDF page 16; signal_correlations
+excerpt: |-
+  The heuristic extractor reaches
+  a correlation of 0.206 over 377 utterances, and the learned extractor reaches 0.271 (CI95 % [0.176,
+  0.365]) over 396 utterances. Since the extractors were evaluated over distinct and non aligned
+  utterance sets, a paired difference test is not performed, and both correlations are reported
+  independently without asserting a significant difference between them.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-29ad619744

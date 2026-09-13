@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-ecdc79602e
+created: 2026-09-13T06:48:17.732Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The charter excludes solving reliable affect recognition and discrete-emotion classification from the project contribution.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-a187d02684
+questions: []
+sections:
+  - discussion
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-ff3aef8b78
