@@ -1,0 +1,19 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-8fda0fb3f9
+created: 2026-09-13T06:43:39.446Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: La memoria de PGSO describe un SDK en Rust que separa la percepción probabilística con abstención del enforcement determinista y auditable del catálogo de herramientas.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-48ffa1f408
+questions: []
+sections: []
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-07c6900787

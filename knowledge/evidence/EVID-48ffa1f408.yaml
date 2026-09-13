@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-48ffa1f408
+created: 2026-09-13T06:43:39.240Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-fd16d0b0ed
+locator: PDF page 4; printed page 3, Resumen
+excerpt: un SDK en Rust que separa una percepción probabilística capaz de abstenerse de un enforcement determinista y auditable del catálogo de herramientas.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-07c6900787

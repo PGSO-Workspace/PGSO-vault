@@ -1,0 +1,14 @@
+schema: phdude.fact
+version: 1
+id: FACT-218e90cd2b
+created: 2026-09-13T06:43:27.262Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+key: project_acronym_expansion
+value: PGSO — Paralinguistic Governance for State Orchestration
+from:
+  artifact: ART-07c6900787
+  locator: PDF page 4; printed page 3, Resumen
+state: candidate

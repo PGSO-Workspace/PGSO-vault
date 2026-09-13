@@ -1,0 +1,18 @@
+schema: phdude.source
+version: 1
+id: SRC-78e9b2b8bb
+created: 2026-09-13T06:43:27.053Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: SDK de gobernanza determinista y auditable del tool-calling basada en señales paralingüísticas para agentes de voz autónomos — Project Charter v1.3
+authors:
+  - Juan Fabritzzio Pescoran Angulo
+  - Lucio Heli Yen Cerna
+type: report
+artifacts:
+  - ART-ff3aef8b78
+state: candidate
+year: 2026
+venue: Universidad Peruana de Ciencias Aplicadas

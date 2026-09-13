@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-07c6900787
+created: 2026-09-13T06:42:41.873Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/Memoria_PGSO.pdf
+paths:
+  - sources/Memoria_PGSO.pdf
+hash: 07c6900787776ac6973c5db504d735cca775a929662d631b3e73a735932119cf
+bytes: 890559
+mime: application/pdf
+kind: pdf
+role: thesis-draft
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 38938
+  sections: 29
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:42:41.533Z

@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-b4475a3bd2
+created: 2026-09-13T06:42:41.817Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/Capstone_PGSO.pdf
+paths:
+  - sources/Capstone_PGSO.pdf
+hash: b4475a3bd2a2ae9b909a9234204e92613948a22693b05991eb429a5573ab3446
+bytes: 1309892
+mime: application/pdf
+kind: pdf
+role: report
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 44635
+  sections: 21
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:42:41.529Z

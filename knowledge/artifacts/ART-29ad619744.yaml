@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-29ad619744
+created: 2026-09-13T06:42:41.928Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/PGSO_Paper.pdf
+paths:
+  - sources/PGSO_Paper.pdf
+hash: 29ad619744fe812d1376c902276250dc87b0ce5f96ba2e8a0b3c51c64704c741
+bytes: 1073897
+mime: application/pdf
+kind: pdf
+role: paper
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 85860
+  sections: 26
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:42:41.536Z

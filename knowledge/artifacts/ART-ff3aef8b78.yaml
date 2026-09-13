@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-ff3aef8b78
+created: 2026-09-13T06:42:41.986Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/SDKGDATSÄVA - Project Charter v1.3.pdf
+paths:
+  - sources/SDKGDATSÄVA - Project Charter v1.3.pdf
+hash: ff3aef8b7845d358e3d4c13c8a3aed91c34c751bca5e187f2cc5943f16c9996b
+bytes: 637265
+mime: application/pdf
+kind: pdf
+role: report
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 71014
+  sections: 27
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:42:41.538Z

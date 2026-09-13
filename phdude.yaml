@@ -11,3 +11,6 @@ outputs:
 mode: full
 agents:
   - codex
+packs_recommended:
+  - computer-science
+  - quantitative

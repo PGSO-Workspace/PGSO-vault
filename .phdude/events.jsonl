@@ -1,2 +1,14 @@
 {"ts":"2026-09-12T15:37:37.829Z","op":"init","actor":{"researcher":"Lucio","agent":"cli"},"ids":[],"summary":"workspace initialized"}
 {"ts":"2026-09-12T15:37:42.561Z","op":"ingest","actor":{"researcher":"Lucio","agent":"cli"},"ids":[],"summary":"ingested 0, skipped 0"}
+{"ts":"2026-09-13T06:42:41.991Z","op":"ingest","actor":{"researcher":"Lucio","agent":"cli"},"ids":["ART-b4475a3bd2","ART-07c6900787","ART-29ad619744","ART-ff3aef8b78"],"summary":"ingested 4, skipped 0"}
+{"ts":"2026-09-13T06:42:42.024Z","op":"packs","actor":{"researcher":"Lucio","agent":"cli"},"ids":[],"summary":"recommended: computer-science, quantitative"}
+{"ts":"2026-09-13T06:43:25.811Z","op":"add","actor":{"researcher":"Lucio","agent":"codex"},"ids":["ART-07c6900787"],"summary":"artifact role set to thesis-draft"}
+{"ts":"2026-09-13T06:43:26.021Z","op":"add","actor":{"researcher":"Lucio","agent":"codex"},"ids":["ART-29ad619744"],"summary":"artifact role set to paper"}
+{"ts":"2026-09-13T06:43:26.228Z","op":"add","actor":{"researcher":"Lucio","agent":"codex"},"ids":["ART-b4475a3bd2"],"summary":"artifact role set to report"}
+{"ts":"2026-09-13T06:43:26.437Z","op":"add","actor":{"researcher":"Lucio","agent":"codex"},"ids":["ART-ff3aef8b78"],"summary":"artifact role set to report"}
+{"ts":"2026-09-13T06:43:26.648Z","op":"add","actor":{"researcher":"Lucio","agent":"codex"},"ids":["SRC-fd16d0b0ed"],"summary":"source added"}
+{"ts":"2026-09-13T06:43:26.856Z","op":"add","actor":{"researcher":"Lucio","agent":"codex"},"ids":["SRC-569cf4cb14"],"summary":"source added"}
+{"ts":"2026-09-13T06:43:27.063Z","op":"add","actor":{"researcher":"Lucio","agent":"codex"},"ids":["SRC-78e9b2b8bb"],"summary":"source added"}
+{"ts":"2026-09-13T06:43:27.271Z","op":"add","actor":{"researcher":"Lucio","agent":"codex"},"ids":["FACT-218e90cd2b"],"summary":"fact added"}
+{"ts":"2026-09-13T06:43:39.250Z","op":"add","actor":{"researcher":"Lucio","agent":"codex"},"ids":["EVID-48ffa1f408"],"summary":"evidence added"}
+{"ts":"2026-09-13T06:43:39.456Z","op":"add","actor":{"researcher":"Lucio","agent":"codex"},"ids":["CLAIM-8fda0fb3f9"],"summary":"claim added"}
