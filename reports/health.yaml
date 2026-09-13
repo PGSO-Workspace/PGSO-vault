@@ -1,0 +1,29 @@
+schema: phdude.health
+version: 1
+at: 2026-09-13T06:51:22.100Z
+overall: 63
+dimensions:
+  - key: literature-coverage
+    score: null
+    weight: 1
+  - key: evidence-strength
+    score: 30
+    weight: 1
+  - key: methodological-integrity
+    score: null
+    weight: 1
+  - key: citation-quality
+    score: 60
+    weight: 1
+  - key: freshness
+    score: null
+    weight: 1
+  - key: reproducibility
+    score: null
+    weight: 1
+  - key: consistency
+    score: 100
+    weight: 1
+  - key: prose-quality
+    score: null
+    weight: 1
