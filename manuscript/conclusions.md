@@ -1,0 +1,12 @@
+---
+section: conclusions
+status: revised
+hash: d069b7caf719841e27ab8d023539b6be26a516cfcffeba3ac57c29724a6b96d3
+updated: 2026-09-15T19:06:20.339Z
+---
+
+The artifact makes the transition from uncertain acoustic observations to intervention state explicit and routes tool effects through a host-controlled execution boundary. Its current engineering evidence supports the inspected persistence, restoration, and dispatch behavior. The operational comparison characterizes the cost of matched policy workloads, while the public-task integration provides a path to evaluate effects in an independently observable environment. These results address implementation behavior and measurement feasibility; they do not answer whether paralinguistic orchestration improves task success [@workspace2026public; @workspace2026pgso-4].
+
+The roaming-repair diagnostic illustrates why this distinction matters. An intervention can conform to its configured rule and still obstruct a legitimate task. Acoustic uncertainty therefore requires more than abstention and reliable enforcement: the intervention itself needs an independently defensible purpose, a proportionate effect, and a recovery condition that respects clarified user requirements. The observed diagnostic is a development finding from scripted actions and injected observations, not a comparative estimate from natural conversations [@workspace2026roaming].
+
+The initial design proposed a four-arm public-task evaluation, paired within tasks, with PGSO versus equally informed contextual adaptation as the primary contrast and uninformed and instantaneous-intervention references as additional comparisons. The executed development pilot subsequently included matched runtime alternatives; transfer conditions remain untested. All configurations reached a common task-failure floor [@pgso2026da06f686a0]. Independent action-permission assessment must remain distinct from judgments about when clarification or deferral is warranted. The confirmation protocol must fix practical gains, tolerated harms, task-level sampling, exclusions, and stopping before outcomes are inspected. Until that evidence exists, the secondary research question about comparative utility remains open; the technical findings concern the tested mechanism and workloads. A later applied study can examine natural-user outcomes; simulated task performance cannot establish empathy, field effectiveness, or commercial conversion [@workspace2026independent].

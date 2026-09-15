@@ -9,47 +9,56 @@ sections:
     title: Abstract
     file: manuscript/abstract.md
     order: 1
-    status: planned
-    hash: null
+    status: revised
+    hash: 6b0254184ec33e35cfc41a7b5682be8353f2718e1cd89cb2d1f61ba59d553df7
     claims: []
     questions: []
   - id: introduction
     title: Introduction
     file: manuscript/introduction.md
     order: 2
-    status: planned
-    hash: null
+    status: revised
+    hash: e8ab0f02a1927dbe75fb162708db73b81f3e4c0b8397e846dff6926221566aa7
     claims: []
     questions: []
   - id: methods
     title: Methods
     file: manuscript/methods.md
     order: 3
-    status: planned
-    hash: null
+    status: revised
+    hash: 9d3ccc2eb1e217c8875cc3179850968965a71e8a93327233df3140d90d485461
     claims: []
     questions: []
   - id: results
     title: Results
     file: manuscript/results.md
     order: 4
-    status: planned
-    hash: null
+    status: revised
+    hash: 764fbddcc21f072d9a33050ad07bf80f4c1536651ed3e8b3dba0184821298410
     claims: []
     questions: []
   - id: discussion
     title: Discussion
     file: manuscript/discussion.md
     order: 5
-    status: planned
-    hash: null
+    status: draft
+    hash: a95b6862fbeeb734f5e6631fe875ab502dc59a790d161cf1c38e1bea8c48d7a3
     claims: []
     questions: []
   - id: conclusions
     title: Conclusions
     file: manuscript/conclusions.md
     order: 6
-    status: planned
-    hash: null
+    status: revised
+    hash: d069b7caf719841e27ab8d023539b6be26a516cfcffeba3ac57c29724a6b96d3
     claims: []
     questions: []
+target_profile: ieee-access
+affiliation: Universidad Peruana de Ciencias Aplicadas (UPC), Lima, Peru
+corresponding_author: Juan Fabritzzio Pescoran Angulo <fabritzziopescoran@gmail.com>
+index_terms:
+  - Acoustic features
+  - conversational agents
+  - runtime verification
+  - software architecture
+  - tool use
