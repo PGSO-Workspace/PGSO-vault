@@ -1,0 +1,73 @@
+manuscript/introduction.md
+  s_81bf62597beb77::t_5892c4dbdc3f09 1-2,6-9,11,13,15-19,21-22
+  s_81bf62597beb77::t_55ad7f41479805 10,14,30,65-66
+  s_81bf62597beb77::t_54aad6557d8e12 42-46
+  s_81bf62597beb77::t_f30ed0d7318138 3-5,12,20,23-29,31-41,47-64,67-85
+manuscript/methods.md
+  s_81bf62597beb77::t_869327376c6c97 20
+  s_81bf62597beb77::t_3298ff33bb5961 42
+  s_81bf62597beb77::t_a5529a61eee6f8 98
+  s_81bf62597beb77::t_29b05a997dc7e7 119-120
+  s_81bf62597beb77::t_f9473238ca6615 95-97
+  s_81bf62597beb77::t_3e5c6c62fd1d0b 44-45
+  s_81bf62597beb77::t_169167b6b85ae9 121-122
+  s_81bf62597beb77::t_d30db757c7ea23 3,21-33
+  s_81bf62597beb77::t_74c5fa8220b290 4-5,74
+  s_81bf62597beb77::t_84d437f5f9cf80 46-47
+  s_81bf62597beb77::t_d0154f686d4288 50-51
+  s_81bf62597beb77::t_ae356577dc3807 55
+  s_81bf62597beb77::t_0f727a93df6cee 10
+  s_81bf62597beb77::t_b343a1ec384126 43,115-116
+  s_81bf62597beb77::t_2388035578e4b6 1-2,6-9,11-13,15-19,34-41,48-49,54,56-73,75-82,84-94,99-102,110-114,117-118
+  s_81bf62597beb77::t_d8485639410721 83,109
+  s_81bf62597beb77::t_abf649e88b6c83 52-53
+  s_81bf62597beb77::t_2f851a6cae9abd 103-108
+  s_81bf62597beb77::t_fa023d148eadc1 14
+manuscript/discussion.md
+  s_81bf62597beb77::t_d46370e0075e97 1-3,6-9,11-13,15-21,23-35
+  s_81bf62597beb77::t_0349992ea27ff9 14
+  s_81bf62597beb77::t_fda2e50afb4c89 4-5,10,22,36
+manuscript/abstract.md
+  s_81bf62597beb77::t_d9bd865a6dee9f 3
+  s_81bf62597beb77::t_9df4cdad742c44 1-2,6-7
+  s_81bf62597beb77::t_4301bb21389b6c 4-5,8
+manuscript/results.md
+  s_81bf62597beb77::t_95449a57b666c0 3,71
+  s_81bf62597beb77::t_d9bd865a6dee9f 10,72
+  s_81bf62597beb77::t_1443e87091faba 12,36,40-57
+  s_81bf62597beb77::t_ad1c29a7dc6dfa 1-2,6-9,11,13-25,27-31,33-35,37-39,59-63,65-70,73-91
+  s_81bf62597beb77::t_25bf28484b7823 32,58,64
+  s_81bf62597beb77::t_a5529a61eee6f8 26
+  s_81bf62597beb77::t_aa74fb54a5e584 4-5
+manuscript/manuscript.yaml
+  s_81bf62597beb77::t_c97ad7efe2c12b 58
+  s_81bf62597beb77::t_74c5fa8220b290 29
+  s_81bf62597beb77::t_95449a57b666c0 36
+  s_81bf62597beb77::t_d9bd865a6dee9f 12,52
+  s_81bf62597beb77::t_844990debe394e 57,59-64
+  s_81bf62597beb77::t_d46370e0075e97 44
+  s_81bf62597beb77::t_858de6d6aac6d1 20
+  s_81bf62597beb77::t_d30db757c7ea23 28
+  s_81bf62597beb77::t_707f8881b4161a 56
+  s_81bf62597beb77::t_9938adca6462f3 13,21,37,45,53
+manuscript/conclusions.md
+  s_81bf62597beb77::t_d9bd865a6dee9f 3
+  s_81bf62597beb77::t_9df4cdad742c44 1-2,6-11
+  s_81bf62597beb77::t_25ab97b9e9261b 4-5,12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a63a724daac739f53a7e41edce4d59a45ff2d717",
+  "prompts": {},
+  "sessions": {
+    "s_81bf62597beb77": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a09634-16f5-7683-8dee-23f8ff5526b5",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Lucio <lucioyen1@gmail.com>"
+    }
+  }
+}
