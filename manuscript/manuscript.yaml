@@ -18,7 +18,7 @@ sections:
     file: manuscript/introduction.md
     order: 2
     status: revised
-    hash: e8ab0f02a1927dbe75fb162708db73b81f3e4c0b8397e846dff6926221566aa7
+    hash: ca748466acdd61a3c9758ab905dfd69ae5dc20d7a8004e6c11c10d7bb2fc50df
     claims: []
     questions: []
   - id: methods
@@ -26,7 +26,7 @@ sections:
     file: manuscript/methods.md
     order: 3
     status: revised
-    hash: 9d3ccc2eb1e217c8875cc3179850968965a71e8a93327233df3140d90d485461
+    hash: cc8ff6fb0293a0a2d62b5453ce2ea3aa74d9c1dc50d789718d587b90da478740
     claims: []
     questions: []
   - id: results
@@ -34,7 +34,7 @@ sections:
     file: manuscript/results.md
     order: 4
     status: revised
-    hash: 764fbddcc21f072d9a33050ad07bf80f4c1536651ed3e8b3dba0184821298410
+    hash: 1c99dc1481c2326a49673b296944df517043b5835a293335e2f6d49083d32c69
     claims: []
     questions: []
   - id: discussion

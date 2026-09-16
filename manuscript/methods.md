@@ -1,9 +1,10 @@
 ---
 section: methods
 status: revised
-hash: 9d3ccc2eb1e217c8875cc3179850968965a71e8a93327233df3140d90d485461
-updated: 2026-09-15T19:21:34.131Z
+hash: cc8ff6fb0293a0a2d62b5453ce2ea3aa74d9c1dc50d789718d587b90da478740
+updated: 2026-09-16T05:42:21.758Z
 ---
+
 
 ## 3.1 Problem identification and motivation
 
@@ -109,7 +110,7 @@ s=s_{\mathrm{runtime}},\\
 \end{gathered} \qquad (3)
 \]
 
-The approval condition is required only for tools currently marked for step-up. An approval binds the tool, exact arguments, and current policy revision; it must be unexpired at the trusted host time. It is single-use. Effective policy changes, permission changes, and detected host-clock rollback invalidate outstanding approvals. Observation-driven policy updates cannot enlarge \(L_t\). The callback executes inside the runtime authorization operation, under the shared runtime lock in the HTTP deployment, so a separately checked permit is not handed to the caller for later execution.
+The binding condition requires that \(u\) is registered with the runtime as a tool binding, so that a handler and an argument schema exist for it; an identifier that is not registered is denied as an unknown tool before any policy or permission check applies. The approval condition is required only for tools currently marked for step-up. An approval binds the tool, exact arguments, and current policy revision; it must be unexpired at the trusted host time. It is single-use. Effective policy changes, permission changes, and detected host-clock rollback invalidate outstanding approvals. Observation-driven policy updates cannot enlarge \(L_t\). The callback executes inside the runtime authorization operation, under the shared runtime lock in the HTTP deployment, so a separately checked permit is not handed to the caller for later execution.
 
 These statements are conditional guarantees of the inspected dispatch path. They require the host to retain control of permissions and approval issuance and to route relevant tool effects through that path. A hostile host, another execution endpoint, or a tool's effects beyond its registered contract are outside this argument. Catalog preservation for a protected tool is also distinct from permission to execute it. The rule engine and actuator expose separate protected sets; consistent configuration is a precondition for claiming their combined step-up behavior.
 

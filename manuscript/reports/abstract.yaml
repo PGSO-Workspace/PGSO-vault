@@ -1,0 +1,32 @@
+schema: phdude.section-report
+version: 1
+section: abstract
+hash: 6b0254184ec33e35cfc41a7b5682be8353f2718e1cd89cb2d1f61ba59d553df7
+at: 2026-09-15T18:39:44.974Z
+gates:
+  - gate: gate-citations
+    findings: 0
+    blocked: false
+  - gate: gate-evidence
+    findings: 0
+    blocked: false
+  - gate: gate-prose
+    findings: 0
+    blocked: false
+  - gate: gate-voice
+    findings: 0
+    blocked: false
+  - gate: gate-meaning
+    findings: 0
+    blocked: false
+  - gate: gate-profile
+    findings: 0
+    blocked: false
+scores:
+  specificity: 100
+  evidenceAlignment: 100
+  epistemicPrecision: 100
+  structuralVariation: 97
+  conciseness: 100
+warnings: 0
+blocks: 0

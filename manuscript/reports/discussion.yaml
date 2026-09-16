@@ -1,0 +1,29 @@
+schema: phdude.section-report
+version: 1
+section: discussion
+hash: a95b6862fbeeb734f5e6631fe875ab502dc59a790d161cf1c38e1bea8c48d7a3
+at: 2026-09-15T19:06:19.170Z
+gates:
+  - gate: gate-citations
+    findings: 0
+    blocked: false
+  - gate: gate-evidence
+    findings: 0
+    blocked: false
+  - gate: gate-prose
+    findings: 3
+    blocked: false
+  - gate: gate-voice
+    findings: 0
+    blocked: false
+  - gate: gate-profile
+    findings: 0
+    blocked: false
+scores:
+  specificity: 100
+  evidenceAlignment: 100
+  epistemicPrecision: 100
+  structuralVariation: 90
+  conciseness: 100
+warnings: 3
+blocks: 0

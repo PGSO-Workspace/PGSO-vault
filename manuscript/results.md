@@ -1,19 +1,20 @@
 ---
 section: results
 status: revised
-hash: 764fbddcc21f072d9a33050ad07bf80f4c1536651ed3e8b3dba0184821298410
-updated: 2026-09-15T19:07:11.889Z
+hash: 1c99dc1481c2326a49673b296944df517043b5835a293335e2f6d49083d32c69
+updated: 2026-09-16T05:43:26.282Z
 ---
+
 
 ## 5.1 Configuration
 
-The available measurements comprise three separately versioned activities: an acted-speech extractor diagnostic, an operational comparison of policy implementations, and a public-task integration check. Their experimental units differ. A speaker represented by a complete intensity triplet is the unit of the acoustic diagnostic; a fresh worker-process block is the unit of the operational comparison; and a simulated task session is the intended unit of the interaction experiment. Counts from these activities are not pooled into one sample or presented as interchangeable evidence of utility.
+The available measurements comprise three separately versioned activities: an acted-speech extractor diagnostic, an operational comparison of policy implementations, and a public-task integration check. Their experimental units differ. A speaker represented by a complete intensity triplet is the unit of the acoustic diagnostic; a fresh worker-process block is the unit of the operational comparison; and a simulated task session is the intended unit of the interaction experiment. Counts from these activities are not pooled into one sample or presented as interchangeable evidence of utility. Three of the subsections that follow report no measured outcome: 5.4, 5.5 and 5.7 state what the present evidence does not determine, and are retained to mark those gaps rather than to present findings.
 
 The acoustic diagnostic uses extractor revision 60113da and the operational comparison uses revision 7805fb9. The public-task bridge is pinned to 4a840ba. These identifiers describe the measured implementations rather than a claim that every result was produced by the newest release. The public-task integration has been exercised with mocked external generation; metered task outcomes were unavailable at that initial integration checkpoint [@workspace2026pgso-4; @workspace2026public].
 
 ## 5.2 Verification of the design guarantees
 
-The archived engineering run reports agreement with all 184 labeled governance observations within a total of 454 observations, together with 13 direct-execution scenarios and 14 HTTP cases. The direct-call cases each produced one receipt with the predeclared outcome and reason label. Two fresh processes produced equal normalized governance and execution outputs after excluding the measured duration field [@workspace2026pgso-4].
+The archived engineering run records two separate synthetic checks over different denominators, not one sample with a labeled subset. A contract suite reports no mismatch against the declared PGSO temporal contract across 184 labeled steps <!-- result: RESULT-795ec13397 -->, and a fixture-specific check reports no exposure or directive violation across 454 steps <!-- result: RESULT-d86c084124 -->. The run also covers 13 direct-execution scenarios and 14 HTTP cases. The direct-call cases each produced one receipt with the predeclared outcome and reason label. Two fresh processes produced equal normalized governance and execution outputs after excluding the measured duration field [@workspace2026pgso-4].
 
 This evidence supports conformance on the exercised paths. The labels originate in the authored validation executable, so agreement is not an independent estimate of real-world intervention correctness. Likewise, equality across two local processes does not establish bitwise determinism across processor architectures or compiler targets. The receipts distinguish callback outcomes, but several confirmation histories share the same missing-confirmation reason. Reconstructing those histories requires the associated host records rather than the receipt alone [@workspace2026pgso-4].
 

@@ -1,0 +1,32 @@
+schema: phdude.section-report
+version: 1
+section: conclusions
+hash: d069b7caf719841e27ab8d023539b6be26a516cfcffeba3ac57c29724a6b96d3
+at: 2026-09-15T19:06:20.339Z
+gates:
+  - gate: gate-citations
+    findings: 0
+    blocked: false
+  - gate: gate-evidence
+    findings: 0
+    blocked: false
+  - gate: gate-prose
+    findings: 0
+    blocked: false
+  - gate: gate-voice
+    findings: 0
+    blocked: false
+  - gate: gate-meaning
+    findings: 0
+    blocked: false
+  - gate: gate-profile
+    findings: 0
+    blocked: false
+scores:
+  specificity: 100
+  evidenceAlignment: 100
+  epistemicPrecision: 100
+  structuralVariation: 100
+  conciseness: 100
+warnings: 0
+blocks: 0
