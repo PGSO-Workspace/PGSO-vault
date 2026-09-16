@@ -1,0 +1,21 @@
+handoff/paper/paper1-es-2026-09-16.md
+  s_36b45cf056dc09::t_492daeeaa2c03a 210-336
+  s_36b45cf056dc09::t_f90210b779314b 92-209
+  s_36b45cf056dc09::t_7ca0c94f606f6d 1-91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0054533bf9ead01d2a03e6c1f28de98d68870e9e",
+  "prompts": {},
+  "sessions": {
+    "s_36b45cf056dc09": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e2fa5244-9a93-4acd-a718-8c491aa3d5ee",
+        "model": "unknown"
+      },
+      "human_author": "Lucio <lucioyen1@gmail.com>"
+    }
+  }
+}
