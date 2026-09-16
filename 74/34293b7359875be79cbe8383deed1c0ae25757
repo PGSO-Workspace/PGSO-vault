@@ -1,0 +1,35 @@
+knowledge/sources/SRC-dc1bda30f0.yaml
+  s_36b45cf056dc09::t_77c030e945b553 10
+knowledge/sources/SRC-40b9e43bb8.yaml
+  s_36b45cf056dc09::t_77c030e945b553 10
+knowledge/sources/SRC-1b8c837f95.yaml
+  s_36b45cf056dc09::t_77c030e945b553 10
+knowledge/sources/SRC-3c76439a29.yaml
+  s_36b45cf056dc09::t_77c030e945b553 10
+knowledge/sources/SRC-a2a8634f13.yaml
+  s_36b45cf056dc09::t_4eb976ad331411 10
+knowledge/sources/SRC-453af6fddf.yaml
+  s_36b45cf056dc09::t_77c030e945b553 10
+knowledge/sources/SRC-d749d99da9.yaml
+  s_36b45cf056dc09::t_77c030e945b553 10
+knowledge/sources/SRC-da06f686a0.yaml
+  s_36b45cf056dc09::t_77c030e945b553 10
+knowledge/sources/SRC-3d625b6a2f.yaml
+  s_36b45cf056dc09::t_77c030e945b553 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7434293b7359875be79cbe8383deed1c0ae25757",
+  "prompts": {},
+  "sessions": {
+    "s_36b45cf056dc09": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e2fa5244-9a93-4acd-a718-8c491aa3d5ee",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Lucio <lucioyen1@gmail.com>"
+    }
+  }
+}
