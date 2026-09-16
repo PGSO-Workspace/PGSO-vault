@@ -1,0 +1,71 @@
+manuscript/reports/discussion.yaml
+  s_81bf62597beb77::t_d46370e0075e97 1-29
+manuscript/reports/conclusions.yaml
+  s_81bf62597beb77::t_9df4cdad742c44 1-16,20-32
+  s_81bf62597beb77::t_d9bd865a6dee9f 17-19
+manuscript/reports/results.yaml
+  s_36b45cf056dc09::t_10753c7a37c04d 4-5,11,27,31
+  s_81bf62597beb77::t_ad1c29a7dc6dfa 1-3,6-10,12-18,22-26,28-30,32
+  s_81bf62597beb77::t_95449a57b666c0 19-21
+handoff/paper/paper1-es-2026-09-16.md
+  s_36b45cf056dc09::t_8999278cb93553 48,58,199,215,221
+manuscript/methods.md
+  s_36b45cf056dc09::t_83b32c98a93ced 4-5,8,113
+manuscript/reports/methods.yaml
+  s_36b45cf056dc09::t_83b32c98a93ced 4-5
+  s_81bf62597beb77::t_29b05a997dc7e7 14
+  s_81bf62597beb77::t_169167b6b85ae9 11,27,31
+  s_81bf62597beb77::t_d30db757c7ea23 19-21
+  s_81bf62597beb77::t_f9473238ca6615 29
+  s_81bf62597beb77::t_2388035578e4b6 1-3,6-10,12-13,15-18,22-26,28,30,32
+manuscript/manuscript.yaml
+  s_36b45cf056dc09::t_10753c7a37c04d 37
+  s_36b45cf056dc09::t_83b32c98a93ced 29
+  s_36b45cf056dc09::t_deeebfb521c93a 21
+manuscript/results.md
+  s_36b45cf056dc09::t_10753c7a37c04d 4-5,8,11,17
+manuscript/introduction.md
+  s_36b45cf056dc09::t_deeebfb521c93a 4-5,8,23,43,53
+manuscript/reports/abstract.yaml
+  s_81bf62597beb77::t_d9bd865a6dee9f 19-21
+  s_81bf62597beb77::t_9df4cdad742c44 1-3,6-18,22-28,30-32
+  s_34785664e4f446::t_f6b68d9574f367 4-5,29
+manuscript/reports/introduction.yaml
+  s_81bf62597beb77::t_55ad7f41479805 14,31
+  s_81bf62597beb77::t_5892c4dbdc3f09 1-3,6-13,15-18,22-28,32
+  s_81bf62597beb77::t_858de6d6aac6d1 19-21,30
+  s_81bf62597beb77::t_54aad6557d8e12 29
+  s_36b45cf056dc09::t_deeebfb521c93a 4-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "afe28625c45f4476d4bf41078597255fd4d4ba50",
+  "prompts": {},
+  "sessions": {
+    "s_34785664e4f446": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0f648f4a-dd27-4bdf-93b0-f8e4c50ea957",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Lucio <lucioyen1@gmail.com>"
+    },
+    "s_36b45cf056dc09": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e2fa5244-9a93-4acd-a718-8c491aa3d5ee",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Lucio <lucioyen1@gmail.com>"
+    },
+    "s_81bf62597beb77": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a09634-16f5-7683-8dee-23f8ff5526b5",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Lucio <lucioyen1@gmail.com>"
+    }
+  }
+}
