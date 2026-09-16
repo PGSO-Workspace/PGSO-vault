@@ -7,8 +7,7 @@ actor:
   agent: cli
 tags: []
 title: PGSO public-task AgentSpec external-runtime integration 62937ad
-authors:
-  - "{PGSO Workspace}"
+authors: []
 type: report
 artifacts:
   - ART-2e84b99503

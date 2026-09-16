@@ -7,8 +7,7 @@ actor:
   agent: codex
 tags: []
 title: PGSO public voice roaming-withholding diagnostic ff8f5ff
-authors:
-  - "{PGSO Workspace}"
+authors: []
 type: report
 artifacts:
   - ART-2ac4c12dce

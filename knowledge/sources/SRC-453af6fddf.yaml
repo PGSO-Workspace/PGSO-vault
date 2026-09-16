@@ -7,8 +7,7 @@ actor:
   agent: codex
 tags: []
 title: Public voice-task pilot integration at PGSO SDK 4a840ba
-authors:
-  - "{PGSO Workspace}"
+authors: []
 type: report
 artifacts:
   - ART-a16b108533

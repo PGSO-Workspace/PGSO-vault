@@ -7,8 +7,7 @@ actor:
   agent: codex
 tags: []
 title: Independent comparative validation for PGSO Paper 1
-authors:
-  - "{PGSO Workspace}"
+authors: []
 type: report
 artifacts:
   - ART-30d0bee537

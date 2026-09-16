@@ -7,8 +7,7 @@ actor:
   agent: cli
 tags: []
 title: PGSO live-state reward-basis evaluator 19b5c58
-authors:
-  - "{PGSO Workspace}"
+authors: []
 type: report
 artifacts:
   - ART-21590a6529

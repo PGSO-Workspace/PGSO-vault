@@ -7,8 +7,7 @@ actor:
   agent: codex
 tags: []
 title: PGSO persistent integration-path operational measurement and diagnostic information, SDK7805fb9
-authors:
-  - "{PGSO Workspace}"
+authors: []
 type: report
 artifacts:
   - ART-007480841d

@@ -7,8 +7,7 @@ actor:
   agent: cli
 tags: []
 title: PGSO public-task NeMo and Invariant comparator integration 151b6b4
-authors:
-  - "{PGSO Workspace}"
+authors: []
 type: report
 artifacts:
   - ART-07af7c3aeb

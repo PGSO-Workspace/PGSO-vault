@@ -7,8 +7,7 @@ actor:
   agent: cli
 tags: []
 title: PGSO real-generation public voice development pilot, September 2026
-authors:
-  - "{PGSO Workspace}"
+authors: []
 type: report
 artifacts:
   - ART-2b30ef5efd

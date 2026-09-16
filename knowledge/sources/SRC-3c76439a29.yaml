@@ -7,8 +7,7 @@ actor:
   agent: cli
 tags: []
 title: Public-voice B0 development diagnostic, 2026-09-15
-authors:
-  - "{PGSO research workspace}"
+authors: []
 type: report
 artifacts:
   - ART-0acade2de7
