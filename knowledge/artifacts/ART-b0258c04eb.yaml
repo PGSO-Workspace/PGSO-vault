@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-b0258c04eb
+created: 2026-09-15T05:25:36.212Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/differentiation-discovery-2026-09-15.md
+paths:
+  - sources/reports/differentiation-discovery-2026-09-15.md
+hash: b0258c04eb2b33a5f3cce4e0551b0ee687dd56cdc39d469c13f53092d5caf884
+bytes: 8186
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 8186
+  sections: 8
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T05:25:36.013Z

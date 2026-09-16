@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2419107bb8
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0014359000004718
+title: A Study in Emotion-Aware Adaptive Interaction in Intelligent Vehicle Cockpits
+authors:
+  - Sihui He
+  - Hexuan Ying
+  - Hao Zhong
+year: 2025
+venue: Proceedings of the 2nd International Conference on Engineering Management, Information Technology and Intelligence
+doi: 10.5220/0014359000004718
+url: https://doi.org/10.5220/0014359000004718
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 1
+score_parts:
+  rank: 0.025
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

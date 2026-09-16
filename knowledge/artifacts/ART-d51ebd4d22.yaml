@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-d51ebd4d22
+created: 2026-09-13T06:59:21.837Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/1b17c248d360/crates/pgso-core/Cargo.toml.txt
+paths:
+  - sources/software/pgso-sdk/1b17c248d360/crates/pgso-core/Cargo.toml.txt
+hash: d51ebd4d2265e2e6257658e4774d03bdd7e711ef7ffbccd4043c5309ea854c85
+bytes: 1152
+mime: text/plain
+kind: txt
+role: notes
+extracted:
+  status: ok
+  method: text
+  text_chars: 1152
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:59:21.630Z
+versions_of: ART-c1f70accd8
+latest: true

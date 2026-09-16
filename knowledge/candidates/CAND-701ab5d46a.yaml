@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-701ab5d46a
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1017/9781108755023.012
+title: "Runtime Verification: Recognising Abstraction Violations"
+authors: []
+year: 2023
+venue: Verifiable Autonomous Systems
+doi: 10.1017/9781108755023.012
+url: https://doi.org/10.1017/9781108755023.012
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 0.733
+score_parts:
+  rank: 0.033
+  citations: 0
+  recency: 0.7
+needs_approval: false
+state: candidate

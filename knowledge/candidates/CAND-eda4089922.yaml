@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-eda4089922
+created: 2026-09-15T09:15:44.244Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5040/bci-0kge.0009
+title: Other Books You May Enjoy
+authors: []
+year: 2024
+venue: Generative AI on Google Cloud with LangChain
+doi: 10.5040/bci-0kge.0009
+url: https://doi.org/10.5040/bci-0kge.0009
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: AgentSpec GitHub haoyuwang99 official implementation license requirements LangChain 0.3.13
+question: null
+search: SEARCH-92b23a6f19
+score: 0.853
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

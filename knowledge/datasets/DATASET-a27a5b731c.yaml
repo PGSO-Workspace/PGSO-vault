@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-a27a5b731c
+created: 2026-09-15T01:12:20.228Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/affective-action-primary-v1.json
+hash: a27a5b731c01886e4a12a1192d9f7d5873115f21c13866083d90d6594cfa2504
+bytes: 11299
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Three targeted affective-action paper checks; one fulltext, two publisher abstracts; exact journal identities and distinct quartile metrics

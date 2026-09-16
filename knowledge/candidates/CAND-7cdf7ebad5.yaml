@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7cdf7ebad5
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7117995729
+title: "Navigating the Future of Education: A Review on Telecommunications and AI Technologies, Ethical Implications, and Equity Challenges"
+authors:
+  - Christos Koukaras
+  - Stavros G. Stavrinides
+  - Euripides Hatzikraniotis
+  - Maria Mitsiaki
+  - Paraskevas Koukaras
+  - Christos Tjortjis
+year: 2026
+venue: Telecom
+doi: 10.3390/telecom7010002
+url: https://doi.org/10.3390/telecom7010002
+abstract: The increasing integration of Artificial Intelligence (AI) in education (AIEd) and its dependence on contemporary communication infrastructures (5G/6G, the Internet of Things (IoT), and Multi-Access Edge Computing (MEC)) has prompted a surge of research into applications, infrastructural dependencies, and deployment constraints. This is giving rise to a new paradigm termed AI-Enabled Telecommunication-Based Education (AITE). This review synthesises the recent literature (2022–2025) to examine how telecommunications and AI technologies converge to enhance educational ecosystems through adaptive learning systems, intelligent tutoring systems, AI-driven assessment, and administration. The findings reveal that low-latency, high-bandwidth connectivity, combined with edge-deployed analytics, enables real-time personalisation, continuous feedback, and scalable learning models that extend beyond traditional classrooms. In addition, persistent critical challenges are also reported, including issues with ethical governance, data privacy, algorithmic fairness, and uneven access to digital infrastructure, all affecting equitable adoption. By linking pedagogical transformation with telecom performance metrics—namely, latency, Quality of Service (QoS), and device interconnectivity—this work outlines a unified cross-layer framework for AITE. This review concludes by identifying future research avenues in ethical AI deployment, resilient architectures, and inclusive policy design to ensure transparent, secure, and human-centred educational transformation.
+type: article
+open_access: true
+cited_by: 4
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 1.342
+score_parts:
+  rank: 0.167
+  citations: 0.175
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-528ec79a3e
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415230093
+title: "How LLM Counselors Violate Ethical Standards in Mental Health Practice: A Practitioner-Informed Framework"
+authors:
+  - Zainab Iftikhar
+  - Amy Wei Xiao
+  - Sean Ransom
+  - Jeff Huang
+  - Harini Suresh
+year: 2025
+venue: Proceedings of the AAAI/ACM Conference on AI Ethics and Society
+doi: 10.1609/aies.v8i2.36632
+url: https://doi.org/10.1609/aies.v8i2.36632
+abstract: "Large language models (LLMs) were not designed to replace healthcare workers, but they are being used in ways that can lead users to overestimate the types of roles that these systems can assume. While prompt engineering has been shown to improve LLMs' clinical effectiveness in mental health applications, little is known about whether such strategies help models adhere to ethical principles for real-world deployment. In this study, we conducted an 18-month ethnographic collaboration with mental health practitioners (three clinically licensed psychologists and seven trained peer counselors) to map LLM counselors' behavior during a session to professional codes of conduct established by organizations like the American Psychological Association (APA). Through qualitative analysis and expert evaluation of N=137 sessions (110 self-counseling; 27 simulated), we outline a framework of 15 ethical violations mapped to 5 major themes. These include: Lack of Contextual Understanding, where the counselor fails to account for users' lived experiences, leading to oversimplified, contextually irrelevant, and one-size-fits-all intervention; Poor Therapeutic Collaboration, where the counselor's low turn-taking behavior and invalidating outputs limit users' agency over their therapeutic experience; Deceptive Empathy, where the counselor's simulated anthropomorphic responses (``I hear you'', ``I understand'') create a false sense of emotional connection; Unfair Discrimination, where the counselor's responses exhibit algorithmic bias and cultural insensitivity toward marginalized populations; and Lack of Safety & Crisis Management, where individuals who are ``knowledgeable enough'' to correct LLM outputs are at an advantage, while others, due to lack of clinical knowledge and digital literacy, are more likely to suffer from clinically inappropriate responses. Reflecting on these findings through a practitioner-informed lens, we argue that reducing psychotherapy—a deeply meaningful and relational process—to a language generation task can have serious and harmful implications in practice. We conclude by discussing policy-oriented accountability mechanisms for emerging LLM counselors."
+type: other
+open_access: true
+cited_by: 56
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.41
+score_parts:
+  rank: 0.071
+  citations: 0.439
+  recency: 0.9
+needs_approval: false
+state: candidate

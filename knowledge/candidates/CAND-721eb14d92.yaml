@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-721eb14d92
+created: 2026-09-14T23:47:30.960Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5040/bci-0kh1.ch-004
+title: Prompt Engineering
+authors: []
+year: 2024
+venue: Building LLM Powered Applications
+doi: 10.5040/bci-0kh1.ch-004
+url: https://doi.org/10.5040/bci-0kh1.ch-004
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"Policy-as-Prompt" LLM agents'
+question: null
+search: SEARCH-b69be67f4a
+score: 0.877
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

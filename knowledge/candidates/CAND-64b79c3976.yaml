@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-64b79c3976
+created: 2026-09-15T01:07:13.133Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415203871
+title: "The IDRE Dataset in Practice: Training and Evaluation of Small-to-Medium-Sized LLMs for Empathetic Rephrasing"
+authors:
+  - Simone Manai
+  - Laura Gemme
+  - Roberto Zanoli
+  - Alberto Lavelli
+year: 2025
+venue: Electronics
+doi: 10.3390/electronics14204052
+url: https://doi.org/10.3390/electronics14204052
+abstract: "Integrating emotional intelligence into AI systems is essential for developing empathetic chatbots, yet deploying fully empathetic models is often constrained by business, ethical, and computational factors. We propose an innovative solution: a dedicated empathy rephrasing layer that operates downstream of a chatbot’s initial response. This layer leverages large language models (LLMs) to infuse empathy into the chatbot’s output without altering its core meaning, thereby enhancing emotional intelligence and user engagement. To implement this layer, we extend and validate the IDRE (Italian Dialogue for Empathetic Responses) dataset. We evaluated small- and medium-scale LLMs across three configurations: baseline models, models augmented via few-shot learning with IDRE exemplars, and models fine-tuned on IDRE. Performance was quantitatively assessed using the LLM-as-a-judge paradigm, leveraging custom metrics. These results were further validated through an independent human evaluation and supported by established NLP similarity metrics, ensuring a robust triangulation of findings. Results confirm that both few-shot prompting and fine-tuning with IDRE significantly enhance the models’ capacity for empathetic language generation. Applications include empathetic AI in healthcare, such as virtual assistants for patient support, and demonstrate promising generalization to other domains. All datasets, prompts, fine-tuned models, and scripts are publicly available to ensure transparency and reproducibility."
+type: article
+open_access: true
+cited_by: 1
+query: '"Empathetic Conversational Agents" "10.1080/10447318.2025.2540500" arXiv 2501.08393'
+question: null
+search: SEARCH-3dc085d3d3
+score: 1.975
+score_parts:
+  rank: 1
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

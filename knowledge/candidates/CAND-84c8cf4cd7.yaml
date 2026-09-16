@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-84c8cf4cd7
+created: 2026-09-15T00:31:11.443Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.neucom.2022.04.028
+title: A systematic literature review of speech emotion recognition approaches
+authors:
+  - Youddha Beer Singh
+  - Shivani Goel
+year: 2022
+venue: Neurocomputing
+doi: 10.1016/j.neucom.2022.04.028
+url: https://doi.org/10.1016/j.neucom.2022.04.028
+abstract: null
+type: article
+open_access: null
+cited_by: 135
+query: '"Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition"'
+question: null
+search: SEARCH-f9a249d1ae
+score: 1.196
+score_parts:
+  rank: 0.063
+  citations: 0.533
+  recency: 0.6
+needs_approval: false
+state: candidate

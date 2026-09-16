@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-77a7d9744a
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7168055017
+title: Tool-Making and Self-Evolving LLM Agents in Low-Latency Systems
+authors:
+  - Kalle Kujanpää
+  - Ning Liu
+  - Shahnawaz Alam
+  - Yeshwanth Reddy Sura
+  - Tianyu Yang
+  - Kristina Klinkner
+  - Shervin Malmasi
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2607.08010
+abstract: Production LLM agents often waste latency and reliability by regenerating code for the same procedural steps on every request. We replace this inference-time coding loop with an agentic tool-making pipeline that compiles repeated SOP steps into validated, versioned tools before deployment. The tool-maker grounds synthesis in the live environment as it collects execution traces, observes backend schemas and values, generates candidate tools, and repairs them against labeled cases. At runtime, the production agent calls these tools directly and falls back to code generation only when needed. We deploy the approach in a Fulfillment Center alarm-triage system, where an agent diagnoses alarms against a 44-node SOP over heterogeneous metric backends. In production, tool calls reduce p50 latency by 42%. On 1,500 historical alarms, they reduce end-to-end error rate by up to 53% by suppressing run-to-run variance in repeated steps. Because tools return compact structured verdicts, they also enable a simpler direct-call architecture, reducing p50 latency by a further 62% in a controlled ablation. Versioned tools also improve auditability and expose specification gaps and upstream data drift. Our results show that agents that build and maintain their own tool libraries, a key element of self-evolving agents, can make industrial LLM systems faster, more reliable, and easier to operate.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.125
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

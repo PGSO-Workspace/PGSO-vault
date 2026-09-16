@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-254ca536c9
+created: 2026-09-15T09:45:34.518Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20944/preprints202504.2610.v1
+title: "Scene-Speaker Emotion Aware Network: Dual Network Strategy for Conversational Emotion Recognition"
+authors:
+  - Bingni Li
+  - Yu Gu
+  - Chenyu Li
+  - He Zhang
+  - Linsong Liu
+  - Haixiang Lin
+  - Shuang Wang
+year: 2025
+venue: null
+doi: 10.20944/preprints202504.2610.v1
+url: https://doi.org/10.20944/preprints202504.2610.v1
+abstract: "Incorporating external knowledge has been shown to enhance emotion understanding in dialogues by supplementing contextual information across multiple aspects, including character motivations, psychological states, and event causality. Filtering and categorizing this information can significantly enhance model performance. In this paper, we present an innovative Emotion Recognition in Conversation (ERC) framework, called the Scene-Speaker Emotion Awareness Network (SSEAN), which employs a dual-strategy modeling approach. SSEAN uniquely incorporates external commonsense knowledge describing speaker states into multimodal inputs. Using parallel recurrent networks to separately capture scene-level and speaker-level emotions, the model effectively reduces the accumulation of redundant information within the speaker&rsquo;s emotional space. Additionally, we introduce an attention-based dynamic screening module to enhance the quality of integrated external commonsense knowledge through three levels: (1) speaker-listener-aware input structuring, (2) role-based segmentation, and (3) context-guided attention refinement. Experiments show that SSEAN outperforms existing state-of-the-art models on two well-adopted benchmark datasets in both single-text modality and multimodal settings."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Dual Learning for Conversational Emotion Recognition and Emotional Response Generation" PDF'
+question: null
+search: SEARCH-370d9309b7
+score: 1.067
+score_parts:
+  rank: 0.167
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

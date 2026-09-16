@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-955430a17b
+created: 2026-09-15T09:45:34.518Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0013720100004000
+title: Contrastive Learning for Conversational Emotion Recognition Using Knowledge Enhancement of Large Language Models
+authors:
+  - Andrew Mackey
+  - B. Cuevas
+  - Susan Gauch
+year: 2025
+venue: Proceedings of the 17th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management
+doi: 10.5220/0013720100004000
+url: https://doi.org/10.5220/0013720100004000
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Dual Learning for Conversational Emotion Recognition and Emotional Response Generation" PDF'
+question: null
+search: SEARCH-370d9309b7
+score: 1.1
+score_parts:
+  rank: 0.2
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

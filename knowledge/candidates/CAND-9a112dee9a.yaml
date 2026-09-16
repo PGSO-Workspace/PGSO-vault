@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9a112dee9a
+created: 2026-09-15T09:45:34.518Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-10210405/v1
+title: A Reliable Multimodal Conversational Emotion Recognition Model Based on a Dual-Stage Attention Mechanism
+authors:
+  - Xinheng Wang
+  - Lun Xie
+  - Xurong Xie
+  - Xiaolan Peng
+  - Zhiliang Wang
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-10210405/v1
+url: https://doi.org/10.21203/rs.3.rs-10210405/v1
+abstract: Abstract Emotion Recognition in Conversation (ERC) plays a critical role in enhancing the intelligence and naturalness of human-computer interaction systems. However, existing ERC methods still face significant challenges, particularly in the effective integration of multimodal information and the handling of label noise. To address these challenges, this paper proposes a reliable multimodal conversational emotion recognition model based on a dual-stage attention mechanism (DSA-MERC). DSA-MERC is designed to improve the accuracy and robustness of emotion recognition. In the first stage, the model performs the initial fusion of text, audio, and visual modalities using the Bi-Directional MultiAttention (Bi-MultiAttn) cross-attention mechanism. In the second stage, recognizing the importance of the audio modality in emotional expression, we introduce an audio-guided leader-follower attention network (Audio-LFAN) with a Multi-Scale Attention with Unit Force Operated (MAS-UFO) mechanism. The MAS-UFO framework optimizes multimodal emotion features at multi-granularity levels through multi-scale representation learning, significantly enhancing the model’s ability to capture emotional cues. To address the issue of label uncertainty, we incorporate both Confidence Learning (CL) and Transfer Learning strategies, which effectively filter noisy labels and further enhance the generalization and stability of the DSA-MERC. Experimental results demonstrate that, when compared to existing baseline models, the proposed method yields substantial performance improvements across two widely recognized benchmark datasets, validating its effectiveness and superiority in addressing emotion recognition in conversation task.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Dual Learning for Conversational Emotion Recognition and Emotional Response Generation" PDF'
+question: null
+search: SEARCH-370d9309b7
+score: 1.111
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

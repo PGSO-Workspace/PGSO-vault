@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-8dede525d9
+created: 2026-09-15T01:13:22.057Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/runtime-primary-review-v1.json
+hash: 8dede525d9a679ffae4fa797cc909fb515cb3f39fec8d7216d70f7943a15f601
+bytes: 9796
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Two JMLR2025 primary papers on selective prediction and uncertainty, Q1 verified; guarantees scoped to assumptions, official publisher records omit DOI

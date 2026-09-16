@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c5c49c1be3
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.4236/jis.2025.161010
+title: Information Security, Ethics, and Integrity in LLM Agent Interaction
+authors:
+  - Ying-Jung Chen
+  - Vijay K. Madisetti
+year: 2025
+venue: Journal of Information Security
+doi: 10.4236/jis.2025.161010
+url: https://doi.org/10.4236/jis.2025.161010
+abstract: null
+type: article
+open_access: null
+cited_by: 6
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.141
+score_parts:
+  rank: 0.03
+  citations: 0.211
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c9985c34b0
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2025.3574868
+title: Multi-View Self-Supervised Domain Adaptation for EEG-Based Emotion Recognition
+authors:
+  - Lu Zhang
+  - Hanwen Shi
+  - Ziyi Li
+  - Wei-Long Zheng
+  - Bao-Liang Lu
+year: 2025
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2025.3574868
+url: https://doi.org/10.1109/taffc.2025.3574868
+abstract: null
+type: article
+open_access: null
+cited_by: 4
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.118
+score_parts:
+  rank: 0.043
+  citations: 0.175
+  recency: 0.9
+needs_approval: false
+state: candidate

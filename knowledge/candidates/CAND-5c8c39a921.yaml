@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5c8c39a921
+created: 2026-09-14T16:52:14.673Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6505963
+title: Empirical Analysis of Constraint-Based Dialogue Control and Multi-Agent Coordination in LLM Systems
+authors:
+  - Toru Yamada
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6505963
+url: https://doi.org/10.2139/ssrn.6505963
+abstract: "This paper presents an empirical analysis of a constraint-based dialogue control architecture applied to large language models (LLMs), with additional focus on multi-agent coordination dynamics. Through structured dialogue experiments conducted within AkaneCore-based multi-persona coexistence chat systems, we examine how explicit behavioral constraints influence responses under conditions of misinformation, error, uncertainty, and infeasible requests, and how multi-agent interaction affects response stability. The experimental environment consists of two AkaneCore implementations: Izakaya Phase (Gemini Gems platform, 11 personas) and Maruti Agent Council (ChatGPT GPTs platform, 3 agents). Both systems operate under the Unified Emotional Responsibility Architecture (U.E.R.A.), which defines shared behavioral principles including responsibility triggers, persona-specific responsibility intensity, and dialogue continuity requirements. Results indicate that constraint-based control induces systematic behavioral shifts toward verification-oriented and responsibility-aware responses, while multi-agent coordination introduces additional interaction dynamics including role differentiation and emergent response ordering. Crucially, the analysis reveals that initial constraint bypass can occur in personas with low responsibility trigger thresholds, with correction emerging only after external challenge. Dialogue logs collected from author-conducted sessions are presented in Appendix C as primary evidence."
+type: preprint
+open_access: null
+cited_by: 0
+query: A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems
+question: null
+search: SEARCH-b23cbffda4
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-86df3729b0
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1017/dap.2026.10083
+title: "Towards adaptive categories: Dimensional governance for agentic AI"
+authors:
+  - Zeynep Engin
+  - David Hand
+year: 2026
+venue: Data &amp; Policy
+doi: 10.1017/dap.2026.10083
+url: https://doi.org/10.1017/dap.2026.10083
+abstract: "Abstract As AI systems evolve from static tools to dynamic agents, traditional categorical governance frameworks—based on fixed risk tiers, levels of autonomy, or human oversight models—are increasingly insufficient on their own. Systems built on foundation models, self-supervised learning, and multi-agent architectures increasingly blur the boundaries that categories were designed to police. In this article, we make the case for dimensional governance: a framework that tracks how decision authority , process autonomy , and accountability (the 3As) distribute dynamically across human-AI relationships. A critical advantage of this approach is its ability to explicitly monitor system movement toward and across key governance thresholds, enabling pre-emptive adjustments before risks materialise. This dimensional approach provides the necessary foundation for more adaptive categorisation, enabling thresholds and classifications that can evolve with emerging capabilities. While categories remain essential for decision-making, building them upon dimensional foundations allows for context-specific adaptability and stakeholder-responsive governance that static approaches cannot achieve. We outline key dimensions, critical trust thresholds, and practical examples illustrating where rigid categorical frameworks fail—and where a dimensional mindset could offer a more resilient and future-proof path forward for both governance and innovation at the frontier of artificial intelligence."
+type: article
+open_access: null
+cited_by: 1
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.113
+score_parts:
+  rank: 0.038
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0202c75fe6
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7160968253
+title: "DRIP-R: A Benchmark for Decision-Making and Reasoning Under Real-World Policy Ambiguity in the Retail Domain"
+authors:
+  - Hsuvas Borkakoty
+  - Sebastian Pohl
+  - Cheng Wang
+  - Bei Chen
+  - Yufang Hou
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2605.07699
+abstract: LLM-based agents are increasingly deployed for routine but consequential tasks in real-world domains, where their behavior is governed by inherently ambiguous domain policies that admit multiple valid interpretations. Despite the prevalence of such ambiguities in practice, existing agent benchmarks largely assume unambiguous, well-specified policies, leaving a critical evaluation gap. We introduce DRIP-R, a benchmark that systematically exploits real-world retail policy ambiguities to construct scenarios in which no single correct resolution exists. DRIP-R comprises a curated set of policy-ambiguous return scenarios paired with a realistic customer personas, a full-duplex conversational simulation with tool-calling capabilities and a multi-judge evaluation framework covering policy adherence, dialogue quality, behavioral alignment, and resolution quality. Our experiments show that frontier models fundamentally disagree on identical policy-ambiguous scenarios, confirming that ambiguity poses a genuine and systematic challenge to LLM decision-making.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.167
+score_parts:
+  rank: 0.167
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

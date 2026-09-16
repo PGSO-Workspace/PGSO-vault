@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4c3ab514e8
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4408327030
+title: "The Role of Social Norms in Human–Robot Interaction: A Systematic Review"
+authors:
+  - Steven Lawrence
+  - Mélanie Jouaiti
+  - Jesse Hoey
+  - Chrystopher L. Nehaniv
+  - Kerstin Dautenhahn
+year: 2025
+venue: ACM Transactions on Human-Robot Interaction
+doi: 10.1145/3722120
+url: https://doi.org/10.1145/3722120
+abstract: "As robots integrate more into daily life, socially aware robots with specific social attributes and behaviors are necessary. This review aims to explore how social norms in Human–Robot Interaction (HRI) impact robot design and human perception. We searched for relevant articles in the following databases: ACM Digital Library, IEEE Digital Library, Scopus, Springer Link, and PsycINFO. After applying inclusion and exclusion criteria, a final set of 69 articles were included in the review. These articles were categorized based on whether they examined norm conformity or norm violations, and were further sorted into 12 categorical norm labels to assist in analysis and comparison. By examining the existing literature, this review uncovers how social norms impact aspects of HRIs like trust, acceptance, and comfort while highlighting the importance of aligning robot design with user expectations. It reveals design challenges such as accounting for cultural variations, context-specific norms, and evolving norms over time. Addressing these challenges has the potential to improve user experiences, promote broader acceptance of robots, and foster successful integration of robots into various domains. The findings contribute to the ongoing discussion on the role of social norms in HRI, offering valuable insights and a foundation for future research."
+type: other
+open_access: true
+cited_by: 18
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 1.276
+score_parts:
+  rank: 0.056
+  citations: 0.32
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-65b3e8c214
+created: 2026-09-15T08:11:18.507Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4315778741
+title: "Industry 4.0 vs. Industry 5.0: Co-existence, Transition, or a Hybrid"
+authors:
+  - Mariia Golovianko
+  - Vagan Terziyan
+  - Vladyslav Branytskyi
+  - Diana Malyk
+year: 2023
+venue: Procedia Computer Science
+doi: 10.1016/j.procs.2022.12.206
+url: https://doi.org/10.1016/j.procs.2022.12.206
+abstract: "Smart manufacturing is being shaped nowadays by two different paradigms: Industry 4.0 proclaims transition to digitalization and automation of processes while emerging Industry 5.0 emphasizes human centricity. This turn can be explained by unprecedented challenges being faced recently by societies, such as, global climate change, pandemics, hybrid and conventional warfare, refugee crises. Sustainable and resilient processes require humans to get back into the loop of organizational decision-making. In this paper, we argue that the most reasonable way to marry the two extremes of automation and value-based human-driven processes is to create an Industry 4.0 + Industry 5.0 hybrid, which inherits the most valuable features of both - efficiency of the Industry 4.0 processes and sustainability of the Industry 5.0 decisions. Digital cognitive clones twinning human decision-making behavior are represented as an enabling technology for the future hybrid and as an accelerator (as well as resilience enabler) of the convergence of the digital and human worlds."
+type: other
+open_access: true
+cited_by: 335
+query: 10.2307/25148625
+question: null
+search: SEARCH-6980917c90
+score: 2.332
+score_parts:
+  rank: 1
+  citations: 0.632
+  recency: 0.7
+needs_approval: false
+state: candidate

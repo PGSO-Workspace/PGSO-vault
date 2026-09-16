@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7a6a47abf2
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4403000261
+title: "EmoiPlanner : Human emotion and intention aware socially acceptable robot navigation in human‐centric environments"
+authors:
+  - Weiwei Yu
+  - Siong Yuen Kok
+  - Gautam Srivastava
+year: 2024
+venue: Expert Systems
+doi: 10.1111/exsy.13718
+url: https://doi.org/10.1111/exsy.13718
+abstract: Abstract The deployment of robots in human‐centric environments has significantly increased in recent years. It is crucial for robots to navigate human environments while understanding social norms and personal boundaries to ensure a harmonious coexistence between humans and robots. A socially aware robot should be capable of interpreting and responding appropriately to human cues, expressions, and intentions, thereby fostering trust and confidence among humans. However, prior studies were insufficient or unable to address the navigation challenges in human‐populated environments, as they perceive people as obstacles rather than social agents. Recent studies have utilized proxemic areas that are present in interpersonal interactions for human‐robot interaction scenarios, but they have enforced consistent proxemic areas for social robot navigation. This approach fails to fully capture the highly sophisticated behaviour and preferences of humans. Therefore, we propose a psychologically‐based adaptive proxemic area that fluctuates based on the human's emotional state. Furthermore, we integrate this feature into a reinforcement learning‐based social navigation framework, making our navigation framework robust to the unpredictable affections of humans. Additionally, our navigation framework includes human intention prediction to approximate the future proxemic area, thereby avoiding interference with the path to be taken by individuals. We have named our framework the Human Emotion and Intention Aware Path Planner (EmoiPlanner). Our framework has been subjected to case studies involving realistic crowd navigation scenarios, and the results indicate that it enables robots to navigate through crowds without causing discomfort to pedestrians who exhibit stochastic behaviours and emotional states, while also ensuring efficient path planning.
+type: article
+open_access: true
+cited_by: 6
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 1.078
+score_parts:
+  rank: 0.067
+  citations: 0.211
+  recency: 0.8
+needs_approval: false
+state: candidate

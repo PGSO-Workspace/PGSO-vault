@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a07d085f6d
+created: 2026-09-15T00:31:14.448Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21437/interspeech.2023-1425
+title: Diverse Feature Mapping and Fusion via Multitask Learning for Multilingual Speech Emotion Recognition
+authors:
+  - Shi-wook Lee
+year: 2023
+venue: INTERSPEECH 2023
+doi: 10.21437/interspeech.2023-1425
+url: https://doi.org/10.21437/interspeech.2023-1425
+abstract: null
+type: article
+open_access: null
+cited_by: 4
+query: '"Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets"'
+question: null
+search: SEARCH-023614a12f
+score: 0.923
+score_parts:
+  rank: 0.048
+  citations: 0.175
+  recency: 0.7
+needs_approval: false
+state: candidate

@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d864d315da
+created: 2026-09-15T07:51:13.215Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5295755
+title: "Llm-Dctsc: Llm as Agent for Dynamic and Coordinated Traffic Signal Control"
+authors:
+  - Zhihao Wang
+  - Sai Zhang
+  - Jiahao Li
+  - Kemu Dong
+  - Songchao Tan
+  - Shaopeng ZHONG
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5295755
+url: https://doi.org/10.2139/ssrn.5295755
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"dynamic tool retrieval LLM agent journal 2024 2025'
+question: null
+search: SEARCH-da10c5ec54
+score: 0.942
+score_parts:
+  rank: 0.042
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

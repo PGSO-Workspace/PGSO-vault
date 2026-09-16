@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-809529fdda
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4200363237
+title: Information behavior and practices research informing information systems design
+authors:
+  - Isto Huvila
+  - Heidi Enwald
+  - Kristina Eriksson‐Backa
+  - Ying‐Hsang Liu
+  - Noora Hirvonen
+year: 2021
+venue: Journal of the Association for Information Science and Technology
+doi: 10.1002/asi.24611
+url: https://doi.org/10.1002/asi.24611
+abstract: Abstract Information behavior and practices (IBP) research has been repeatedly criticized for having little impact on information systems development (ISD). Claiming that there is a complete disconnect would be an exaggeration but it is apparent that it is not always easy to translate findings of IBP research to workable design recommendations. Based on a reading of earlier literature and a closer investigation of three illustrative example contexts, this article underlines that the value of IBP research for ISD lies in its capability to inform ISD of the variety of ways people deal with information beyond individual systems, their own wants and designers' assumptions. Moreover, it highlights that the implications of information systems go beyond their primary users. Instead of overemphasizing the contextuality of findings, a part of IBP research would benefit from an increased focus on explicating its epistemological extents and limits and identifying, which findings are transferable, what distinguishes specific contexts, what are their defining constraints and priorities, and what aspects of their uniqueness are assumptions and simple clichés.
+type: article
+open_access: true
+cited_by: 20
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 0.998
+score_parts:
+  rank: 0.167
+  citations: 0.331
+  recency: 0.5
+needs_approval: false
+state: candidate

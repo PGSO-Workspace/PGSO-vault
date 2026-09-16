@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-91b79ae33d
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2025.emnlp-main.1253
+title: "Personality Vector: Modulating Personality of Large Language Models by Model Merging"
+authors:
+  - Seungjong Sun
+  - Seo Yeon Baek
+  - Jang Hyun Kim
+year: 2025
+venue: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
+doi: 10.18653/v1/2025.emnlp-main.1253
+url: https://doi.org/10.18653/v1/2025.emnlp-main.1253
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.052
+score_parts:
+  rank: 0.033
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

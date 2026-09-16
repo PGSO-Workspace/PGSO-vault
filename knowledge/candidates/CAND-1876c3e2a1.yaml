@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1876c3e2a1
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-3838808/v1
+title: "ESDP: An Emotion-Sensitive Dialogue Policy for Task-Oriented Dialogue System"
+authors:
+  - Hui Zhu
+  - Xv Wang
+  - Zhenyu Wang
+  - Kai Xv
+year: 2024
+venue: null
+doi: 10.21203/rs.3.rs-3838808/v1
+url: https://doi.org/10.21203/rs.3.rs-3838808/v1
+abstract: Abstract Reinforcement learning (RL) is an effective method in training dialogue policies to steer the conversation towards successful task completion. However, most RL-based methods only rely on semantic inputs that lack empathy as they ignore the user emotional information. Moreover, these methods suffer from delayed rewards caused by the user simulator returning valuable results only at dialogue end. Recently, some methods have been proposed to learn the reward function together with user emotions, but they missing to consider user emotion in each dialogue turn. In this paper, we proposed an emotion-sensitive dialogue policy model (ESDP), it incorporates user emotions information into dialogue policy and selects the optimal action by the combination of top-k actions with the user emotions. The user emotion information in each turn is used as an immediate reward for the current dialogue state to solve sparse rewards and termination dependency. Extensive experiments validate that our method outperforms the baseline approaches when combined with different Q-Learning algorithms, and also surpasses other popular existing dialog policies' performance.
+type: preprint
+open_access: null
+cited_by: 1
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 0.917
+score_parts:
+  rank: 0.042
+  citations: 0.075
+  recency: 0.8
+needs_approval: true
+state: candidate

@@ -1,0 +1,24 @@
+schema: phdude.source
+version: 1
+id: SRC-2903a544dc
+created: 2026-09-15T02:30:54.463Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: PGSO SDK reproducible engineering package and academic documentation, revision3206f5d
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-0e9c5d747b
+  - ART-830414c08e
+  - ART-a95ab04c7c
+  - ART-c3e6033dfa
+  - ART-e7d6f645b9
+  - ART-f9a76ffa05
+state: candidate
+year: 2026
+url: https://github.com/PGSO-Workspace/pgso-sdk/pull/3
+abstract: Versioned source-built experimental package, clean54c1c7d reference outputs and independent review. Finite engineering verification only; production library behavior unchanged. Branch integration and CI status are separately observable.
+bibkey: pgso20262903a544dc

@@ -1,0 +1,26 @@
+schema: phdude.source
+version: 1
+id: SRC-aa2b7e08cc
+created: 2026-09-15T01:20:16.644Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: "MEGE: A mixed emotion graph model for empathetic dialogue generation"
+authors:
+  - Deji Zhao
+  - Donghong Han
+  - Ye Yuan
+  - Bo Ning
+  - Yongxiang Li
+  - Zhongjiang He
+  - Chao Wang
+  - Shuangyong Song
+type: article
+artifacts: []
+state: candidate
+year: 2026
+venue: Neural Networks
+doi: 10.1016/j.neunet.2025.108252
+url: https://doi.org/10.1016/j.neunet.2025.108252
+abstract: "Research review summary: MEGE represents predicted per-utterance emotions and dialogue actions as parallel mixed-emotion graph channels, fuses them, and generates an empathetic response. It is a current temporal emotion-to-response model, but its inputs are dialogue representations rather than uncertain paralinguistic observations. Limits: ['Closed full text prevents a strong full-paper methodological assessment in this pass; retain as candidate rather than fully reviewed evidence.', 'Public EMPATHETICDIALOGUES evaluation is offline text generation, not a deployed agent or human utility study.', 'No observation confidence/abstention, individualized baseline, explicit hysteresis/recovery, reversible tool policy, permission enforcement or audit.']"

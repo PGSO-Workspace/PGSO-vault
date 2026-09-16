@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f353721675
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412727357
+title: "Exploring the Role of Artificial Intelligence in Smart Healthcare: A Capability and Function-Oriented Review"
+authors:
+  - Syed Raza Abbas
+  - Huiseung Seol
+  - Zeeshan Abbas
+  - Seung Won Lee
+year: 2025
+venue: Healthcare
+doi: 10.3390/healthcare13141642
+url: https://doi.org/10.3390/healthcare13141642
+abstract: "Artificial Intelligence (AI) is transforming smart healthcare by enhancing diagnostic precision, automating clinical workflows, and enabling personalized treatment strategies. This review explores the current landscape of AI in healthcare from two key perspectives: capability types (e.g., Narrow AI and AGI) and functional architectures (e.g., Limited Memory and Theory of Mind). Based on capabilities, most AI systems today are categorized as Narrow AI, performing specific tasks such as medical image analysis and risk prediction with high accuracy. More advanced forms like General Artificial Intelligence (AGI) and Superintelligent AI remain theoretical but hold transformative potential. From a functional standpoint, Limited Memory AI dominates clinical applications by learning from historical patient data to inform decision-making. Reactive systems are used in rule-based alerts, while Theory of Mind (ToM) and Self-Aware AI remain conceptual stages for future development. This dual perspective provides a comprehensive framework to assess the maturity, impact, and future direction of AI in healthcare. It also highlights the need for ethical design, transparency, and regulation as AI systems grow more complex and autonomous, by incorporating cross-domain AI insights. Moreover, we evaluate the viability of developing AGI in regionally specific legal and regulatory frameworks, using South Korea as a case study to emphasize the limitations imposed by infrastructural preparedness and medical data governance regulations."
+type: article
+open_access: true
+cited_by: 49
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.392
+score_parts:
+  rank: 0.067
+  citations: 0.425
+  recency: 0.9
+needs_approval: false
+state: candidate

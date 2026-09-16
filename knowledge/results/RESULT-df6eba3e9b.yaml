@@ -1,0 +1,21 @@
+schema: phdude.result
+version: 1
+id: RESULT-df6eba3e9b
+created: 2026-09-15T00:35:26.395Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: "pgso: 0 missed blocks and 0 unnecessary blocks in 1206 finite-policy preflight episodes"
+from: ANALYSIS-607978b848
+values:
+  episodes: 1206
+  expected_block: 16
+  expected_allow: 1190
+  missed_blocks: 0
+  unnecessary_blocks: 0
+state: candidate
+ext:
+  analysis:
+    key: pgso
+    run_at: 2026-09-15T00:35:26.395Z

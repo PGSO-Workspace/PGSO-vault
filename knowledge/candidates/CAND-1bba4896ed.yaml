@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1bba4896ed
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7157639
+title: "When the Model Changes: Resilience Engineering Patterns for Production Agentic AI Workflows"
+authors:
+  - Lavkesh Dwivedi
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7157639
+url: https://doi.org/10.2139/ssrn.7157639
+abstract: "Autonomous AI agents built on large language model (LLM) APIs are subject to a class of dependency instability with no direct analogue in traditional software engineering. The upstream model changes, often without notice, and the application breaks in non-obvious ways. Between 2023 and 2026, all major LLM providers deprecated significant model generations: OpenAI retired the Codex family with three days' notice, Anthropic deprecated its claude-2.x and claude-instant series, Google shut down PaLM 2 across both Google AI Studio and Vertex AI, and GitHub Copilot silently transitioned its underlying model multiple times before introducing a Long-Term Support designation in 2026. When a foundation model developer retires a model generation, hosting providers retire it simultaneously: Groq, Together AI, Fireworks, and Replicate all retired the same LLaMA 3.1 variants within weeks of each other, collapsing multi-provider fallback to a single point of failure. This paper characterizes five categories of model change event (announced version updates, silent behavioral drift, forced deprecations, provider substitution, and upstream cascade retirements) and derives five engineering patterns for building agentic workflows that survive them: behavioral contracts evaluated before traffic promotion, provider abstraction layers that normalize API surface differences, shadow testing and canary deployment for safe model transitions, behavioral drift circuit breakers for silent changes, and prompt versioning with explicit model pinning. Pseudocode implementations and implementation tradeoff analysis are provided for each pattern."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.033
+score_parts:
+  rank: 0.033
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

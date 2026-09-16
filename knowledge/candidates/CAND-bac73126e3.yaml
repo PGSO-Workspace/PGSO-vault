@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bac73126e3
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4311554498
+title: Self-reporting Limitations in Information Systems Design Science Research
+authors:
+  - João Barata
+  - Paulo Rupino da Cunha
+  - António Días de Figueiredo
+year: 2022
+venue: Business & Information Systems Engineering
+doi: 10.1007/s12599-022-00782-8
+url: https://doi.org/10.1007/s12599-022-00782-8
+abstract: null
+type: article
+open_access: true
+cited_by: 12
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 0.989
+score_parts:
+  rank: 0.111
+  citations: 0.278
+  recency: 0.6
+needs_approval: false
+state: candidate

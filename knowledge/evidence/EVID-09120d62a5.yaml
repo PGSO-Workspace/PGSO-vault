@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-09120d62a5
+created: 2026-09-15T06:13:14.204Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-a2a8634f13
+locator: Recorded diagnostic information
+excerpt: Each of the 13 direct-call cases emitted one receipt and matched a predeclared reason label. The labels are authored in the validation executable, not independently annotated by participants. Seven stable fields are retained after excluding duration_us.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-ef680b9749

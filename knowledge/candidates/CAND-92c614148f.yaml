@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-92c614148f
+created: 2026-09-14T23:47:30.960Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7214719
+title: "Automatic Prompt Optimization for LLM Agents: A Comparative Study of APET, RePrompt, and EvoAgentX"
+authors:
+  - Dhananjaya Lahiru Bandara
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7214719
+url: https://doi.org/10.2139/ssrn.7214719
+abstract: "Automatic prompt optimization has emerged as a transformative approach to maximize the performance of large language model (LLM) agents while minimizing reliance on manual prompt engineering. This systematic review synthesizes recent advances in automatic prompt optimization methods, with a comparative focus on three state-of-the-art frameworks: APET (Automatic Prompt Engineering Toolbox), RePrompt, and EvoAgentX. Through comprehensive analysis of 50 peerreviewed papers identified from over 170 million research articles, we evaluate these methods across multiple dimensions including performance gains, computational efficiency, scalability, and robustness. Our findings demonstrate that automatic prompt optimization consistently outperforms manual prompt engineering, with APET achieving improvements of +4.4% to +6.8% on reasoning tasks, RePrompt showing effectiveness in planning scenarios, and EvoAgentX delivering up to 20% accuracy improvements on multi-agent benchmarks. However, significant challenges remain regarding robustness under domain distribution shifts, scalability for smaller models, and the context-dependent effectiveness of reflection-based versus resampling-based optimizers. This review identifies critical research gaps and proposes future directions, including the development of interpretable hybrid frameworks and unified approaches combining discrete prompt editing with graph-centric workflow optimization. Our analysis provides a comprehensive reference for researchers and practitioners seeking to leverage automatic prompt optimization for LLM agents."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Policy-as-Prompt" LLM agents'
+question: null
+search: SEARCH-b69be67f4a
+score: 1.091
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

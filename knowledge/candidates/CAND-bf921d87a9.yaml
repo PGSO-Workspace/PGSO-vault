@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bf921d87a9
+created: 2026-09-15T01:07:29.902Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/s13042-024-02449-0
+title: "IECCK: integrating emotion cause and common knowledge for empathetic dialogue generation"
+authors:
+  - Xiaopeng Cao
+  - Ting Meng
+  - Xiaoxia Bi
+year: 2024
+venue: International Journal of Machine Learning and Cybernetics
+doi: 10.1007/s13042-024-02449-0
+url: https://doi.org/10.1007/s13042-024-02449-0
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation" 11293762'
+question: null
+search: SEARCH-a309ac3231
+score: 0.863
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

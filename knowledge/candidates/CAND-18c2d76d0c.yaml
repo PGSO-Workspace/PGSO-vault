@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-18c2d76d0c
+created: 2026-09-15T01:07:29.902Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2023.emnlp-main.653
+title: "E-CORE: Emotion Correlation Enhanced Empathetic Dialogue Generation"
+authors:
+  - Fengyi Fu
+  - Lei Zhang
+  - Quan Wang
+  - Zhendong Mao
+year: 2023
+venue: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing
+doi: 10.18653/v1/2023.emnlp-main.653
+url: https://doi.org/10.18653/v1/2023.emnlp-main.653
+abstract: null
+type: article
+open_access: null
+cited_by: 12
+query: '"Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation" 11293762'
+question: null
+search: SEARCH-a309ac3231
+score: 1.228
+score_parts:
+  rank: 0.25
+  citations: 0.278
+  recency: 0.7
+needs_approval: false
+state: candidate

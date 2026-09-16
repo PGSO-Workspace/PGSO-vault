@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-aac5d4097d
+created: 2026-09-15T08:50:09.011Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/comparator-tools-9aaa300/regression-manifest.json
+paths:
+  - sources/software/pgso-sdk/comparator-tools-9aaa300/regression-manifest.json
+hash: aac5d4097dfdc21b1afc19a415dcf8d22b3b720a905c838f50ca87c9f86d3b36
+bytes: 85427
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T08:50:08.805Z

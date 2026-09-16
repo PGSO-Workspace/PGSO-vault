@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ef7871e91d
+created: 2026-09-15T00:31:14.448Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21437/interspeech.2021-785
+title: Speech Emotion Recognition via Multi-Level Cross-Modal Distillation
+authors:
+  - Ruichen Li
+  - Jinming Zhao
+  - Qin Jin
+year: 2021
+venue: Interspeech 2021
+doi: 10.21437/interspeech.2021-785
+url: https://doi.org/10.21437/interspeech.2021-785
+abstract: null
+type: article
+open_access: null
+cited_by: 10
+query: '"Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets"'
+question: null
+search: SEARCH-023614a12f
+score: 0.816
+score_parts:
+  rank: 0.056
+  citations: 0.26
+  recency: 0.5
+needs_approval: false
+state: candidate

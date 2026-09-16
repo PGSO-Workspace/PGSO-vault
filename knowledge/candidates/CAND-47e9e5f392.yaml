@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-47e9e5f392
+created: 2026-09-15T09:46:31.407Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4391839732
+title: "Perception of Ethical Risks of Artificial Intelligence Technology in the Context of Individual Cultural Values and Intergenerational Differences: The Case of China"
+authors:
+  - Juntao Guo
+  - JIAQI CHEN
+  - SUYANG CHENG
+year: 2024
+venue: Research Square
+doi: 10.21203/rs.3.rs-3901913/v1
+url: https://doi.org/10.21203/rs.3.rs-3901913/v1
+abstract: Abstract The rapid development of General Artificial Intelligence Technology has attracted significant attention from global society, which gradually emerged some concerns due to the ethical implications it may bring. Experts, scholars, and the public from different fields and age groups have mixed views on this technology. Under the current circumstances, it is crucial to explore the relationship between digital intergenerational differences, cultural values, and the perception of ethical risks associated with artificial intelligence. Through multiple regression analysis by using Statistical Package for the Social Sciences (SPSS) on 310 collected responses, the results have indicated that digital intergenerational differences do not significantly affect the perception of ethical risks related to artificial intelligence; under the interaction of collectivism, long-term orientation, and intergenerational differences with masculinity, the impact on the perception of AI ethical risks is positive. Combining the findings can not only help to mitigate the inherent biases between digital generations but also facilitates a multidimensional approach to address differences in perceptions of AI ethical risks. Additionally, it contributes to establishing a more diverse and inclusive environment by incorporating cultural differences into policy formulation, enabling a collective response to potential ethical risks that may emerge in the future of the artificial intelligence field.
+type: preprint
+open_access: true
+cited_by: 4
+query: Yue Qi personality cultural variables psychological simulations
+question: null
+search: SEARCH-4cdf3b8231
+score: 1.475
+score_parts:
+  rank: 0.5
+  citations: 0.175
+  recency: 0.8
+needs_approval: true
+state: candidate

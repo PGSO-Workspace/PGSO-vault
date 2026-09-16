@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ab45af7634
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icidca66325.2025.11280317
+title: "EmotiCare: An Emotion-Aware Conversational Agent for Mental Health Support"
+authors:
+  - Mary Valentina Janet A
+  - Alexander R
+  - G. Brindha
+year: 2025
+venue: 2025 7th International Conference on Innovative Data Communication Technologies and Application (ICIDCA)
+doi: 10.1109/icidca66325.2025.11280317
+url: https://doi.org/10.1109/icidca66325.2025.11280317
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.053
+score_parts:
+  rank: 0.034
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

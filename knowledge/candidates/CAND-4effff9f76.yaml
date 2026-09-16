@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4effff9f76
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.52783/jisem.v10i51s.10448
+title: Enhancing Human-Robot Collaboration through Multimodal Emotion and Context-Aware Object Detection
+authors:
+  - Ateeque Ahmed
+year: 2025
+venue: Journal of Information Systems Engineering and Management
+doi: 10.52783/jisem.v10i51s.10448
+url: https://doi.org/10.52783/jisem.v10i51s.10448
+abstract: In the evolving landscape of human-robot interaction, the ability of robots to perceive and respond to human emotions and surrounding objects is essential for effective collaboration. This study proposes an integrated framework that combines multimodal emotion detection and context-aware object recognition to enhance the intuitiveness and responsiveness of human-robot collaboration. The approach utilizes visual (facial expressions) and auditory (speech tone) cues for emotion detection, while simultaneously identifying and interpreting relevant objects in the environment using computer vision and contextual data. There is an advanced fusion algorithm to make the robots synchronize emotional states and environmental understanding, which allows the robots to have adaptive decisions in real time. For instance, the identification of hazardous objects in addition to reading a user’s stress can enable the robot to change its behavior in such a way, in which the assistance can be, the robot keeps a safe distance or the robot changes its task strategy. Through the integration of these technologies, the robot can be more aware of the situation and have more personalized and humanlike interactions that are more efficient. The research is intended to show that multimodal and context aware systems can change human robot collaboration from reactive automation to proactive cooperation. The findings enable intelligent robots to be deployed in collaborations that require emotional sensitivity and context awareness in healthcare, manufacturing, customer service and domestic environments.
+type: article
+open_access: null
+cited_by: 0
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 0.934
+score_parts:
+  rank: 0.034
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

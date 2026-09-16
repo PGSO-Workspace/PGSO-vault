@@ -1,0 +1,17 @@
+schema: phdude.source
+version: 1
+id: SRC-178e3c1cd6
+created: 2026-09-15T01:03:23.365Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: PGSO comparative validation protocol, 15 September 2026
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-9515e8e886
+state: candidate
+year: 2026
+abstract: "Prospective protocol: blinded matched-output utility plus paired actual-dispatch enforcement; PGSO, NeMo, Invariant and two experimental baselines; separate AgentSpec/Hume/ElevenLabs/Gemini capability track. Speaker-separated pilot and confirmatory sets, multiplicity and simulated sample-size selection. Not executed human validation."

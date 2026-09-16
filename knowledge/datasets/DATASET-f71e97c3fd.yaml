@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-f71e97c3fd
+created: 2026-09-15T00:34:54.844Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/bibliography-screen-v1.json
+hash: f71e97c3fde0f59b8ac30e9ac310afbcbe98d1ae5a052829892524ba4a89ac5c
+bytes: 11396
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: 20works screened for relevance;10 exactmetadata checks, no fulltextorQ1acceptance; reports articlevsconference status explicitly

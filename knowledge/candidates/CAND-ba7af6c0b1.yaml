@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ba7af6c0b1
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6290760
+title: "ExecLayer: A Deterministic Runtime Enforcement Architecture for Authority-Bound AI Execution"
+authors:
+  - James Benton
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6290760
+url: https://doi.org/10.2139/ssrn.6290760
+abstract: Autonomous and generative AI systems are increasingly capable of initiating and executing real-world operational actions across healthcare, finance, infrastructure, and defense domains. Current governance approaches rely primarily on policy frameworks, risk classification models, and post-execution auditing mechanisms, which lack deterministic enforcement at runtime. This gap creates systemic risk where compliance intent cannot be reliably translated into execution-time authority verification. This paper introduces ExecLayer, a runtime enforcement architecture designed to impose deterministic governance constraints on AI-driven system actions prior to execution. ExecLayer resolves natural language or machine-generated operational intent into a declarative intermediate schema termed a Blueprint, which encodes authority chains, permissions, risk classifications, dependency relationships, and execution constraints in a portable and auditable format. The architecture enforces execution gating through cryptographically verifiable Trust Artifacts and Authority Receipts, enabling fail-closed operation and portable compliance validation across distributed and adversarial execution environments. ExecLayer supports both UI-mediated and headless workflow execution while preserving immutable audit lineage and cross-jurisdiction compliance portability. The paper formalizes the Blueprint schema, enforcement pipeline, trust artifact validation model, and adversarial threat assumptions. It further evaluates how deterministic runtime governance may provide a technical substrate for emerging regulatory frameworks including ISO 42001, NIST AI Risk Management Framework, and transnational AI safety standards. ExecLayer demonstrates a shift from advisory governance models toward machine-verifiable authority enforcement, offering a potential reference architecture for operational AI governance infrastructure.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.333
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

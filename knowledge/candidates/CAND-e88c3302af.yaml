@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e88c3302af
+created: 2026-09-15T01:08:13.465Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/s11089-024-01154-7
+title: Personality Traits as Moderating Variables for Cross-Cultural Adjustment and Psychological Well-Being
+authors:
+  - Andrew Amanor
+  - Clarissa Delariarte
+year: 2024
+venue: Pastoral Psychology
+doi: 10.1007/s11089-024-01154-7
+url: https://doi.org/10.1007/s11089-024-01154-7
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: Toward accurate psychological simulations Investigating LLMs responses to personality and cultural variables
+question: null
+search: SEARCH-1466de93a8
+score: 1.3
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

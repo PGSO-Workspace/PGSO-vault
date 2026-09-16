@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dc6bec2568
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7161915858
+title: "AgentWall: A Runtime Safety Layer for Local AI Agents"
+authors:
+  - Ashwin Aravind
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2605.16265
+abstract: The safety of autonomous AI agents is increasingly recognized as a critical open problem. As agents transition from passive text generators to active actors capable of executing shell commands, modifying files, calling APIs, and browsing the web, the consequences of unsafe or adversarially manipulated behavior become immediate and tangible. Existing AI safety work has focused primarily on model alignment and input filtering, but these approaches do not address what happens at the moment an agent's intent becomes a real action on a real machine. This gap is especially acute in local environments, where developers run agents against their own filesystems, credentials, and infrastructure with little runtime control. This paper introduces AgentWall, a runtime safety and observability layer for local AI agents. AgentWall intercepts every proposed agent action before it reaches the host environment, evaluates it against an explicit declarative policy, requires human approval for sensitive operations, and records a complete execution trail for audit and replay. It is implemented as a policy-enforcing MCP proxy and native OpenClaw plugin, working across Claude Desktop, Cursor, Windsurf, Claude Code, and OpenClaw with a single install command. We present the design, architecture, threat model, and policy model of AgentWall, and demonstrate 92.9% policy enforcement accuracy with sub-millisecond overhead across 14 benchmark tests. AgentWall is open-source at https://github.com/agentwall/Agentwall.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.111
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

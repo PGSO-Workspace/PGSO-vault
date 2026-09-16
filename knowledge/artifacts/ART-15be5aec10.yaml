@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-15be5aec10
+created: 2026-09-15T08:24:35.818Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/paper1-action-validity-preflight-2026-09-15.md
+paths:
+  - sources/reports/paper1-action-validity-preflight-2026-09-15.md
+hash: 15be5aec1023722ed4bbb9a9b182d1342fa3a5e7b93e75dc5008840f97f9e7cc
+bytes: 5686
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 5686
+  sections: 5
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T08:24:35.616Z
+latest: false

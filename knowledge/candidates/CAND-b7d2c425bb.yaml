@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b7d2c425bb
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.4441911
+title: Efficient Bayesian Inference with Latent Hamiltonian Neural Networks in No-U-Turn Sampling
+authors:
+  - Somayajulu Dhulipala
+  - Yifeng Che
+  - Michael Shields
+year: 2023
+venue: null
+doi: 10.2139/ssrn.4441911
+url: https://doi.org/10.2139/ssrn.4441911
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 0.843
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 0.7
+needs_approval: true
+state: candidate

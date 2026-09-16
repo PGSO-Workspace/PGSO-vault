@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-85f3487439
+created: 2026-09-15T00:31:40.415Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-validation-linux-x86_64
+hash: 85f348743933d1b55a7532a78c749759505d406367d607c6d8a064e3083e3009
+bytes: 597512
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Actual Rust executable from ANALYSIS-1a3562f88b; Linux x86_64 only; source/build lineage in registered manifest

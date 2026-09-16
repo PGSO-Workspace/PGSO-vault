@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-51119d3f06
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404781205
+title: "Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization"
+authors:
+  - Yu-Min Tseng
+  - Yu‐Chao Huang
+  - Teng-Yun Hsiao
+  - Weilin Chen
+  - Chao‐Wei Huang
+  - Yuying Meng
+  - Yun-Nung Chen
+year: 2024
+venue: null
+doi: 10.18653/v1/2024.findings-emnlp.969
+url: https://doi.org/10.18653/v1/2024.findings-emnlp.969
+abstract: The concept of persona, originally adopted in dialogue literature, has re-surged as a promising framework for tailoring large language models (LLMs) to specific context (e.g., personalized search, LLM-as-a-judge).However, the growing research on leveraging persona in LLMs is relatively disorganized and lacks a systematic taxonomy.To close the gap, we present a comprehensive survey to categorize the current state of the field.We identify two lines of research, namely (1) LLM Role-Playing, where personas are assigned to LLMs, and (2) LLM Personalization, where LLMs take care of user personas.Additionally, we introduce existing methods for LLM personality evaluation.To the best of our knowledge, we present the first survey for role-playing and personalization in LLMs under the unified view of persona.We continuously maintain a paper collection to foster future endeavors.1 * Equal contribution. 1 https://github.com/MiuLab/PersonaLLM-Survey
+type: other
+open_access: true
+cited_by: 77
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.773
+score_parts:
+  rank: 0.5
+  citations: 0.473
+  recency: 0.8
+needs_approval: false
+state: candidate

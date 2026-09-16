@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2bbc5508b4
+created: 2026-09-14T20:36:03.109Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7410318
+title: Detecting Empathy Decay Across Multi-Turn Conversations in Machine Learning Support Agents
+authors:
+  - Lei Chang
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7410318
+url: https://doi.org/10.2139/ssrn.7410318
+abstract: "The integration of Large Language Models (LLMs) into support agent systems promises scalable, 24/7 customer service. However, as these models are often optimized for single-turn accuracy or immediate resolution, their performance in prolonged, multi-turn interactions remains poorly understood. This paper investigates a critical and underexplored failure mode in these systems: empathy decay. We define empathy decay as the progressive degradation of an LLM's ability to recognize, validate, and appropriately respond to a user's emotional state over the course of an extended conversation. We posit that this phenomenon arises from a combination of factors, including the loss of contextual salience, attentional fatigue within the model's architecture, and a system-level prioritization of task completion over affective rapport. To systematically study this, we introduce a novel evaluation framework comprising a synthetic dialogue dataset with controlled emotional arcs (ranging from frustration to satisfaction) and a suite of metrics that measure both explicit empathetic expression and implicit emotional alignment. Our experiments, conducted across several state-of-the-art opensource and proprietary LLMs, reveal a consistent and significant decline in empathetic response quality after just 5-7 conversational turns. We further demonstrate that this decay is not merely a byproduct of context window limitations but is linked to the model's internal attention distribution and its sensitivity to recency bias. To mitigate this, we propose and evaluate a novel Emotion-Grounded Memory mechanism, which selectively retains and reinforces emotionally salient cues from earlier turns. Our results indicate that this intervention can reduce empathy decay by up to 40% without compromising task-solving efficacy. This work highlights a fundamental challenge in deploying empathetic AI for long-form interactions and offers a pathway toward more consistent, emotionally intelligent support agents."
+type: preprint
+open_access: null
+cited_by: 0
+query: Evaluating LLM-based Agents for Multi-turn Conversations A Survey
+question: null
+search: SEARCH-4f998515e4
+score: 1.333
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

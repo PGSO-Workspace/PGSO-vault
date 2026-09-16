@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bd8c4fc47b
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icmlant63295.2024.00018
+title: LLM Prompting Strategies in Automated Machine Learning
+authors:
+  - Israel Campero Jurado
+year: 2024
+venue: 2024 IEEE International Conference on Machine Learning and Applied Network Technologies (ICMLANT)
+doi: 10.1109/icmlant63295.2024.00018
+url: https://doi.org/10.1109/icmlant63295.2024.00018
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 0.84
+score_parts:
+  rank: 0.04
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

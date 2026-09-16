@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a55377be09
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392397287
+title: Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition
+authors:
+  - Luz Martinez-Lucas
+  - Wei-Cheng Lin
+  - Carlos Busso
+year: 2024
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2024.3372380
+url: https://doi.org/10.1109/taffc.2024.3372380
+abstract: The emotional content of several databases are annotated withcontinuous-time(CT) annotations, providing traces with frame-by-frame scores describing the instantaneous value of an emotional attribute. However, having a single score describing the global emotion of a short segment is more convenient for several emotion recognition formulations. A common approach is to derivesentence-level(SL) labels from CT annotations by aggregating the values of the emotional traces across time and annotators. How similar are these aggregated SL labels from labels originally collected at the sentence level? The release of the MSP-Podcast (SL annotations) and MSP-Conversation (CT annotations) corpora provides the resources to explore the validity of aggregating SL labels from CT annotations. There are 2,884 speech segments that belong to both corpora. Using this set, this study (1) compares both types of annotations using statistical metrics, (2) evaluates their inter-evaluator agreements, and (3) explores the effect of these SL labels onspeech emotion recognition(SER) tasks. The analysis reveals benefits of using SL labels derived from CT annotations in the estimation of valence. This analysis also provides insights on how the two types of labels differ and how that could affect a model.
+type: article
+open_access: true
+cited_by: 15
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.192
+score_parts:
+  rank: 0.091
+  citations: 0.301
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-7741540728
+created: 2026-09-13T06:59:21.859Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/1b17c248d360/docs/phase0-calibration-report.md
+paths:
+  - sources/software/pgso-sdk/1b17c248d360/docs/phase0-calibration-report.md
+hash: 7741540728806ee9cf28bdf5dff0f8c7e41e8573a86b20e2f21728da441ad93b
+bytes: 29649
+mime: text/markdown
+kind: md
+role: report
+extracted:
+  status: ok
+  method: text
+  text_chars: 29649
+  sections: 46
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:59:21.629Z

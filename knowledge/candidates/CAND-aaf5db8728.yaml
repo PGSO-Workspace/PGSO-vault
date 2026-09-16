@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-aaf5db8728
+created: 2026-09-15T07:47:48.336Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.36227/techrxiv.177212455.57375619/v1
+title: "The Unified Semantic Lattice: Deterministic Security Enforcement via Hardware-Attested Proof-Carrying Code"
+authors:
+  - Kian Mansouri Jamshidi
+year: 2026
+venue: null
+doi: 10.36227/techrxiv.177212455.57375619/v1
+url: https://doi.org/10.36227/techrxiv.177212455.57375619/v1
+abstract: Critical infrastructure and aerospace systems remain acutely vulnerable to zero-day memory corruption exploits, such as Return-Oriented Programming (ROP) and Use-After-Free (UAF). Contemporary Endpoint Detection and Response (EDR) platforms rely heavily on probabilistic heuristics and behavioral signatures, which are mathematically insufficient against novel, structurally sound attack chains. This heuristic failure is exacerbated by the modern "Supply Chain Crisis," wherein critical legacy binaries cannot be recompiled or easily patched. Consequently, abstract software logic executes entirely disconnected from the physical realities of the underlying hardware, allowing adversaries to manipulate execution states in a "Semantic Gap" unseen by the operating system. To resolve this vulnerability, we introduce the UFTC-X Sovereign Sentinel, a "Mathematical Exoskeleton" that wraps unmodified legacy binaries in formal, machine-checkable security guarantees. The architecture operationalizes a novel offline-Legislature and online-Executive split, decoupling computationally expensive theorem proving from real-time execution. The system enforces a four-layer "Unified Semantic Lattice" that strictly dictates allowable execution states by interlocking formal binary logic with undeniable physics. This lattice fuses offline Satisfiability Modulo Theories (SMT) proofs, real-time physical hardware telemetry (RAPL power-draw mapping and sub-millisecond network RTT proxy detection), offline-tolerant Merkle Tree temporal ledgers, and Post-Quantum cryptographic intent validation (ML-DSA / FIPS 204). Empirical evaluation of the UFTC-X architecture demonstrates a 100% neutralization rate against the DARPA-standard 100-Point Red-Cell Adversarial Suite, successfully preventing all vector variations of control-flow hijacking without relying on prior threat signatures. By reducing the runtime verification constraint to strictly 𝑂 (1) complexity, the Executive daemon achieves absolute deterministic enforcement with less than 2% CPU utilization and < 5% execution latency overhead. Ultimately, this paradigm shift renders unauthorized code modification mathematically and physically impossible, providing a viable, scale-invariant defense for both high-frequency data centers and resource-constrained satellite constellations.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"11641546" "Deterministic Runtime Enforcement"'
+question: null
+search: SEARCH-3f3c5cf8a3
+score: 1.05
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

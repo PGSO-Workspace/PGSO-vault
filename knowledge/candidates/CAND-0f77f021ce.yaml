@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0f77f021ce
+created: 2026-09-15T07:38:48.880Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1111/gcbb.12988
+title: Corrigendum
+authors: []
+year: 2022
+venue: GCB Bioenergy
+doi: 10.1111/gcbb.12988
+url: https://doi.org/10.1111/gcbb.12988
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"10.1145/3814959" published'
+question: null
+search: SEARCH-76dea7765d
+score: 0.731
+score_parts:
+  rank: 0.056
+  citations: 0.075
+  recency: 0.6
+needs_approval: false
+state: candidate

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c38a303852
+created: 2026-09-15T08:27:35.758Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7203841491
+title: Simulation system for the coordinated management of production in small and medium-sized fish farming associations in Colombia
+authors:
+  - Juan Sebastián Mantilla Serrano
+  - Hammer Ronaldo Muñoz Hernández
+year: 2026
+venue: Universidad Industrial de Santander
+doi: null
+url: https://noesis.uis.edu.co/handle/20.500.14071/48104
+abstract: "La piscicultura en Colombia es practicada mayoritariamente por pequeños productores que operan de forma aislada, lo que limita su capacidad para atender demandas de mercado que individualmente resultan inalcanzables, además de generar períodos de inactividad productiva que erosionan la rentabilidad de su infraestructura instalada. Como respuesta a esta problemática, el grupo de investigación SIMON de la Universidad Industrial de Santander ha desarrollado una línea de investigación orientada a tecnificar y democratizar el acceso a herramientas de gestión piscícola para el campesinado colombiano. En este marco, el proyecto inmediatamente precedente formalizó un modelo de Dinámica de Sistemas para la simulación biológica de un estanque individual e integró redes neuronales para el pronóstico del peso y la ración requerida. El presente trabajo extiende este fundamento hacia la escala asociativa mediante una plataforma de simulación y optimización que coordina los ciclos productivos de múltiples estanques pertenecientes a diferentes productores para garantizar una producción continua frente a una demanda periódica. La plataforma integra tres subsistemas: un motor de simulación que orquesta la dinámica biológica de múltiples estanques mediante un horizonte deslizante con simulación de Monte Carlo; un módulo de ciencia de datos basado en una red neuronal recurrente LSTM que predice el incremento de peso y la ración requerida; y un módulo de optimización matemática que genera el cronograma óptimo de siembras y cosechas minimizando las desviaciones de suministro frente a la demanda bajo restricciones de capacidad y calidad comercial. El sistema constituye un aporte concreto a la línea de investigación del grupo SIMON orientada al fortalecimiento tecnológico del sector piscícola colombiano, y establece la base sobre la cual escalar hacia una herramienta de apoyo a la toma de decisiones para asociaciones de piscicultores de pequeña y mediana escala."
+type: other
+open_access: true
+cited_by: 0
+query: 10.1080/0960085X.2026.2627280 MEDS Methodology for Evaluation in Design Science
+question: null
+search: SEARCH-6539f3f4d3
+score: 1.333
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-025d9cce2e
+created: 2026-09-15T01:14:17.048Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4400678448
+title: Perils and opportunities in using large language models in psychological research
+authors:
+  - Suhaib Abdurahman
+  - Mohammad Atari
+  - Farzan Karimi-Malekabadi
+  - Mona J. Xue
+  - Jackson Trager
+  - Peter S. Park
+  - Preni Golazizian
+  - Ali Omrani
+  - Morteza Dehghani
+year: 2024
+venue: PNAS Nexus
+doi: 10.1093/pnasnexus/pgae245
+url: https://doi.org/10.1093/pnasnexus/pgae245
+abstract: The emergence of large language models (LLMs) has sparked considerable interest in their potential application in psychological research, mainly as a model of the human psyche or as a general text-analysis tool. However, the trend of using LLMs without sufficient attention to their limitations and risks, which we rhetorically refer to as "GPTology", can be detrimental given the easy access to models such as ChatGPT. Beyond existing general guidelines, we investigate the current limitations, ethical implications, and potential of LLMs specifically for psychological research, and show their concrete impact in various empirical studies. Our results highlight the importance of recognizing global psychological diversity, cautioning against treating LLMs (especially in zero-shot settings) as universal solutions for text analysis, and developing transparent, open methods to address LLMs' opaque nature for reliable, reproducible, and robust inference from AI-generated data. Acknowledging LLMs' utility for task automation, such as text annotation, or to expand our understanding of human psychology, we argue for diversifying human samples and expanding psychology's methodological toolbox to promote an inclusive, generalizable science, countering homogenization, and over-reliance on LLMs.
+type: article
+open_access: true
+cited_by: 100
+query: Toward accurate psychological simulations Investigating LLMs responses to personality and cultural variables full text preprint
+question: null
+search: SEARCH-8d7cf1f16c
+score: 1.801
+score_parts:
+  rank: 0.5
+  citations: 0.501
+  recency: 0.8
+needs_approval: false
+state: candidate

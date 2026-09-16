@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4c495dbfc9
+created: 2026-09-14T16:52:25.588Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.14293/s2199-1006.1.sor-uncat.a11446866.v1.rfwsqz
+title: Review of "Larger and more instructable language models become less reliable"
+authors:
+  - Venkata Rayudu Posina
+year: 2025
+venue: null
+doi: 10.14293/s2199-1006.1.sor-uncat.a11446866.v1.rfwsqz
+url: https://doi.org/10.14293/s2199-1006.1.sor-uncat.a11446866.v1.rfwsqz
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: Larger and more instructable language models become less reliable
+question: null
+search: SEARCH-5a67454c5b
+score: 1.9
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

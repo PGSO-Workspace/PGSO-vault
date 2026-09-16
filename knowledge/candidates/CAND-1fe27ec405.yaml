@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1fe27ec405
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392238943
+title: "Environmental, social, and governance (ESG) and artificial intelligence in finance: State-of-the-art and research takeaways"
+authors:
+  - Tristan Lim
+year: 2024
+venue: Artificial Intelligence Review
+doi: 10.1007/s10462-024-10708-3
+url: https://doi.org/10.1007/s10462-024-10708-3
+abstract: "Abstract The rapidly growing research landscape in finance, encompassing environmental, social, and governance (ESG) topics and associated Artificial Intelligence (AI) applications, presents challenges for both new researchers and seasoned practitioners. This study aims to systematically map the research area, identify knowledge gaps, and examine potential research areas for researchers and practitioners. The investigation focuses on three primary research questions: the main research themes concerning ESG and AI in finance, the evolution of research intensity and interest in these areas, and the application and evolution of AI techniques specifically in research studies within the ESG and AI in finance domain. Eight archetypical research domains were identified: (i) Trading and Investment, (ii) ESG Disclosure, Measurement and Governance, (iii) Firm Governance, (iv) Financial Markets and Instruments, (v) Risk Management, (vi) Forecasting and Valuation, (vii) Data, and (viii) Responsible Use of AI. Distinctive AI techniques were found to be employed across these archetypes. The study contributes to consolidating knowledge on the intersection of ESG, AI, and finance, offering an ontological inquiry and key takeaways for practitioners and researchers. Important insights include the popularity and crowding of the Trading and Investment domain, the growth potential of the Data archetype, and the high potential of Responsible Use of AI, despite its low publication count. By understanding the nuances of different research archetypes, researchers and practitioners can better navigate this complex landscape and contribute to a more sustainable and responsible financial sector."
+type: article
+open_access: true
+cited_by: 152
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 1.471
+score_parts:
+  rank: 0.125
+  citations: 0.546
+  recency: 0.8
+needs_approval: false
+state: candidate

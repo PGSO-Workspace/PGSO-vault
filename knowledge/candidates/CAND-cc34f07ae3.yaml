@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-cc34f07ae3
+created: 2026-09-15T09:45:34.518Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0014762600004818
+title: Electronic Pets Emotional Interaction Design Based on Voice Emotion Recognition
+authors:
+  - Yuxin Zhang
+year: 2025
+venue: Proceedings of the 3rd International Conference on Data Analysis and Machine Learning
+doi: 10.5220/0014762600004818
+url: https://doi.org/10.5220/0014762600004818
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Dual Learning for Conversational Emotion Recognition and Emotional Response Generation" PDF'
+question: null
+search: SEARCH-370d9309b7
+score: 1.025
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

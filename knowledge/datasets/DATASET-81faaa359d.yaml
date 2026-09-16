@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-81faaa359d
+created: 2026-09-15T01:02:45.406Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-execution-validation-v2-linux-x86_64
+hash: 81faaa359d4473f71f6bfbc799f01ee1b416fab00f97b57ef04728698d630ce8
+bytes: 5364160
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Actual dispatch experiment v2; exact case-set guard and narrowed policy-transition attribution

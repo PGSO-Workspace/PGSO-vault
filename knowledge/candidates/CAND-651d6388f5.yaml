@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-651d6388f5
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415428357
+title: "FAIRGAME: A Framework for AI Agents Bias Recognition Using Game Theory"
+authors:
+  - Alessio Buscemi
+  - Daniele Proverbio
+  - Alessandro Di Stefano
+  - The Anh Han
+  - German Castignani
+  - Píetro Lió
+year: 2025
+venue: Frontiers in artificial intelligence and applications
+doi: 10.3233/faia251300
+url: https://doi.org/10.3233/faia251300
+abstract: Letting AI agents interact in multi-agent applications adds a layer of complexity to the interpretability and prediction of AI outcomes, with profound implications for their trustworthy adoption in research and society. Game theory offers powerful models to capture and interpret strategic interaction among agents, but requires the support of reproducible, standardized and user-friendly IT frameworks to enable comparison and interpretation of results. To this end, we present FAIRGAME, a Framework for AI Agents Bias Recognition using Game Theory. We describe its implementation and usage, and we employ it to uncover biased outcomes in popular games among AI agents, depending on the employed Large Language Model (LLM) and used language, as well as on the personality trait or strategic knowledge of the agents. Overall, FAIRGAME allows users to reliably and easily simulate their desired games and scenarios and compare the results across simulation campaigns and with game-theoretic predictions, enabling the systematic discovery of biases, the anticipation of emerging behavior out of strategic interplays, and empowering further research into strategic decision-making using LLM agents.
+type: chapter
+open_access: true
+cited_by: 4
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.218
+score_parts:
+  rank: 0.143
+  citations: 0.175
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ccae93734b
+created: 2026-09-14T23:44:46.279Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5401993
+title: AI Guardrails - Spotting &amp;amp; Fixing Common LLM Failure Modes
+authors:
+  - Gayanthi Gunawardhana
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5401993
+url: https://doi.org/10.2139/ssrn.5401993
+abstract: "Large Language Models (LLMs) such as ChatGPT are increasingly deployed in professional and compliance-sensitive environments. Yet these systems have recurring “failure modes”: predictable patterns of error that, if undetected, pose risks for accuracy, accountability, and regulatory compliance.<br><br>This guide presents a practical framework for identifying and mitigating three common LLM failure modes: hallucination/overconfidence, lost-in-the-middle degradation, and input truncation. For each, it provides contextual analysis, oversight relevance, and applied mitigation strategies in the form of guardrail prompts.<br><br>The guide aligns with Article 4 of the EU AI Act (AI literacy) by equipping staff and stakeholders with the skills, knowledge, and understanding to use AI systems responsibly. It further supports Article 14 (human oversight) by showing how AI-literate human involvement transforms oversight from a procedural checkbox into effective risk control.<br><br>The contribution is practice-oriented: enabling organizations and professionals to strengthen competence, compliance, and confidence when deploying AI systems."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Safety Guardrails for LLM-Enabled Robots" code GitHub'
+question: null
+search: SEARCH-babb92a8ed
+score: 1.011
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

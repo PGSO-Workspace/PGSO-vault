@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-46407d673c
+created: 2026-09-15T00:31:14.448Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21437/interspeech.2023-396
+title: Speech Emotion Recognition using Decomposed Speech via Multi-task Learning
+authors:
+  - Jia-Hao Hsu
+  - Chung-Hsien Wu
+  - Yu-Hung Wei
+year: 2023
+venue: INTERSPEECH 2023
+doi: 10.21437/interspeech.2023-396
+url: https://doi.org/10.21437/interspeech.2023-396
+abstract: null
+type: article
+open_access: null
+cited_by: 4
+query: '"Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets"'
+question: null
+search: SEARCH-023614a12f
+score: 0.952
+score_parts:
+  rank: 0.077
+  citations: 0.175
+  recency: 0.7
+needs_approval: false
+state: candidate

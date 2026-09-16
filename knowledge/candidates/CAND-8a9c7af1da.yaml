@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8a9c7af1da
+created: 2026-09-15T00:31:14.448Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1609/aaai.v38i15.29673
+title: Coverage-Guaranteed Prediction Sets for Out-of-Distribution Data
+authors:
+  - Xin Zou
+  - Weiwei Liu
+year: 2024
+venue: Proceedings of the AAAI Conference on Artificial Intelligence
+doi: 10.1609/aaai.v38i15.29673
+url: https://doi.org/10.1609/aaai.v38i15.29673
+abstract: Out-of-distribution (OOD) generalization has attracted increasing research attention in recent years, due to its promising experimental results in real-world applications. In this paper, we study the confidence set prediction problem in the OOD generalization setting. Split conformal prediction (SCP) is an efficient framework for handling the confidence set prediction problem. However, the validity of SCP requires the examples to be exchangeable, which is violated in the OOD setting. Empirically, we show that trivially applying SCP results in a failure to maintain the marginal coverage when the unseen target domain is different from the source domain. To address this issue, we develop a method for forming confident prediction sets in the OOD setting and theoretically prove the validity of our method. Finally, we conduct experiments on simulated data to empirically verify the correctness of our theory and the validity of our proposed method.
+type: article
+open_access: null
+cited_by: 1
+query: '"Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets"'
+question: null
+search: SEARCH-023614a12f
+score: 1
+score_parts:
+  rank: 0.125
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

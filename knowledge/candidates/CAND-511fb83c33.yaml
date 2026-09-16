@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-511fb83c33
+created: 2026-09-14T23:44:12.626Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-4129332/v1
+title: Dialogue Sentiment Analysis Based on Dialogue Structure Pre-training
+authors:
+  - Liang Yang
+  - Qi Yang
+  - Jingjie Zeng
+  - Tao Peng
+  - Zhihao Yang
+  - Hongfei Lin
+year: 2024
+venue: null
+doi: 10.21203/rs.3.rs-4129332/v1
+url: https://doi.org/10.21203/rs.3.rs-4129332/v1
+abstract: "Abstract The task of dialogue sentiment analysis aims to identify the sentiment polarity of utterances in the context of a dialogue. Pre-trained models often struggle to capture the logical structure of a dialogue, making this task challenging. To address this issue, we propose a dialogue sentiment analysis framework that leverages pre-training on dialogue structure. Our proposed framework includes three sub-tasks for pre-training: utterance order sorting, sentence backbone regularization, and sentiment shift detection. These tasks are designed to improve the model's ability to mine dialogue logical relationships and sentiment interactions. By focusing on learning the logical structure of dialogues and the perception of sentiment interactions, our framework is able to improve the performance of pre-trained models on recognizing the sentiment polarity of dialogues. This is demonstrated by the convincing results obtained on the public MEISD dataset."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Coupling Sentiment and Arousal Analysis Towards an Affective Dialogue Manager" code GitHub'
+question: null
+search: SEARCH-da8e2200c9
+score: 0.863
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 0.8
+needs_approval: true
+state: candidate

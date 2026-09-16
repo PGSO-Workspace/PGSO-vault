@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-728b67c1f6
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7134040098
+title: Policy-Governed Agentic Autonomous Quality Assurance for Enterprise Systems
+authors:
+  - Anil Kumar Kunda
+year: 2025
+venue: International Journal of Computational and Experimental Science and Engineering
+doi: 10.22399/ijcesen.4933
+url: https://doi.org/10.22399/ijcesen.4933
+abstract: A paradigm shift of deterministic, script-based automation by probabilistic, agentic autonomous systems characterizes the enterprise software landscape of 2025. This research paper offers a comprehensive analysis of Policy-Governed Agentic Autonomous Quality Assurance (QA), a new architectural design that is aimed at alleviating the stochastic risks that any Large Language Model (LLM) agent presents and exploiting their reasoning abilities. Although traditional automation frameworks are said to have reached a scalability limit due to maintenance overheads that consume over 80 percent of QA resources, agentic systems that are not guarded are said to introduce agentic debt a form of technical debt manifested by autonomous decisions that are not aligned. By performing a strict study of the SEPGA (Self-Evolving, Policy-Governed Agentic Automation) architecture, they show that the incorporation of Policy-as-Code (PaC) engines forms a "policy-bounded autonomy." The quantitative evidence shows that by using policy-governed architectures, compliance violations are minimized by 68 percent, and the cost of maintaining the tests is reduced by about 90 percent. It is concluded in the paper that the future of enterprise reliability is in the cryptographic verification of the layers of governance which bind autonomous agents.
+type: article
+open_access: true
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.233
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

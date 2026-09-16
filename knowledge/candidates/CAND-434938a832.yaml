@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-434938a832
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415055415
+title: "Agentic Software Engineering: Foundational Pillars and a Research Roadmap"
+authors:
+  - Ahmed E. Hassan
+  - Hao Li
+  - Dayi Lin
+  - Bram Adams
+  - Tse-Hsun Chen
+  - Yutaro Kashiwa
+  - Dong Qiu
+year: 2025
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2509.06216
+url: https://arxiv.org/abs/2509.06216
+abstract: "Agentic Software Engineering (SE 3.0) represents a new era where intelligent agents are tasked not with simple code generation, but with achieving complex, goal-oriented SE objectives. To harness these new capabilities while ensuring trustworthiness, we must recognize a fundamental duality within the SE field in the Agentic SE era, comprising two symbiotic modalities: SE for Humans and SE for Agents. This duality demands a radical reimagining of the foundational pillars of SE (actors, processes, tools, and artifacts) which manifest differently across each modality. We propose two purpose-built workbenches to support this vision. The Agent Command Environment (ACE) serves as a command center where humans orchestrate and mentor agent teams, handling outputs such as Merge-Readiness Packs (MRPs) and Consultation Request Packs (CRPs). The Agent Execution Environment (AEE) is a digital workspace where agents perform tasks while invoking human expertise when facing ambiguity or complex trade-offs. This bi-directional partnership, which supports agent-initiated human callbacks and handovers, gives rise to new, structured engineering activities (i.e., processes) that redefine human-AI collaboration, elevating the practice from agentic coding to true agentic software engineering. This paper presents the Structured Agentic Software Engineering (SASE) vision, outlining several of the foundational pillars for the future of SE. The paper culminates in a research roadmap that identifies a few key challenges and opportunities while briefly discussing the resulting impact of this future on SE education. Our goal is not to offer a definitive solution, but to provide a conceptual scaffold with structured vocabulary to catalyze a community-wide dialogue, pushing the SE community to think beyond its classic, human-centric tenets toward a disciplined, scalable, and trustworthy agentic future."
+type: preprint
+open_access: true
+cited_by: 5
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.345
+score_parts:
+  rank: 0.25
+  citations: 0.195
+  recency: 0.9
+needs_approval: true
+state: candidate

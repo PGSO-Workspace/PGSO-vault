@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-95c7b3241f
+created: 2026-09-15T01:07:13.133Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5356655
+title: Investigating Multimodal Empathetic Conversational AI Utilizing Ensemble Learning and Humor
+authors:
+  - Darshan Bhavesh Mehta
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5356655
+url: https://doi.org/10.2139/ssrn.5356655
+abstract: Engaging in conversations to enhance mindfulness and combat loneliness can play a significant role in reducing and preventing mental health issues. Anxiety, depression, and stress are increasingly prevalent in today's fastpaced world, impacting people of all ages and backgrounds. To address these challenges, a virtual companion is being designed to tackle problems with an inclusive approach, offering a holistic understanding by considering multiple perspectives. This virtual companion leverages advanced natural language processing (NLP) models, such as DialoGPT and T5 Transformers, along with techniques like prompt engineering, Retrieval Augmented Generation (RAG), and finetuning on an augmented dataset. The system also incorporates text-to-speech engines, including Speech T5 and Meta's Massively Multilingual Speech (MMS), which can generate naturalistic speech in multiple languages, capturing the nuances of human communication. The goal is to provide an empathetic and friendly solution that meets the diverse mental health needs of users. By combining AI with empathy, this research aims to develop an innovative tool for empathic care, helping people build resilience in the face of life's challenges. The tool generates real-world solutions and responses, including humor tailored to the user's receptivity, to foster engaging conversations and journaling activities. This approach not only helps users manage their mental health but also offers a safe space for emotional expression and support.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Empathetic Conversational Agents" "10.1080/10447318.2025.2540500" arXiv 2501.08393'
+question: null
+search: SEARCH-3dc085d3d3
+score: 1.1
+score_parts:
+  rank: 0.2
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

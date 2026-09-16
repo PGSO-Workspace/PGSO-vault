@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7fdf9cb5bc
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20944/preprints202510.1415.v1
+title: "&lt;em&gt;Agent Action Classifier&lt;/em&gt;: Classifying AI Agent Actions to Ensure Safety and Reliability"
+authors:
+  - Praneeth Vadlapati
+year: 2025
+venue: null
+doi: 10.20944/preprints202510.1415.v1
+url: https://doi.org/10.20944/preprints202510.1415.v1
+abstract: "Autonomous AI agents are increasingly being deployed to perform complex tasks with limited human oversight. Ensuring that the actions proposed or executed by such agents are safe, lawful, and aligned with human values is therefore a crucial problem. This manuscript presents the Agent Action Classifier: a proof-of-concept system that classifies proposed agent actions to reflect potential harm and safety. The classifier is implemented as a compact neural model trained on a dataset of labeled action prompts. We describe the design and implementation of the dataset, model architecture, training procedure, and an evaluation protocol suitable for research and reproducibility. We report qualitative findings and discuss the system’s limitations, deployment considerations, and future research directions for robust, certifiable action supervision. The source code is available at github.com/Pro-GenAI/Agent-Action-Classifier."
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 0.928
+score_parts:
+  rank: 0.028
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

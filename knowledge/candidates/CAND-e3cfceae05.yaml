@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e3cfceae05
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.63282/3050-9416.ijaibdcms-v7i2p114
+title: "Governance-in-the-Loop: Runtime Policy Enforcement for Autonomous and Distributed AI Systems"
+authors:
+  - Ayush Jain
+year: 2026
+venue: International Journal of AI, BigData, Computational and Management Studies
+doi: 10.63282/3050-9416.ijaibdcms-v7i2p114
+url: https://doi.org/10.63282/3050-9416.ijaibdcms-v7i2p114
+abstract: "AI governance mechanisms today are predominantly procedural. Documentation standards, audits, and risk assessments improve transparency but do not constrain runtime behavior. As AI systems evolve into autonomous, distributed platforms that invoke tools, spawn sub-agents, and operate across services, governance violations manifest as execution events rather than documentation failures. This structural mismatch prevents existing approaches from providing enforceable guarantees. We introduce Governance-in-the-Loop (GiL), a runtime architecture that embeds non-bypassable policy enforcement directly into AI execution primitives. GiL integrates Governance Enforcement Points (GEPs) into schedulers, model invocation paths, and inter-service communication layers. Policies support three outcomes: permit, deny, and modify – unlike deny, which cascades into workflow failure, modify preserves system availability by transforming the action into a policy-compliant alternative before execution. Each decision is bound to a verifiable audit artifact. We formalize governance as a complete mediation problem over distributed execution traces, define enforcement invariants, formally argue two core safety properties, and demonstrate differentiation from existing policy enforcement systems. The central argument is that enforceable AI governance requires architectural embedding, not procedural overlay."
+type: article
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.056
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

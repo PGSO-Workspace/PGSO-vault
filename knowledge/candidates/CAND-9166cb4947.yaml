@@ -1,0 +1,43 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9166cb4947
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404569548
+title: LLM Agents Grounded in Self-Reports Enable General-Purpose Simulation of Individuals
+authors:
+  - Joon Sung Park
+  - Zou, Carolyn Q.
+  - Kamphorst, Jonne
+  - Egan, Niles
+  - Aaron Shaw
+  - Benjamin Mako Hill
+  - Carrie J. Cai
+  - Meredith Ringel Morris
+  - Percy Liang
+  - Robb Willer
+  - Michael S. Bernstein
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2411.10109
+url: https://arxiv.org/abs/2411.10109
+abstract: Machine learning can predict human behavior well when substantial structured data are available for well-defined outcomes. Such models are typically outcome-specific, however, requiring training data for each target outcome, limiting their applicability to new domains. We test whether large language models (LLMs) can relax these requirements by using self-report data to build attitudinal and behavioral simulations, or "generative agents," that can predict responses across outcomes without outcome-specific training data. Using data from a diverse national sample of 1,052 Americans, we built agents from (i) two-hour, semi-structured interviews elicited using the American Voices Project interview schedule, (ii) structured surveys including General Social Survey items and the Big Five personality inventory, or (iii) both sources combined. On held-out General Social Survey items, interview-only, survey-only, and combined agents achieved accuracies equal to 83%, 82%, and 86% of participants' own two-week test-retest consistency benchmark, respectively, compared with 74% for demographics-only agents. Combining interviews and surveys produced the highest accuracy, though gains over either source alone were modest, suggesting that predictive benefits from data begin to asymptote once the model has observed sufficient evidence within a domain. We find that these agents also predict personality traits, economic-game behavior, and experimental responses, while reducing accuracy disparities across racial and ideological groups relative to demographics-only agents. Together, these results show that LLM agents grounded in qualitative or quantitative self-reports can support general-purpose simulation of individuals across outcomes, without requiring task-specific training data.
+type: preprint
+open_access: true
+cited_by: 44
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.272
+score_parts:
+  rank: 0.059
+  citations: 0.413
+  recency: 0.8
+needs_approval: true
+state: candidate

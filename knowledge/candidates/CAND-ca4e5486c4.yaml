@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ca4e5486c4
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4413115901
+title: Re-evaluating Theory of Mind evaluation in large language models
+authors:
+  - Jennifer Hu
+  - Felix Sosa
+  - Tomer Ullman
+year: 2025
+venue: Philosophical Transactions of the Royal Society B Biological Sciences
+doi: 10.1098/rstb.2023.0499
+url: https://doi.org/10.1098/rstb.2023.0499
+abstract: "The question of whether large language models (LLMs) possess Theory of Mind (ToM)-often defined as the ability to reason about others' mental states-has sparked significant scientific and public interest. However, the evidence as to whether LLMs possess ToM is mixed, and the recent growth in evaluations has not resulted in a convergence. Here, we take inspiration from cognitive science to re-evaluate the state of ToM evaluation in LLMs. We argue that a major reason for the disagreement on whether LLMs have ToM is a lack of clarity on whether models should be expected to match human behaviours, or the computations underlying those behaviours. We also highlight ways in which current evaluations may be deviating from 'pure' measurements of ToM abilities, which also contributes to the confusion. We conclude by discussing several directions for future research, including the relationship between ToM and pragmatic communication, which could advance our understanding of artificial systems as well as human cognition.This article is part of the theme issue 'At the heart of human communication: new views on the complex relationship between pragmatics and Theory of Mind'."
+type: article
+open_access: true
+cited_by: 8
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 2.139
+score_parts:
+  rank: 1
+  citations: 0.239
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-260d85ee15
+created: 2026-09-15T07:38:43.488Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20944/preprints202209.0202.v3
+title: Dynamically Updated Alive Publication Date
+authors:
+  - Mikhail Gorbunov-Posadov
+year: 2023
+venue: null
+doi: 10.20944/preprints202209.0202.v3
+url: https://doi.org/10.20944/preprints202209.0202.v3
+abstract: 'The scientific work posted on the Internet, which its author constantly keeps up to date, will be called an alive publication. The genre of alive publishing has many attractive features. However, it requires a certain expansion of the composition of the meta-attributes of the publication: along with the traditional attributes, the date of the appearance of the new, fresh revision is brought to the fore here. Such date is placed in a prominent place in the text of the publication. Along with this, it becomes highly desirable to include such a dynamically ("on the fly") generated date in a bibliographic reference to an alive publication. The currently used methods of dynamic extraction of this date are considered for a simple online publication, for a publication that has received a DOI through Crossref, for a publication posted in arXiv and in Preprints. Thanks to adding this meta-attribute, references to alive publications will beautify any bibliographic list.'
+type: preprint
+open_access: null
+cited_by: 0
+query: '"10.1109/ACCESS.2026.3719838" "Date of Publication"'
+question: null
+search: SEARCH-210eb9e969
+score: 0.759
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 0.7
+needs_approval: true
+state: candidate

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b4b0c568cd
+created: 2026-09-15T09:46:16.656Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6187441
+title: Forecast Combination for Tail Risk with Regulator-Aware Decision Trees
+authors:
+  - Anastasija Tetereva
+  - Ekaterina Kazak
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6187441
+url: https://doi.org/10.2139/ssrn.6187441
+abstract: In this paper, we address the challenge of combining forecasts for Value-at-Risk (VaR) and Expected Shortfall (ES) by employing nonparametric weights which are functions of macro-financial state variables. We develop a tailor-made, tree-based machine learning procedure in which optimal combination weights remain constant within economic regimes but vary across them. The continuously varying regimes themselves are identified in a fully data-driven manner. To ensure consistency with supervisory practice, we align the tree construction process with liquidity-horizonspecific risk factors defined by the Basel Committee on Banking Supervision. We further reduce the influence of correlated covariates by proposing a methodology of cluster-wise random variable draws when building each tree. In an application to daily returns of 24 large-cap U.S. stocks from 2000 to 2023, the proposed marketdriven forecast combination delivers significantly lower out-of-sample VaR-ES losses than the standard relative-score benchmark for up to 22 out of 24 assets across multiple liquidity horizons, while also improving coverage properties and economic interpretability.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees" PDF'
+question: null
+search: SEARCH-ab2b977fc5
+score: 1.056
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

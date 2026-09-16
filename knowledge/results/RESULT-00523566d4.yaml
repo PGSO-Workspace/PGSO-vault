@@ -1,0 +1,22 @@
+schema: phdude.result
+version: 1
+id: RESULT-00523566d4
+created: 2026-09-15T00:15:39.375Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: Restrictions observed on slow-ramp and shifted-baseline sensitivity challenges; no human ground truth
+from: ANALYSIS-1a3562f88b
+values:
+  slow_ramp_challenge__pgso: 0
+  slow_ramp_challenge__fixed_threshold: 77
+  slow_ramp_challenge__no_governance: 0
+  shifted_baseline_challenge__pgso: 0
+  shifted_baseline_challenge__fixed_threshold: 30
+  shifted_baseline_challenge__no_governance: 0
+state: candidate
+ext:
+  analysis:
+    key: challenges
+    run_at: 2026-09-15T00:15:39.375Z

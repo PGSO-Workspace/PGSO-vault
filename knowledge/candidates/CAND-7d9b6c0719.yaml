@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7d9b6c0719
+created: 2026-09-14T23:47:47.446Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7160522594
+title: "Securing LLM-based agents against cyberattacks: a comprehensive survey on attack techniques and defense strategies"
+authors:
+  - Nyashadzashe Tamuka
+  - Topside E. Mathonsi
+  - Olwal Thomas Otieno
+  - Solly Maswikaneng
+  - Tonderai Muchenje
+  - Tshimangadzo M. Tshilongamulenzhe
+year: 2026
+venue: Journal of Computer Virology and Hacking Techniques
+doi: 10.1007/s11416-026-00622-3
+url: https://doi.org/10.1007/s11416-026-00622-3
+abstract: Abstract Large Language Model (LLM)-based agents integrate various models, including planning loops, memory, tool use, and multi-agent systems, enabling autonomous decision-making through natural-language interfaces. This autonomy also expands the cyberattack surface from model-only failures to agent compromise, where untrusted text can exfiltrate data or trigger malicious actions. This survey presents a taxonomy-driven synthesis of security threats targeting LLM-based agents and a structured review of various studies, summarizing each work’s aims, methods, results, and limitations and mapping them to the proposed taxonomy. Attacks, including context and prompt manipulation, jailbreak and cognition attacks, privacy attacks, agentic action induction and availability, and reconnaissance threats, were categorized. The widely adopted defenses are classified into prompt/input sanitization, adversarial training and alignment tuning, architectural safeguards, monitoring and guardrails, and watermarking/provenance mechanisms for source verification. The persistent gaps were a weak generalization of defense under attacker adaptation and a limited evaluation of agent-tool interaction risk. Since real deployments increasingly rely on agents that can remember and act, security must shift from single-model filtering to system-level, benchmarked, and continuously tested controls that measure resilience under adaptive attackers. Open challenges and research directions include robust detection of covert prompt attacks, continuous red-teaming, measurable security utility trade-offs, provenance-aware agent pipelines, and standardized protocols for evaluating secure LLM agents in real deployments.
+type: article
+open_access: true
+cited_by: 3
+query: '"AgentDojo" tool agents security'
+question: null
+search: SEARCH-95d8fe4170
+score: 1.276
+score_parts:
+  rank: 0.125
+  citations: 0.151
+  recency: 1
+needs_approval: false
+state: candidate

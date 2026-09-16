@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-46d555c1c8
+created: 2026-09-14T23:44:09.730Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7163618
+title: "How AI Is Transforming Code Review and Refactoring in Software Development: A Reproducible Empirical Evaluation of Code Quality Improvement in GitHub Repositories"
+authors:
+  - Benjamin Batte
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7163618
+url: https://doi.org/10.2139/ssrn.7163618
+abstract: Artificial intelligence is increasingly used for code generation, automated review, defect detection, and refactoring, yet evidence remains divided on whether such assistance improves enduring software quality or primarily accelerates production. This study specifies a reproducible empirical evaluation of artificial intelligence-assisted refactoring using production code from licensed public Python repositories on GitHub. A repeated measures design will compare each source code unit before and after a standardized model intervention. Functional preservation will be evaluated through the repositories’ existing automated tests. At the same time, maintainability index, cyclomatic complexity, source lines of code, linting violations, code smells, and security findings will provide complementary quality measures. The study introduces the Artificial Intelligence Refactoring Quality Evaluation Framework, which integrates repository selection, baseline characterization, controlled prompting, functional verification, static analysis, and paired statistical inference. Failed transformations, test regressions, nonexecuting outputs, and unfavorable quality tradeoffs will remain in the analytical dataset to prevent survivorship bias. By extending earlier conceptual research into a transparent repository grounded investigation, the study seeks to identify the conditions under which artificial intelligence improves maintainability without compromising correctness, security, or traceability. A public replication package will support independent verification, model comparison, cross-language extension, and future longitudinal evaluation.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees With Knowledge Graphs for Affective Human-AI Teaming" code GitHub'
+question: null
+search: SEARCH-2325920ecd
+score: 1.1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

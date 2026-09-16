@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1d9d97c20a
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7131072564
+title: "Large language model research: Knowledge structure, thematic evolution, and future research agenda"
+authors:
+  - Xiaofang Cao
+  - Bin Yang
+  - Xiaoping Yang
+  - Quanzeng Wang
+  - Nan Cao
+year: 2026
+venue: Research Square
+doi: 10.21203/rs.3.rs-8876513/v1
+url: https://doi.org/10.21203/rs.3.rs-8876513/v1
+abstract: null
+type: preprint
+open_access: true
+cited_by: 1
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.186
+score_parts:
+  rank: 0.111
+  citations: 0.075
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6744643362
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4391988656
+title: "Over two decades of research on choice overload: An overview and research agenda"
+authors:
+  - Breeze Mary Jacob
+  - Sam Thomas
+  - Joshy Joseph
+year: 2024
+venue: International Journal of Consumer Studies
+doi: 10.1111/ijcs.13029
+url: https://doi.org/10.1111/ijcs.13029
+abstract: Abstract Since Alwin Toffler coined the term choice overload in 1970, no systematic literature review has been conducted on this subject. At the same time, the three meta‐analytic studies available on the topic does not provide a comprehensive picture of the same. This systematic literature review seeks to critically evaluate the extant research on choice overload for 22 years using insights from 92 articles. After locating the major articles in the choice overload literature, we identified the theories used by researchers to explain the various aspects of choice overload, based on the TCCM framework. We then enlisted the contexts where the studies had been conducted, the characteristics (themes) of the studies, and the methodologies used in these articles. We further identified the relationships between the themes, the variables studied so far, the sampling types and sampling sizes and the statistical tools employed in these studies. Future researchers could investigate the impact of a variety of cognitive and affective factors that impact consumer psychological states and the likelihood of choice saturation. They could also focus on unexplored areas in the field of choice overload, such as comparing the effects of choice overload in physical and online contexts.
+type: article
+open_access: true
+cited_by: 38
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 1.298
+score_parts:
+  rank: 0.1
+  citations: 0.398
+  recency: 0.8
+needs_approval: false
+state: candidate

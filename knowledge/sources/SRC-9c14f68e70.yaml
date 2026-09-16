@@ -1,0 +1,21 @@
+schema: phdude.source
+version: 1
+id: SRC-9c14f68e70
+created: 2026-09-15T08:35:19.350Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: "MEDS: Methodology for Evaluation in Design Science"
+authors:
+  - Richard Baskerville
+  - Jan Pries-Heje
+  - John R. Venable
+type: article
+artifacts: []
+state: candidate
+year: 2026
+venue: European Journal of Information Systems
+doi: 10.1080/0960085X.2026.2627280
+url: https://www.tandfonline.com/doi/full/10.1080/0960085X.2026.2627280
+abstract: Targeted primary publisher-indexed text reviewed by the research subagent on 15 September 2026; direct full-page retrieval encountered access denial. Evaluation-program planning around goals, trajectory, property priorities and episodes; not a substitute for specific experimental endpoints, margins or sample design. Not all pages or tables inspected. Venue Q1 verified separately from the primary UEFISCDI AIS/JCR2024 ranking, PDF page95; article published online12 February2026.

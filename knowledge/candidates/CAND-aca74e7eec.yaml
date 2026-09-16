@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-aca74e7eec
+created: 2026-09-15T00:30:50.983Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7117339433
+title: "Pioneering Multimodal Emotion Recognition in the Era of Large Models: From Closed Sets to Open Vocabularies"
+authors:
+  - Jing Han
+  - Zhiqiang Gao
+  - Shihao Gao
+  - Jialing Liu
+  - Hongyu Chen
+  - Zixing Zhang
+  - Björn W. Schuller
+year: 2025
+venue: arXiv (Cornell University)
+doi: null
+url: http://arxiv.org/abs/2512.20938
+abstract: Recent advances in multimodal large language models (MLLMs) have demonstrated remarkable multi- and cross-modal integration capabilities. However, their potential for fine-grained emotion understanding remains systematically underexplored. While open-vocabulary multimodal emotion recognition (MER-OV) has emerged as a promising direction to overcome the limitations of closed emotion sets, no comprehensive evaluation of MLLMs in this context currently exists. To address this, our work presents the first large-scale benchmarking study of MER-OV on the OV-MERD dataset, evaluating 19 mainstream MLLMs, including general-purpose, modality-specialized, and reasoning-enhanced architectures. Through systematic analysis of model reasoning capacity, fusion strategies, contextual utilization, and prompt design, we provide key insights into the capabilities and limitations of current MLLMs for MER-OV. Our evaluation reveals that a two-stage, trimodal (audio, video, and text) fusion approach achieves optimal performance in MER-OV, with video emerging as the most critical modality. We further identify a surprisingly narrow gap between open- and closed-source LLMs. These findings establish essential benchmarks and offer practical guidelines for advancing open-vocabulary and fine-grained affective computing, paving the way for more nuanced and interpretable emotion AI systems. Associated code will be made publicly available upon acceptance.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"'
+question: null
+search: SEARCH-40ed8087e2
+score: 1.1
+score_parts:
+  rank: 0.2
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

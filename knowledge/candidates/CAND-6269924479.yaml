@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6269924479
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4401890484
+title: "MelTrans: Mel-Spectrogram Relationship-Learning for Speech Emotion Recognition via Transformers"
+authors:
+  - Hui Li
+  - Jiawen Li
+  - Hai Liu
+  - Tingting Liu
+  - Qiang Chen
+  - Xinge You
+year: 2024
+venue: Sensors
+doi: 10.3390/s24175506
+url: https://doi.org/10.3390/s24175506
+abstract: Speech emotion recognition (SER) is not only a ubiquitous aspect of everyday communication, but also a central focus in the field of human-computer interaction. However, SER faces several challenges, including difficulties in detecting subtle emotional nuances and the complicated task of recognizing speech emotions in noisy environments. To effectively address these challenges, we introduce a Transformer-based model called MelTrans, which is designed to distill critical clues from speech data by learning core features and long-range dependencies. At the heart of our approach is a dual-stream framework. Using the Transformer architecture as its foundation, MelTrans deciphers broad dependencies within speech mel-spectrograms, facilitating a nuanced understanding of emotional cues embedded in speech signals. Comprehensive experimental evaluations on the EmoDB (92.52%) and IEMOCAP (76.54%) datasets demonstrate the effectiveness of MelTrans. These results highlight MelTrans's ability to capture critical cues and long-range dependencies in speech data, setting a new benchmark within the context of these specific datasets. These results highlight the effectiveness of the proposed model in addressing the complex challenges posed by SER tasks.
+type: article
+open_access: true
+cited_by: 21
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.303
+score_parts:
+  rank: 0.167
+  citations: 0.336
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,44 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d3b1a9aa4a
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412877234
+title: "A Survey on Trustworthy LLM Agents: Threats and Countermeasures"
+authors:
+  - Miao Yu
+  - Fanci Meng
+  - Xinyun Zhou
+  - Shilong Wang
+  - Junyuan Mao
+  - Linsey Pang
+  - Tianlong Chen
+  - Kun Wang
+  - Xinfeng Li
+  - Yongfeng Zhang
+  - Bo An
+  - Qingsong Wen
+year: 2025
+venue: null
+doi: 10.1145/3711896.3736561
+url: https://doi.org/10.1145/3711896.3736561
+abstract: With the rapid evolution of Large Language Models (LLMs), LLMbased agents and Multi-agent Systems (MAS) have significantly expanded the capabilities of LLM ecosystems.This evolution stems from empowering LLMs with additional modules such as memory, tools, environment, and even other agents.However, this advancement has also introduced more complex issues of trustworthiness, which previous research focusing solely on LLMs could not cover.In this survey, we propose the TrustAgent framework, a comprehensive study on the trustworthiness of agents, characterized by modular taxonomy, multi-dimensional connotations, and * Miao Yu and Fanci Meng contribute equally to this paper.
+type: other
+open_access: true
+cited_by: 26
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.369
+score_parts:
+  rank: 0.111
+  citations: 0.358
+  recency: 0.9
+needs_approval: false
+state: candidate

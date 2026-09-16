@@ -1,0 +1,26 @@
+schema: phdude.artifact
+version: 1
+id: ART-f84c1eaba4
+created: 2026-09-15T09:50:06.676Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/task-agentspec-62937ad/bridge.py
+paths:
+  - sources/software/pgso-sdk/task-agentspec-62937ad/bridge.py
+hash: f84c1eaba49f9024a29928d7c5916d971585a05d0ef3a7f93b32ebd684cba6fc
+bytes: 14928
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T09:50:06.464Z
+versions_of: ART-8a1ccc890b
+latest: true

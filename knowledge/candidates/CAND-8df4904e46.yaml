@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8df4904e46
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7128555603
+title: "PTS-SNN: A Prompt-Tuned Temporal Shift Spiking Neural Networks for Efficient Speech Emotion Recognition"
+authors:
+  - Xun Su
+  - Huamin Wang
+  - Qi Zhang
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: http://arxiv.org/abs/2602.08240
+abstract: Speech Emotion Recognition (SER) is widely deployed in Human-Computer Interaction, yet the high computational cost of conventional models hinders their implementation on resource-constrained edge devices. Spiking Neural Networks (SNNs) offer an energy-efficient alternative due to their event-driven nature; however, their integration with continuous Self-Supervised Learning (SSL) representations is fundamentally challenged by distribution mismatch, where high-dynamic-range embeddings degrade the information coding capacity of threshold-based neurons. To resolve this, we propose Prompt-Tuned Spiking Neural Networks (PTS-SNN), a parameter-efficient neuromorphic adaptation framework that aligns frozen SSL backbones with spiking dynamics. Specifically, we introduce a Temporal Shift Spiking Encoder to capture local temporal dependencies via parameter-free channel shifts, establishing a stable feature basis. To bridge the domain gap, we devise a Context-Aware Membrane Potential Calibration strategy. This mechanism leverages a Spiking Sparse Linear Attention module to aggregate global semantic context into learnable soft prompts, which dynamically regulate the bias voltages of Parametric Leaky Integrate-and-Fire (PLIF) neurons. This regulation effectively centers the heterogeneous input distribution within the responsive firing range, mitigating functional silence or saturation. Extensive experiments on five multilingual datasets (e.g., IEMOCAP, CASIA, EMODB) demonstrate that PTS-SNN achieves 73.34\% accuracy on IEMOCAP, comparable to competitive Artificial Neural Networks (ANNs), while requiring only 1.19M trainable parameters and 0.35 mJ inference energy per sample.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 1.143
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

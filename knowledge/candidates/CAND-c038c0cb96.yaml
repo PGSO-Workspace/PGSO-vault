@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c038c0cb96
+created: 2026-09-15T07:50:14.590Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-9910725/v1
+title: "Improving Early Warning Signal Detection for Psychological State Changes in Intensive Longitudinal Data: A Threshold-Based Change Point Autoregressive Approach"
+authors:
+  - Zhaomeng Chen
+  - Xu Qi
+  - Zhehan Jiang
+  - Yue Liu
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-9910725/v1
+url: https://doi.org/10.21203/rs.3.rs-9910725/v1
+abstract: "Abstract Background: Intensive longitudinal data (ILD) are increasingly used to monitor within-person psychological dynamics and characterize temporal changes in mental states. One promising approach involves early warning signals (EWSs), such as increases in lag-1 autoregression, which may precede abrupt psychological transitions. However, practical application of EWS approaches remains limited by the lack of principled methods for determining appropriate detection thresholds. Methods: We introduce Threshold-based Change Point Autoregressive Modeling (T-CPAM), a retrospective framework for adaptive threshold determination in EWS detection. T-CPAM integrates sliding-window estimation of early warning indicators with change point autoregressive modeling to evaluate whether candidate thresholds correspond to meaningful temporal changes in the observed time series. Performance was evaluated through Monte Carlo simulations varying noise levels, transition lengths, and window sizes and compared with conventional constant standard deviation (CSD) thresholding approaches. Two empirical illustrations using intensive longitudinal psychological data were further conducted. Results: Across simulation conditions, T-CPAM generally demonstrated more stable detection performance than fixed-threshold methods, particularly under noisier conditions, while maintaining acceptable false positive rates. The empirical illustrations further demonstrated that T-CPAM was capable of retrospectively identifying transition-related temporal changes in both clinical and nonclinical contexts. Conclusions: T-CPAM provides a flexible and interpretable framework for improving retrospective EWS detection when appropriate thresholds are difficult to specify a priori in psychological ILD."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Yue Qi" repository'
+question: null
+search: SEARCH-32580e75f5
+score: 1.059
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

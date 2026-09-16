@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4222f8fbab
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icict68280.2026.11510716
+title: A Real-Time Multimodal Emotion-Aware Conversational AI System with ConfidenceWeighted Fusion and Temporal Emotion Tracking
+authors:
+  - Vignesh V
+  - Sanjay K J
+  - Senthilkumar A
+  - Jeevitha R
+year: 2026
+venue: 2026 9th International Conference on Inventive Computation Technologies (ICICT)
+doi: 10.1109/icict68280.2026.11510716
+url: https://doi.org/10.1109/icict68280.2026.11510716
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.027
+score_parts:
+  rank: 0.027
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

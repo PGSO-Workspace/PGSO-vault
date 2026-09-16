@@ -1,0 +1,17 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-56b8904174
+created: 2026-09-15T17:53:56.034Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/mvp-original-evidence-eebf20e.tar
+hash: 56b8904174d05e716b68636feaa3ad68f335518d40863328cc999a265e4b2792
+bytes: 471040
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate

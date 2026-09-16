@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b20cb23170
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.4135/9781529684339
+title: "Illustrating Correlations and Causal Inferences: Synthesizing Global Indices on Conscription Policies and Regime Types"
+authors:
+  - Christopher Harrison
+year: 2024
+venue: null
+doi: 10.4135/9781529684339
+url: https://doi.org/10.4135/9781529684339
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 0.859
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

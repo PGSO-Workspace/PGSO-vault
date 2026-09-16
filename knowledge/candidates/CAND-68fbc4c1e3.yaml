@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-68fbc4c1e3
+created: 2026-09-15T01:09:16.222Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6742618
+title: Differentiable Optimization Layered Safety-Critical Control for Risk-Aware Navigation via Conformal Prediction
+authors:
+  - Jinyang Dong
+  - Shizhen Wu
+  - Yongchun Fang
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6742618
+url: https://doi.org/10.2139/ssrn.6742618
+abstract: Risk-aware navigation in unknown environments remains a fundamental challenge for autonomous vehicles in complex urban systems. To address this issue, this paper presents a differentiable optimization layered safety-critical control method based on conformal prediction. Specifically, conformal prediction is used to construct risk-aware obstacle ellipsoids under sensor noise. Then, two nested differentiable optimization layers are introduced to formulate control barrier functions for obstacle avoidance and persistent feasibility, respectively. Finally, a QPbased controller integrates these barrier constraints with input constraints. The effectiveness of the proposed framework is validated through numerical simulations.
+type: preprint
+open_access: null
+cited_by: 0
+query: selective classification conformal risk control runtime safety
+question: null
+search: SEARCH-54176eb439
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

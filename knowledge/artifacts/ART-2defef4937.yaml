@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-2defef4937
+created: 2026-09-15T08:50:09.001Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/comparator-tools-9aaa300/comparator_adapters.py.txt
+paths:
+  - sources/software/pgso-sdk/comparator-tools-9aaa300/comparator_adapters.py.txt
+hash: 2defef4937ff0acb247003e81604bfefd2c102a7951fcf284562d4cc01bbfcdf
+bytes: 9703
+mime: text/plain
+kind: txt
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 9703
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T08:50:08.798Z
+versions_of: ART-2ee79ec4e4
+latest: true

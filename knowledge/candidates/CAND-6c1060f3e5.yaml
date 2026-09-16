@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6c1060f3e5
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392096437
+title: "University Students’ Conceptualisation of AI Literacy: Theory and Empirical Evidence"
+authors:
+  - Michal Černý
+year: 2024
+venue: Social Sciences
+doi: 10.3390/socsci13030129
+url: https://doi.org/10.3390/socsci13030129
+abstract: "This research endeavours to systematically investigate the multifaceted domain of AI literacy, given the pervasive impact of artificial intelligence on diverse facets of contemporary human existence. The inquiry is motivated by a fundamental question posed to educators: how best to cultivate AI literacies and competencies and how these proficiencies are structured and influenced. Employing a rigorous two-part methodology, the initial phase scrutinises 28 studies from the SCOPUS database, unveiling five distinct discourses germane to AI literacy. Subsequently, the second phase involves the administration of questionnaires to 73 students, whose responses undergo thematic analysis to discern patterns within the four domains delineated by Ng et al. The ensuing discourse underscores a pivotal revelation: despite formal adherence to established discourses, the conceptualisation of AI literacy necessitates a departure from conventional perspectives. Ethical principles, elucidated by students, emerge not merely as individual components but as integral facets of a broader societal literacy profile, thereby advocating a paradigm shift towards social reflection. This novel insight prompts a critical re-evaluation of AI literacy’s prevailing assumptions and conceptual frameworks, urging a transition towards models grounded in ecological or network dynamic interactionist principles."
+type: article
+open_access: true
+cited_by: 46
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.249
+score_parts:
+  rank: 0.031
+  citations: 0.418
+  recency: 0.8
+needs_approval: false
+state: candidate

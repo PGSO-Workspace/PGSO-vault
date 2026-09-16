@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-85c5bfa9a8
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.61796/jmgcb.v2i6.1340
+title: "MCP-1 AND VITAMIN D PROFILES IN ESRD ON HEMODIALYSIS: A CASE-CONTROL STUDY IN AL-BASRAH CITY"
+authors:
+  - Haneen Husham Fadhil
+  - Rana Dawood Salman
+  - Jubran Khaleel Hasan
+year: 2025
+venue: Journal of Medical Genetics and Clinical Biology
+doi: 10.61796/jmgcb.v2i6.1340
+url: https://doi.org/10.61796/jmgcb.v2i6.1340
+abstract: "Objective: This study aimed to examine and compare serum levels of vitamin D and monocyte chemoattractant protein-1 (MCP-1) in patients with end-stage renal disease (ESRD) undergoing haemodialysis versus healthy individuals, and to evaluate their diagnostic potential as biomarkers. Method: An observational cross-sectional design was employed involving 30 ESRD patients receiving regular haemodialysis and 34 age- and sex-matched healthy controls. Serum levels of vitamin D, MCP-1, parathyroid hormone (PTH), urea, creatinine, estimated glomerular filtration rate (eGFR), and blood pressure were assessed. Results: ESRD patients showed significantly elevated levels of urea, creatinine, PTH, and MCP-1, and significantly lower eGFR and vitamin D levels compared to controls (p<0.001). ROC analysis revealed high diagnostic accuracy for PTH (AUC=0.946), with moderate-to-good performance for vitamin D (AUC=0.732) and MCP-1 (AUC=0.700). Novelty: This study contributes to the limited regional data by identifying the potential of vitamin D and MCP-1 as accessible clinical biomarkers for nutritional and inflammatory assessment in ESRD patients undergoing haemodialysis, emphasizing their role in early detection strategies and patient monitoring."
+type: article
+open_access: null
+cited_by: 0
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 0.959
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

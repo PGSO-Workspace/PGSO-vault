@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3d33517749
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1097/jcma.0000000000000572
+title: Taipei Veterans General Hospital secure open-source telemedicine system—TeleCARE
+authors:
+  - Ai Seon Kuan
+  - Tzeng-Ji Chen
+  - Yu-Chun Chen
+year: 2021
+venue: Journal of the Chinese Medical Association
+doi: 10.1097/jcma.0000000000000572
+url: https://doi.org/10.1097/jcma.0000000000000572
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 0.538
+score_parts:
+  rank: 0.038
+  citations: 0
+  recency: 0.5
+needs_approval: false
+state: candidate

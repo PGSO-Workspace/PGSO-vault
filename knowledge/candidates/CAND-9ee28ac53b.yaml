@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9ee28ac53b
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.26434/chemrxiv.15006307/v1
+title: Trace-State Validation for Agentic Computational Chemistry Workflows
+authors:
+  - Fabrizio Lo Scudo
+year: 2026
+venue: null
+doi: 10.26434/chemrxiv.15006307/v1
+url: https://doi.org/10.26434/chemrxiv.15006307/v1
+abstract: "Agentic chemistry workflows coordinate simulation tools, intermediate records, and automated decisions across agents or agent-like stages. They can fail before any numerical result is produced: a downstream agent or workflow step may act on exchanged information that is incomplete or unsupported by the recorded trace. A representative case is reaction-level thermochemistry aggregation when one or more species lack valid thermochemistry records. We present a typed trace-state validation layer for agentic computational chemistry workflows. The layer represents information-flow validity requirements as validation rules over workflow stages, chemical trace symbols, declared resources, and failure labels. These rules express precedence, trace-state guards, resource serialization, and bounded retry. Admitted rules are accumulated by monotonic merge and compiled into an Answer Set Programming backend that derives admissible transitions, validation-failure explanations, recovery actions, and workflow-state diagnostics. For evaluation, we use ChemGraph as an existing agentic chemistry substrate and exercise information-flow failures in thermochemistry workflows. The primary test is guarded reaction-level aggregation: when species-level thermochemistry records are missing, the layer rejects the downstream aggregation request before an aggregate quantity is produced. Supporting experiments show retry-exhaustion diagnostics under persistent stage failure, mutual exclusion over a declared logical resource, and validation-rule acquisition from naturallanguage instructions with reliable rejection of unsupported instructions but weaker serialization acquisition. Scientific Contribution: This work introduces trace-state validation as a cheminformatics infrastructure layer for agentic computational chemistry workflows. It differs from tool-schema validation and generic agent-level constraint enforcement by checking whether exchanged workflow information supports chemically meaningful downstream transitions. The approach does not alter simulation methods 1 Agentic Chemistry Workflow optimize → vibrations → thermochemistry runtime trace completion and failure symbols guarded boundary reaction-level aggregation query emits queries"
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.048
+score_parts:
+  rank: 0.048
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

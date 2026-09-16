@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-aea9700f7e
+created: 2026-09-15T00:31:14.448Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.patrec.2021.01.018
+title: Speech emotion recognition via learning analogies
+authors:
+  - Stavros Ntalampiras
+year: 2021
+venue: Pattern Recognition Letters
+doi: 10.1016/j.patrec.2021.01.018
+url: https://doi.org/10.1016/j.patrec.2021.01.018
+abstract: null
+type: article
+open_access: null
+cited_by: 31
+query: '"Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets"'
+question: null
+search: SEARCH-023614a12f
+score: 0.943
+score_parts:
+  rank: 0.067
+  citations: 0.376
+  recency: 0.5
+needs_approval: false
+state: candidate

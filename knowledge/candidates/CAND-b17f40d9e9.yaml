@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b17f40d9e9
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4414260359
+title: "Artificial intelligence-enabled conversational agents in tourism & hospitality: a systematic literature review & future research directions"
+authors:
+  - Abdulaziz Abdullah Mughiran Alharbi
+  - Ameet Pandit
+  - Violetta Wilk
+  - Philip J. Rosenberger
+  - Shah Jahan Miah
+year: 2025
+venue: Asia Pacific Journal of Tourism Research
+doi: 10.1080/10941665.2025.2555204
+url: https://doi.org/10.1080/10941665.2025.2555204
+abstract: Artificial intelligence (AI)-enabled conversational agents (AICAs) are transforming the tourism and hospitality sector. While studies focus on technical and operational aspects, there is limited exploration of consumer behaviour. This study employs the TCCM (Theory, Context, Characteristics and Methodology) framework to analyse the theoretical, contextual and methodological dimensions of AICA use. By utilising an AI-first, human-lens-second approach along with Leximancer for thematic analysis, it emphasises the importance of emotional, ethical and trust-related factors that are often overlooked in adoption models. The paper proposes an integrated conceptual framework that highlights the mechanisms, modifiers and implications of AICA use, along with offering future research directions.
+type: other
+open_access: true
+cited_by: 17
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.325
+score_parts:
+  rank: 0.111
+  citations: 0.314
+  recency: 0.9
+needs_approval: false
+state: candidate

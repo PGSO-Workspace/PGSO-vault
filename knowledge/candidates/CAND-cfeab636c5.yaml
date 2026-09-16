@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-cfeab636c5
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4417325963
+title: "AgentBound: Securing Execution Boundaries of AI Agents"
+authors:
+  - Christoph Bühler
+  - Matteo Biagiola
+  - Luca Di Grazia
+  - Guido Salvaneschi
+year: 2026
+venue: Proceedings of the ACM on software engineering.
+doi: 10.1145/3808103
+url: https://doi.org/10.1145/3808103
+abstract: "Large Language Models (LLMs) have evolved into AI agents that interact with external tools and environments to perform complex tasks. The Model Context Protocol (MCP) has become the de facto standard for connecting agents with such resources, but security has lagged behind: thousands of MCP servers execute with unrestricted access to host systems, creating a broad attack surface. In this paper, we introduce AgentBound, the first access control framework for MCP servers. AgentBound combines a declarative policy mechanism, inspired by the Android permission model, with a policy enforcement engine that contains malicious behavior without requiring MCP server modifications. We build a dataset containing the 296 most popular MCP servers, and show that access control policies can be generated automatically from source code with 80.9% accuracy. We also show that AgentBound blocks the majority of security threats in several malicious MCP servers, and that the policy enforcement engine introduces negligible overhead. Our contributions provide developers and project managers with a foundation for securing MCP servers while maintaining productivity, enabling researchers and tool builders to explore new directions for declarative access control and MCP security."
+type: article
+open_access: true
+cited_by: 1
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.2
+score_parts:
+  rank: 0.125
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

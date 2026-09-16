@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2d5ab8352e
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7204192276
+title: "STAGE: Stateful Translation to Agentic Graph Execution with Policy-Scoped Context and Deterministic Control"
+authors:
+  - Mengxi Luo
+  - Changjia Chen
+  - An Cao
+  - Zirong Huang
+  - Wanyi Dai
+year: 2026
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2608.22538
+url: https://arxiv.org/abs/2608.22538
+abstract: Policy-governed agents must interpret case evidence while reliably following authorized procedures. We present STAGE, an executable-graph framework that confines model judgment to policy-scoped nodes while placing procedural control in deterministic code. We evaluate STAGE on three public policy-following benchmarks and Smart Dispute, a proprietary banking benchmark. Compared with monolithic full-policy execution, STAGE improves task success and repeated-run reliability, with its largest observed gains on the deeper workflows. On $τ^2$-bench Telecom and Smart Dispute, $\mathrm{Pass}^{3}$ improves by up to 55.0 and 65.7 percentage points, respectively. These results demonstrate the value of combining localized policy reasoning with deterministic procedural control for enterprise use.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

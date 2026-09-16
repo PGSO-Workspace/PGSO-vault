@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-664c9c01d9
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+  - crossref
+external_id: W7166832590
+title: "Near-Miss: Latent Policy Failure Detection in Agentic Workflows"
+authors:
+  - Ella Rabinovich
+  - David Boaz
+  - Naama Zwerdling
+  - Ateret Anaby Tavor
+year: 2026
+venue: arXiv (Cornell University)
+doi: 10.18653/v1/2026.gem-main.30
+url: https://doi.org/10.18653/v1/2026.gem-main.30
+abstract: Agentic systems for business process automation often require compliance with policies governing conditional updates to the system state.Evaluation of policy adherence in LLM-based agentic workflows is typically performed by comparing the final system state against a predefined ground truth.While this approach detects explicit policy violations, it may overlook a more subtle class of issues in which agents bypass required policy checks, yet reach a correct outcome due to favorable circumstances.We refer to such cases as near-misses or latent failures.In this work, we introduce a novel metric for detecting latent policy failures in agent conversations traces.Building on the ToolGuard framework, which converts naturallanguage policies into executable guard code, our method analyzes agent trajectories to determine whether agent's tool-calling decisions where sufficiently informed.We evaluate our approach on the τ 2 -verified Airlines benchmark across several contemporary open and proprietary LLMs acting as agents.Our results show that latent failures occur in 8-17% of trajectories involving mutating tool calls, even when the final outcome matches the expected ground-truth state.These findings reveal a blind spot in current evaluation methodologies and highlight the need for metrics that assess not only final outcomes but also the decision process leading to them.
+type: other
+open_access: true
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.25
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate
+ext:
+  ids:
+    crossref: 10.18653/v1/2026.gem-main.30

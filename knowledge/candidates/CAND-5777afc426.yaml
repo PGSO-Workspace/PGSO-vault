@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5777afc426
+created: 2026-09-15T00:31:14.448Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.specom.2025.103228
+title: Speech emotion recognition using energy based adaptive mode selection
+authors:
+  - Ravi
+  - Sachin Taran
+year: 2025
+venue: Speech Communication
+doi: 10.1016/j.specom.2025.103228
+url: https://doi.org/10.1016/j.specom.2025.103228
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: '"Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets"'
+question: null
+search: SEARCH-023614a12f
+score: 1.186
+score_parts:
+  rank: 0.167
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-401aa2967a
+created: 2026-09-15T00:31:36.231Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-6617154/v1
+title: Triple Dimensional Valence-Arousal-Dominance Encouraging Graph Attention Networks to Exploit Aspect-based Sentiment Analysis
+authors:
+  - Xuefeng Shi
+  - Weiping Ding
+  - Min Hu
+  - Xin Kang
+  - Fuji Ren
+year: 2025
+venue: null
+doi: 10.21203/rs.3.rs-6617154/v1
+url: https://doi.org/10.21203/rs.3.rs-6617154/v1
+abstract: Abstract As a fine-grained sentiment analysis subtask in the Natural Language Processing (NLP) community, Aspect-based Sentiment Analysis (ABSA) aims to predict the sentiment polarity of the aspect terms according to the given sentence. In previous research, external affective knowledge has been utilized to enhance the representation of the sentiment information contained in the text, which has achieved impressive progress in ABSA task. However, it is worth noting that the external knowledge employed is usually leveraged from the single-dimensional perspective, which lacks diversified and multiple-dimensional exploration and leads to insufficient comprehension of the complex sentiment information. Thus, this paper proposes a novel ABSA network to fully exploit the sentiment features from triple dimensions, namely the Valence-Arousal-Dominance assisted Graph Attention Networks (VADGAT). Preliminarily, to obtain the task-relevant semantic representation, an aspect-oriented template is devised firstly to guide the fine-tuning of the pre-trained language model. Besides, to fully leverage the triple-dimensional sentiment, they are injected into the normal dependency graph to construct three mutually independent adjacent matrices, which are implemented by Graph Attention (GAT) to extract the relations among graph nodes, progressively.Meanwhile, to treat as the fourth dimension of human beings' sentiment, SenticNet is also leveraged to enhance the sentiment intensity of the words in the text, which are expected to highlight implicit information and support the final sentiment inference. Moreover, an intentional shadow network is devised and leveraged to reinforce the screening ability of sentiment information, which is integrated with the mainstream representation proportionally. Furthermore, to improve the effectiveness of this innovative strategy, this paper utilizes the Jensen-Shannon divergence to evaluate the similarity between the mainstream and the shadow modules and optimizes the designed VADGAT eventually. To validate the effectiveness of the proposed approach, this paper conducted extensive experiments on five publicly available datasets, and the results show that the approach outperforms the state-of-the-art methods.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Coupling Sentiment and Arousal Analysis Towards an Affective Dialogue Manager"'
+question: null
+search: SEARCH-7bc8da0319
+score: 1.011
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

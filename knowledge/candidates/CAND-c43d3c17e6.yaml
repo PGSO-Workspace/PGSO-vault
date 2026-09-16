@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c43d3c17e6
+created: 2026-09-15T09:45:55.769Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.47832/topkapi.cong5-1
+title: "Toward a Smart Economy Model in Iraq: A Future-Oriented Outlook on Integrating Artificial Intelligence and the Digital Economy in Building a Post-Rentier Economy"
+authors: []
+year: 2025
+venue: Full Text Book of topkapi conf5
+doi: 10.47832/topkapi.cong5-1
+url: https://doi.org/10.47832/topkapi.cong5-1
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Yue Qi" full text'
+question: null
+search: SEARCH-aa21877eb5
+score: 0.971
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

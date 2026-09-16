@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-d5523ac37e
+created: 2026-09-15T00:31:40.637Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-v1-build-manifest.json
+hash: d5523ac37e827d87b2a087c8ffa7c5ac92a8e4b5b18377b05c167bfa92fcc1c5
+bytes: 1575
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Frozen build provenance linking source, observation runner and compiled PGSO binary

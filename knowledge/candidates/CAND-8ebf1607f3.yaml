@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8ebf1607f3
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/access.2025.3603738
+title: An Adaptive Human–Robot Interaction Framework Using Real-Time Emotion Recognition and Context-Aware Task Planning
+authors:
+  - Udit Mamodiya
+  - Indra Kishor
+  - Abrar Ahmed Syed
+  - Pranati Sankalkar
+  - Nithesh Naik
+year: 2025
+venue: IEEE Access
+doi: 10.1109/access.2025.3603738
+url: https://doi.org/10.1109/access.2025.3603738
+abstract: null
+type: article
+open_access: null
+cited_by: 15
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 1.239
+score_parts:
+  rank: 0.038
+  citations: 0.301
+  recency: 0.9
+needs_approval: false
+state: candidate

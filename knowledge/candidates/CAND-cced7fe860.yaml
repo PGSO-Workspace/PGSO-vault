@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-cced7fe860
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4402168831
+title: "Conversational Breakdown in a Customer Service Chatbot: Impact of Task Order and Criticality on User Trust and Emotion"
+authors:
+  - Asbjørn Følstad
+  - Effie Lai‐Chong Law
+  - Nena van As
+year: 2024
+venue: ACM Transactions on Computer-Human Interaction
+doi: 10.1145/3690383
+url: https://doi.org/10.1145/3690383
+abstract: While chatbots are increasingly used for customer service, there is a knowledge gap concerning the impact of Conversational Breakdown in such chatbot interactions. In a 2 \({\times}\) 4 factorial design online experiment, we studied how Conversational Breakdown impacts user emotion and trust in a chatbot for customer service, given variations in task criticality and breakdown task order. Here, 257 participants were randomly assigned to complete high- or low-criticality tasks with a prototype chatbot for customer service, experiencing Conversational Breakdown for the first, second, third or none of their tasks. The task set was decided from a 63-participant pre-study. We found significant impact of Conversational Breakdown, including a marked order effect on overall trust, as well as a bounce-back effect on task-specific trust and emotion after subsequent successful task completion. We found no post-interaction effect of Task Criticality. Based on our findings, we discuss theoretical and practical implications and suggest future research.
+type: article
+open_access: true
+cited_by: 15
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.157
+score_parts:
+  rank: 0.056
+  citations: 0.301
+  recency: 0.8
+needs_approval: false
+state: candidate

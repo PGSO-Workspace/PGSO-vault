@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8271311343
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1080/0960085x.2022.2088416
+title: "Patient health locus of control: the design of information systems for patient-provider interactions"
+authors:
+  - James Wallace
+  - Matthew T Mullarkey
+  - Alan Hevner
+year: 2022
+venue: European Journal of Information Systems
+doi: 10.1080/0960085x.2022.2088416
+url: https://doi.org/10.1080/0960085x.2022.2088416
+abstract: null
+type: article
+open_access: null
+cited_by: 5
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 0.828
+score_parts:
+  rank: 0.033
+  citations: 0.195
+  recency: 0.6
+needs_approval: false
+state: candidate

@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-417b11f557
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1177/19485506261452705
+title: Intuitive Judgments of Strangers Are More Popular but Not More Accurate Than Deliberate Ones
+authors:
+  - Carina Remmers
+  - Albert Anoschin
+  - Johannes Zimmermann
+  - Michael P. Grosz
+  - Mitja D. Back
+  - Richard Rau
+year: 2026
+venue: Social Psychological and Personality Science
+doi: 10.1177/19485506261452705
+url: https://doi.org/10.1177/19485506261452705
+abstract: Popular advice in media and self-help literature encourages people to trust their intuition when forming impressions of strangers. We tested this widespread lay belief by examining whether intuitive judgments are preferred over deliberate ones and whether such preferences are justified by differences in accuracy. In Study 1 ( n = 401), participants from the general population reported using intuition more frequently, preferring it, and expressing greater confidence in it compared to deliberate reasoning when judging strangers. In Study 2, we analyzed 21,739 judgments from 380 users of the quiz app “Who Knows,” who inferred personality-related characteristics from short video introductions. Judgment mode was experimentally manipulated within persons across multiple game rounds. While intuitive judgments were again preferred, accuracy did not differ between conditions. Thus, although intuition is favored when judging strangers, it does not yield higher accuracy but may still be adaptive by achieving comparable accuracy with less time.
+type: article
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 1.038
+score_parts:
+  rank: 0.038
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

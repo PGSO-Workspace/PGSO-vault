@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-49b6928a16
+created: 2026-09-15T10:08:40.920Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/paper1-author-byline-recovery-2026-09-15.md
+paths:
+  - sources/reports/paper1-author-byline-recovery-2026-09-15.md
+hash: 49b6928a16c243f0b6f39666a49aa70a52120b30f6639be04b6b1f50758cfaf0
+bytes: 2272
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 2272
+  sections: 2
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T10:08:40.725Z
+versions_of: ART-9009dab147
+latest: true

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2b76a4857e
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20944/preprints202603.0362.v1
+title: "Context-Rich Adaptive Embodied Agents: Enhancing LLM-Powered Task Planning and Memory in Home Robotics"
+authors:
+  - Yutian Gai
+  - Haoyu Cen
+year: 2026
+venue: null
+doi: 10.20944/preprints202603.0362.v1
+url: https://doi.org/10.20944/preprints202603.0362.v1
+abstract: "The rapid evolution of Embodied AI and Large Language Models presents significant opportunities for home robotics, yet challenges persist in enabling robots to execute long-term, high-level natural language instructions. Current LLM-driven embodied agents often suffer from sub-optimal task planning, limited memory systems struggling with multi-hop queries, and inflexible agent routing mechanisms. To address these limitations, we propose the Context-Rich Adaptive Embodied Agent (CRAEA) framework, designed to significantly enhance task planning and memory-augmented question answering in household robots. CRAEA integrates core components: Semantic-Enhanced Task Planning (SETP), which enriches LLM-driven planning with object relationship graphs, hierarchical strategies, and implicit physical constraints; Multi-Modal Contextual Memory (MMCM), which stores comprehensive contextual memory units in a relational graph for sophisticated multi-hop reasoning and employs an advanced retrieval mechanism with temporal decay; and Adaptive Agent Routing and Coordination (AARC), featuring intent recognition with confidence evaluation, proactive clarification, and a planning feedback loop. Evaluated in an artificial home environment across complex tidying scenarios, CRAEA consistently demonstrates superior performance. Empirical results show that CRAEA achieves notable improvements in Task Planning Accuracy, Knowledge Base Response Total Validity, and Agent Routing Success Rate compared to baseline methods. A human evaluation further confirms enhanced coherence, naturalness, and user satisfaction, while an ablation study validates the critical contribution of each proposed module. CRAEA represents a significant step towards more intelligent, robust, and user-adaptive home robots."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.028
+score_parts:
+  rank: 0.028
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7a41f53265
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/access.2025.3565280
+title: Voltage Control for Distribution Networks Based on Large Language Model-Assisted Deep Reinforcement Learning
+authors:
+  - Limei Yan
+  - Chongyang Cheng
+year: 2025
+venue: IEEE Access
+doi: 10.1109/access.2025.3565280
+url: https://doi.org/10.1109/access.2025.3565280
+abstract: null
+type: article
+open_access: null
+cited_by: 7
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 1.159
+score_parts:
+  rank: 0.033
+  citations: 0.226
+  recency: 0.9
+needs_approval: false
+state: candidate

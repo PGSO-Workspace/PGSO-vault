@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e949f088c3
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7164574751
+title: Model Context Protocol Approach to Reducing Test Development Effort in Web Automation
+authors:
+  - Oleksii Cherkashyn
+year: 2026
+venue: International Journal of Scientific Research and Modern Technology.
+doi: 10.38124/ijsrmt.v5i6.1474
+url: https://doi.org/10.38124/ijsrmt.v5i6.1474
+abstract: The rapid evolution of web technologies and the increasing complexity of modern web applications have introduced significant challenges for test automation engineers. Frequent changes in user interfaces, business logic, and application architecture require continuous maintenance of automated test suites, leading to increased development effort and reduced productivity. At the same time, advances in Artificial Intelligence (AI) create new opportunities for improving software testing through intelligent automation and agent-based assistance. This study investigates the application of the Model Context Protocol (MCP) in web test automation, focusing on the WebdriverIO MCP Server as a mechanism for accelerating automated test development. The research analyzes the capabilities of MCP-enabled AI agents to interact with web applications and generate automated test scenarios in real-world environments. Furthermore, a two-machine development architecture is proposed, where the primary machine is used for main development activities and a secondary machine supports MCP-assisted test generation and exploratory automation, improving workflow efficiency and reducing interruptions. Experimental results demonstrate the practical applicability of the proposed approach. The findings indicate an average MCP session success rate of approximately 80%, suggesting that MCP-based automation can significantly reduce the effort required for developing automated web tests. The study highlights MCP as a promising framework for integrating AI into modern test automation workflows and provides recommendations for its adoption in software quality assurance processes.
+type: article
+open_access: true
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.063
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

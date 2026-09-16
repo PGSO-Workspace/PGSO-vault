@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-20ee928cc7
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3786180.3788314
+title: "When Many-Shot Prompting Fails: An Empirical Study of LLM Code Translation"
+authors:
+  - Amirkia Rafiei Oskooei
+  - Kaan Baturalp Cosdan
+  - Husamettin Isiktas
+  - Mehmet S. Aktas
+year: 2026
+venue: Proceedings of the 1st Workshop on Code Translation, Transformation, and Modernization
+doi: 10.1145/3786180.3788314
+url: https://doi.org/10.1145/3786180.3788314
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.026
+score_parts:
+  rank: 0.026
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,27 @@
+schema: phdude.source
+version: 1
+id: SRC-d749d99da9
+created: 2026-09-15T09:52:20.386Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: PGSO public-task AgentSpec external-runtime integration 62937ad
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-2e84b99503
+  - ART-2f49325f83
+  - ART-3d8eb9d2a6
+  - ART-4b4c0b4846
+  - ART-f4dbe21b06
+  - ART-f84c1eaba4
+  - ART-fa7589ad05
+  - ART-41e5b49eb5
+  - ART-86fa6c0e65
+state: candidate
+year: 2026
+url: https://github.com/PGSO-Workspace/pgso-sdk/pull/14
+abstract: Optional AgentSpec integration uses a pinned external checkout and upstream parser/interpreter SKIP for active exact-tool rules. Host-authored temporal lifecycle and no-rule allowance are separately attributed. Seven real framework/runtime checks and three offline pilot checks pass at source 62937ad, including seven-condition mocked-generation sessions. Shared Rust supplies the common invocation boundary. No upstream code is vendored and no comparative task utility is measured.
+bibkey: workspace2026pgso-11

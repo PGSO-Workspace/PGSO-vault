@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6dafd5a84b
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.53841/bpscog.2025.1.10.6
+title: "Pathways to emotion recognition difficulties: Insights from the Inside Out Model of Emotion Recognition"
+authors:
+  - Connor T. Keating
+  - Jennifer L. Cook
+year: 2025
+venue: The Cognitive Psychology Bulletin
+doi: 10.53841/bpscog.2025.1.10.6
+url: https://doi.org/10.53841/bpscog.2025.1.10.6
+abstract: This concise overview paper discusses our recent work developing the Inside Out Model of Emotion Recognition – a psychological framework bringing together the experience, visual representation and recognition of emotion. Via this work, we have identified two distinct pathways to emotion recognition difficulties. We highlight our model’s implications for understanding the aetiology of emotion recognition challenges across various clinical conditions.
+type: article
+open_access: null
+cited_by: 0
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 0.95
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

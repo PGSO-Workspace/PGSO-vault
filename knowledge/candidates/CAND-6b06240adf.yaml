@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6b06240adf
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4407591723
+title: "Climate Change Cognition, Affect, and Behavior in Youth: A Scoping Review"
+authors:
+  - Mariel Tapia‐Echanove
+  - Alexandra Bloch‐Atefi
+  - Scott Hanson‐Easey
+  - Tassia K. Oswald
+  - Jaklin Eliott
+year: 2025
+venue: Wiley Interdisciplinary Reviews Climate Change
+doi: 10.1002/wcc.70000
+url: https://doi.org/10.1002/wcc.70000
+abstract: ABSTRACT Climate change is the greatest threat to global health, yet the burden is not distributed equally. Young people are particularly vulnerable to the physical and mental health impacts, and their increasing engagement in climate activism highlights the need to summarize the available evidence on climate change cognition, affect, and behavior in this population. We followed the JBI methodology for scoping reviews and included sources that addressed cognitive, affective, and behavioral concepts of climate change in youth, defined as individuals between the ages of 15 and 24 years. Out of 978 papers initially identified, 48 sources were included, with most studies using survey methodologies and quantitative analyses. Approximately two‐thirds of reviewed studies used different cognitive concepts to explore the existence, causes, impacts of, and solutions to climate change. Findings showed that most young people think climate change is happening, is mainly caused by humans, and are aware of the impacts. However, in relation to perceived solutions and responsibility, results were heterogeneous, showing an opportunity for research and education in this area. Most young people considered climate change as a threat and/or were concerned about it, though concern and worry were exclusively studied through quantitative methods. A strong association between coping strategies and pro‐environmental behavior was observed, and interventions that were successful in changing behavior promoted engagement in environmental actions and work within communities. In conclusion, research has heavily focused on climate change cognition, leaving an important opportunity for further investigation into the affect and behavior in youth, specifically through qualitative methods.
+type: article
+open_access: true
+cited_by: 12
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.261
+score_parts:
+  rank: 0.083
+  citations: 0.278
+  recency: 0.9
+needs_approval: false
+state: candidate

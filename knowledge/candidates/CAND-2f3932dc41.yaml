@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2f3932dc41
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7113258
+title: "Machine Psychiatry: Toward a Validated Nosology of Behavioral Pathologies in Large Language Models and Agent Swarms"
+authors:
+  - Giuseppe Canale
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7113258
+url: https://doi.org/10.2139/ssrn.7113258
+abstract: "The technical community has already borrowed one word from clinical psychiatry-hallucination-because no mechanical vocabulary fit the phenomenon. This paper argues that it was not a loanword but the first entry of an entire missing lexicon. Large language models are distillations of human verbal behavior; we argue their characteristic failures are consequently behavioral in kind-sycophancy, capitulation under pressure, grandiosity, dissociative incoherence, confabulation-and that they present as a psychiatric patient presents: not as a crash, but as drift. We propose machine psychiatry: the discipline that reads a model's behavior from its output alone-no access to weights, activations, or training data-the way a clinician reads a patient, continuously and longitudinally rather than at benchmark time. We contribute (i) a nosology of behavioral pathologies at three levels (single response, longitudinal, and swarm), each with operational diagnostic criteria; (ii) an instrument suite implementing those criteria as sentence-level posture classifiers, input-risk scoring, and swarm-graph propagation signals, in production across five languages; (iii) an empirical validation program on external, independently labeled corpora, with success thresholds declared before each run-including ≥ 0.94 recall on suicidal-ideation input (SDCNL), auc 0.911 for cross-agent contamination on real multi-model conversations, and attack-control separation of risky actions on AgentDojo; and (iv)-deliberately-our negative results: constructs the validation program falsified and which we withdrew, including a cross-agent posture-correlation signal that a common-cause control revealed to be an artifact of the shared prompt. A taxonomy pruned by its own controls is, we argue, the methodological step that separates a diagnostic discipline from a metaphor."
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.036
+score_parts:
+  rank: 0.036
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

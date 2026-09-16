@@ -1,0 +1,28 @@
+schema: phdude.source
+version: 1
+id: SRC-6c945bc8c5
+created: 2026-09-15T01:12:33.810Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: A psychometric framework for evaluating and shaping personality traits in large language models
+authors:
+  - Gregory Serapio-García
+  - Mustafa Safdari
+  - Clément Crepy
+  - Luning Sun
+  - Stephen Fitz
+  - Peter Romero
+  - Marwa Abdulhai
+  - Aleksandra Faust
+  - Maja Matarić
+type: article
+artifacts:
+  - ART-735ca3b72b
+state: candidate
+year: 2025
+venue: Nature Machine Intelligence
+doi: 10.1038/s42256-025-01115-6
+url: https://doi.org/10.1038/s42256-025-01115-6
+abstract: "Research review summary: Publisher PDF inspected, targeted pp. 1954–1957 (PDF pp.1–4); publisher PDF downloaded and hashed. No tool-catalog manipulation or runtime authorization experiment. Does not validate PGSO capability-induced personality. Full downstream methods/results not exhaustively reviewed."

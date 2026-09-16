@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0cb948607e
+created: 2026-09-15T07:34:52.996Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392924345
+title: Emerging Frontiers in Human–Robot Interaction
+authors:
+  - Farshad Safavi
+  - Parthan Olikkal
+  - Dingyi Pei
+  - Sadia Kamal
+  - Helen Meyerson
+  - Varsha Penumalee
+  - Ramana Vinjamuri
+year: 2024
+venue: Journal of Intelligent & Robotic Systems
+doi: 10.1007/s10846-024-02074-7
+url: https://doi.org/10.1007/s10846-024-02074-7
+abstract: "Abstract Effective interactions between humans and robots are vital to achieving shared tasks in collaborative processes. Robots can utilize diverse communication channels to interact with humans, such as hearing, speech, sight, touch, and learning. Our focus, amidst the various means of interactions between humans and robots, is on three emerging frontiers that significantly impact the future directions of human–robot interaction (HRI): (i) human–robot collaboration inspired by human–human collaboration, (ii) brain-computer interfaces, and (iii) emotional intelligent perception. First, we explore advanced techniques for human–robot collaboration, covering a range of methods from compliance and performance-based approaches to synergistic and learning-based strategies, including learning from demonstration, active learning, and learning from complex tasks. Then, we examine innovative uses of brain-computer interfaces for enhancing HRI, with a focus on applications in rehabilitation, communication, brain state and emotion recognition. Finally, we investigate the emotional intelligence in robotics, focusing on translating human emotions to robots via facial expressions, body gestures, and eye-tracking for fluid, natural interactions. Recent developments in these emerging frontiers and their impact on HRI were detailed and discussed. We highlight contemporary trends and emerging advancements in the field. Ultimately, this paper underscores the necessity of a multimodal approach in developing systems capable of adaptive behavior and effective interaction between humans and robots, thus offering a thorough understanding of the diverse modalities essential for maximizing the potential of HRI."
+type: article
+open_access: true
+cited_by: 31
+query: Multi-modal hierarchical empathetic framework social robots affective body control
+question: null
+search: SEARCH-35ee737b2d
+score: 1.509
+score_parts:
+  rank: 0.333
+  citations: 0.376
+  recency: 0.8
+needs_approval: false
+state: candidate

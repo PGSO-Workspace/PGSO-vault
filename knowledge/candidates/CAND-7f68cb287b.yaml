@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7f68cb287b
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.54254/2755-2721/2026.tj28954
+title: "Empowering LLM-based Agents: Methods and Challenges in Tool Use"
+authors:
+  - Xinyue Du
+year: 2025
+venue: Applied and Computational Engineering
+doi: 10.54254/2755-2721/2026.tj28954
+url: https://doi.org/10.54254/2755-2721/2026.tj28954
+abstract: The emergence of Large Language Model (LLM)-based agents marks a significant step towards more capable Artificial Intelligence. However, the effectiveness of these agents is fundamentally constrained by the static nature of their internal knowledge. Tool use has become a critical paradigm to overcome these limitations, enabling agents to interact with dynamic data, execute complex computations, and act upon the world. This paper provides a comprehensive survey of the methods, challenges, and future directions in empowering LLM-based agents with tool-use capabilities. Through a systematic literature review, we synthesized the current state of the art, charting the evolution from foundational agent architectures and core invocation mechanisms like function calling to advanced strategies such as dynamic tool retrieval and autonomous tool creation. Our analysis revealed several critical challenges that impede the deployment of robust agents, including knowledge conflicts between internal priors and external evidence, significant performance degradation in long-context scenarios, non-monotonic scaling behaviors in compound systems, and novel security vulnerabilities. By mapping the current research landscape and identifying these key obstacles, this survey proposes a research agenda to guide future efforts in building more capable, secure, and reliable AI agents.
+type: article
+open_access: null
+cited_by: 0
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 0.929
+score_parts:
+  rank: 0.029
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,42 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3ee3d98535
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4386902993
+title: Extracting structured seed-mediated gold nanorod growth procedures from scientific text with LLMs
+authors:
+  - Nicholas Walker
+  - Sanghoon Lee
+  - John Dagdelen
+  - Kevin Cruse
+  - Samuel Gleason
+  - Alexander Dunn
+  - Gerbrand Ceder
+  - A. Paul Alivisatos
+  - Kristin A. Persson
+  - Anubhav Jain
+year: 2023
+venue: Digital Discovery
+doi: 10.1039/d3dd00019b
+url: https://doi.org/10.1039/d3dd00019b
+abstract: The synthesis of gold nanorods remains largely heuristically understood. Large language models provide a route for extracting their structured synthesis procedures from scientific articles to accelerate investigation into synthesis pathways.
+type: article
+open_access: true
+cited_by: 27
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.115
+score_parts:
+  rank: 0.053
+  citations: 0.362
+  recency: 0.7
+needs_approval: false
+state: candidate

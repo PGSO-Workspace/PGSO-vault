@@ -1,0 +1,22 @@
+schema: phdude.result
+version: 1
+id: RESULT-d86c084124
+created: 2026-09-15T00:15:39.375Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: "Synthetic fixture-specific exposure/directive violations: 0 across 454 steps"
+from: ANALYSIS-1a3562f88b
+values:
+  protected_absent: 0
+  multiple_directives_in_single_directive_rule: 0
+  paired_actions_mismatch_in_this_rule: 0
+  transition_count_mismatch: 0
+  contract_steps: 184
+  challenge_steps: 270
+state: candidate
+ext:
+  analysis:
+    key: invariants
+    run_at: 2026-09-15T00:15:39.375Z

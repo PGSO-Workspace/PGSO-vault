@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d3b7c212d7
+created: 2026-09-15T07:37:52.267Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.48047/jocaaa.2026.35.01.90
+title: Ensuring Deterministic Outputs in Distributed Build Systems Through Runtime-Based Verification
+authors: []
+year: 2026
+venue: Journal of Computational Analysis and Applications
+doi: 10.48047/jocaaa.2026.35.01.90
+url: https://doi.org/10.48047/jocaaa.2026.35.01.90
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement" "Abhinandan Gill-Lakhowal"'
+question: null
+search: SEARCH-9d6de85957
+score: 1.067
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

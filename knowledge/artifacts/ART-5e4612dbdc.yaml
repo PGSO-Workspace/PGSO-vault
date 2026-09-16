@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-5e4612dbdc
+created: 2026-09-15T08:35:37.746Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/paper1-evaluation-program-2026-09-15.md
+paths:
+  - sources/reports/paper1-evaluation-program-2026-09-15.md
+hash: 5e4612dbdc44a2867afb34d265cf0be7b1034ef496e4f6841bfa1157cdbcd6be
+bytes: 5433
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 5429
+  sections: 3
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T08:35:37.544Z
+versions_of: ART-cc24893a1a
+latest: true

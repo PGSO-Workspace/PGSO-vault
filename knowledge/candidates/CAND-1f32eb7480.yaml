@@ -1,0 +1,102 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1f32eb7480
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4390833061
+title: "TrustLLM: Trustworthiness in Large Language Models"
+authors:
+  - Yue Huang
+  - Lichao Sun
+  - Haoran Wang
+  - Siyuan Wu
+  - Qihui Zhang
+  - Yuan Li
+  - C Gao
+  - Yixin Huang
+  - Wenhan Lyu
+  - Yixuan Zhang
+  - Xiner Li
+  - Yixin Liu
+  - Yixin Liu
+  - Yijue Wang
+  - Zhikun Zhang
+  - Bertie Vidgen
+  - Bhavya Kailkhura
+  - C Xiong
+  - Chaowei Xiao
+  - Chunyuan Li
+  - Eric Xing
+  - F T Huang
+  - Hao Liu
+  - H Q Ji
+  - Hongyi Wang
+  - Huan Zhang
+  - Huaxiu Yao
+  - Manolis Kellis
+  - Marinka Zitnik
+  - M Jiang
+  - Mohit Bansal
+  - James Zou
+  - Jian Pei
+  - Jian Liu
+  - Jianfeng Gao
+  - Jiawei Han
+  - Jieyu Zhao
+  - Jiliang Tang
+  - Jindong Wang
+  - Joaquin Vanschoren
+  - John Mitchell
+  - Shu K
+  - Kaidi Xu
+  - Kai-Wei Chang
+  - He L
+  - Lifu Huang
+  - Michael Backes
+  - Neil Zhenqiang Gong
+  - Philip S. Yu
+  - Pin-Yu Chen
+  - Quanquan Gu
+  - Xu Rd
+  - Rex Ying
+  - Shuiwang Ji
+  - Suman Jana
+  - Tianlong Chen
+  - Tianming Liu
+  - Tao Zhou
+  - William Wang
+  - Xing Xie
+  - Xiangliang Zhang
+  - Xiao Wang
+  - X J Xie
+  - Xun Chen
+  - Xuyu Wang
+  - Yan Liu
+  - Yanfang Ye
+  - Yinzhi Cao
+  - Yong Chen
+  - Yue Zhao
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2401.05561
+url: http://arxiv.org/abs/2401.05561
+abstract: Large language models (LLMs), exemplified by ChatGPT, have gained considerable attention for their excellent natural language processing capabilities. Nonetheless, these LLMs present many challenges, particularly in the realm of trustworthiness. Therefore, ensuring the trustworthiness of LLMs emerges as an important topic. This paper introduces TrustLLM, a comprehensive study of trustworthiness in LLMs, including principles for different dimensions of trustworthiness, established benchmark, evaluation, and analysis of trustworthiness for mainstream LLMs, and discussion of open challenges and future directions. Specifically, we first propose a set of principles for trustworthy LLMs that span eight different dimensions. Based on these principles, we further establish a benchmark across six dimensions including truthfulness, safety, fairness, robustness, privacy, and machine ethics. We then present a study evaluating 16 mainstream LLMs in TrustLLM, consisting of over 30 datasets. Our findings firstly show that in general trustworthiness and utility (i.e., functional effectiveness) are positively related. Secondly, our observations reveal that proprietary LLMs generally outperform most open-source counterparts in terms of trustworthiness, raising concerns about the potential risks of widely accessible open-source LLMs. However, a few open-source LLMs come very close to proprietary ones. Thirdly, it is important to note that some LLMs may be overly calibrated towards exhibiting trustworthiness, to the extent that they compromise their utility by mistakenly treating benign prompts as harmful and consequently not responding. Finally, we emphasize the importance of ensuring transparency not only in the models themselves but also in the technologies that underpin trustworthiness. Knowing the specific trustworthy technologies that have been employed is crucial for analyzing their effectiveness.
+type: preprint
+open_access: true
+cited_by: 54
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 1.485
+score_parts:
+  rank: 0.25
+  citations: 0.435
+  recency: 0.8
+needs_approval: true
+state: candidate

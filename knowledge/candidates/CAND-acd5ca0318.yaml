@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-acd5ca0318
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416025329
+title: "Beyond algorithms: Artificial intelligence driven talent identification with human insight"
+authors:
+  - Tiago Jacob Fernandes França
+  - José Henrique Pereira São Mamede
+  - João Barroso
+  - Vítor Santos
+year: 2025
+venue: Intelligent Systems with Applications
+doi: 10.1016/j.iswa.2025.200604
+url: https://doi.org/10.1016/j.iswa.2025.200604
+abstract: • Proposes a hybrid AI-human model for ethical and inclusive talent identification in Human Resource Management. • Empirically validates personal and professional attributes linked to high-potential talent. • Demonstrates AI’s strengths in structured data analysis and its limits in qualitative traits. • Reveals key correlations between creativity, leadership, innovation, and decision-making. • Offers actionable frameworks for bias mitigation using AI in Human Resource decision-making processes. The rapid evolution of Artificial Intelligence (AI) is reshaping Human Resource Management (HRM), with growing interest in its role in talent identification. While AI has demonstrated effectiveness in analysing structured data, its limitations in assessing qualitative attributes such as creativity, adaptability, and emotional intelligence remain underexplored. This study addresses these gaps through an exploratory mixed-methods design, combining a global survey (n = 240) with semi-structured interviews of HR professionals. Quantitative analysis highlights patterns of association between key competencies, while qualitative findings provide contextual insights into perceptions of fairness, bias, and cultural resistance. The results suggest that AI can complement, but not replace, human judgement, supporting a Hybrid Evaluative Model that integrates algorithmic efficiency with human interpretation. The study contributes rare empirical evidence to a nascent field, highlights the ethical imperatives of bias mitigation and transparency, and underscores the importance of cultural context (collectivist versus individualist orientations) in shaping the acceptance and effectiveness of AI-enabled HR practices. These findings offer practical guidance for organisations and advance theory-building at the intersection of AI and HRM.
+type: article
+open_access: true
+cited_by: 3
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 1.151
+score_parts:
+  rank: 0.1
+  citations: 0.151
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b97f6f9d13
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3102/2283958
+title: Leveraging LLM Tool Calling for Automating Q-Matrix Construction in Cognitive Diagnosis Analysis
+authors:
+  - Jihong Zhang
+year: 2026
+venue: Proceedings of the 2026 AERA Annual Meeting
+doi: 10.3102/2283958
+url: https://doi.org/10.3102/2283958
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.031
+score_parts:
+  rank: 0.031
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

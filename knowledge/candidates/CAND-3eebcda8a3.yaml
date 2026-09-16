@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3eebcda8a3
+created: 2026-09-15T06:32:12.812Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/979-8-8688-0110-5_8
+title: Evaluation Metrics
+authors:
+  - Michael McTear
+  - Marina Ashurkina
+year: 2024
+venue: Transforming Conversational AI
+doi: 10.1007/979-8-8688-0110-5_8
+url: https://doi.org/10.1007/979-8-8688-0110-5_8
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: conversational agents task success evaluation benchmark tool policy reliability
+question: null
+search: SEARCH-b2b151cc68
+score: 0.877
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

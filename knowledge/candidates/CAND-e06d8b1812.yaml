@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e06d8b1812
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4413803484
+title: AI, agentic models and lab automation for scientific discovery — the beginning of scAInce
+authors:
+  - Thomas Hartung
+year: 2025
+venue: Frontiers in Artificial Intelligence
+doi: 10.3389/frai.2025.1649155
+url: https://doi.org/10.3389/frai.2025.1649155
+abstract: Until recently, the conversation about generative artificial intelligence in science revolved around the textual prowess of large language models such as GPT-3.5 and the promise that they might one day draft a decent literature review. Since then, progress has been nothing short of breathtaking. We now find ourselves in the era of multimodal, agentic systems that listen, see, speak and act, orchestrating cloud software and physical laboratory hardware with a fluency that would have sounded speculative in early 2023. In this review, I merge the substance of our 2024 white paper for the World Economic Forum Top-10-Technologies Report with the latest advances through mid-2025, charting a course from automated literature synthesis and hypothesis generation to self-driving laboratories, organoid intelligence and climate-scale forecasting. The discussion is grounded in emerging governance regimes—notably the European Union Artificial Intelligence Act and ISO 42001—and is written from the dual vantage-point of a toxicologist who has spent a career championing robust, humane science and of a field chief editor charged with safeguarding scholarly standards in Frontiers in Artificial Intelligence . I argue that research is entering a “co-pilot to lab-pilot” transition in which AI no longer merely interprets knowledge but increasingly acts upon it . This shift promises dramatic efficiency gains yet simultaneously amplifies concerns about reproducibility, auditability, safety and equitable access.
+type: article
+open_access: true
+cited_by: 32
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 1.351
+score_parts:
+  rank: 0.071
+  citations: 0.38
+  recency: 0.9
+needs_approval: false
+state: candidate

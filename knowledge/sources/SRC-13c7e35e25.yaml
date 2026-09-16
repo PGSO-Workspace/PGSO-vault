@@ -1,0 +1,156 @@
+schema: phdude.source
+version: 1
+id: SRC-13c7e35e25
+created: 2026-09-14T21:07:21.721Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: PGSO SDK audit at 1b17c248d360 — reproducible contracts and study readiness, 2026-09-14
+authors:
+  - Codex (AI-assisted technical audit)
+type: report
+artifacts: []
+state: candidate
+year: 2026
+abstract: |
+  # PGSO: auditoría reproducible previa al estudio
+
+  Fecha: 2026-09-14. Preparado por Codex para Lucio, como análisis asistido por IA.
+
+  ## Alcance y estado
+
+  Se clonó `PGSO-Workspace/pgso-sdk` y se verificó que `origin/main` apunta a
+  `1b17c248d3608a7d80cc1147e8aa57acbb715132`, la misma revisión del snapshot del vault.
+  No se encontraron otras ramas remotas, releases ni artefactos disponibles de GitHub Actions
+  en las consultas realizadas. Esto no excluye datos guardados en otros equipos o servicios.
+  No se modificó código de producción ni se publicó ningún cambio remoto.
+
+  La suite original terminó correctamente con `cargo test --workspace --locked` antes de
+  añadir las pruebas de esta auditoría. No se volvió a ejecutar el benchmark científico.
+  Las nuevas comprobaciones evalúan contratos concretos: algunas revelan defectos de composición,
+  otras requisitos del diseño propuesto que la API actual no satisface. No son nueve vulnerabilidades.
+
+  ## Reproducción
+
+  Entorno: Linux x86_64, rustc 1.93.1, LLVM 21.1.8.
+  Archivo: `crates/pgso-actuator-mcp/tests/research_audit.rs`.
+
+  ```sh
+  cargo test -p pgso-actuator-mcp --test research_audit --locked
+  cargo test --release -p pgso-actuator-mcp --test research_audit --locked
+  ```
+
+  Ambas ejecuciones: **11 comprobaciones; 2 controles pasan y 9 contratos fallan**.
+  La salida 101 es esperada mientras se mantenga el código auditado sin correcciones.
+  Los controles verifican recuperación con lectura nominal válida y preservación de herramientas protegidas.
+  Los registros completos están en `research-audit-debug.txt` y `research-audit-release.txt`.
+
+  SHA-256:
+
+  | Archivo | Hash |
+  |---|---|
+  | Cargo.lock | 4e94450145aa990a331f0fdfdae7b4d420101a669be3e05dddbdd2f08971c973 |
+  | research_audit.rs | e5de7dc58fea8df07c67fa0a9c747331bccb6fe0bccab8581835bd4413eaf1cb |
+  | research-audit-debug.txt | 6b58110a1d6b1664e4ccd28524715e094135f2ea1dcee2a5a23d59a3dc8d85f7 |
+  | research-audit-release.txt | 8755d778528c16d37f04834f8e489ea1d555969df1e31617a0c6aad3fa09ba5c |
+
+  ## Hallazgos y cambios mínimos recomendados
+
+  | ID | Evidencia reproducida o inspeccionada | Consecuencia | Cambio recomendado y criterio de cierre |
+  |---|---|---|---|
+  | A1 | Tras activar una restricción, una lectura con confianza 0.1 devuelve el catálogo completo. `engine.rs:168` devuelve None; `pipeline.rs:128` lo interpreta como recuperación. | La abstención del motor no conserva la política en el pipeline. | Resultado explícito que distinga abstención, nominal y activación; el contrato debe pasar también en release. |
+  | A2 | Aplicar dos veces la misma directiva produce dos bloques, tanto en LocalActuator como McpActuator. | Acumulación de contexto mientras persiste la señal. | Reconciliar directivas activas por identidad estable; no limitarse a deduplicar textos si distintas reglas comparten una directiva. Una regla activa mantiene una sola contribución. |
+  | A3 | Una lectura nominal elimina la única directiva pero el log mantiene una sola entrada. | La recuperación no puede reconstruirse desde el registro. | Comparar/auditar el estado efectivo completo, incluyendo directivas, no solo el catálogo. |
+  | A4 | Una regla fuerte deja de cumplirse, queda una regla leve y la herramienta sigue retirada. | Las restricciones pueden durar más que la condición que las justificó. | Especificar vigencia por regla y reconciliar las contribuciones activas; preservar contribuciones de otros ejes aún válidas. El retiro parcial no debe requerir un reset global. |
+  | A5 | La secuencia alto→nominal deja distinto catálogo según se entregue agrupada o en dos ventanas. | El tamaño del bloque de entrada cambia el comportamiento. | Procesar cronológicamente observaciones y definir agrupación de ejes/timestamps. El estado final debe coincidir para particiones semánticamente equivalentes. |
+  | A6 | NaN en confianza cruza el filtro; NaN en valor contamina la línea base y suprime una lectura válida posterior. | Entradas inválidas alteran decisiones y memoria. | Validar finitud/rangos antes de modificar estado; validar configuración en producción mediante error tipado. Dos comprobaciones distintas reproducen el problema. |
+  | A7 | RequireStepUp modifica el catálogo interno, pero tools_list_response devuelve exactamente el mismo JSON. | El payload actual no comunica ni ejecuta la confirmación adicional. | Conectar el estado a autorización real en dispatch; no inventar campos MCP como sustituto. La prueba actual diagnostica indistinguibilidad, no impone cambiar tools/list si la solución correcta es un ejecutor. |
+
+  Los siete grupos corresponden a nueve fallos porque A2 se comprueba en dos actuadores y
+  A6 contiene dos condiciones distintas. A4 y A5 requieren precisar semántica de ciclo de vida;
+  no deben convertirse en parches aislados que rompan los demás ejes o reglas.
+
+  ## Lo que todavía no existe o no está demostrado
+
+  1. **Ejecución protegida:** el crate MCP implementa catálogo y notificación de cambio;
+     no implementa `tools/call`, autenticación o dispatcher. El tipo Tool no conserva schemas
+     de argumentos; el payload emite schemas vacíos. No se demostró un exploit de ejecución:
+     falta el componente para realizar esa prueba. HTTP aparece como plan en README/PRD,
+     no como crate implementado.
+  2. **Incertidumbre afectiva calibrada:** el extractor calcula confianza como
+     `mean_voicing * voiced_fraction` (`pgso-signal-egemaps/src/lib.rs:207`). Es un indicador
+     acústico; no una probabilidad calibrada de que la estimación emocional sea correcta.
+  3. **Arousal eGeMAPS completo:** el código se describe como eGeMAPS-style; mapea energía
+     media y dispersión F0 a arousal. No presentarlo como implementación equivalente al conjunto
+     estándar completo ni como medición del estado interno del hablante.
+  4. **Tiempo y dirección:** las subventanas reciben el mismo timestamp de entrada; el motor
+     usa desviación absoluta. Antes de reglas sobre aumento/disminución se necesita dirección
+     explícita. La instancia mantiene estado por eje, no una identidad de hablante incorporada;
+     el host debe aislar sesiones o la interfaz debe expresarlo.
+  5. **Resultados históricos reproducibles:** phase3 contiene su README y referencias a
+     `out/layerb_summary.json`, pero no los resultados/scripts completos correspondientes
+     en los archivos versionados consultados. No se pueden reconstruir las cifras del paper
+     desde este checkout. Los resultados de phase0 existentes no sustituyen esos artefactos.
+  6. **Benchmark naturalista:** phase2 sigue documentado como pre-staged por falta de audio.
+     Reutilizar sus tres adaptadores y su interfaz de manifiesto antes de construir otro harness;
+     revisar licencias vigentes y posible solapamiento de entrenamiento antes de elegir modelos.
+  7. **Métricas y estadística:** los rangos que llaman governance-grade a rho>=0.50 son una
+     regla local, no evidencia de utilidad conversacional. El bootstrap/permutation implementado
+     re-muestrea filas sin representar dependencia por hablante. Debe adaptarse al muestreo real.
+     Preservar identificadores y predicciones por muestra para comparar candidatos emparejados.
+  8. **Latencia:** `latency_percentiles.rs` calcula percentiles de promedios de lotes de 1,000
+     llamadas del motor en régimen nominal. No son percentiles individuales ni latencia total
+     de voz, directivas, reglas, transporte o modelo.
+
+  ## Contrato de arquitectura recomendado
+
+  Conservar Signal, el núcleo puro, el motor de reglas y los actuadores existentes.
+  No empezar por cambiar frameworks o añadir un runtime de ML al núcleo.
+
+  ```text
+  Observación válida → estado temporal explícito → conjunto de reglas activas
+                   → reconciliación de catálogo/directivas → agente
+  Solicitud del agente → autorización actual + argumentos + confirmación → herramienta
+  Toda transición efectiva y ejecución/rechazo → registro trazable
+  ```
+
+  La prosodia nunca concede permisos. Las restricciones de negocio y confirmaciones obligatorias
+  se aplican en todas las variantes experimentales. Proteger disponibilidad no equivale a impedir
+  ejecución prohibida; preservar el texto del prompt no garantiza preservar su interpretación.
+
+  El modelo de amenazas debe exigir mediación de todas las rutas de ejecución y aislamiento de
+  credenciales del agente. La política se comprueba al despachar, incluida la vigencia de sesión,
+  los argumentos y la confirmación requerida. Una firma solo tiene sentido si el transporte o
+  almacenamiento de políticas exige autenticidad/integridad; no reemplaza la autorización.
+
+  ## Orden de cierre y evidencia exigida
+
+  1. **Semántica y corrección:** resultado explícito del motor; reconciliación por reglas;
+     validación numérica; registro completo. Pasan regresiones y suite original en debug/release.
+  2. **Integración:** ejecutor compartido con autorización verificable; esquemas reales;
+     MCP/HTTP como adaptadores del mismo contrato. Pruebas de llamadas directas, estado obsoleto,
+     argumentos inválidos, confirmación reutilizada y cambios de política antes del despacho.
+  3. **Instrumentación:** predicciones/observaciones con IDs, timestamps causales, configuración
+     y hashes; medición por etapa y muestreo por hablante. Registrar corridas científicas vía PhDude.
+  4. **Piloto:** comparación base/prompt/umbral/PGSO bajo controles de ejecución comunes;
+     adecuación conversacional evaluada por humanos, tareas y restricciones innecesarias.
+  5. **Confirmación:** márgenes prácticos y tamaño de muestra fijados tras viabilidad y antes
+     de observar resultados finales; política y modelos congelados, participantes separados.
+
+  No se puede afirmar hoy superioridad, empatía, seguridad universal o utilidad comercial.
+  Sí se puede diseñar un estudio que determine si el coste añadido del mecanismo está justificado.
+  Los datos, participantes, licencias y magnitud mínima relevante siguen siendo insumos pendientes;
+  no son incógnitas que una inspección del código pueda resolver.
+
+  ## Archivos y límites de esta entrega
+
+  Se añadió una suite de auditoría y este informe a la copia separada. Las nuevas pruebas siguen
+  fallando deliberadamente contra upstream. No se ejecutaron experimentos con corpus, llamadas
+  a modelos de pago ni conversaciones de clientes. No se modificó el manuscrito ni las fuentes
+  del vault. Estos materiales deben registrarse en PhDude como evidencia candidata de auditoría,
+  no como resultados confirmatorios del estudio.
+keywords:
+  - software audit
+  - proposed contracts
+  - not confirmatory study results

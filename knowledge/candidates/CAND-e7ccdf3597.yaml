@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e7ccdf3597
+created: 2026-09-15T07:38:43.488Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6055216
+title: "Ethical Access to Karst Systems: Principles, Rationale and Practice -An Educational Publication"
+authors:
+  - Mike Buchanan
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6055216
+url: https://doi.org/10.2139/ssrn.6055216
+abstract: "Karst landscapes and aquifers provide critical ecosystem services: drinking water, biodiversity habitat, climate archives and cultural value. Yet they are uniquely vulnerable to disturbance and contamination. This paper explains why holistic, geoethical access to karst systems is essential for human and non-human life alike and sets out the ethical foundations that justify a practical checklist for fieldwork, research, monitoring, management and public access. The paper is intended as an educational resource for students, practitioners, regulators and funding bodies seeking to align scientific and recreational access with long-term protection of karst systems."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"10.1109/ACCESS.2026.3719838" "Date of Publication"'
+question: null
+search: SEARCH-210eb9e969
+score: 1.111
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

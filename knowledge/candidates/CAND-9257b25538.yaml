@@ -1,0 +1,47 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9257b25538
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.22323/1.476.1214
+title: A novel MCP-PMT with single-chip MCP
+authors:
+  - Sen Qian
+  - Lingyue Chen
+  - Ma Lishuang
+  - Huang Guorui
+  - Jingwen Li
+  - Ling Ren
+  - Shuguang Si
+  - Jianning Sun
+  - Xin Wang
+  - Xingchao Wang
+  - Yifang Wang
+  - Zhi Wang
+  - Ning Wang
+  - Qi Wu
+  - MCP-PMT workgroup for the MCP-PMT workgroup
+year: 2024
+venue: Proceedings of 42nd International Conference on High Energy Physics — PoS(ICHEP2024)
+doi: 10.22323/1.476.1214
+url: https://doi.org/10.22323/1.476.1214
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 1.05
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

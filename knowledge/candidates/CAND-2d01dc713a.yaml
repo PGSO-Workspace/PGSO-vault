@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2d01dc713a
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.47297/taposatwsp2633-456918.20250605
+title: "EmoMATE: A Multimodal Emotion-Aware AI Assistant with Trust-Adaptive Interaction Modeling"
+authors:
+  - Yujia Du
+year: 2025
+venue: Theory and Practice of Science and Technology
+doi: 10.47297/taposatwsp2633-456918.20250605
+url: https://doi.org/10.47297/taposatwsp2633-456918.20250605
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 0.931
+score_parts:
+  rank: 0.031
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c620cde37e
+created: 2026-09-15T07:38:43.488Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.55277/researchhub.abdrr107.1
+title: Access Now Save the Date by Mallory Kass
+authors:
+  - werty you
+year: 2026
+venue: null
+doi: 10.55277/researchhub.abdrr107.1
+url: https://doi.org/10.55277/researchhub.abdrr107.1
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"10.1109/ACCESS.2026.3719838" "Date of Publication"'
+question: null
+search: SEARCH-210eb9e969
+score: 2
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

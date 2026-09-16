@@ -1,0 +1,44 @@
+schema: phdude.candidate
+version: 1
+id: CAND-18ccc483a9
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7128367775
+title: Navigating the Ethical and Societal Impacts of Generative AI in Higher Computing Education
+authors:
+  - Janice Mak
+  - Joyce Nakatumba‐Nabende
+  - Tony Clear
+  - Alison Clear
+  - Ibrahim Abluwi
+  - Oana Andrei
+  - Lorenzo Angeli
+  - Stephen L. MacNeil
+  - Solomon Sunday Oyelere
+  - Matthew Hale Rattigan
+  - Judy Sheard
+  - Tingting Zhu
+year: 2025
+venue: null
+doi: 10.1145/3760545.3783975
+url: https://doi.org/10.1145/3760545.3783975
+abstract: Generative AI (GenAI) presents societal and ethical challenges related to equity, academic integrity, bias, and data provenance. In this paper, we outline the goals, methodology and deliverables of the project, considering the ethical and societal impacts of GenAI in higher computing education. A systematic literature review that addresses a wide set of issues and topics covering the rapidly emerging technology of GenAI from the perspective of its ethical and societal impacts is presented. This paper then presents an evaluation of a broad international review of a set of university adoption, guidelines, and policies related to the use of GenAI and the implications for computing education. The Ethical and Societal Impacts-Framework (ESI-Framework), derived from the literature and policy review and evaluation, outlines the ethical and societal impacts of GenAI in computing education. This work synthesizes existing research and considers the implications for computing higher education. Educators, computing professionals and policy makers facing dilemmas in the integration of Generative AI in their contexts, may use this framework to guide decision-making in the age of GenAI.
+type: other
+open_access: true
+cited_by: 5
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 1.172
+score_parts:
+  rank: 0.077
+  citations: 0.195
+  recency: 0.9
+needs_approval: false
+state: candidate

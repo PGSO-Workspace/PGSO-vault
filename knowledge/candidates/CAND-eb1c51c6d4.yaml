@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-eb1c51c6d4
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.31235/osf.io/f2p7d
+title: Auditing multimodal large language models for context-aware content moderation
+authors:
+  - Thomas Davidson
+year: 2024
+venue: null
+doi: 10.31235/osf.io/f2p7d
+url: https://doi.org/10.31235/osf.io/f2p7d
+abstract: The development of multimodal large language models (MLLMs) offers new possibilities for context-aware content moderation by integrating text, images, and other data. This study uses a series of conjoint experiments to systematically audit GPT-4o, a state-of-the-art MLLM, to understand how it uses demographics and other contextual information when assessing hate speech. We show that GPT-4o's moderation decisions align with human judgments, particularly in recognizing norms regarding the use of reclaimed slurs by marginalized groups, and additional prompting can further enhance sensitivity to context. We further demonstrate that multimodal identity cues---combining visual and textual information---facilitate more nuanced content evaluation than unimodal approaches. This research underscores the potential and limitations of MLLMs for automated moderation and introduces conjoint analysis as a tool for auditing AI use in complex, context-sensitive applications.
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 0.836
+score_parts:
+  rank: 0.036
+  citations: 0
+  recency: 0.8
+needs_approval: true
+state: candidate

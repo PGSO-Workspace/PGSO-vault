@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b7c6690fd2
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.59671/iuklw
+title: Multimodal Emotion-Aware ASR for Real-Time Interaction
+authors:
+  - Karim Dabbabi
+  - Ahlem Kehili
+year: 2025
+venue: Interciencia
+doi: 10.59671/iuklw
+url: https://doi.org/10.59671/iuklw
+abstract: Multimodal Emotion-Aware Automatic Speech Recognition (ASR) systems have emerged as a critical advancement for real-time interaction tasks, enabling systems to not only transcribe speech but also interpret emotional context. This study introduces a novel Multimodal Emotion-Aware ASR framework that effectively integrates acoustic, visual, and textual modalities using advanced fusion techniques. The proposed system employs low-rank tensor fusion and dynamic feature selection, achieving state-of-the-art results across multiple benchmarks. Specifically, the method achieves a Weighted Average F1-Score (WAF) of 85.6% and an Accuracy (ACC) of 87.3% on the MER-SEMI dataset and a WAF of 80.3% with an ACC of 81.7% on the MER-NOISE dataset. Robust five-fold cross-validation results on Train & Val further demonstrate generalizability, with a WAF of 84.3% and an ACC of 86.1%. These results underscore the system’s ability to generalize across diverse languages, including Arabic, and to handle noisy and dynamic environments effectively.
+type: article
+open_access: null
+cited_by: 0
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 0.932
+score_parts:
+  rank: 0.032
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

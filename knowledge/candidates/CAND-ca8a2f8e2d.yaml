@@ -1,0 +1,50 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ca8a2f8e2d
+created: 2026-09-15T06:32:41.203Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415317947
+title: Towards General Agentic Intelligence via Environment Scaling
+authors:
+  - Runnan Fang
+  - Shihao Cai
+  - Baixuan Li
+  - Jialong Wu
+  - Guangyu Li
+  - Wenbiao Yin
+  - Xinyu Wang
+  - Xiaobin Wang
+  - Liping Su
+  - Zhen Zhang
+  - Shibin Wu
+  - Zhengwei Tao
+  - Yong Jiang
+  - Pengjun Xie
+  - Ningyu Zhang
+  - Fei Huang
+  - Wentao Zhang
+  - Jingren Zhou
+year: 2026
+venue: null
+doi: 10.18653/v1/2026.findings-acl.872
+url: https://doi.org/10.18653/v1/2026.findings-acl.872
+abstract: "Runnan Fang, Shihao Cai, Baixuan Li, Jialong Wu, Guangyu Li, Wenbiao Yin, Xinyu Wang, Xiaobin Wang, Liangcai Su, Zhen Zhang, Shibin Wu, Zhengwei Tao, Yong Jiang, Pengjun Xie, Ningyu Zhang, Fei Huang, Wentao Zhang, Jingren Zhou. Findings of the Association for Computational Linguistics: ACL 2026. 2026."
+type: other
+open_access: true
+cited_by: 1
+query: tau2 benchmark conversational agents dual control
+question: null
+search: SEARCH-6eb3d17581
+score: 2.075
+score_parts:
+  rank: 1
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

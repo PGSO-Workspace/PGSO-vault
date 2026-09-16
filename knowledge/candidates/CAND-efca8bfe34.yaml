@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-efca8bfe34
+created: 2026-09-15T01:07:13.133Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2196/71538
+title: "Chatbots’ Empathetic Conversations and Responses: A Qualitative Study of Help‑Seeking Queries on Depressive Moods Across 8 Commercial Conversational Agents"
+authors:
+  - Hyojin Chin
+  - Gumhee Baek
+  - Chiyoung Cha
+  - Meeyoung Cha
+year: 2025
+venue: JMIR Formative Research
+doi: 10.2196/71538
+url: https://doi.org/10.2196/71538
+abstract: Abstract Background While recent studies showed the potential of conversational agents (CAs) to help alleviate depressive moods, the dynamics of user-chatbot interactions in mental health support remain underexplored. Objective We examine real-world conversations between users and chatbots on depression-related topics to identify patterns in how users seek help and how chatbots provide therapeutic support. We analyzed the responses of 8 commercial chatbots to user queries about depressive moods, examining whether they incorporated therapeutic communication techniques, such as empathy. Methods Our method has 2 parts. First, we analyzed 13,700 utterances (6850 user queries and 6850 responses) about depressive moods from the commercial chatbot SimSimi, covering 5 English-speaking countries between 2016 and 2021. Using a human-annotated coding approach, we classified user queries into 5 groups based on Rickwood’s help-seeking model and classified chatbot responses into 8 therapeutic communication styles. Empathy was assessed as one of these styles, with responses coded as empathetic when they demonstrated emotional understanding, validation, and reflection. Next, we evaluated the responses of 3 voice assistants (Amazon’s Alexa, Google Assistant, and Apple’s Siri) and 5 chatbots (ChatGPT, Replika, Woebot, Wysa, and SimSimi) to user queries about depressive moods. Results In study 1, we examined how SimSimi, a social chatbot trained to encourage users to share their emotions and build rapport, responded to user queries. The majority (3067/4073, 75.3%) indicated depressed feelings, and a smaller portion (168/4073, 4.1%) sought strategies to cope with depression. The chatbot’s responses were largely therapeutic ( 2417/3108, 77.7%), demonstrating empathy (902/3108, 29%), active listening (836/3108, 26.9%), and open-ended questions (679/3108, 21.8%). In study 2, we qualitatively compared response patterns across commercial CAs, revealing that Replika expressed empathy in more than 75% (28/36) of its responses, similar to SimSimi. In contrast, Alexa (15/17, 88.2%), Google Assistant (18/30, 60%), Siri (20/36, 55.6%), and ChatGPT (40/42, 95.2%) typically responded to depression-related queries with search results rather than offering specific solutions for depressive feelings. Mental health chatbots such as Woebot responded to users with clarification questions (97.3%). We also report instances where CAs failed to meet users’ help-seeking needs, instead giving irrelevant responses and ignoring emotional requests. Conclusions Our findings reveal a mixed landscape in the emotional support provided by CAs. While some social chatbots delivered empathetic responses that fostered deeper user engagement, most commercial chatbots offered merely informative replies to users’ help-seeking inputs. Recognizing that users seek support from chatbots, we recommend equipping next-generation CAs with capabilities grounded in therapeutic communication, such as empathetic responses.
+type: article
+open_access: null
+cited_by: 3
+query: '"Empathetic Conversational Agents" "10.1080/10447318.2025.2540500" arXiv 2501.08393'
+question: null
+search: SEARCH-3dc085d3d3
+score: 1.194
+score_parts:
+  rank: 0.143
+  citations: 0.151
+  recency: 0.9
+needs_approval: false
+state: candidate

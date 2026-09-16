@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-fcde599939
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4389072163
+title: "FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design"
+authors:
+  - Yangyang Yu
+  - Haohang Li
+  - Zhi Chen
+  - Yuechen Jiang
+  - Yang Li
+  - Denghui Zhang
+  - Rong Liu
+  - Jordan W. Suchow
+  - Khaldoun Khashanah
+year: 2023
+venue: "RePEc: Research Papers in Economics"
+doi: 10.48550/arxiv.2311.13743
+url: http://arxiv.org/pdf/2311.13743
+abstract: "Recent advancements in Large Language Models (LLMs) have exhibited notable efficacy in question-answering (QA) tasks across diverse domains. Their prowess in integrating extensive web knowledge has fueled interest in developing LLM-based autonomous agents. While LLMs are efficient in decoding human instructions and deriving solutions by holistically processing historical inputs, transitioning to purpose-driven agents requires a supplementary rational architecture to process multi-source information, establish reasoning chains, and prioritize critical tasks. Addressing this, we introduce \\textsc{FinMem}, a novel LLM-based agent framework devised for financial decision-making. It encompasses three core modules: Profiling, to customize the agent's characteristics; Memory, with layered message processing, to aid the agent in assimilating hierarchical financial data; and Decision-making, to convert insights gained from memories into investment decisions. Notably, \\textsc{FinMem}'s memory module aligns closely with the cognitive structure of human traders, offering robust interpretability and real-time tuning. Its adjustable cognitive span allows for the retention of critical information beyond human perceptual limits, thereby enhancing trading outcomes. This framework enables the agent to self-evolve its professional knowledge, react agilely to new investment cues, and continuously refine trading decisions in the volatile financial environment. We first compare \\textsc{FinMem} with various algorithmic agents on a scalable real-world financial dataset, underscoring its leading trading performance in stocks. We then fine-tuned the agent's perceptual span and character setting to achieve a significantly enhanced trading performance. Collectively, \\textsc{FinMem} presents a cutting-edge LLM agent framework for automated trading, boosting cumulative investment returns."
+type: preprint
+open_access: true
+cited_by: 7
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 0.976
+score_parts:
+  rank: 0.05
+  citations: 0.226
+  recency: 0.7
+needs_approval: true
+state: candidate

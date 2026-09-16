@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9e0e0132b6
+created: 2026-09-14T16:52:09.058Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.specom.2024.103102
+title: "Analyzing the influence of different speech data corpora and speech features on speech emotion recognition: A review"
+authors:
+  - Tarun Rathi
+  - Manoj Tripathy
+year: 2024
+venue: Speech Communication
+doi: 10.1016/j.specom.2024.103102
+url: https://doi.org/10.1016/j.specom.2024.103102
+abstract: null
+type: article
+open_access: null
+cited_by: 32
+query: Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition
+question: null
+search: SEARCH-4019829b88
+score: 1.68
+score_parts:
+  rank: 0.5
+  citations: 0.38
+  recency: 0.8
+needs_approval: false
+state: candidate

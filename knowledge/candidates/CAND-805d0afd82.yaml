@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-805d0afd82
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4413448721
+title: "Exploring tasks and challenges in human-robot collaborative systems: A review"
+authors:
+  - S. A. Syed Asif
+  - Tiziana C. Callari
+  - Fahad Khan
+  - Iveta Eimontaite
+  - Ella‐Mae Hubbard
+  - Masoud S. Bahraini
+  - Phil Webb
+  - Niels Lohse
+year: 2025
+venue: Robotics and Computer-Integrated Manufacturing
+doi: 10.1016/j.rcim.2025.103102
+url: https://doi.org/10.1016/j.rcim.2025.103102
+abstract: This paper presents an in-depth exploration of Human-Robot Collaborative Systems (HRCSs) within industrial environments, a dynamic field that has witnessed significant advancements due to technological innovation and the increasing integration of Artificial Intelligence (AI). As industries evolve towards more collaborative and adaptive manufacturing systems, the dynamic interaction between humans and robots becomes pivotal. This study reviews the current state of HRCSs, focusing on the challenges of task allocation and skill alignment, safety, trust, and the psychological wellbeing of human workers. We review control strategies and architectural frameworks that underpin effective human-robot interactions (HRI), emphasising the critical role of AI in enhancing decision-making processes and the adaptability of collaborative efforts. Our review sheds light on the complexities involved in designing HRCSs that are not only efficient but also cognisant of the human experience, advocating for a balanced approach that leverages the strengths of both human and robotic counterparts. We argue that research in and implications of HRCSs should extend beyond technical considerations, touching on ethical, social, and organisational dimensions, thereby contributing to the broader discourse on the future of work in the era of Industry 4.0 and future Industry 5.0.
+type: article
+open_access: true
+cited_by: 30
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 1.44
+score_parts:
+  rank: 0.167
+  citations: 0.373
+  recency: 0.9
+needs_approval: false
+state: candidate

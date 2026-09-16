@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d1855a9bac
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4402747641
+title: "Fairness and Bias in Algorithmic Hiring: A Multidisciplinary Survey"
+authors:
+  - Alessandro Fabris
+  - Nina Baranowska
+  - Matthew Dennis
+  - David Graus
+  - Philipp Hacker
+  - Jorge Saldivar
+  - Frederik Zuiderveen Borgesius
+  - Asia J. Biega
+year: 2024
+venue: ACM Transactions on Intelligent Systems and Technology
+doi: 10.1145/3696457
+url: https://doi.org/10.1145/3696457
+abstract: Employers are adopting algorithmic hiring technology throughout the recruitment pipeline. Algorithmic fairness is especially applicable in this domain due to its high stakes and structural inequalities. Unfortunately, most work in this space provides partial treatment, often constrained by two competing narratives, optimistically focused on replacing biased recruiter decisions or pessimistically pointing to the automation of discrimination. Whether, and more importantly what types of , algorithmic hiring can be less biased and more beneficial to society than low-tech alternatives currently remains unanswered, to the detriment of trustworthiness. This multidisciplinary survey caters to practitioners and researchers with a balanced and integrated coverage of systems, biases, measures, mitigation strategies, datasets, and legal aspects of algorithmic hiring and fairness. Our work supports a contextualized understanding and governance of this technology by highlighting current opportunities and limitations, providing recommendations for future work to ensure shared benefits for all stakeholders.
+type: article
+open_access: true
+cited_by: 89
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.372
+score_parts:
+  rank: 0.083
+  citations: 0.489
+  recency: 0.8
+needs_approval: false
+state: candidate

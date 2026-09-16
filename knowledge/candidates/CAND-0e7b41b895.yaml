@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0e7b41b895
+created: 2026-09-15T09:45:34.518Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/bibm66473.2025.11356810
+title: "EmoMI: A Multi-Scale Heterogeneous Graph Contrastive Learning Network for Conversational Multimodal Emotion Recognition"
+authors:
+  - Ruiming Zhang
+  - Jiayi Hu
+  - Changdong Wang
+year: 2025
+venue: 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+doi: 10.1109/bibm66473.2025.11356810
+url: https://doi.org/10.1109/bibm66473.2025.11356810
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Dual Learning for Conversational Emotion Recognition and Emotional Response Generation" PDF'
+question: null
+search: SEARCH-370d9309b7
+score: 0.95
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

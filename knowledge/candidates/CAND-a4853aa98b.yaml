@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a4853aa98b
+created: 2026-09-14T23:44:09.730Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3233/faia250692
+title: Situation-Aware Workflow Engines for Adaptive Yet Constrained Human-AI Teaming
+authors:
+  - Carsten Maletzki
+year: 2025
+venue: Frontiers in Artificial Intelligence and Applications
+doi: 10.3233/faia250692
+url: https://doi.org/10.3233/faia250692
+abstract: Hybrid intelligence (HI) demands approaches for adaptive yet reliable distributions of tasks in mixed teams of humans and agents powered by artificial intelligence (AI). In this context, task distributions must adhere to collaboration strategies that define appropriate levels of automation. Reliable compliance with these specifications could be met by employing workflow engines in HI systems that typically distribute tasks based on predefined instructions described by process models. To enable adaptivity in such systems, this paper proposes research on an approach that selects and configures process models with regard to an appropriate collaboration strategy before their execution by a workflow engine. In this context, the configuration of a process model focuses on allocating predefined tasks to suitable actors. As a fundamental theory of the developed approach, the proposed research will adopt a widely acknowledged model for dynamic decision-making based on situation awareness. To this end, it is considered to build a model that can be implemented through a shared representation for situation awareness. This serves as a basis for the development of mechanisms that decide on the selection and configuration of process models. So far, only preparatory work has been done.
+type: chapter
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees With Knowledge Graphs for Affective Human-AI Teaming" code GitHub'
+question: null
+search: SEARCH-2325920ecd
+score: 0.967
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

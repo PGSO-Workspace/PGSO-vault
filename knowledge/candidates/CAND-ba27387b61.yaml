@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ba27387b61
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4312132544
+title: Designing a feature selection method based on explainable artificial intelligence
+authors:
+  - Jan Zacharias
+  - Moritz von Zahn
+  - Johannes Chen
+  - Oliver Hinz
+year: 2022
+venue: Electronic Markets
+doi: 10.1007/s12525-022-00608-1
+url: https://doi.org/10.1007/s12525-022-00608-1
+abstract: "Abstract Nowadays, artificial intelligence (AI) systems make predictions in numerous high stakes domains, including credit-risk assessment and medical diagnostics. Consequently, AI systems increasingly affect humans, yet many state-of-the-art systems lack transparency and thus, deny the individual’s “right to explanation”. As a remedy, researchers and practitioners have developed explainable AI, which provides reasoning on how AI systems infer individual predictions. However, with recent legal initiatives demanding comprehensive explainability throughout the (development of an) AI system, we argue that the pre-processing stage has been unjustifiably neglected and should receive greater attention in current efforts to establish explainability. In this paper, we focus on introducing explainability to an integral part of the pre-processing stage: feature selection. Specifically, we build upon design science research to develop a design framework for explainable feature selection. We instantiate the design framework in a running software artifact and evaluate it in two focus group sessions. Our artifact helps organizations to persuasively justify feature selection to stakeholders and, thus, comply with upcoming AI legislation. We further provide researchers and practitioners with a design framework consisting of meta-requirements and design principles for explainable feature selection."
+type: article
+open_access: true
+cited_by: 106
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.198
+score_parts:
+  rank: 0.091
+  citations: 0.507
+  recency: 0.6
+needs_approval: false
+state: candidate

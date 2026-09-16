@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-08f7cd448b
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416182635
+title: Secure Model Context Protocol for Large Language Models with Dual Signatures
+authors:
+  - Shiqiang Li
+  - Xinghai Wei
+  - Jie Yuan
+  - Xingwu Wang
+  - Keji Miao
+year: 2025
+venue: null
+doi: 10.1145/3737897.3767287
+url: https://doi.org/10.1145/3737897.3767287
+abstract: Large language models (LLMs) are increasingly deployed in mobile, edge, and cloud-integrated systems to support complex tasks such as system orchestration. In these contexts, LLMs rely on external tools to access real-time data, control resources, and perform specialized numerical analyses, enabling them to make dynamic and informed decisions. To enable seamless integration of external tools with LLMs, the Model Context Protocol (MCP) is introduced to standardize interactions, enhancing interoperability and adaptability. However, it also introduces new security risks, including tool poisoning attacks and malicious impersonation of the MCP Server. In this paper, we propose a framework for trustworthy tool invocation in LLMs based on a dual signature verification mechanism, designed to protect against MCP Server tampering and tool-based prompt injection attacks. A tool can be invoked only after verifying signatures from both a trusted third-party platform and the developer. Our implementation introduces minimal overhead while maintaining full compatibility with existing MCP servers.
+type: other
+open_access: true
+cited_by: 2
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.519
+score_parts:
+  rank: 0.5
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

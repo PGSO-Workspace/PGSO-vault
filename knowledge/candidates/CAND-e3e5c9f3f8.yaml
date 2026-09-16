@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e3e5c9f3f8
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1037/emo0001458.supp
+title: "Supplemental Material for Mixed Signals: Romantic Jealousy and Ambivalence in Relationships"
+authors: []
+year: 2024
+venue: Emotion
+doi: 10.1037/emo0001458.supp
+url: https://doi.org/10.1037/emo0001458.supp
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 0.943
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f48bfa88f6
+created: 2026-09-15T00:31:18.055Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.14293/s2199-1006.1.sor-.ppmppjp.v1
+title: Sentence-Level Emotion Apprehension Through Facial Expression &amp; Speech Verification Analysis
+authors:
+  - Md. Mohaimanul Haque
+  - Abu Fuzail Polin
+  - Victor Stany Rozario
+  - Souvik Das
+  - Ashik Al Habib
+year: 2022
+venue: null
+doi: 10.14293/s2199-1006.1.sor-.ppmppjp.v1
+url: https://doi.org/10.14293/s2199-1006.1.sor-.ppmppjp.v1
+abstract: The importance of Emotional state apprehension is widely perceived in social interaction and social intelligence. Since the nineteenth century, this has been a popular research subject. In human-to-human communication, the understanding of facial expressions forms a communication carrier that offers vital data about the mental, emotional and even physical state of the persons in conversation. Inevitably user's emotional state plays an important role not only in human associations with other people but also in the way a user uses computers. As the emotional state of a person may determine consistency, task solving, and decision-making skills. Facial expression analysis, as used in this research, refers to computer systems that try to automatically predict user emotional state by analyzing and identifying facial motions and facial feature changes from visual data. Though situations, body gestures, voice, individual diversity, and cultural influences, as well as facial arrangement and timing, all aid in interpretation. Facial expression analysis tools will be used in this research to analyze facial actions regardless of context, society, gender, and so on.
+type: preprint
+open_access: null
+cited_by: 2
+query: '"Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition"'
+question: null
+search: SEARCH-40c323d84c
+score: 0.782
+score_parts:
+  rank: 0.063
+  citations: 0.119
+  recency: 0.6
+needs_approval: true
+state: candidate

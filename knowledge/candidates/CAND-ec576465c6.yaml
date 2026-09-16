@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ec576465c6
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4401390644
+title: Do large language models have a legal duty to tell the truth?
+authors:
+  - Sandra Wachter
+  - Brent Mittelstadt
+  - Chris Russell
+year: 2024
+venue: Royal Society Open Science
+doi: 10.1098/rsos.240197
+url: https://doi.org/10.1098/rsos.240197
+abstract: Careless speech is a new type of harm created by large language models (LLM) that poses cumulative, long-term risks to science, education and shared social truth in democratic societies. LLMs produce responses that are plausible, helpful and confident, but that contain factual inaccuracies, misleading references and biased information. These subtle mistruths are poised to cumulatively degrade and homogenize knowledge over time. This article examines the existence and feasibility of a legal duty for LLM providers to create models that 'tell the truth'. We argue that LLM providers should be required to mitigate careless speech and better align their models with truth through open, democratic processes. We define careless speech against 'ground truth' in LLMs and related risks including hallucinations, misinformation and disinformation. We assess the existence of truth-related obligations in EU human rights law and the Artificial Intelligence Act, Digital Services Act, Product Liability Directive and Artificial Intelligence Liability Directive. Current frameworks contain limited, sector-specific truth duties. Drawing on duties in science and academia, education, archives and libraries, and a German case in which Google was held liable for defamation caused by autocomplete, we propose a pathway to create a legal truth duty for providers of narrow- and general-purpose LLMs.
+type: article
+open_access: true
+cited_by: 61
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 1.415
+score_parts:
+  rank: 0.167
+  citations: 0.448
+  recency: 0.8
+needs_approval: false
+state: candidate

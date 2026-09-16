@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4dc10894f6
+created: 2026-09-15T07:34:04.334Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7119478584
+title: An Enterprise Agentic Architecture Framework for Agentic AI Governance and Scalable Autonomy
+authors:
+  - Padmanabham Venkiteela
+year: 2026
+venue: Scientific Journal of Computer Science
+doi: 10.64539/sjcs.v2i1.2026.368
+url: https://doi.org/10.64539/sjcs.v2i1.2026.368
+abstract: "The rise of agentic artificial intelligence is changing how businesses operate, manage systems, and oversee digital workflows. These systems are different from normal automation or standalone AI models because they rely on structured thinking secure tool usage advanced teamwork between multiple agents, and ongoing feedback in complex environments with hybrid and multi-cloud systems. But there is a major issue businesses don’t have a clear framework to and use and expand agentic AI while staying compliant. This document tackles that problem by presenting the Enterprise Agentic Architecture Framework. This is a detailed multi-layered reference model built to help large organizations safely and use and manage agentic AI on a bigger scale. EAAF is built on six key layers: infrastructure, enterprise integration, orchestration and coordination, governance and safety, agent intelligence, and agent interaction. A central Control Plane ties all these layers together. The Control Plane plays a major role in managing policies, identity, scheduling, observability, and controlling the lifecycle of individual agents as well as multi-agent systems. Tests on real-world enterprise cases like Opportunity-to-Order automation, DevOps and AIOps pipelines, integration workflows, and collaboration across multiple agents in different domains show that EAAF improves autonomy, ensures reliable reasoning, boosts efficiency in execution, and strengthens operational resilience. Tests reveal significant boosts such as workflows running 3 to 10 times faster, cutting the average resolution time (MTTR) by 60 to 80 percent, and clear improvements in safety guided by policies. To sum up, EAAF acts as a key framework to build future enterprise AI systems. It ensures safe autonomy, sets up consistent architecture, and organizes agent-driven operations for critical tasks."
+type: article
+open_access: true
+cited_by: 3
+query: 2024 2025 journal LLM agent tool permission authorization runtime enforcement security guardrails
+question: null
+search: SEARCH-b0fa183ef0
+score: 1.401
+score_parts:
+  rank: 0.25
+  citations: 0.151
+  recency: 1
+needs_approval: false
+state: candidate

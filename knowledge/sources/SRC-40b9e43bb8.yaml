@@ -1,0 +1,21 @@
+schema: phdude.source
+version: 1
+id: SRC-40b9e43bb8
+created: 2026-09-15T08:30:48.040Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: PGSO public voice roaming-withholding diagnostic ff8f5ff
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-2ac4c12dce
+  - ART-328d52e5fc
+  - ART-d2b027525f
+state: candidate
+year: 2026
+url: https://github.com/PGSO-Workspace/pgso-sdk/pull/8
+bibkey: workspace2026roaming
+abstract: Offline diagnostic check of a treatment limitation in the second pinned public telecom development task. Test source ff8f5ffbafcdd4196e4da25aaa107d8a9a807e88 uses the existing bridge binary built from source 4a840ba. Six bridge tests pass. Injected sustained observations withhold a repair; original live predicates become satisfied after nominal recovery and execution. Not a metered conversation, acoustic accuracy result, prevalence estimate, or superiority comparison.

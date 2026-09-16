@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-db5e4aad79
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410998747
+title: A Survey of Program Analysis for Distributed Software Systems
+authors:
+  - Haipeng Cai
+year: 2025
+venue: ACM Computing Surveys
+doi: 10.1145/3742900
+url: https://doi.org/10.1145/3742900
+abstract: Distributed software systems are pervasive today and they are increasingly developed/deployed to meet the growing needs for scalable computing. Given their critical roles in modern information infrastructures, assuring the quality of distributed software is crucial. As a fundamental methodology for software quality assurance in general, program analysis underlies a range of techniques and tools for constructing and assuring distributed systems. Yet to this date, there remains a lack of systematical understanding of what have been done and how far we are in the field of program analysis for distributed systems. To gain a comprehensive and coherent view of this area hence inform relevant future research, this article provides a systematic literature review of the (1) technical approaches , including analysis methodology, modality, underlying representation, algorithmic design, data utilized, and scope, (2) applications , with respect to the quality aspects served, and (3) evaluation , including the datasets and metrics considered, of various program analyses in the domain of distributed software in the past 30 years (1995–2024). In addition to knowledge systematization, we also extend our insights into the limitations of and challenges faced by current technique and evaluation designs, which shed light on potentially promising future research directions .
+type: article
+open_access: true
+cited_by: 3
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.194
+score_parts:
+  rank: 0.143
+  citations: 0.151
+  recency: 0.9
+needs_approval: false
+state: candidate

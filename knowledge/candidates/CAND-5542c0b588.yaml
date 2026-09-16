@@ -1,0 +1,42 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5542c0b588
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410407192
+title: "The evolving field of digital mental health: current evidence and implementation issues for smartphone apps, generative artificial intelligence, and virtual reality"
+authors:
+  - John Torous
+  - Jake Linardon
+  - Simon B. Goldberg
+  - Shufang Sun
+  - Imogen Bell
+  - Jennifer Nicholas
+  - Lamiece Hassan
+  - Yining Hua
+  - Alyssa Milton
+  - Joseph Firth
+year: 2025
+venue: World Psychiatry
+doi: 10.1002/wps.21299
+url: https://doi.org/10.1002/wps.21299
+abstract: The expanding domain of digital mental health is transitioning beyond traditional telehealth to incorporate smartphone apps, virtual reality, and generative artificial intelligence, including large language models. While industry setbacks and methodological critiques have highlighted gaps in evidence and challenges in scaling these technologies, emerging solutions rooted in co-design, rigorous evaluation, and implementation science offer promising pathways forward. This paper underscores the dual necessity of advancing the scientific foundations of digital mental health and increasing its real-world applicability through five themes. First, we discuss recent technological advances in digital phenotyping, virtual reality, and generative artificial intelligence. Progress in this latter area, specifically designed to create new outputs such as conversations and images, holds unique potential for the mental health field. Given the spread of smartphone apps, we then evaluate the evidence supporting their utility across various mental health contexts, including well-being, depression, anxiety, schizophrenia, eating disorders, and substance use disorders. This broad view of the field highlights the need for a new generation of more rigorous, placebo-controlled, and real-world studies. We subsequently explore engagement challenges that hamper all digital mental health tools, and propose solutions, including human support, digital navigators, just-in-time adaptive interventions, and personalized approaches. We then analyze implementation issues, emphasizing clinician engagement, service integration, and scalable delivery models. We finally consider the need to ensure that innovations work for all people and thus can bridge digital health disparities, reviewing the evidence on tailoring digital tools for historically marginalized populations and low- and middle-income countries. Regarding digital mental health innovations as tools to augment and extend care, we conclude that smartphone apps, virtual reality, and large language models can positively impact mental health care if deployed correctly.
+type: article
+open_access: true
+cited_by: 289
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.583
+score_parts:
+  rank: 0.067
+  citations: 0.616
+  recency: 0.9
+needs_approval: false
+state: candidate

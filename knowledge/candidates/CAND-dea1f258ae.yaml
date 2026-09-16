@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dea1f258ae
+created: 2026-09-15T00:31:18.055Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/asru51503.2021.9688036
+title: Multimodal Emotion Recognition with High-Level Speech and Text Features
+authors:
+  - Mariana Rodrigues Makiuchi
+  - Kuniaki Uto
+  - Koichi Shinoda
+year: 2021
+venue: 2021 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)
+doi: 10.1109/asru51503.2021.9688036
+url: https://doi.org/10.1109/asru51503.2021.9688036
+abstract: null
+type: article
+open_access: null
+cited_by: 73
+query: '"Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition"'
+question: null
+search: SEARCH-40c323d84c
+score: 1.023
+score_parts:
+  rank: 0.056
+  citations: 0.467
+  recency: 0.5
+needs_approval: false
+state: candidate

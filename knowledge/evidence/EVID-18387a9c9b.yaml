@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-18387a9c9b
+created: 2026-09-15T01:10:04.343Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-f8f5905a82
+locator: 'Author accepted manuscript, 16 PDF pages, DOI and acceptance disclaimer printed; placeholder December 2022 header is not publication date. Journal issue July 2024,15(3),1754–1768.; [{"section": "Data, aggregation and reaction-time analysis", "pdf_pages": [4, 5, 7]}, {"section": "SER setup and context experiment", "pdf_pages": [8, 12]}, {"section": "Discussion and conclusions", "pdf_pages": [13]}]'
+excerpt: "Research paraphrase, not quotation: Compares continuous-time and sentence-level annotations on 2,884 overlapping MSP-Conversation/MSP-Podcast utterances. Tests aggregation functions, reaction-time shifts, annotator agreement, matched/mismatched annotation training and a small ComParE-based neural regressor. The two annotation protocols are not interchangeable. Label aggregation and annotator lag are studied, not agent-action hysteresis or calibration under deployment shift."
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-b78e21da13

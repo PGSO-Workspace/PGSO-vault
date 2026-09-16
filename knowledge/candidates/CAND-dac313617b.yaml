@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dac313617b
+created: 2026-09-14T16:52:19.096Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.31234/osf.io/743vc_v1
+title: Evaluating Personality Traits of Large Language Models Through Scenario-based Interpretive Benchmarking
+authors:
+  - Alessandro Berti
+year: 2025
+venue: null
+doi: 10.31234/osf.io/743vc_v1
+url: https://doi.org/10.31234/osf.io/743vc_v1
+abstract: The assessment of Large Language Models (LLMs) has traditionally focused on performance metrics tied directly to their task-solving capabilities. This paper introduces a novel benchmark explicitly designed to measure personality traits in LLMs through scenario-based interpretive prompts. We detail the methodology behind this benchmark, where LLMs are presented with structured prompts inspired by psychological scenarios, and responses are assessed via a judge LLM. The evaluation encompasses traits such as emotional stability, creativity, adaptability, and anxiety levels, among others. Scores are assigned based on a judge LLM’s evaluation, with consistency across various judge models assessed through consensus analysis. Anecdotal observations on score validity and orthogonality with conventional performance metrics are discussed. Results, implementation scripts, and updated leaderboards are publicly accessible at https://github.com/fit-alessandro-berti/llm-dreams-benchmark
+type: preprint
+open_access: null
+cited_by: 0
+query: A psychometric framework for evaluating and shaping personality traits in large language models
+question: null
+search: SEARCH-88e88d2db0
+score: 1.9
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

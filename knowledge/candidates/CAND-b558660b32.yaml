@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b558660b32
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4417483116
+title: "Conversational AI agents in education: an umbrella review of current utilization, challenges, and future directions for ethical and responsible use"
+authors:
+  - Amrita Ganguly
+  - Nafisa Mehjabin
+  - Aqdas Malik
+  - Aditya Johri
+year: 2025
+venue: AI and Ethics
+doi: 10.1007/s43681-025-00916-0
+url: https://doi.org/10.1007/s43681-025-00916-0
+abstract: "Abstract The use of Conversational AI (CAI) agents within education has seen a rise with the rapid integration of generative AI (GenAI). The generative ability of the application combined with conversational capabilities has enhanced the perceived and actual usefulness of CAI applications. Given this development, it is critical to undertake a comprehensive review to understand the actual application domains, challenges, and efforts within this area. A range of empirical studies as well as reviews have been undertaken in recent years, but the current understanding remains fragmented. To better understand the current state-of-the-art, current trends and future implications of CAI on education, we conducted an umbrella review (UR) to systematically synthesize findings from thirty-four review articles. Articles were collected through a search across five major databases. They were screened using predefined eligibility criteria focusing on CAI agents used across educational domains and contexts. The PRISMA framework for transparent reporting is followed throughout the process and a thematic analysis has been undertaken to analyze the data. The results show that CAI utilization is concentrated in pedagogical applications such as teaching support, psychological engagement, and metacognitive development, while administrative functions, research assistance, and specialized training remain underdeveloped. Technical limitations and concerns with educational impact dominate discussions. Ethically, human-AI relationship concerns persist across all CAI generations, while academic integrity and data privacy represent emerging areas of concern. The review reveals gaps in CAI frameworks: lack of end-to-end design guidance, weak CAI specific usability methods, unclear pedagogical guidance and classroom implementation strategies, and limited AI literacy support. The article concludes by proposing a roadmap for ethical CAI implementation in education and identifying priority areas for future research."
+type: article
+open_access: true
+cited_by: 8
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.189
+score_parts:
+  rank: 0.05
+  citations: 0.239
+  recency: 0.9
+needs_approval: false
+state: candidate

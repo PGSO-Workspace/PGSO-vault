@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dce6f5c2e8
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404270187
+title: "The voice of depression: speech features as biomarkers for major depressive disorder"
+authors:
+  - Felix Menne
+  - Felix Dörr
+  - Julia Schräder
+  - Johannes Tröger
+  - Ute Habel
+  - Alexandra König
+  - Lisa Wagels
+year: 2024
+venue: BMC Psychiatry
+doi: 10.1186/s12888-024-06253-6
+url: https://doi.org/10.1186/s12888-024-06253-6
+abstract: "BACKGROUND: Psychiatry faces a challenge due to the lack of objective biomarkers, as current assessments are based on subjective evaluations. Automated speech analysis shows promise in detecting symptom severity in depressed patients. This project aimed to identify discriminating speech features between patients with major depressive disorder (MDD) and healthy controls (HCs) by examining associations with symptom severity measures. METHODS: Forty-four MDD patients from the Psychiatry Department, University Hospital Aachen, Germany and fifty-two HCs were recruited. Participants described positive and negative life events, which were recorded for analysis. The Beck Depression Inventory (BDI-II) and the Hamilton Rating Scale for Depression gauged depression severity. Transcribed audio recordings underwent feature extraction, including acoustics, speech rate, and content. Machine learning models including speech features and neuropsychological assessments, were used to differentiate between the MDD patients and HCs. RESULTS: Acoustic variables such as pitch and loudness differed significantly between the MDD patients and HCs (effect sizes 𝜼2 between 0.183 and 0.3, p < 0.001). Furthermore, variables pertaining to temporality, lexical richness, and speech sentiment displayed moderate to high effect sizes (𝜼2 between 0.062 and 0.143, p < 0.02). A support vector machine (SVM) model based on 10 acoustic features showed a high performance (AUC = 0.93) in differentiating between HCs and patients with MDD, comparable to an SVM based on the BDI-II (AUC = 0.99, p = 0.01). CONCLUSIONS: This study identified robust speech features associated with MDD. A machine learning model based on speech features yielded similar results to an established pen-and-paper depression assessment. In the future, these findings may shape voice-based biomarkers, enhancing clinical diagnosis and MDD monitoring."
+type: article
+open_access: true
+cited_by: 91
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.402
+score_parts:
+  rank: 0.111
+  citations: 0.491
+  recency: 0.8
+needs_approval: false
+state: candidate

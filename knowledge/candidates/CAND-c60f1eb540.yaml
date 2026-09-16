@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c60f1eb540
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.36227/techrxiv.173713239.92020779/v1
+title: AgentOptimiser for Prompting Large Language Models In Finance
+authors:
+  - Edward Sharkey
+  - Philip Treleaven
+year: 2025
+venue: null
+doi: 10.36227/techrxiv.173713239.92020779/v1
+url: https://doi.org/10.36227/techrxiv.173713239.92020779/v1
+abstract: Large Language Models (LLMs) excel in various tasks [2], but depending on use case, they rely on carefully crafted prompts that often demand substantial human effort to perfect or find optimal prompting given the task. Building on suggestions from EvoPrompt that seek to explore the search space of LLM prompting using Genetic Algorithms [9], we introduce AgentOptimiser, which leverages a Reinforcement Learning (RL) framework. We empower the agents to optimise prompting by passing a Q-table-like structure that manages state, enabling the LLM to track accuracy measures and corresponding historical prompting. We then seek to enable the model to explore the prompt and temperature space. We find that the AgentOptimiser-optimised GPT-4 variant outperforms other fine-tuned transformer models and vanilla few-shot GPT-4 performance on our commodity news-specific test set. We outline additional opportunities to continue and improve this work. The inclusion of the temperature parameterisation increases the optimisation search space; by introducing a generational fitness function, we increase our model's performance. We outline areas of future research to explore additional metaheuristic approaches that could be explored to better manage the exploration-exploitation trade-off to guide LLM agent task-specific optimisation in financial engineering.
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 0.938
+score_parts:
+  rank: 0.038
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

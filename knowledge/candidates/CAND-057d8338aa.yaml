@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-057d8338aa
+created: 2026-09-15T07:50:34.676Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1353/mns.2025.a965559
+title: Levina Teerlinc, Mary I's Legal Limner?
+authors:
+  - Kathleen E. Kennedy
+year: 2025
+venue: "Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript Studies"
+doi: 10.1353/mns.2025.a965559
+url: https://doi.org/10.1353/mns.2025.a965559
+abstract: "Abstract: Levina Teerlinc's work as a limner, the Middle English word for those who illuminated books and documents, has failed to earn as much attention as her portrait miniatures, and this rich source of artistic and prosopographical context has not been thoroughly examined before this article. In particular, bringing Teerlinc's documentary decoration fully into consideration reveals a dense period of work for Mary I's administrations preceding the artist's more well-documented role as Elizabeth I's favored painter. Further, understanding the institutional processes behind the types of documents that Teerlinc painted adds to our knowledge of her professional networks. Together with at least one newly identified document, at least one important manuscript, additions to the Pembroke Hours, including the only complete, contemporary manuscript copy of Katherine Parr's Prayers or Meditations, has been missed and here is newly identified as Teerlinc's work. In the end, only by fully contextualizing Levina Teerlinc as a late medieval limner, as well as a Tudor portrait miniaturist, can we begin to truly understand her art."
+type: article
+open_access: null
+cited_by: 0
+query: '"10.1016/j.chb.2025.108687" manuscript'
+question: null
+search: SEARCH-183055ff3f
+score: 0.959
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

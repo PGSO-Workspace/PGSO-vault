@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-21c77fbd8c
+created: 2026-09-15T00:21:33.749Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3640794.3665890
+title: "The Voice: Lessons on Trustworthy Conversational Agents from 'Dune'"
+authors:
+  - Philip Gregory Feldman
+year: 2024
+venue: ACM Conversational User Interfaces 2024
+doi: 10.1145/3640794.3665890
+url: https://doi.org/10.1145/3640794.3665890
+abstract: null
+type: article
+open_access: null
+cited_by: 9
+query: prosody emotion conversational agents Hume ElevenLabs voice workflow governance
+question: null
+search: SEARCH-cd7a32aa2c
+score: 2.05
+score_parts:
+  rank: 1
+  citations: 0.25
+  recency: 0.8
+needs_approval: false
+state: candidate

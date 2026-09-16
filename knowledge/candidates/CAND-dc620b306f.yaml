@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dc620b306f
+created: 2026-09-15T07:51:13.215Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4408581964
+title: "Agentic Retrieval-Augmented Generation: Advancing AI-Driven Information Retrieval and Processing"
+authors:
+  - Abhai Pratap Singh
+  - Adit Jamdar
+  - Prerna Kaul
+year: 2025
+venue: International Journal of Computer Trends and Technology
+doi: 10.14445/22312803/ijctt-v73i1p111
+url: https://doi.org/10.14445/22312803/ijctt-v73i1p111
+abstract: This paper explores the emerging field of Agentic Retrieval-Augmented Generation (Agentic RAG), an advanced approach to AI-driven information retrieval and processing. Building upon traditional Retrieval-Augmented Generation, Agentic RAG incorporates goal reasoning and self-direction, enabling AI systems to make informed decisions based on user context and intent. The study examines the fundamental components of Agentic RAG, including its multi-agent hierarchical architecture, key features, and enhancements over conventional systems. Applications across various domains, such as healthcare, financial services, businesses, and education, are discussed. The paper also addresses challenges in implementation, including mitigating AI hallucinations, ethical considerations, and computational scalability. Performance evaluation methods and metrics for Agentic RAG systems are outlined, along with case studies demonstrating their effectiveness. Finally, the paper explores future directions for research and development in this rapidly evolving field, highlighting its potential to revolutionize AI-driven information retrieval and processing.
+type: article
+open_access: true
+cited_by: 32
+query: '"dynamic tool retrieval LLM agent journal 2024 2025'
+question: null
+search: SEARCH-da10c5ec54
+score: 1.333
+score_parts:
+  rank: 0.053
+  citations: 0.38
+  recency: 0.9
+needs_approval: false
+state: candidate

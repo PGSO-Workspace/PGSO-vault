@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-9b870c560a
+created: 2026-09-15T08:50:09.016Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/comparator-tools-9aaa300/test_framework_tool_policy.py.txt
+paths:
+  - sources/software/pgso-sdk/comparator-tools-9aaa300/test_framework_tool_policy.py.txt
+hash: 9b870c560aeeeafbc3aa77e25dff53c49276e2f7e88b5f6d8796d516ceb55a28
+bytes: 1811
+mime: text/plain
+kind: txt
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 1811
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T08:50:08.799Z

@@ -1,0 +1,16 @@
+schema: phdude.source
+version: 1
+id: SRC-0dea93a8fd
+created: 2026-09-15T00:22:09.688Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: ElevenAgents Expressive Mode and Workflows — comparator screening 2026-09-15
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts: []
+state: candidate
+year: 2026
+abstract: "Product overlap: expressive conversation and workflow orchestration; no verified equivalent PGSO policy contract. Vendor documentation, not Q1 evidence. Official source inspected: https://elevenlabs.io/blog/introducing-expressive-mode"

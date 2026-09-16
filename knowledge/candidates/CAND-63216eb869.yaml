@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-63216eb869
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4405253355
+title: "LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods"
+authors:
+  - Haitao Li
+  - Qian Dong
+  - Junjie Chen
+  - Huixue Su
+  - Yujia Zhou
+  - Qingyao Ai
+  - Ziyi Ye
+  - Yiqun Liu
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2412.05579
+url: http://arxiv.org/abs/2412.05579
+abstract: "The rapid advancement of Large Language Models (LLMs) has driven their expanding application across various fields. One of the most promising applications is their role as evaluators based on natural language responses, referred to as ''LLMs-as-judges''. This framework has attracted growing attention from both academia and industry due to their excellent effectiveness, ability to generalize across tasks, and interpretability in the form of natural language. This paper presents a comprehensive survey of the LLMs-as-judges paradigm from five key perspectives: Functionality, Methodology, Applications, Meta-evaluation, and Limitations. We begin by providing a systematic definition of LLMs-as-Judges and introduce their functionality (Why use LLM judges?). Then we address methodology to construct an evaluation system with LLMs (How to use LLM judges?). Additionally, we investigate the potential domains for their application (Where to use LLM judges?) and discuss methods for evaluating them in various contexts (How to evaluate LLM judges?). Finally, we provide a detailed analysis of the limitations of LLM judges and discuss potential future directions. Through a structured and comprehensive analysis, we aim aims to provide insights on the development and application of LLMs-as-judges in both research and practice. We will continue to maintain the relevant resource list at https://github.com/CSHaitao/Awesome-LLMs-as-Judges."
+type: preprint
+open_access: true
+cited_by: 38
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.341
+score_parts:
+  rank: 0.143
+  citations: 0.398
+  recency: 0.8
+needs_approval: true
+state: candidate

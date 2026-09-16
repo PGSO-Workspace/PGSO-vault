@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-a2cd6469da
+created: 2026-09-13T06:59:21.848Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/1b17c248d360/crates/pgso-signal-egemaps/src/features.rs.txt
+paths:
+  - sources/software/pgso-sdk/1b17c248d360/crates/pgso-signal-egemaps/src/features.rs.txt
+hash: a2cd6469da2fff9e147ce08eaef1b40c2485db4f646b30d334338e17d3082435
+bytes: 6471
+mime: text/plain
+kind: txt
+role: notes
+extracted:
+  status: ok
+  method: text
+  text_chars: 6463
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:59:21.632Z

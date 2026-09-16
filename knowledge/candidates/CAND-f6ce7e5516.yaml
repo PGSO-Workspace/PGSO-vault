@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f6ce7e5516
+created: 2026-09-15T07:38:48.880Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1038/s41407-023-2036-6
+title: Dental Nurse UK Retention Survey 2023 report published
+authors: []
+year: 2023
+venue: BDJ Team
+doi: 10.1038/s41407-023-2036-6
+url: https://doi.org/10.1038/s41407-023-2036-6
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"10.1145/3814959" published'
+question: null
+search: SEARCH-76dea7765d
+score: 0.846
+score_parts:
+  rank: 0.071
+  citations: 0.075
+  recency: 0.7
+needs_approval: false
+state: candidate

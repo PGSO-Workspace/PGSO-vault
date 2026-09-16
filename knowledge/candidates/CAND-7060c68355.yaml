@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7060c68355
+created: 2026-09-15T01:07:13.133Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/bigcomp51126.2021.00080
+title: A Modular Data-Driven Architecture for Empathetic Conversational Agents
+authors:
+  - Vincenzo Scotti
+  - Roberto Tedesco
+  - Licia Sbattella
+year: 2021
+venue: 2021 IEEE International Conference on Big Data and Smart Computing (BigComp)
+doi: 10.1109/bigcomp51126.2021.00080
+url: https://doi.org/10.1109/bigcomp51126.2021.00080
+abstract: null
+type: article
+open_access: null
+cited_by: 11
+query: '"Empathetic Conversational Agents" "10.1080/10447318.2025.2540500" arXiv 2501.08393'
+question: null
+search: SEARCH-3dc085d3d3
+score: 0.937
+score_parts:
+  rank: 0.167
+  citations: 0.27
+  recency: 0.5
+needs_approval: false
+state: candidate

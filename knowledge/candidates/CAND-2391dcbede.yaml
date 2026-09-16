@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2391dcbede
+created: 2026-09-14T16:52:23.116Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.52202/085713-0260
+title: Failure Prediction at Runtime for Generative Robot Policies
+authors:
+  - Ralf Römer
+  - Adrian Kobras
+  - Luca Worbis
+  - Angela Schoellig
+year: 2025
+venue: Advances in Neural Information Processing Systems 38
+doi: 10.52202/085713-0260
+url: https://doi.org/10.52202/085713-0260
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies
+question: null
+search: SEARCH-0f3f5d4051
+score: 1.4
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

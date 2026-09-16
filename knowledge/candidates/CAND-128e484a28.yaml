@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-128e484a28
+created: 2026-09-15T07:51:13.215Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5067569
+title: "Advancing Automated Bim Information Retrieval with Synergistic Bim Aligners: An Llm Agent-Driven Framework for Enhanced Query Alignment"
+authors:
+  - Peizhuo Guo
+  - Huiyuan Xue
+  - Jun Ma
+  - Jack  C.P. Cheng
+year: 2024
+venue: null
+doi: 10.2139/ssrn.5067569
+url: https://doi.org/10.2139/ssrn.5067569
+abstract: null
+type: preprint
+open_access: null
+cited_by: 1
+query: '"dynamic tool retrieval LLM agent journal 2024 2025'
+question: null
+search: SEARCH-da10c5ec54
+score: 0.904
+score_parts:
+  rank: 0.029
+  citations: 0.075
+  recency: 0.8
+needs_approval: true
+state: candidate

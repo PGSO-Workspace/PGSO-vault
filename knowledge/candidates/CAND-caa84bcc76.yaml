@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-caa84bcc76
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7208795315
+title: Метод інтеграції AI-агентів із корпоративними іт-системами на основі протоколу Model Context Protocol
+authors:
+  - Д. В. Педосенко
+  - D. V. Pedosenko
+year: 2026
+venue: Repository of Vinnytsia National Technical University (Vinnytsia National Technical University)
+doi: null
+url: https://conferences.vntu.edu.ua/index.php/mn/mn2026/paper/view/28825.
+abstract: У роботі досліджено проблему інтеграції автономних агентів на основі великих мовних моделей із корпоративними інформаційними системами. Показано, що класичний підхід зі створенням окремих адаптерів між кожним агентом і кожним джерелом даних чи інструментом призводить до комбінаторного зростання кількості з’єднань і не масштабується для промислових сценаріїв. Запропоновано метод інтеграції, який використовує відкритий протокол Model Context Protocol як універсальний шар діалогу між AI-агентами та корпоративними ІТ-системами. Сформульовано основні етапи методу та визначено функціональні модулі програмного середовища для його реалізації, що включає реєстр MCP-серверів, шлюз авторизації та сервіс аудиту викликів інструментів.
+type: other
+open_access: true
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.083
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-cd520d8b6f
+created: 2026-09-15T07:37:52.267Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.36227/techrxiv.177220113.33816607/v1
+title: "AMTTP: A Four-Layer Architecture for  Deterministic Compliance Enforcement in  Institutional DeFi"
+authors:
+  - Olusegun Odeyemi
+year: 2026
+venue: null
+doi: 10.36227/techrxiv.177220113.33816607/v1
+url: https://doi.org/10.36227/techrxiv.177220113.33816607/v1
+abstract: Decentralised finance (DeFi) has profoundly reshaped global capital markets, enabling automatic transactions, eliminating the need for intermediaries, and accelerating transaction settlement times. Despite these significant advancements, institutional involvement in DeFi remains very low. The lack of institutional participation can be attributed to the lack of an enforceable compliance mechanism at the protocol level; that is, once a transaction is confirmed as having been completed on the blockchain, it cannot be undone or disputed in any meaningful way. The existing compliance mechanisms are primarily retrospective, meaning that they generate alerts after a transaction has occurred instead of preventing illicit transfers in advance. Regulated financial institutions that transact in cryptocurrency bear the ultimate financial risk and regulatory burden. The UK FCA has made it very clear through CP25/41 that there are now specific regulatory expectations regarding the existence of adequate pre-settlement controls [2]. We introduce AMTTP Version 4.0, which has been designed to have a four-layer architecture explicitly intended to support deterministic compliance enforcement in DeFi institutions. Layer I provides SDKs, REST APIs, and web applications intended for programmatic and human interaction with AMTTP; Layer II provides a compliance orchestration layer that combines (i) machine learning risk scoring (ii) graph analysis (iii) sanctions screening, and (iv) policy adjudication into a single deterministic decision-making matrix; Layer III consists of an offline training pipeline with a Composite Teacher that uses an AutoencoderEnhanced XGBoost (w = 0.4), seven FATF AML Mode Patterns (w = 0.3), and graph structural properties (w = 0.3) in order to produce pseudo-labels (SLPs) for the Student pipeline across 2,640,000 transactions; and finally, Layer IV supports the physical infrastructure for AMTTP deployment, which consists of 18 smart contracts on Ethereum Sepolia, 17 containerised microservices, and a Database Persistence Tier (MongoDB, Redis, Memgraph, IPFS). The Infrastructure Security features multioracle threshold signatures, replay protection & zkNAF a zeroknowledge proof framework that allows for privacy preserving verification of KYC credentials, risk ranges & non-membership from sanctions. In addition, TLS Encryption, Rate Limiting, Cloudflare Tunnel integration & the UI Integrity Service provide an additional layer of protection at the infrastructure level. This paper aims to demonstrate that deterministic compliance can be integrated into decentralised finance at an architectural level. In order to support this assertion, the client SDKs (TypeScript and Python) are released as open source.1
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement" "Abhinandan Gill-Lakhowal"'
+question: null
+search: SEARCH-9d6de85957
+score: 1.063
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

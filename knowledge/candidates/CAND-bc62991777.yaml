@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bc62991777
+created: 2026-09-15T00:24:33.994Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4402701853
+title: "Anonymization of Voices in Spaces for Civic Dialogue: Measuring Impact on Empathy, Trust, and Feeling Heard"
+authors:
+  - Wonjune Kang
+  - Margaret Hughes
+  - Deb Roy
+year: 2024
+venue: Proceedings of the ACM on Human-Computer Interaction
+doi: 10.1145/3687021
+url: https://doi.org/10.1145/3687021
+abstract: "Anonymity is a powerful component of many participatory media platforms that can afford people greater freedom of expression and protection from external coercion and interference. However, it can be difficult to effectively implement on platforms that leverage spoken language due to distinct biomarkers present in the human voice. In this work, we explore the use of voice anonymization methods within the context of a technology-enhanced civic dialogue network based in the United States, whose purpose is to increase feelings of agency and being heard within civic processes. Specifically, we investigate the use of two different speech transformation and synthesis methods for anonymization: voice conversion (VC) and text-to-speech (TTS). Through a series of two studies, we examine the impact that each method has on 1) the empathy and trust that listeners feel towards a person sharing a personal story, and 2) a speaker's own perception of being heard, finding that voice conversion is an especially suitable method for our purposes. Our findings open up interesting potential research directions related to anonymous spoken discourse, as well as additional ways of engaging with voice-based civic technologies."
+type: article
+open_access: true
+cited_by: 4
+query: voice agents prosody paralinguistic affective dialogue governance evaluation
+question: null
+search: SEARCH-fb4225ca20
+score: 1.975
+score_parts:
+  rank: 1
+  citations: 0.175
+  recency: 0.8
+needs_approval: false
+state: candidate

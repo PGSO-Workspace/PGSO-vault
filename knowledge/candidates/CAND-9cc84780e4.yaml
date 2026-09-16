@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9cc84780e4
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7160943940
+title: "Model Context Protocol Servers: A Systematic Review of Designs, Use Cases and Future Directions"
+authors:
+  - Muhammad Ahmad
+  - Muhammad Hassan
+year: 2026
+venue: International Journal of Advanced Networking and Applications
+doi: 10.35444/ijana.2026.17605
+url: https://doi.org/10.35444/ijana.2026.17605
+abstract: The Model Context Protocol (MCP) has emerged as a foundational interoperability standard for Large Language Model (LLM) systems, addressing integration challenges across tool-augmented and agentic AI workflows. As LLMs evolve from isolated conversational systems into autonomous, multi-agent architectures, fragmented communication frameworks have resulted in engineering inefficiencies, security vulnerabilities, and scalability limitations. MCP provides a structured, JSON-RPC–based interface enabling LLMs to access external tools, resources, and multi-agent communication channels through standardized schemas and persistent sessions. This survey synthesizes the growing research linking LLM agents, multi-agent systems (MAS), and MCP infrastructure, emphasizing design patterns, interoperability gaps, and system-level communication dynamics. Drawing from empirical analysis of 1,899 MCP servers, we highlight challenges including schema inconsistency, tool-poisoning risks, and maintainability issues. We integrate insights from agentic AI literature to examine how MCP supports structured reasoning, distributed coordination, and scalable agent workflows. Our review develops a taxonomy of MCP components tools, resources, prompts, orchestration layers and maps them to classical software patterns like Mediator, Broker, and Adapter, demonstrating MCP's modular, composable foundation for secure, scalable multi-agent systems. Finally, we outline research opportunities including formal communication ontologies, MCP-specific security testing frameworks, governance mechanisms, and deployment standards, positioning MCP as a critical enabler of next-generation interoperable AI ecosystems.
+type: other
+open_access: true
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.053
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

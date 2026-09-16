@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-88c7933e4a
+created: 2026-09-13T07:00:35.182Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The inspected SDK separates signal extraction from catalog actuation through the Signal and Actuator traits; the actuator interface returns a catalog rather than executing a tool call.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-73f6ded49e
+questions: []
+sections:
+  - methods
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-0d80a292c7

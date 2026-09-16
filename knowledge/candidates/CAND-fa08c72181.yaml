@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-fa08c72181
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2024.sigdial-1.21
+title: Self-Emotion Blended Dialogue Generation in Social Simulation Agents
+authors:
+  - Qiang Zhang
+  - Jason Naradowsky
+  - Yusuke Miyao
+year: 2024
+venue: Proceedings of the 25th Annual Meeting of the Special Interest Group on Discourse and Dialogue
+doi: 10.18653/v1/2024.sigdial-1.21
+url: https://doi.org/10.18653/v1/2024.sigdial-1.21
+abstract: null
+type: article
+open_access: null
+cited_by: 5
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1.029
+score_parts:
+  rank: 0.034
+  citations: 0.195
+  recency: 0.8
+needs_approval: false
+state: candidate

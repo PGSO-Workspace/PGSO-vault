@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c2cac7b939
+created: 2026-09-15T01:07:29.902Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7094496
+title: "MIM: Multi-Input Mamba with Gated Cross-Attention for Efficient Empathetic Dialogue Generation"
+authors:
+  - Jianping Hou
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7094496
+url: https://doi.org/10.2139/ssrn.7094496
+abstract: Empathetic dialogue systems must synergize complex information from conversation history, user personas, and commonsense knowledge to generate emotionally resonant responses. However, existing Transformer-based frameworks suffer from quadratic computational complexity and often struggle with noisy knowledge fusion. In this paper, we propose Multi-Input Mamba (MIM), a high-efficiency framework for multi-factor empathetic dialogue generation. We replace the standard Transformer backbone with a selective state-space model to achieve linear-time complexity. Specifically, we design a Gated Cross-Attention Fusion mechanism within the Mamba blocks to adaptively integrate persona and commonsense representations while suppressing irrelevant noise. Furthermore, we leverage Large Language Models to perform dynamic social reasoning, providing high-fidelity commonsense premises that surpass traditional static knowledge graphs. Experimental results on the PEC dataset demonstrate that MIM consistently outperforms baselines, including EFCP, across both automatic metrics and human evaluations. Notably, our approach achieves superior performance with significantly lower GPU memory overhead and inference latency, offering a scalable solution for building socially intelligent conversational agents.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation" 11293762'
+question: null
+search: SEARCH-a309ac3231
+score: 1.083
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

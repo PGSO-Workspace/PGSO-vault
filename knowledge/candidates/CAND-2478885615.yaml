@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2478885615
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7143364622
+title: "Test case generation using large language models: a systematic literature review"
+authors:
+  - Murat Tasarsu
+  - Ahmet Vedat Tokmak
+  - Cagatay Catal
+year: 2026
+venue: Cluster Computing
+doi: 10.1007/s10586-026-06021-z
+url: https://doi.org/10.1007/s10586-026-06021-z
+abstract: Abstract Test case generation is a time-consuming and labor-intensive task vital to ensuring software reliability. Automating this process is critical for increasing efficiency and reducing potential human errors in test case generation. This study systematically examined the applications and motivations of Large Language Models (LLMs) in test case generation. The Systematic Literature Review (SLR) method was chosen to identify gaps in the existing literature and comprehensively evaluate the impact of LLMs in this field. 38 peer-reviewed articles published between 2020 and 2025 in databases such as Science Direct, IEEE Xplore, ACM Digital Library, and SpringerLink, addressing the use of LLMs in test case generation, were systematically analyzed. The review evaluated the datasets used, LLM training and test generation techniques, targeted programming languages, preprocessing and postprocessing methods, and integration strategies with existing software workflows. The findings highlight the ability of LLMs to increase the speed and coverage of test case generation in test automation, highlight challenges such as dataset quality and integration complexities, and suggest potential solutions to address these issues. This review provides an important resource for researchers using LLMs in automated test generation, providing insights into their capabilities and encouraging further research in this area.
+type: other
+open_access: true
+cited_by: 5
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.395
+score_parts:
+  rank: 0.2
+  citations: 0.195
+  recency: 1
+needs_approval: false
+state: candidate

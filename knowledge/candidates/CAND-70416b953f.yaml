@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-70416b953f
+created: 2026-09-15T07:51:13.215Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3726302.3730125
+title: The Agent Perspective In LLM-Based Strategic Information Retrieval Ecosystems
+authors:
+  - Tommy Mordo
+year: 2025
+venue: Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval
+doi: 10.1145/3726302.3730125
+url: https://doi.org/10.1145/3726302.3730125
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"dynamic tool retrieval LLM agent journal 2024 2025'
+question: null
+search: SEARCH-da10c5ec54
+score: 0.945
+score_parts:
+  rank: 0.045
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

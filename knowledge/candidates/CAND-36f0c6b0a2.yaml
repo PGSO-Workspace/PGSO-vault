@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-36f0c6b0a2
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404782944
+title: "Towards Measuring and Modeling “Culture” in LLMs: A Survey"
+authors:
+  - Muhammad Farid Adilazuarda
+  - Sagnik Mukherjee
+  - Pradhyumna Lavania
+  - Siddhant Shivdutt Singh
+  - Alham Fikri Aji
+  - Jacki O’Neill
+  - Ashutosh Modi
+  - Monojit Choudhury
+year: 2024
+venue: null
+doi: 10.18653/v1/2024.emnlp-main.882
+url: https://doi.org/10.18653/v1/2024.emnlp-main.882
+abstract: Muhammad Farid Adilazuarda, Sagnik Mukherjee, Pradhyumna Lavania, Siddhant Shivdutt Singh, Alham Fikri Aji, Jacki O’Neill, Ashutosh Modi, Monojit Choudhury. Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing. 2024.
+type: other
+open_access: true
+cited_by: 35
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.289
+score_parts:
+  rank: 0.1
+  citations: 0.389
+  recency: 0.8
+needs_approval: false
+state: candidate

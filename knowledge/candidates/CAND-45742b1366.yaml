@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-45742b1366
+created: 2026-09-15T07:50:34.676Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2478/pead-2025-0005
+title: Computationally Efficient Model Predictive Control of Delta-Connected CHB-Based Active Power Filter
+authors:
+  - Zdeněk Kehl
+  - Tomas Glasberger
+  - Zdeněk Peroutka
+year: 2025
+venue: Power Electronics and Drives
+doi: 10.2478/pead-2025-0005
+url: https://doi.org/10.2478/pead-2025-0005
+abstract: Abstract This paper introduces a novel control strategy for shunt-type active power filters (APF) using a cascaded H-bridge (CHB) topology in a delta connection. The control is tailored particularly for low-cost microcontrollers with limited computation power and resources. The control combines the modified instantaneous active-reactive power (PQ) theory for power grid control and subordinated optimized (two-step) finite control set model predictive control (FCS-MPC) for control of CHB converters. The power grid control generates setpoints for CHB converters, i.e. grid compensation currents and current references securing active power delivery for DC-links of CHB converters of the APF. The two-step FCS-MPC controls the CHBs, generates phase grid compensation currents, and balances the DC-link capacitors of the CHBs. Extensive simulations and experiments on the developed 60 kW prototype of APF validate the proposed control. The results show that the control quality is comparable to the full-state FCS-MPC, while its computation time and complexity are notably reduced.
+type: article
+open_access: null
+cited_by: 0
+query: '"10.1016/j.chb.2025.108687" manuscript'
+question: null
+search: SEARCH-183055ff3f
+score: 0.948
+score_parts:
+  rank: 0.048
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

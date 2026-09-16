@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-159f2c6b66
+created: 2026-09-13T06:59:21.832Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/1b17c248d360/context.md
+paths:
+  - sources/software/pgso-sdk/1b17c248d360/context.md
+hash: 159f2c6b66d4db259391aae4fc9caa6c4fdb84b7d50cb96ff385b265266624c3
+bytes: 2308
+mime: text/markdown
+kind: md
+role: notes
+extracted:
+  status: ok
+  method: text
+  text_chars: 2304
+  sections: 6
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:59:21.629Z

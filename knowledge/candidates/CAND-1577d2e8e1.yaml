@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1577d2e8e1
+created: 2026-09-15T01:07:13.133Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icsp62122.2024.10743383
+title: A Review of Empathetic Conversational Systems
+authors:
+  - Shuang Guo
+  - Bo Ning
+year: 2024
+venue: 2024 9th International Conference on Intelligent Computing and Signal Processing (ICSP)
+doi: 10.1109/icsp62122.2024.10743383
+url: https://doi.org/10.1109/icsp62122.2024.10743383
+abstract: null
+type: article
+open_access: null
+cited_by: 4
+query: '"Empathetic Conversational Agents" "10.1080/10447318.2025.2540500" arXiv 2501.08393'
+question: null
+search: SEARCH-3dc085d3d3
+score: 1.031
+score_parts:
+  rank: 0.056
+  citations: 0.175
+  recency: 0.8
+needs_approval: false
+state: candidate

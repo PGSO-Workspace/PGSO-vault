@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-44c55e3e95
+created: 2026-09-15T18:03:38.225Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/mvp-research-bootstrap-2026-09-15.md
+paths:
+  - sources/reports/mvp-research-bootstrap-2026-09-15.md
+hash: 44c55e3e95e0ad29ede2a98fe483706a801cc3834224a48b794353d35c2dd37f
+bytes: 3087
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 3087
+  sections: 3
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T18:03:34.573Z

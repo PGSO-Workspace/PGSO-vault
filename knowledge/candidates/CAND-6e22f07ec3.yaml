@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6e22f07ec3
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.7454/jp.v8i2.1133
+title: "From Political Contracts to Policies: Clientelistic or Programmatic?"
+authors: []
+year: 2022
+venue: Jurnal Politik
+doi: 10.7454/jp.v8i2.1133
+url: https://doi.org/10.7454/jp.v8i2.1133
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 0.775
+score_parts:
+  rank: 0.1
+  citations: 0.075
+  recency: 0.6
+needs_approval: false
+state: candidate

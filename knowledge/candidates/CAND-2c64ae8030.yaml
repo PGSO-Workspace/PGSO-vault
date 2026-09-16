@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2c64ae8030
+created: 2026-09-15T06:32:41.203Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4417144274
+title: "S-AI-ANTI HALLUCINATION: A BIO-INSPIRED AND CONFIDENCE-AWARE SPARSE AI FRAMEWORK FOR RELIABLE GENERATIVE SYSTEMS"
+authors:
+  - Said Slaoui
+year: 2025
+venue: International Journal of Artificial Intelligence & Applications
+doi: 10.5121/ijaia.2025.16601
+url: https://doi.org/10.5121/ijaia.2025.16601
+abstract: Large Language Models (LLMs) exhibit impressive generative capabilities but remain prone to hallucinations — plausible yet false statements produced with high confidence. Such phenomena undermine trust and reliability in sensitive domains including health, law, and cybersecurity. Despite significant progress in retrieval-augmented generation (RAG), calibration methods, and mixture-of-experts (MoE) architectures, existing systems still lack a unified framework for veridiction, abstention, and energy-aware reasoning. This work introduces S-AI Against Hallucinations, a bio-inspired and parsimonious architecture derived from the Sparse Artificial Intelligence (S-AI) framework. The proposed model implements a symbolic-hormonal orchestration mechanism that enables generative agents to detect uncertainty, abstain when appropriate, and maintain citation integrity under ambiguous or adversarial conditions. The system relies on four hormonal variables — Hallucination Uncertainty (HU), Citation Integrity (CI), Contradiction Observer (CO), and Retrieval Evidence (RE) — dynamically regulated by a MetaAgent through hysteresisbased thresholds. Experiments performed on diverse scenarios, including factual question answering, scientific summarization, numerical reasoning, and out-of-distribution prompts, demonstrate stable abstention behavior, consistent citation tracking, and adaptive evidence retrieval. Evaluation follows a transparent and reproducible protocol inspired by PRISMA standards and Scopus-indexed benchmarking practices. S-AI Against Hallucinations provides a coherent, confidence-aware foundation for explainable and resource-efficient generative intelligence. It establishes a conceptual and operational bridge between statistical learning, symbolic reasoning, and biological homeostasis, paving the way for reliable and ethically governed AI systems.
+type: article
+open_access: true
+cited_by: 2
+query: tau2 benchmark conversational agents dual control
+question: null
+search: SEARCH-6eb3d17581
+score: 1.269
+score_parts:
+  rank: 0.25
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

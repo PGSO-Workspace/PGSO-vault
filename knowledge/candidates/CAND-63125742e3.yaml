@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-63125742e3
+created: 2026-09-15T09:45:55.769Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.71284/asc.2025152
+title: "HARNESSING ARTIFICIAL INTELLIGENCE IN EDUCATION: A PATH TOWARD INCLUSION AND EQUITY IN THE AI ERA"
+authors:
+  - Ananda Majumdar
+year: 2025
+venue: Full Text Proceedings Book
+doi: 10.71284/asc.2025152
+url: https://doi.org/10.71284/asc.2025152
+abstract: This essay examines the potential of Artificial Intelligence (AI) to foster equity and inclusion in education, addressing the pressing challenges outlined in Sustainable Development Goal 4 (SDG 4), which specifically focuses on quality education and lifelong learning opportunities for all. The introduction emphasizes the necessity of educational equity, which is defined as providing tailored resources, tools, and environments to meet the diverse needs of students. It acknowledges longstanding disparities in education related to wealth, geography, race, gender, and access to resources, highlighting the transformative role education technology can play in mitigating these issues. The Materials and Methods section outlines the framework for integrating AI in educational contexts. This involves a comprehensive review of existing literature, case studies of AI applications, and policy guidance documents from UNESCO aimed at fostering a human- centred approach to technology in education. The methodologies adopted include qualitative analyses to assess the effectiveness of AI tools in personalizing learning experiences, improving resource allocation in underfunded areas, and breaking down language barriers. The essay highlights the potential of AI to personalize learning experiences, enabling educators to cater to the individual needs of their students and sparking enthusiasm about the possibilities. Insights from various stakeholders, including educators, policymakers, and technology developers, are critical to understanding the multifaceted challenges and opportunities associated with AI integration. The results demonstrate that AI has the potential to drastically alter traditional educational practices towards a more personalized and inclusive model. Successful case studies illustrate how AI can identify learning gaps, provide customized resources for students with disabilities, and connect learners across global divides, thereby reinforcing the importance of a data- driven approach in making informed educational decisions. In the discussion, the implications of these findings are analyzed, emphasizing the importance of ethical considerations and inclusive practices in AI implementation. The essay posits that while the integration of AI in education offers unprecedented opportunities for innovation and enhanced learning experiences, it also necessitates careful attention to equity and accessibility to ensure that no student is left behind. By prioritizing the equitable use of AI technologies, education can evolve into a more inclusive system that benefits all learners, fostering a culture of collaboration and knowledge-sharing across diverse contexts.
+type: article
+open_access: null
+cited_by: 1
+query: '"Toward accurate psychological simulations" "Yue Qi" full text'
+question: null
+search: SEARCH-aa21877eb5
+score: 1.118
+score_parts:
+  rank: 0.143
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-eadefd6cc3
+created: 2026-09-15T00:31:18.055Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3577190.3614165
+title: "Annotations from speech and heart rate: impact on multimodal emotion recognition"
+authors:
+  - Kaushal Sharma
+  - Guillaume Chanel
+year: 2023
+venue: INTERNATIONAL CONFERENCE ON MULTIMODAL INTERACTION
+doi: 10.1145/3577190.3614165
+url: https://doi.org/10.1145/3577190.3614165
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: '"Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition"'
+question: null
+search: SEARCH-40c323d84c
+score: 0.878
+score_parts:
+  rank: 0.059
+  citations: 0.119
+  recency: 0.7
+needs_approval: false
+state: candidate

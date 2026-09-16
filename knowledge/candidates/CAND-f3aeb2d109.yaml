@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f3aeb2d109
+created: 2026-09-15T07:48:25.542Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3897/afrinvertebr.63.76309.figures47-49
+title: "Figures 47-49 from: Boschert C, Dikow T (2022) ﻿Taxonomic revision of the mydas-fly genera Eremohaplomydas Bequaert, 1959, Haplomydas Bezzi, 1924, and Lachnocorynus Hesse, 1969 (Insecta, Diptera, Mydidae). African Invertebrates 63(1): 19-75. https://doi.org/10.3897/afrinvertebr.63.76309"
+authors:
+  - Claire Boschert
+  - Torsten Dikow
+year: 2022
+venue: null
+doi: 10.3897/afrinvertebr.63.76309.figures47-49
+url: https://doi.org/10.3897/afrinvertebr.63.76309.figures47-49
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"zenodo.22296644" L-DREA'
+question: null
+search: SEARCH-78cd1e9416
+score: 0.683
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 0.6
+needs_approval: false
+state: candidate

@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-124bbab5c0
+created: 2026-09-15T01:18:09.834Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/affective-final-delta-v1.json
+hash: 124bbab5c03e38f01da393a46fb98961f023bd07ac06c21cb4adfe2696966900
+bytes: 5980
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: "Two further Q1 affective-response papers: EAC-Agent targeted fulltext and MEGE publisher snippets; human utility claims not established"

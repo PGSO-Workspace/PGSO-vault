@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8a6c77083f
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.neucom.2025.131603
+title: "RoleCF: Role-oriented coarse-to-fine emotion cause recognition for empathetic response generation"
+authors:
+  - Wei Zhang
+  - Lifang Wang
+  - Ming Xia
+  - Ronghan Li
+  - Zhongtian Hu
+  - Jiashi Lin
+year: 2025
+venue: Neurocomputing
+doi: 10.1016/j.neucom.2025.131603
+url: https://doi.org/10.1016/j.neucom.2025.131603
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.053
+score_parts:
+  rank: 0.034
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

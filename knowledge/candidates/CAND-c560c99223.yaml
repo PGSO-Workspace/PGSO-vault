@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c560c99223
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-10192316/v1
+title: "HiRoC: Selective History Routing and Disagreement-Aware Calibration for Multimodal Conversational Emotion Recognition"
+authors:
+  - Gong Li
+  - Huiqiang Guo
+  - Mengdi Liu
+  - Ziyin Wei
+  - Bowen Gu
+  - Tiquan Gu
+  - Dan Ma
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-10192316/v1
+url: https://doi.org/10.21203/rs.3.rs-10192316/v1
+abstract: Abstract Multimodal Emotion Recognition in Conversation (MERC) aims to infer speakers' affective states from heterogeneous cues within evolving dialogue contexts. Although graph-based methods have shown strong potential in modeling conversational structures, they often introduce history through dense or predefined connections and obtain unified multimodal representations before prediction. This paradigm may propagate irrelevant contextual information, overlook the different roles of same-speaker and cross-speaker dependencies, and underexploit useful corrective cues carried by inconsistent modalities. To address these limitations, we propose HiRoC, a multimodal emotion recognition framework that selectively routes emotion-relevant history and calibrates predictions using cross-modal disagreement. Specifically, a Historical Relevance Filter (HRF) scores how relevant each past utterance is to the current one and suppresses weakly related context before propagation. Guided by the resulting dependency prior, a Speaker-Typed Routing Graph (STRG) keeps intra- and inter-speaker dependencies apart and propagates the retained history along sparse, temporally directed paths. In parallel, the filtered modality-specific representations feed a hypergraph backbone for high-order utterance- and modality-level interactions, which the routing branch complements with speaker-aware temporal dependencies. A Cross-Modal Residual Correction (CMRC) module then uses modal disagreement to adjust the main prediction at the decision level, so that conflicting cues are not averaged away. On IEMOCAP and MELD, HiRoC outperforms representative state-of-the-art methods.
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.026
+score_parts:
+  rank: 0.026
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

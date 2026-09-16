@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1ebdca03ef
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4405028185
+title: Hybrid LSTM–Attention and CNN Model for Enhanced Speech Emotion Recognition
+authors:
+  - Fazliddin Makhmudov
+  - Alpamis Kutlimuratov
+  - Young Im Cho
+year: 2024
+venue: Applied Sciences
+doi: 10.3390/app142311342
+url: https://doi.org/10.3390/app142311342
+abstract: Emotion recognition is crucial for enhancing human–machine interactions by establishing a foundation for AI systems that integrate cognitive and emotional understanding, bridging the gap between machine functions and human emotions. Even though deep learning algorithms are actively used in this field, the study of sequence modeling that accounts for the shifts in emotions over time has not been thoroughly explored. In this research, we present a comprehensive speech emotion-recognition framework that amalgamates the ZCR, RMS, and MFCC feature sets. Our approach employs both CNN and LSTM networks, complemented by an attention model, for enhanced emotion prediction. Specifically, the LSTM model addresses the challenges of long-term dependencies, enabling the system to factor in historical emotional experiences alongside current ones. We also incorporate the psychological “peak–end rule”, suggesting that preceding emotional states significantly influence the present emotion. The CNN plays a pivotal role in restructuring input dimensions, facilitating nuanced feature processing. We rigorously evaluated the proposed model utilizing two distinct datasets, namely TESS and RAVDESS. The empirical outcomes highlighted the model’s superior performance, with accuracy rates reaching 99.8% for TESS and 95.7% for RAVDESS. These results are a notable advancement, showcasing our system’s precision and innovative contributions to emotion recognition.
+type: article
+open_access: true
+cited_by: 33
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.516
+score_parts:
+  rank: 0.333
+  citations: 0.383
+  recency: 0.8
+needs_approval: false
+state: candidate

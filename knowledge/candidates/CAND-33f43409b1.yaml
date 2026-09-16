@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-33f43409b1
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7117986201
+title: ROBUST AND VERIFIABLE LLMS FOR HIGH-STAKES DECISION-MAKING (HEALTHCARE, DEFENSE, FINANCE)
+authors:
+  - Manish Bolli
+  - Sai Srinivas Matta
+year: 2026
+venue: American Journal of Advanced Technology and Engineering Solutions
+doi: 10.63125/xv9bab19
+url: https://doi.org/10.63125/xv9bab19
+abstract: Robust and verifiable large language models (LLMs) are increasingly considered for high-stakes decision-support in healthcare, defense, and finance, yet empirical evidence on their reliability, security, and audit readiness remains limited. This quantitative study evaluated four LLM system configurations—baseline, retrieval-grounded, schema/rule-constrained, and tool-augmented verification—across 360 domain-specific cases and 5,760 evaluated case-instances under clean, perturbation, out-of-distribution, and adversarial conditions. Descriptive and multivariable analyses showed that tool-augmented verification achieved the highest overall task correctness at 80% on clean inputs, compared to 64% for baseline, while maintaining higher decision stability under perturbations at 81% versus 61%. Evidence support rates increased from 58% in baseline outputs to 82% in tool-augmented configurations, and schema validity exceeded 94% under constrained outputs across domains. Under adversarial testing, retrieval-grounded systems exhibited the highest policy violation rate at 18.9%, whereas schema/rule-constrained and tool-augmented systems reduced violations to 7.2% and 6.9%, respectively. However, stricter controls increased false refusals, rising from 2.3% in baseline to 7.0% in schema-constrained configurations. Mixed-effects regression results indicated that tool augmentation more than doubled the odds of task correctness relative to baseline, while schema constraints reduced policy violations by nearly 50%. Out-of-distribution conditions reduced correctness across all configurations, with the smallest degradation observed in tool-augmented systems. Overall, the findings demonstrated that robustness and verifiability in high-stakes LLM decision-support depended on layered grounding, constraint enforcement, and deterministic verification mechanisms, and that measurable tradeoffs emerged between security controls and operational utility across domains.
+type: article
+open_access: true
+cited_by: 1
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 1.175
+score_parts:
+  rank: 0.1
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

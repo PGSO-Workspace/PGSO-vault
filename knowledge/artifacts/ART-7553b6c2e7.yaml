@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-7553b6c2e7
+created: 2026-09-15T00:58:29.697Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/agentspec.pdf
+paths:
+  - sources/literature/agentspec.pdf
+hash: 7553b6c2e704fb1d9825461c9f3388b6d6f4fdbf1863120e52de548f0e0a2e49
+bytes: 712619
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 101858
+  sections: 12
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T00:46:50.628Z

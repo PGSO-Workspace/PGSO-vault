@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5464c3eed6
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.4018/979-8-3373-2008-3.ch006
+title: Building AI Agents for Autonomous Decision-Making
+authors:
+  - Velmurugan R.
+  - Bhuvaneswari R.
+  - Joji Abey
+year: 2025
+venue: Advances in Computational Intelligence and Robotics
+doi: 10.4018/979-8-3373-2008-3.ch006
+url: https://doi.org/10.4018/979-8-3373-2008-3.ch006
+abstract: In this study it is concerned with the development of AI agents that are able to make autonomous decisions using reinforcement learning (RL). The paper investigates basic concepts and training methods and optimization techniques which establish essential techniques for producing adaptable agents that work in fluid settings. Deep RL techniques can help to train agents into finding optimal policies to interact and be in contact with mechanisms of feedback. The study outlines major difficulties in its findings between agent early exploration and optimally using current knowledge while also addressing system expansion limitations and ethical issues. This work covers practical uses of the methodology in financial settings as well as healthcare organizations and robotic systems. The results contribute to the advances of AI driven autonomy for driving efficiency and making intelligent decisions in the complex and uncertain environments.
+type: chapter
+open_access: null
+cited_by: 1
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.004
+score_parts:
+  rank: 0.029
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

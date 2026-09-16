@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b5f842ff33
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7116652254
+title: "AI-Based Anomaly Detection in Industrial Control and Cyber–Physical Systems: A Data-Type-Oriented Systematic Review"
+authors:
+  - Jung Kyu Seo
+  - Jung Kyu Seo
+  - Juhyeon Lee
+  - B. N. Kim
+  - Wooseong Shim
+  - Jung Taek Seo
+  - Jung Taek Seo
+year: 2025
+venue: Electronics
+doi: 10.3390/electronics15010020
+url: https://doi.org/10.3390/electronics15010020
+abstract: Industrial Control Systems (ICS) and Cyber–Physical Systems (CPS) are critical infrastructures supporting national sectors, where cyberattacks can directly cause physical process disruptions and safety incidents. Following PRISMA 2020 guidelines, we systematically searched Web of Science, Scopus, IEEE Xplore, and the ACM Digital Library for studies published between 1 January 2021 and 31 October 2025, and finally included 89 primary studies. The literature is categorized into five data modalities—network traffic, operational data, simulation data, hybrid data, and other auxiliary data—and compared in terms of detection objectives, learning paradigms, model families, attack types, and datasets. The analysis shows that network data are effective for detecting cyber-layer attacks such as reconnaissance, DoS, and MITM, while operational data are suited for physical-layer anomalies including process disturbances, FDI, and stealth deviations. Simulation and hybrid data further support rare-scenario generation and cyber–physical consistency checking. However, limitations remain, including reliance on few benchmarks, lack of realistic multi-domain datasets, label sparsity, concept drift, and insufficient consideration of real-time and resource-constrained OT environments. Based on these findings, this review highlights future directions such as multi-domain dataset development, physics- and control-informed model design, hybrid-data-driven integrated detection, and lightweight edge deployment.
+type: other
+open_access: true
+cited_by: 7
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 1.269
+score_parts:
+  rank: 0.143
+  citations: 0.226
+  recency: 0.9
+needs_approval: false
+state: candidate

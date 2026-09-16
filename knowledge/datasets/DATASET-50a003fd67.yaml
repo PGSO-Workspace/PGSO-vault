@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-50a003fd67
+created: 2026-09-15T05:18:19.990Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-lifecycle-reference-090fcd8.tar
+hash: 50a003fd6709c6bfe17a7bf730e513afa0fa51cdcc6e7154c53d5adf580439ee
+bytes: 440320
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: "Imported clean SDK execution at 090fcd8: complete five-arm lifecycle dispatch outputs, raw fixtures, validation stderr and source/binary/environment/output manifest. This is recorded SDK execution evidence, not a PhDude re-execution, human study, or population estimate."

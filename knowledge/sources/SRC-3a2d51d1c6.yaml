@@ -1,0 +1,17 @@
+schema: phdude.source
+version: 1
+id: SRC-3a2d51d1c6
+created: 2026-09-15T01:05:23.694Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: PGSO war-room evidence status, 15 September 2026
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-f94d2e96fc
+state: candidate
+year: 2026
+abstract: "Integrated bounded verification: synthetic pipeline, independent common-policy comparators, actual dispatch, HTTP/MCP, real-voice intensity diagnostic, and prior-art limitations. Human utility and commercial comparisons remain unmeasured; original manuscript unchanged."

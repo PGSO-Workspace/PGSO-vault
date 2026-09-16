@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b6ce2f566b
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.54097/f6k6xk09
+title: The Effect of Affective Empathy on Prosocial Behavior among College Students
+authors:
+  - Huderi
+year: 2024
+venue: Journal of Education, Humanities and Social Sciences
+doi: 10.54097/f6k6xk09
+url: https://doi.org/10.54097/f6k6xk09
+abstract: Affective empathy is the response and feeling to others’ emotions, it includes empathic concern and personal distress. In the real situation, empathy always occurs under certain specific circumstances and can develop into an individual’s prosocial behavior. In this experiment, the relationship between the empathy state and prosocial behavior of college students was discussed using specific emotional materials. Batson’s Empathy Adjective Scale and the revised Prosocial Behavior Scale were used. The results show that viewing specific emotional materials can stimulate different levels of emotional empathy. In a state of high emotional empathy, people have higher levels of prosocial behavior. Different emotional empathy states can only have a significant impact on some dimensions of prosocial behavior, including three dimensions of openness, compliance, and emotion. However, the three dimensions of anonymity, altruism, and urgency do not have a significant impact.
+type: article
+open_access: null
+cited_by: 0
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 0.867
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

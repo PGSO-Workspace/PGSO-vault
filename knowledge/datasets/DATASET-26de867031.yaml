@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-26de867031
+created: 2026-09-15T00:53:11.205Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/http-transport-build-v1.json
+hash: 26de8670319305dab15db5517f96dfa52b610eb363bb2460995bdbde2b4a5b1a
+bytes: 636
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Localwire HTTP/MCP transport validation artifact; generatedtestbearer only

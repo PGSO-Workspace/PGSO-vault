@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5657b250f0
+created: 2026-09-15T01:08:00.178Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20944/preprints202604.0849.v1
+title: "WirelessLLM-Agent: A Unified LLM-Based Agent Framework for Multi-Task Wireless Communication Decision-Making"
+authors:
+  - Gregory Yu
+  - Ian Butler
+  - Aaron Collins
+year: 2026
+venue: null
+doi: 10.20944/preprints202604.0849.v1
+url: https://doi.org/10.20944/preprints202604.0849.v1
+abstract: The integration of large language models into wireless communication has shown promising results for individual tasks. However, existing approaches are typically designed for single-task scenarios and rely on supervised fine-tuning that fails to optimize for long-term decision quality. In this paper, we propose WirelessLLM-Agent, a unified LLM-based agent framework for multi-task wireless communication decision-making. Our framework integrates a semantic state serialization module that transforms heterogeneous wireless states into structured textual representations, a multi-task adapter architecture based on MoE-LoRA for parameter-efficient knowledge sharing, and a two-stage training paradigm combining SFT warm-start with GRPO reinforcement learning enhanced by lookahead collaborative simulation. Extensive experiments on channel multi-task learning, mobile edge computing task offloading, and cooperative edge caching demonstrate that WirelessLLM-Agent consistently outperforms existing methods while exhibiting strong zero-shot generalization.
+type: preprint
+open_access: null
+cited_by: 0
+query: LLM-Agent-UMF LLM-based Agent Unified Modeling Framework
+question: null
+search: SEARCH-9784dfdfed
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

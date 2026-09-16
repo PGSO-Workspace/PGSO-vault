@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-88aba54ae9
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.32614/cran.package.mini007
+title: "mini007: Lightweight Framework for Orchestrating Multi-Agent Large Language Models"
+authors:
+  - Mohamed El Fodil Ihaddaden
+year: 2025
+venue: "CRAN: Contributed Packages"
+doi: 10.32614/cran.package.mini007
+url: https://doi.org/10.32614/cran.package.mini007
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 0.938
+score_parts:
+  rank: 0.038
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

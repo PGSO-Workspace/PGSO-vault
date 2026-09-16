@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-36aca2562d
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4414023998
+title: "The Rise of Agentic AI: A Review of Definitions, Frameworks, Architectures, Applications, Evaluation Metrics, and Challenges"
+authors:
+  - Ajay Bandi
+  - Bhavani Kongari
+  - Roshini Naguru
+  - Sahitya Pasnoor
+  - Sri Vidya Vilipala
+year: 2025
+venue: Future Internet
+doi: 10.3390/fi17090404
+url: https://doi.org/10.3390/fi17090404
+abstract: Agentic AI systems are a recently emerged and important approach that goes beyond traditional AI, generative AI, and autonomous systems by focusing on autonomy, adaptability, and goal-driven reasoning. This study provides a clear review of agentic AI systems by bringing together their definitions, frameworks, and architectures, and by comparing them with related areas like generative AI, autonomic computing, and multi-agent systems. To do this, we reviewed 143 primary studies on current LLM-based and non-LLM-driven agentic systems and examined how they support planning, memory, reflection, and goal pursuit. Furthermore, we classified architectural models, input–output mechanisms, and applications based on their task domains where agentic AI is applied, supported using tabular summaries that highlight real-world case studies. Evaluation metrics were classified as qualitative and quantitative measures, along with available testing methods of agentic AI systems to check the system’s performance and reliability. This study also highlights the main challenges and limitations of agentic AI, covering technical, architectural, coordination, ethical, and security issues. We organized the conceptual foundations, available tools, architectures, and evaluation metrics in this research, which defines a structured foundation for understanding and advancing agentic AI. These findings aim to help researchers and developers build better, clearer, and more adaptable systems that support responsible deployment in different domains.
+type: article
+open_access: true
+cited_by: 158
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 1.55
+score_parts:
+  rank: 0.1
+  citations: 0.55
+  recency: 0.9
+needs_approval: false
+state: candidate

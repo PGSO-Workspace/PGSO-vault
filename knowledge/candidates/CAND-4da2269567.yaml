@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4da2269567
+created: 2026-09-15T00:30:50.983Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.63317/3582yurtjaq3
+title: "LHMKE: A Large-scale Holistic Multi-subject Knowledge Evaluation Benchmark for Chinese Large Language Models"
+authors:
+  - Chuang Liu
+  - Renren Jin
+  - Yuqi Ren
+  - Deyi Xiong
+year: 2024
+venue: Proceedings of the Language Resources and Evaluation Conference
+doi: 10.63317/3582yurtjaq3
+url: https://doi.org/10.63317/3582yurtjaq3
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"'
+question: null
+search: SEARCH-40ed8087e2
+score: 0.915
+score_parts:
+  rank: 0.04
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dcedc531d7
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7162443806
+title: "On Controllability in Agentic AI: A Survey"
+authors:
+  - My H. Nguyen
+  - Duc-Hai Nguyen
+  - Barry O’Sullivan
+  - Hoang D. Nguyen
+year: 2026
+venue: Minds and Machines
+doi: 10.1007/s11023-026-09783-y
+url: https://doi.org/10.1007/s11023-026-09783-y
+abstract: "Abstract As artificial intelligence systems acquire increasing autonomy, the question of how humans can maintain meaningful control over their behavior becomes urgent. This question is especially pressing for agentic AI: systems built on foundation models that coordinate networks of autonomous agents to pursue complex goals with minimal human oversight. While the engineering literature has developed several mechanisms for constraining such systems, it has largely treated controllability as a purely causal property, the ability to physically intervene in a system’s operation, without engaging the normative dimensions that determine whether such intervention is meaningful. Drawing on the distinction between causal and normative control in the philosophy of action, this paper presents a structured conceptual survey of controllability mechanisms in agentic AI. We organize the literature around four paradigms: constraints and guardrails, adaptive control via reinforcement learning, agent-in-the-loop oversight, and human-in-the-loop oversight. For each, we analyze its technical foundations, its philosophical assumptions about agency and authority, and its persistent limitations. Our analysis reveals unresolved tensions across these paradigms, particularly between the scalability of automated oversight and the legitimacy of human judgment, between design-time constraint specification and runtime adaptability, and between individual agent control and system-level governance. We argue that meaningful controllability requires integrating causal intervention mechanisms with normative frameworks that address value alignment, epistemic transparency, and distributed responsibility. We conclude by proposing directions for research that bridges engineering controllability and philosophically grounded human oversight."
+type: article
+open_access: true
+cited_by: 1
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.152
+score_parts:
+  rank: 0.077
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

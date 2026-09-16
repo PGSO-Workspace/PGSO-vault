@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a82ae20024
+created: 2026-09-15T07:48:25.542Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5194/essd-2024-363-ac1
+title: Correction to zenodo DOI
+authors:
+  - Ruben Vescovo
+year: 2025
+venue: null
+doi: 10.5194/essd-2024-363-ac1
+url: https://doi.org/10.5194/essd-2024-363-ac1
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"zenodo.22296644" L-DREA'
+question: null
+search: SEARCH-78cd1e9416
+score: 0.963
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

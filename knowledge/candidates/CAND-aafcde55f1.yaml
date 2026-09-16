@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-aafcde55f1
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4413915402
+title: Reflection, Quick Reference Guide and Future Outlook to Autonomous and Adaptive Systems
+authors:
+  - Danny Weyns
+year: 2025
+venue: ACM Transactions on Autonomous and Adaptive Systems
+doi: 10.1145/3763242
+url: https://doi.org/10.1145/3763242
+abstract: "Researchers and engineers of autonomous and adaptive systems have always been fascinated by computing systems that have the ability to solve problems independently. In this reflection article, we look at three main families of such computing systems that emerged over the past two decades: Self-Organizing Systems, Self-Adaptive Systems, and Symbiotic HAI Systems that leverage the collective capabilities of Humans and AI-empowered autonomous and adaptive systems. For each family of these systems, we highlight the foundations, principles, and approaches, as well as system engineering. To conclude, we look at a number of challenges for future research in three key areas of this fascinating field: technical, ethical, and regulatory. These challenges open new fundamental and engineering problems for autonomous and adaptive systems."
+type: article
+open_access: true
+cited_by: 1
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.031
+score_parts:
+  rank: 0.056
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

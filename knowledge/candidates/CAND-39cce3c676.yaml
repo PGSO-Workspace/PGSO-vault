@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-39cce3c676
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4401326040
+title: "Large Language Models for Wearable Sensor-Based Human Activity Recognition, Health Monitoring, and Behavioral Modeling: A Survey of Early Trends, Datasets, and Challenges"
+authors:
+  - Emilio Ferrara
+year: 2024
+venue: Sensors
+doi: 10.3390/s24155045
+url: https://doi.org/10.3390/s24155045
+abstract: The proliferation of wearable technology enables the generation of vast amounts of sensor data, offering significant opportunities for advancements in health monitoring, activity recognition, and personalized medicine. However, the complexity and volume of these data present substantial challenges in data modeling and analysis, which have been addressed with approaches spanning time series modeling to deep learning techniques. The latest frontier in this domain is the adoption of large language models (LLMs), such as GPT-4 and Llama, for data analysis, modeling, understanding, and human behavior monitoring through the lens of wearable sensor data. This survey explores the current trends and challenges in applying LLMs for sensor-based human activity recognition and behavior modeling. We discuss the nature of wearable sensor data, the capabilities and limitations of LLMs in modeling them, and their integration with traditional machine learning techniques. We also identify key challenges, including data quality, computational requirements, interpretability, and privacy concerns. By examining case studies and successful applications, we highlight the potential of LLMs in enhancing the analysis and interpretation of wearable sensor data. Finally, we propose future directions for research, emphasizing the need for improved preprocessing techniques, more efficient and scalable models, and interdisciplinary collaboration. This survey aims to provide a comprehensive overview of the intersection between wearable sensor data and LLMs, offering insights into the current state and future prospects of this emerging field.
+type: article
+open_access: true
+cited_by: 79
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.367
+score_parts:
+  rank: 0.091
+  citations: 0.476
+  recency: 0.8
+needs_approval: false
+state: candidate

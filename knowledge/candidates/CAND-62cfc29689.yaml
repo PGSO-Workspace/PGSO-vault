@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-62cfc29689
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4395703613
+title: "Revealing the source: How awareness alters perceptions of AI and human-generated mental health responses"
+authors:
+  - Gagan Jain
+  - Samridhi Pareek
+  - Per Carlbring
+year: 2024
+venue: Internet Interventions
+doi: 10.1016/j.invent.2024.100745
+url: https://doi.org/10.1016/j.invent.2024.100745
+abstract: "In mental health care, the integration of artificial intelligence (AI) into internet interventions could significantly improve scalability and accessibility, provided that AI is perceived as being as effective as human professionals. This longitudinal study investigates the comparative perceptions of ChatGPT and human mental health support professionals across three dimensions: authenticity, professionalism, and practicality. Initially, 140 participants evaluated responses from both sources without knowing their origin, revealing that AI-generated responses were rated significantly higher across all dimensions. Six months later, the same cohort (n = 111) reassessed these messages with the source of each response disclosed, aiming to understand the impact of source transparency on perceptions and trust towards AI. The results indicate a shift in perception towards human responses, only in terms of authenticity (Cohen's d = 0.45) and reveal a significant correlation between trust in AI and its practicality rating (r = 0.25), but not with authenticity or professionalism. A comparative analysis between blind and informed evaluations revealed a significant shift in favour of human response ratings (Cohen's d = 0.42-0.57), while AI response ratings experienced minimal variation. These findings highlight the nuanced acceptance and role of AI in mental health support, emphasizing that the disclosure of the response source significantly shapes perceptions and trust in AI-generated assistance."
+type: article
+open_access: true
+cited_by: 51
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.32
+score_parts:
+  rank: 0.091
+  citations: 0.429
+  recency: 0.8
+needs_approval: false
+state: candidate

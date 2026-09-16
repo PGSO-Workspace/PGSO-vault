@@ -1,0 +1,42 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3542a89e5d
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4407163436
+title: "When LLMs meet cybersecurity: a systematic literature review"
+authors:
+  - Jie Zhang
+  - H. Bu
+  - Hui Wen
+  - Yongji Liu
+  - Haiqiang Fei
+  - Rongrong Xi
+  - Lun Li
+  - Yun Yang
+  - Hongsong Zhu
+  - Dan Meng
+year: 2025
+venue: Cybersecurity
+doi: 10.1186/s42400-025-00361-w
+url: https://doi.org/10.1186/s42400-025-00361-w
+abstract: "Abstract The rapid development of large language models (LLMs) has opened new avenues across various fields, including cybersecurity, which faces an evolving threat landscape and demand for innovative technologies. Despite initial explorations into the application of LLMs in cybersecurity, there is a lack of a comprehensive overview of this research area. This paper addresses this gap by providing a systematic literature review, covering the analysis of over 300 works, encompassing 25 LLMs and more than 10 downstream scenarios. Our comprehensive overview addresses three key research questions: the construction of cybersecurity-oriented LLMs, the application of LLMs to various cybersecurity tasks, the challenges and further research in this area. This study aims to shed light on the extensive potential of LLMs in enhancing cybersecurity practices and serve as a valuable resource for applying LLMs in this field. We also maintain and regularly update a list of practical guides on LLMs for cybersecurity at https://github.com/tmylla/Awesome-LLM4Cybersecurity ."
+type: other
+open_access: true
+cited_by: 210
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.814
+score_parts:
+  rank: 0.333
+  citations: 0.581
+  recency: 0.9
+needs_approval: false
+state: candidate

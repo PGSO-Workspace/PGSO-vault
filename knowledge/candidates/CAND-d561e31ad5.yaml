@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d561e31ad5
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2025.findings-acl.1347
+title: "PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play"
+authors:
+  - Wei Fang
+  - Yang Zhang
+  - Kaizhi Qian
+  - James R. Glass
+  - Yada Zhu
+year: 2025
+venue: "Findings of the Association for Computational Linguistics: ACL 2025"
+doi: 10.18653/v1/2025.findings-acl.1347
+url: https://doi.org/10.18653/v1/2025.findings-acl.1347
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.048
+score_parts:
+  rank: 0.029
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-b78e21da13
+created: 2026-09-15T01:09:30.916Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/annotations.pdf
+paths:
+  - sources/literature/annotations.pdf
+hash: b78e21da1368b5f03077ef5f118818bfa898a56df7f8d141814d573d9e339093
+bytes: 7678263
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 178738
+  sections: 16
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:01:53.191Z

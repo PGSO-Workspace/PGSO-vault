@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-74dafff91e
+created: 2026-09-15T09:46:31.407Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415823649
+title: "Companion Robots Supporting the Emotional Needs of the Elderly: Research Trends and Future Directions"
+authors:
+  - Hui Zeng
+  - Yuxin Sheng
+  - Jinwei Zhu
+year: 2025
+venue: Information
+doi: 10.3390/info16110948
+url: https://doi.org/10.3390/info16110948
+abstract: "The accelerating global population aging has brought increasing attention to the loneliness and emotional needs experienced by older adults due to shrinking social networks and the loss of relatives and friends, which significantly impair their quality of life and psychological well-being. In this context, companion robots powered by artificial intelligence are increasingly regarded as a scalable and sustainable form of emotional intervention that can address older people’s affective and social requirements. This study systematically reviews research trends in this field, analyzing the structure of emotional needs among older users and their acceptance mechanisms toward robot functionalities. First, a keyword co-occurrence analysis was conducted using VOSviewer on relevant literature published between 2000 and 2025 from the Web of Science database, revealing focal research topics and emerging trends. Subsequently, questionnaire surveys and in-depth interviews were carried out to identify emotional needs and functional preferences among elderly users. Findings indicate that the field is characterized by increasing interdisciplinary integration, with affective computing and naturalistic interaction becoming central concerns. Empirical results reveal significant differences in need structures across age groups: the oldest-old prioritize safety monitoring and daily assistance, whereas the young-old emphasize social interaction and developmental activities. Regarding emotional interaction, older adults generally prefer natural and non-intrusive expressive styles and exhibit reserved attitudes toward highly anthropomorphic designs. Key factors influencing acceptance include practicality, ease of use, privacy protection, and emotional warmth. The study concludes that effective companion robot design should be grounded in a nuanced understanding of the heterogeneous needs of the aging population, integrating functionality, interaction, and emotional value. Future development should emphasize adaptive and customizable capabilities, adopt natural yet restrained interaction strategies, and strengthen real-world cross-cultural and long-term evaluations."
+type: article
+open_access: true
+cited_by: 11
+query: Yue Qi personality cultural variables psychological simulations
+question: null
+search: SEARCH-4cdf3b8231
+score: 1.281
+score_parts:
+  rank: 0.111
+  citations: 0.27
+  recency: 0.9
+needs_approval: false
+state: candidate

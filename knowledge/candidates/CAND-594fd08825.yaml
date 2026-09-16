@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-594fd08825
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6341359
+title: "Runtime Governance vs. Development Governance: Why Runtime Interception Is Not Decision Behavior Governance"
+authors:
+  - Spark Tsai
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6341359
+url: https://doi.org/10.2139/ssrn.6341359
+abstract: As large language models (LLMs) increasingly participate in organizational decision-making, contemporary AI governance practices have gravitated toward deployment-stage controls and runtime interception mechanisms. While these practices are operationally necessary, they are frequently misconstrued as sufficient indicators of effective governance. This paper introduces a structural distinction between Development Governance and Runtime Governance, and further refines this distinction through the concepts of Governance Existence and Governance Invocation. We argue that runtime interception-absent pre-established decision constraints-cannot constitute governance over AI decision behavior. We do not reject deployment or runtime governance. Rather, we clarify their governance scope and architectural limitations. Deployment and runtime mechanisms govern operational conditions and execution environments, but they do not govern the decision formation process of AI agents. We define Decision Behavior Governance (DBG) as a governance paradigm that targets the structure by which AI agents form decisions prior to execution. By reframing governance as an ex-ante institutional condition rather than an ex-post reactive event, this paper explains why many existing governance approaches remain administratively valid yet behaviorally ineffective-particularly in probabilistic, black-box model environments.
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.03
+score_parts:
+  rank: 0.03
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

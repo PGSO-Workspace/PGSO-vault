@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-3312940a7d
+created: 2026-09-15T01:20:15.796Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/affective-final-delta-v2.json
+hash: 3312940a7d15967c50c57e4df4da7bcc74488e27f3e87c7c16ff625f5fc95afb
+bytes: 6263
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Corrected two-paper affective delta; exact MEGE candidate identity fixed and prior error preserved

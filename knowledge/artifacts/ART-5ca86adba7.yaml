@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-5ca86adba7
+created: 2026-09-15T05:18:19.738Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/lifecycle-090fcd8/pilot-procedure.md
+paths:
+  - sources/software/pgso-sdk/lifecycle-090fcd8/pilot-procedure.md
+hash: 5ca86adba70f0b1f08cafdea2856c07a0bb61071831ce519a7b8074521b8f480
+bytes: 10555
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 10555
+  sections: 11
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T05:18:19.515Z

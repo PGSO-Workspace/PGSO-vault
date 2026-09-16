@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-571cb7ac11
+created: 2026-09-15T07:34:52.996Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4405036395
+title: "Human-robot dynamics: a psychological insight into the ethics of social robotics"
+authors:
+  - Auxane Boch
+  - Bethany Rhea Thomas
+year: 2024
+venue: International Journal of Ethics and Systems
+doi: 10.1108/ijoes-01-2024-0034
+url: https://doi.org/10.1108/ijoes-01-2024-0034
+abstract: "Purpose Social robotics is a rapidly growing application of artificial intelligence (AI) in society, encompassing an expanding range of applications. This paper aims to contribute to the ongoing integration of psychology into social robotics ethics by reviewing current theories and empirical findings related to human–robot interaction (HRI) and addressing critical points of contention within the ethics discourse. Design/methodology/approach The authors will explore the factors influencing the acceptance of social robots, explore the development of relationships between humans and robots and delve into three prominent controversies: deception, dehumanisation and violence. Findings The authors first propose design factors allowing for a positive interaction with the robot, and further discuss precise dimensions to evaluate when designing a social robot to ensure ethical design technology, building on the four ethical principles for trustworthy AI. The final section of this paper will outline and offer explicit recommendations for future research endeavours. Originality/value This paper provides originality and value to the field of social robotics ethics by integrating psychology into the ethical discourse and offering a comprehensive understanding of HRI. It introduces three ethical dimensions and provides recommendations for implementing them, contributing to the development of ethical design in social robots and trustworthy AI."
+type: article
+open_access: true
+cited_by: 18
+query: Multi-modal hierarchical empathetic framework social robots affective body control
+question: null
+search: SEARCH-35ee737b2d
+score: 1.62
+score_parts:
+  rank: 0.5
+  citations: 0.32
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-30d4a78a2d
+created: 2026-09-14T23:44:46.279Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7154459558
+title: AI generated drone command and control station hosted in the sky
+authors:
+  - Peter J. Burke
+year: 2026
+venue: npj Artificial Intelligence
+doi: 10.1038/s44387-026-00101-6
+url: https://doi.org/10.1038/s44387-026-00101-6
+abstract: "Abstract Advances in artificial intelligence (AI) including large language models (LLMs) and hybrid reasoning models present an opportunity to reimagine how autonomous robots such as drones are designed, developed, and validated. Here, we demonstrate a fully AI-generated drone control system: with minimal human input, an artificial intelligence (AI) model authored all the code for a real-time, self-hosted drone command and control platform, which was deployed and demonstrated on a real drone in flight. We quantitatively benchmark system performance, code complexity, and development speed against prior, human-coded architectures, finding that AI-generated code can deliver functionally complete command-and-control stacks at orders-of-magnitude faster development cycles, though with identifiable current limitations related to specific model context window and reasoning depth. Our analysis uncovers the practical boundaries of AI-driven robot control code generation at current model scales. Not a single line of code was written by a human. A machine built a robot’s brain."
+type: article
+open_access: true
+cited_by: 0
+query: '"Safety Guardrails for LLM-Enabled Robots" code GitHub'
+question: null
+search: SEARCH-babb92a8ed
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a44ccb310f
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7172557670
+title: "Beyond Single-Use Tokens: Durable Authorization State for Replay-Resistant LLM Agent Actions"
+authors:
+  - Jinghan Xu
+  - Longze Fan
+  - Zeyuan Wang
+  - Xinjin Li
+  - Hankai Liu
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2608.01710
+abstract: "Tool-using large language model agents frequently replan, retry failed operations, delegate tasks, and resume after crashes. These behaviors can cause one user authorization to be requested and executed multiple times under freshly issued token identifiers, even when each individual token is single-use. We call this failure semantic replay: exceeding the execution budget of a token-independent authorization instance rather than merely reusing an old token identifier. We show that identifier-local token consumption cannot prevent fresh reissuance unless the issuer retains monotonic durable state over the authorized action, confirmation event, and remaining execution budget. We introduce CapLease, an authorization-consumption layer that follows proposal- and authority-level defenses, binds an authenticated user confirmation to a canonical action, and enforces transactional Issue-Prepare-Commit transitions. Across LLM-agent replanning, retry, delegation, concurrency, confirmation-replay, and crash-recovery scenarios, identifier-local tokens permit fresh semantic reissuance, whereas CapLease and an equally stateful Server Ledger prevent duplicate admission and, with an idempotent sink, duplicate external effects. Our results identify durable authorization state, rather than token representation alone, as the systems requirement for replay-resistant agent execution."
+type: preprint
+open_access: true
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.056
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

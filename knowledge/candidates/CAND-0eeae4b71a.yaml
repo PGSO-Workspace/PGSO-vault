@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0eeae4b71a
+created: 2026-09-14T16:51:30.061Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7317098
+title: "WeClaw: An Open-Source Adaptive Runtime Framework for Tool-Augmented Desktop LLM Agents"
+authors:
+  - YONGGANG WENG
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7317098
+url: https://doi.org/10.2139/ssrn.7317098
+abstract: "Desktop LLM agents that invoke tools fail in mundane but costly ways: large tool catalogs inflate prompts, the same tool-specific errors recur across sessions, and long conversations can lose tool-call/result pairing during compression. WeClaw, an open-source and deployed adaptive runtime for desktop agents, treats these failures as software-reliability problems rather than isolated prompting mistakes. It combines Progressive Tool Exposure with Failure-Driven Escalation (PTE-FD), Event-Based Experience Auto-Capture (EBEAC), and a Robust Context Pipeline (RCR). PTE-FD first exposes about ten recommended tools and broadens the set only after observable execution failures. EBEAC records failure patterns from the runtime event bus without extra LLM calls. RCR preserves the structural contract between assistant tool calls and tool results before context pruning. We evaluated PTE-FD across four OpenAI-compatible back-ends (deepseek-v4-flash, qwen-max, moonshot-v1-8k, and glm-4-flash), using three seeds per model and N=288 pooled matched outcomes per model. PTE-FD achieved the highest tool-selection accuracy for every back-end, significantly outperforming full static exposure (Holm-Bonferroni-corrected p < 0.001) and plain tiered exposure (Holm-corrected p < 0.05), while reducing tool-schema tokens by 46-57%. The broader evaluation includes a bilingual 500-query rerun, a faithful instruction-tool retrieval reproduction, RCR compression tests, EBEAC replay experiments, and a 30-day production snapshot of 1,210 sessions. The results suggest that modest runtime mechanisms, released as a reproducible open-source system, can improve reliability when tool-augmented agents move from demonstrations to daily desktop use.​"
+type: preprint
+open_access: null
+cited_by: 0
+query: runtime shields uncertainty abstention speech emotion agents
+question: null
+search: SEARCH-b8dd8c19fd
+score: 1.111
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

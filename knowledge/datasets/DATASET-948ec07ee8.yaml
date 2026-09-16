@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-948ec07ee8
+created: 2026-09-15T00:58:58.966Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-primary-fulltext-review.json
+hash: 948ec07ee881319ca63386405c74852f58932fc890639468fa5ab247a9efce95
+bytes: 14895
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Targeted full-text review of four primary prior-art papers; candidate interpretations, with section/page and PDF hash provenance

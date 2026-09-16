@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-cdcc787763
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icfpt67023.2025.00042
+title: Efficient FPGA Resource Graph Learning with Graph Neural Networks for Router Runtime Prediction
+authors:
+  - Andrew David Gunter
+  - Steven J E Wilton
+year: 2025
+venue: 2025 International Conference on Field Programmable Technology (ICFPT)
+doi: 10.1109/icfpt67023.2025.00042
+url: https://doi.org/10.1109/icfpt67023.2025.00042
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 0.953
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

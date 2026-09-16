@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-937c1af81e
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1002/9781394376865.ch19
+title: |-
+  The Next Frontier—The Age of Autonomous Agents and the Unstoppable Ascent of Open Source
+                      <scp>AI</scp>
+authors: []
+year: 2026
+venue: The Vibe Coding Playbook
+doi: 10.1002/9781394376865.ch19
+url: https://doi.org/10.1002/9781394376865.ch19
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.045
+score_parts:
+  rank: 0.045
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

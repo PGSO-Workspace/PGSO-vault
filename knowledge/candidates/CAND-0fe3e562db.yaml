@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0fe3e562db
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7390859
+title: Improving LLM-based Autonomous Web Agents with Filtering
+authors:
+  - Ruiyu Li
+  - Zhitong Guo
+  - Jing Yu Koh
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7390859
+url: https://doi.org/10.2139/ssrn.7390859
+abstract: Autonomous web agents, powered by Large Language Models (LLMs), has garnered significant attention for automating various webbased tasks with multi-step reasoning and decision-making capabilities. An open research question in the development of these agents lies in the format of the webpage input. Raw HTML source code, with its extensive and often irrelevant details, poses difficulties for LLMs with limited context windows. To address the challenge, we first reproduce baseline models such as GPT-3.5 and LLaMA-2-70B on the WebArena (Zhou et al., 2023) benchmark, identifying common failure modes. We then proposed two retrieval strategies to filter out irrelevant context for LLM agents. We developed DeBERTa-based and T5-based models that can rank HTML elements by their relevance to the task. We finetuned them on Mind2Web trajectory data and transferred them to WebArena. Experiments show that our DeBERTa-based model enhances the success rate of the LLaMA-2-70B LLM agent on WebArena from 1.97% to 2.96%. Moreover, we developed zero-shot ColBERT-based retriever, which is able to retrieve the ground-truth element with a recall of 0.52 on Mind2Web and 0.47 on WebArena.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.048
+score_parts:
+  rank: 0.048
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-8eb6d7dd88
+created: 2026-09-15T01:09:31.060Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/coverage.pdf
+paths:
+  - sources/literature/coverage.pdf
+hash: 8eb6d7dd88989099a19164f2d3a2a85052259cdf752df92afdd4ed6a28f661af
+bytes: 3895119
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 134014
+  sections: 25
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:01:53.876Z

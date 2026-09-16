@@ -1,0 +1,45 @@
+schema: phdude.candidate
+version: 1
+id: CAND-003e3e0985
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4402671884
+title: "InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews"
+authors:
+  - Xintao Wang
+  - Yunze Xiao
+  - Jen-tse Huang
+  - Siyu Yuan
+  - Rui Xu
+  - Haoran Guo
+  - Quan Tu
+  - Yaying Fei
+  - Ziang Leng
+  - Wei Wang
+  - Jiangjie Chen
+  - Cheng Li
+  - Yanghua Xiao
+year: 2024
+venue: null
+doi: 10.18653/v1/2024.acl-long.102
+url: https://doi.org/10.18653/v1/2024.acl-long.102
+abstract: "Xintao Wang, Yunze Xiao, Jen-tse Huang, Siyu Yuan, Rui Xu, Haoran Guo, Quan Tu, Yaying Fei, Ziang Leng, Wei Wang, Jiangjie Chen, Cheng Li, Yanghua Xiao. Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2024."
+type: other
+open_access: true
+cited_by: 40
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.266
+score_parts:
+  rank: 0.063
+  citations: 0.403
+  recency: 0.8
+needs_approval: false
+state: candidate

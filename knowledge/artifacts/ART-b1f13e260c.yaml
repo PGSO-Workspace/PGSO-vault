@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-b1f13e260c
+created: 2026-09-15T07:38:58.801Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/reports/paper1-completion-workplan-2026-09-15.md
+paths:
+  - sources/reports/paper1-completion-workplan-2026-09-15.md
+hash: b1f13e260c9e8dbfcf062ceb0d9ef32a6516aae0281ee9e09bfe4e2acd66e655
+bytes: 6888
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 6882
+  sections: 4
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T07:38:58.606Z

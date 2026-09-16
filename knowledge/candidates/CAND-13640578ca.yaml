@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-13640578ca
+created: 2026-09-14T23:47:13.887Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415963337
+title: Breaking and Fixing Defenses Against Control-Flow Hijacking in Multi-Agent Systems
+authors:
+  - Rishi Jha
+  - Harold Triedman
+  - Justin Wagle
+  - Vitaly Shmatikov
+year: 2025
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2510.17276
+url: http://arxiv.org/abs/2510.17276
+abstract: Control-flow hijacking attacks manipulate orchestration mechanisms in multi-agent systems into performing unsafe actions that compromise the system and exfiltrate sensitive information. Recently proposed defenses, such as LlamaFirewall, rely on alignment checks of inter-agent communications to ensure that all agent invocations are "related to" and "likely to further" the original objective. We start by demonstrating control-flow hijacking attacks that evade these defenses even if alignment checks are performed by advanced LLMs. We argue that the safety and functionality objectives of multi-agent systems fundamentally conflict with each other. This conflict is exacerbated by the brittle definitions of "alignment" and the checkers' incomplete visibility into the execution context. We then propose, implement, and evaluate ControlValve, a new defense inspired by the principles of control-flow integrity and least privilege. ControlValve (1) generates permitted control-flow graphs for multi-agent systems, and (2) enforces that all executions comply with these graphs, along with contextual rules (generated in a zero-shot manner) for each agent invocation.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"LlamaFirewall" runtime security framework'
+question: null
+search: SEARCH-dd1444607d
+score: 1.043
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

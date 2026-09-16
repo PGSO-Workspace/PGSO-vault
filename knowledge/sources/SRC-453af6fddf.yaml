@@ -1,0 +1,19 @@
+schema: phdude.source
+version: 1
+id: SRC-453af6fddf
+created: 2026-09-15T07:15:44.933Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: Public voice-task pilot integration at PGSO SDK 4a840ba
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-a16b108533
+  - ART-c3da453526
+state: candidate
+year: 2026
+abstract: Implementation and integration-check record for an independent public telecom input-voice pilot. SDK commit 4a840ba4a581a2640a8c0d3738ac725ea0f6b796 uses tau2-bench 2174a603f6d014ef94473ffa95957f6ce27100db. Seven Python tests cover actual SDK/tool dispatch and twelve orchestrator sessions with mocked external generation. The metered pilot was not executed because OPENAI_API_KEY is absent. No task superiority, human utility, or confirmatory result is asserted.
+bibkey: workspace2026public

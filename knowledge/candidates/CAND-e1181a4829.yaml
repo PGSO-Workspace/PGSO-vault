@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e1181a4829
+created: 2026-09-15T08:11:18.507Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W2740274882
+title: Design of a software architecture supporting business-to-government information sharing to improve public safety and security
+authors:
+  - Sélinde van Engelenburg
+  - Marijn Janssen
+  - Bram Klievink
+year: 2017
+venue: Journal of Intelligent Information Systems
+doi: 10.1007/s10844-017-0478-z
+url: https://doi.org/10.1007/s10844-017-0478-z
+abstract: To ensure public safety and security, it is vitally important for governments to collect information from businesses and analyse it. Such information can be used to determine whether transported goods might be suspicious and therefore require physical inspection. Although businesses are obliged to report some information, they are reluctant to share additional information for fear of sharing competitively sensitive information, becoming liable and not being compliant with the law. These reasons are often overlooked in the design of software architectures for information sharing. In the present research, we followed a design science approach to develop a software architecture for business-to-government information sharing. Based on literature and a case study, we elicited the requirements an architecture that provides for the sharing of information should meet to make it acceptable to businesses. We then developed the architecture and evaluated it against the requirements. The architecture consists of a blockchain that stores events and rules for information sharing that are controlled by businesses. For each event, two parties use their private keys to encrypt its Merkle root to confirm that they know the data are correct. This makes it easy to check whether information is reliable and whether an event should be accepted. Access control, metadata and context information enable the context-based sharing of information. This is combined with the encryption and decryption of data to provide access to certain data within an organisation.
+type: article
+open_access: true
+cited_by: 114
+query: 10.2307/25148625
+question: null
+search: SEARCH-6980917c90
+score: 0.815
+score_parts:
+  rank: 0.2
+  citations: 0.515
+  recency: 0.1
+needs_approval: false
+state: candidate

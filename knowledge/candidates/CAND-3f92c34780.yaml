@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3f92c34780
+created: 2026-09-15T00:31:18.055Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21437/interspeech.2021-2067
+title: Time-Frequency Representation Learning with Graph Convolutional Network for Dialogue-Level Speech Emotion Recognition
+authors:
+  - Jiaxing Liu
+  - Yaodong Song
+  - Longbiao Wang
+  - Jianwu Dang
+  - Ruiguo Yu
+year: 2021
+venue: Interspeech 2021
+doi: 10.21437/interspeech.2021-2067
+url: https://doi.org/10.21437/interspeech.2021-2067
+abstract: null
+type: article
+open_access: null
+cited_by: 8
+query: '"Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition"'
+question: null
+search: SEARCH-40c323d84c
+score: 0.85
+score_parts:
+  rank: 0.111
+  citations: 0.239
+  recency: 0.5
+needs_approval: false
+state: candidate

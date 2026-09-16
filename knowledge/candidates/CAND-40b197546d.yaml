@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-40b197546d
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1111/2041-210x.70267/v2/review2
+title: Review for "Prompting large language models for quality ecological statistics"
+authors: []
+year: 2025
+venue: null
+doi: 10.1111/2041-210x.70267/v2/review2
+url: https://doi.org/10.1111/2041-210x.70267/v2/review2
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 0.943
+score_parts:
+  rank: 0.043
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

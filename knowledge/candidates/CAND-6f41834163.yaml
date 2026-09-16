@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6f41834163
+created: 2026-09-15T06:33:03.695Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.61784/its4026
+title: "BEYOND MODEL SCALE: A TASK-AWARE RELIABILITY BENCHMARK FOR LARGE LANGUAGE MODELS IN CLINICAL DECISION SUPPORT"
+authors:
+  - JiTong Zou
+  - YuXuan Qin
+  - MinJae Rhee
+year: 2024
+venue: Innovation and Technology Studies
+doi: 10.61784/its4026
+url: https://doi.org/10.61784/its4026
+abstract: Model size is often treated as a proxy for trustworthiness when large language models (LLMs) are considered for clinical decision support, yet a single aggregate score can hide task-specific failure modes. This paper introduces TARB-CDS, a task-aware reliability audit that transforms a model-by-task accuracy matrix into deployment-relevant reliability profiles. The framework combines macro accuracy with lower-tail conditional value at risk over the two weakest tasks (CVaR-2), worst-task accuracy, Pareto dominance, policy-weighted scores, contextual rank stability under uncertain task mixtures, output-format reliability, and matched base-versus-instruction-tuned comparisons. We conduct a reproducible secondary analysis of 12 LLM checkpoints evaluated on seven Med-HALT reasoning and biomedical-memory tasks. The public reasoning files contain 39,590 rows across False Confidence, Fake Question, and None-of-the-Above tests; published model accuracies and format-error rates are analyzed without claiming fresh model inference. Falcon-40B has the highest seven-task macro accuracy (42.67%) and CVaR-2 (9.36%), but the best worst-task accuracy among all models is only 1.38%. Under 100,000 uniformly sampled task mixtures, Falcon-40B ranks first in 77.60% of contexts, leaving substantial rank instability. Among open checkpoints, parameter count has only a modest descriptive association with macro accuracy (Spearman ρ=0.366), while all five matched instruction/chat-tuning pairs reduce macro accuracy by an average of 9.30 percentage points. These results show that scale alone is insufficient for reliability claims and motivate task-conditional model cards and minimum-performance gates before clinical evaluation.
+type: article
+open_access: null
+cited_by: 3
+query: large language model agent evaluation benchmark reliability task success journal
+question: null
+search: SEARCH-b435e17ef6
+score: 1.076
+score_parts:
+  rank: 0.125
+  citations: 0.151
+  recency: 0.8
+needs_approval: false
+state: candidate

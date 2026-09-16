@@ -1,0 +1,21 @@
+schema: phdude.source
+version: 1
+id: SRC-9e9ebb6c40
+created: 2026-09-15T01:13:40.687Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation
+authors:
+  - Hanqing Zhang
+  - Si Sun
+  - Dawei Song
+type: article
+artifacts: []
+state: candidate
+year: 2026
+venue: IEEE Transactions on Audio, Speech and Language Processing
+doi: 10.1109/taslpro.2025.3642537
+url: https://doi.org/10.1109/taslpro.2025.3642537
+abstract: "Research summary (not original abstract): EmoDiag uses a residual memory transformer encoder to predict a target emotional state from past textual conversation. The predicted state conditions an RMT decoder that modifies LLM generation at the logit level. Limits: ['Only abstract-level technical claims inspected.', 'No author manuscript or implementation was located in this bounded search.', 'Publisher abstract reports benchmark improvements, but exact datasets, baselines, statistics and implementation details were not full-text verified.']"

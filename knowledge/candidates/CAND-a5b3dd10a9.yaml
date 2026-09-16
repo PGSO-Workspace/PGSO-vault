@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a5b3dd10a9
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0014378900004918
+title: "Exploring Large Language Model Agents in Game Theory: A Comprehensive Survey"
+authors:
+  - Yuyan Zhou
+year: 2025
+venue: Proceedings of the 3rd International Conference on Computer Science and Mechatronics
+doi: 10.5220/0014378900004918
+url: https://doi.org/10.5220/0014378900004918
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 0.945
+score_parts:
+  rank: 0.045
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

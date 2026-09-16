@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-c2f1ee6390
+created: 2026-09-15T17:53:56.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-mvp/eebf20e/07_ablation/ablation_results.json
+paths:
+  - sources/software/pgso-mvp/eebf20e/07_ablation/ablation_results.json
+hash: c2f1ee63903393e7d7931a30d10b8249995966bc4e65a977261a853f1e02ae9c
+bytes: 12618
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T16:50:41.608Z

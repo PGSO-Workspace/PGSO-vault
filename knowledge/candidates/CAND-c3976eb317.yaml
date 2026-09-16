@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c3976eb317
+created: 2026-09-14T16:52:25.588Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1038/s41586-024-07930-y
+title: Larger and more instructable language models become less reliable
+authors:
+  - Lexin Zhou
+  - Wout Schellaert
+  - Fernando Martínez-Plumed
+  - Yael Moros-Daval
+  - Cèsar Ferri
+  - José Hernández-Orallo
+year: 2024
+venue: Nature
+doi: 10.1038/s41586-024-07930-y
+url: https://doi.org/10.1038/s41586-024-07930-y
+abstract: Abstract The prevailing methods to make large language models more powerful and amenable have been based on continuous scaling up (that is, increasing their size, data volume and computational resources 1 ) and bespoke shaping up (including post-filtering 2,3 , fine tuning or use of human feedback 4,5 ). However, larger and more instructable large language models may have become less reliable. By studying the relationship between difficulty concordance, task avoidance and prompting stability of several language model families, here we show that easy instances for human participants are also easy for the models, but scaled-up, shaped-up models do not secure areas of low difficulty in which either the model does not err or human supervision can spot the errors. We also find that early models often avoid user questions but scaled-up, shaped-up models tend to give an apparently sensible yet wrong answer much more often, including errors on difficult questions that human supervisors frequently overlook. Moreover, we observe that stability to different natural phrasings of the same question is improved by scaling-up and shaping-up interventions, but pockets of variability persist across difficulty levels. These findings highlight the need for a fundamental shift in the design and development of general-purpose artificial intelligence, particularly in high-stakes areas for which a predictable distribution of errors is paramount.
+type: article
+open_access: null
+cited_by: 185
+query: Larger and more instructable language models become less reliable
+question: null
+search: SEARCH-5a67454c5b
+score: 1.867
+score_parts:
+  rank: 0.5
+  citations: 0.567
+  recency: 0.8
+needs_approval: false
+state: candidate

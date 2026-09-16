@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-743f7ce120
+created: 2026-09-13T06:59:21.836Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/1b17c248d360/crates/pgso-actuator-mcp/tests/second_signal.rs.txt
+paths:
+  - sources/software/pgso-sdk/1b17c248d360/crates/pgso-actuator-mcp/tests/second_signal.rs.txt
+hash: 743f7ce120c98d79d4d71160af506079a34c45b19d600b07b280bc27b9bd3039
+bytes: 4052
+mime: text/plain
+kind: txt
+role: notes
+extracted:
+  status: ok
+  method: text
+  text_chars: 4045
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:59:21.632Z

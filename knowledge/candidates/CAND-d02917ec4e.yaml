@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d02917ec4e
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-8601797/v1
+title: Effects of personality steering on cooperative behavior in Large Language Model agents
+authors:
+  - Mizuki Sakai
+  - Mizuki Yokoyama
+  - Wakaba Tateishi
+  - Genki Ichinose
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-8601797/v1
+url: https://doi.org/10.21203/rs.3.rs-8601797/v1
+abstract: Abstract Large language models (LLMs) are increasingly used as autonomous agents in strategic and social interactions. Although recent studies suggest that assigning personality traits to LLMs can influence their behavior, how personality steering affects cooperation under controlled conditions remains unclear. In this study, we examine the effects of personality steering on cooperative behavior in LLM agents using repeated Prisoner's Dilemma games. Based on the Big Five framework, we first measure basic personality scores of three models, GPT-3.5-turbo, GPT-4o, and GPT-5, using the Big Five Inventory. We then compare behavior under baseline and personality-informed conditions, and further analyze the effects of independently manipulating each personality dimension to extreme values. Our results show that agreeableness is the dominant factor promoting cooperation across all models, while other personality traits have limited impact. Explicit personality information increases cooperation but can also raise vulnerability to exploitation, particularly in earlier-generation models. In contrast, later-generation models exhibit more selective cooperation. These findings indicate that personality steering acts as a behavioral bias rather than a deterministic control mechanism.
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 1.067
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

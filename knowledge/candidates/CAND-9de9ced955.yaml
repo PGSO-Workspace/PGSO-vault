@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9de9ced955
+created: 2026-09-15T07:34:45.095Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415718525
+title: "Multi-Agent RAG Framework for Entity Resolution: Advancing Beyond Single-LLM Approaches with Specialized Agent Coordination"
+authors:
+  - A. T. Muhammad
+  - Muzakkiruddin Ahmed Mohammed
+  - Mariofanna Milanova
+  - John Talburt
+  - Mert Can Cakmak
+year: 2025
+venue: Preprints.org
+doi: 10.20944/preprints202510.2382.v1
+url: https://doi.org/10.20944/preprints202510.2382.v1
+abstract: "Entity resolution in real-world datasets remains a persistent challenge, particularly in identifying households and detecting co-residence patterns within inconsistent and incomplete data. Recent advances using Large Language Models (LLMs) show promise but continue to struggle with scalability, interpretability, and task complexity when applied as single, monolithic systems. This study introduces a multi-agent Retrieval-Augmented Generation (RAG) framework that decomposes household entity resolution into coordinated and specialized agents. The system, implemented using LangGraph, includes four agents: a Direct Agent for name-based matching, an Indirect Agent for transitive linkage, a Household Agent for address-based clustering, and a Household Moves Agent for tracking residential relocations. Each agent employs a task-specific RAG retrieval strategy and a hybrid data cleaning pipeline that integrates rule-based and LLM-powered parsing. Evaluated on synthetic S12PX dataset segments containing 200–300 records with extensive duplicates and data quality issues, the framework achieved 94.3\\% accuracy on name variations, complete decision transparency, and a 61\\% reduction in API calls compared to single-LLM approaches. These results demonstrate that coordinated agent specialization enhances accuracy, efficiency, and interpretability, establishing a scalable paradigm for entity resolution applicable to census operations, healthcare, and other structured data domains."
+type: preprint
+open_access: true
+cited_by: 3
+query: 2024 2025 journal LLM agents runtime monitor policy enforcement tool calls
+question: null
+search: SEARCH-b7942200d3
+score: 1.122
+score_parts:
+  rank: 0.071
+  citations: 0.151
+  recency: 0.9
+needs_approval: true
+state: candidate

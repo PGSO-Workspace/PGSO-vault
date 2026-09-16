@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-978a197ed4
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3549547
+title: Research Challenges for the Design of Human-Artificial Intelligence Systems (HAIS)
+authors:
+  - Alan Hevner
+  - Veda Storey
+year: 2023
+venue: ACM Transactions on Management Information Systems
+doi: 10.1145/3549547
+url: https://doi.org/10.1145/3549547
+abstract: Artificial intelligence (AI) capabilities are increasingly common components of all socio-technical information systems that integrate human and machine actions. The impacts of AI components on the design and use of application systems are evolving rapidly as improved deep learning techniques and fresh big data sources afford effective and efficient solutions for broad ranges of applications. New goals and requirements for Human-AI System (HAIS) functions and qualities are emerging, whereas the boundaries between human and machine behaviors continue to blur. This research commentary identifies and addresses the design science research (DSR) challenges facing the field of Information Systems as the demand for human-machine synergies in Human-Artificial Intelligence Systems surges in all application areas. The design challenges of HAIS are characterized by a taxonomy of eight C's - composition, complexity, creativity, confidence, controls, conscience, certification, and contribution. By applying a design science research frame to structure and investigate HAIS design, implementation, use, and evolution, we propose a forward-thinking agenda for relevant and rigorous information systems research contributions.
+type: article
+open_access: null
+cited_by: 23
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.082
+score_parts:
+  rank: 0.037
+  citations: 0.345
+  recency: 0.7
+needs_approval: false
+state: candidate

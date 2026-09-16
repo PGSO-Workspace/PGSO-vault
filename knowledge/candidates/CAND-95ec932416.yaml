@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-95ec932416
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.26226/morressier.604907f41a80aac83ca25cf9
+title: Synthesizing Context-free Grammars from Recurrent Neural Networks
+authors:
+  - Daniel M. Yellin
+  - Gail Weiss
+year: 2021
+venue: null
+doi: 10.26226/morressier.604907f41a80aac83ca25cf9
+url: https://doi.org/10.26226/morressier.604907f41a80aac83ca25cf9
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 0.556
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 0.5
+needs_approval: true
+state: candidate

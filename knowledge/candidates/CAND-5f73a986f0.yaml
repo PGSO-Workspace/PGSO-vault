@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5f73a986f0
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-10668771/v1
+title: "From Human Approval to Current Authority: Adaptive Runtime Governance at the Execution Boundary of AI-Enabled Organizational Workflows"
+authors:
+  - Maria Kollia
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-10668771/v1
+url: https://doi.org/10.21203/rs.3.rs-10668771/v1
+abstract: "Abstract Human oversight in AI-enabled workflows can become ethically nominal when an approval remains recorded but the authority supporting it has changed by the time an action is executed. This study develops Adaptive Runtime Governance (ARG) as a broader governance architecture and evaluates one implemented component: a deterministic execution gate that revalidates current human authorization and organizational governance evidence immediately before execution. The evaluated prototype, implemented in Python and FastAPI with SQLAlchemy persistence, checks decision state, persisted approvals, approver status and role continuity, approval freshness, policy-version continuity, and delegation conditions. Evidence consists of an anonymized retrospective snapshot containing 101 decisions and a controlled validation in an isolated SQLite database comprising 223 cases. All controlled cases matched their predefined outcomes: 30 positive execution cases returned HTTP 200, 192 negative or robustness cases returned the expected refusal status, and a final verification reported a valid linked chain across 492 audit events. The broader ARG architecture is presented as a proposed research framework rather than as an empirically validated system. The findings support a bounded conclusion: historical human approval and current execution authority are not equivalent, and selected conditions of attributable human authority can be made technically enforceable at the execution boundary. The study does not establish model safety, legal compliance, production security, organizational effectiveness, or adaptive behavior."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.077
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

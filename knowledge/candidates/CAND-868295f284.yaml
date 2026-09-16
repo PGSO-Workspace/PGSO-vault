@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-868295f284
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6998711
+title: LLM-Based Supervisory Framework for Context-Aware MPPT Algorithm Selection in Photovoltaic Systems
+authors:
+  - Amal Satif
+  - Abdelhadi Zineddine
+  - Mohcin Mekhfioui
+  - Rachid Elgouri
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6998711
+url: https://doi.org/10.2139/ssrn.6998711
+abstract: Maximum power point tracking (MPPT) is essential for maximising energy extraction from photovoltaic (PV) systems. Classical algorithms such as Perturb & Observe (P&O) and Fuzzy Logic Control (FLC-P&O) perform effectively under uniform and transient irradiance conditions, respectively, but fail under partial shading due to local maximum power point trapping. Metaheuristic approaches such as the Grey Wolf Optimizer hybrid (GWO-P&O) can escape local optima under partial shading but exhibit increased convergence time and unnecessary search overhead under uniform conditions. Since no single MPPT algorithm performs optimally under all operating conditions, this paper proposes an LLM-based adaptive MPPT selector that dynamically dispatches the most suitable algorithm according to real-time PV operating conditions. Using structured irradiance descriptors and contextual system information, the LLM performs zero-shot classification of the operating scenario and selects the corresponding MPPT strategy. In contrast to fixed threshold-based switching approaches, the proposed selector offers flexible and extensible supervisory decision-making without requiring redesign when new algorithms or operating conditions are introduced. Simulation results obtained on a 400 W, 4S×2P PV array connected to a boost converter under different irradiance scenarios demonstrate that the proposed selector achieves an average tracking efficiency of 98.7%, outperforming fixed P&O (86.8%), fixed FLC-P&O (91.1%), and fixed GWO-P&O (90.5%) deployments.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.04
+score_parts:
+  rank: 0.04
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

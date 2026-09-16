@@ -1,0 +1,21 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-af9f73a746
+created: 2026-09-13T07:00:38.935Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: Static inspection finds that Pgso::process_window restores the catalog on a nonempty batch with no engine trigger, including an all-low-confidence batch; engine abstention alone therefore does not establish pipeline-level hold-state semantics.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-f4e903475c
+questions: []
+sections:
+  - methods
+  - discussion
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-cc927c2790

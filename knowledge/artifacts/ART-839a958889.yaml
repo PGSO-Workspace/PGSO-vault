@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-839a958889
+created: 2026-09-15T01:09:31.142Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/multitask.pdf
+paths:
+  - sources/literature/multitask.pdf
+hash: 839a95888970a35f0143b99bdc25b246575d92401be3775ab4660d1d1e3e89c3
+bytes: 14209060
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 109261
+  sections: 12
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:02:23.952Z

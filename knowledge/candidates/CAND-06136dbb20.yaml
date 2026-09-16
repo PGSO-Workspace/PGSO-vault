@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-06136dbb20
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1201/9780429171529-115
+title: Design Science Research
+authors:
+  - Alan R. Hevner
+year: 2022
+venue: Computing Handbook
+doi: 10.1201/9780429171529-115
+url: https://doi.org/10.1201/9780429171529-115
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 0.636
+score_parts:
+  rank: 0.036
+  citations: 0
+  recency: 0.6
+needs_approval: false
+state: candidate

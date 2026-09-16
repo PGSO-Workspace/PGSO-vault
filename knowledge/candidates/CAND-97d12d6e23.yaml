@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-97d12d6e23
+created: 2026-09-14T23:47:30.960Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6589479
+title: "AgentForensics: Exploring the Real-Time Prompt Injection Detection and Forensics Threats in LLM Agents"
+authors:
+  - Aparnaa Mahalaxmi Arulljothi
+  - Theepan Kumar Gandhi
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6589479
+url: https://doi.org/10.2139/ssrn.6589479
+abstract: With LLM agents increasingly deployed to autonomously processed external content like web pages, emails, documents, and API responses become targets of indirect prompt injection attacks where malicious instructions embedded in external content hijack the agent's behavior. Existing defenses focus primarily on filtering user-layer inputs, leaving the wider attack surface unaddressed. In this paper, we present AgentForensics, an open-source security framework that monitors entire LLM agent sessions in real time and detects prompt injection attacks wherever they originate. Our system implements a five-stage detection pipeline combining seven heuristic regex rules and one Unicode script-ratio check, a pre-trained DistilBERT-based ML classifier, instruction boundary pattern matching, semantic drift analysis, and sliding-window multi-turn detection. We evaluate AgentForensics across two independent benchmarks ARPI bench (7,560 payloads) and deepset/prompt-injections and achieve 100% detection on 7,763 injection payloads with zero false positives across 343 benign samples. F1 score of 1.0 is reported for the deepset benchmark, which contains both injection and benign classes. Our framework requires minimal-integration support to existing agent logic and integrates natively with OpenAI, Anthropic, LangChain, AutoGen, and Claude Desktop via MCP.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Policy-as-Prompt" LLM agents'
+question: null
+search: SEARCH-b69be67f4a
+score: 1.071
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

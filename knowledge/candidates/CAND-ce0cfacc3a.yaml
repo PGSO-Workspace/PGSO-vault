@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ce0cfacc3a
+created: 2026-09-14T23:44:46.279Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/imns67862.2026.11655283
+title: Evaluating Prompt Injection Risk and Guardrails in LLM-Enabled Home IoT Assistants
+authors:
+  - Shazid Bin Zaman
+  - Sohan Gyawali
+  - Ciprian Popoviciu
+  - Yili Jiang
+  - Jiaqi Huang
+year: 2026
+venue: 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS)
+doi: 10.1109/imns67862.2026.11655283
+url: https://doi.org/10.1109/imns67862.2026.11655283
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Safety Guardrails for LLM-Enabled Robots" code GitHub'
+question: null
+search: SEARCH-babb92a8ed
+score: 1.125
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

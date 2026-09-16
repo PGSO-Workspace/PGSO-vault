@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-383d9e0b81
+created: 2026-09-15T00:31:14.448Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7171425635
+title: Hybrid Model of Attention-Guided Deep Learning and Metaheuristic Optimization for Speech Emotion Recognition
+authors:
+  - Kenan DONUK
+year: 2026
+venue: DÜMF Mühendislik Dergisi
+doi: 10.24012/dumf.1893980
+url: https://doi.org/10.24012/dumf.1893980
+abstract: Speech Emotion Recognition (SER) technologies, which have become a significant part of the human-computer interaction field, are artificial intelligence-based systems that automatically detect emotional states in human speech signals. The working principle of these systems is the process of matching acoustic features extracted from voice signals with emotional labels through machine learning. Despite significant advancements, current SER technologies still face some challenges. Chief among these is the inadequate representation of local and global patterns. This study presents an innovative hybrid model to overcome these challenges in emotion representation. The model consists of two phases. The first phase represents the basic model, which involves an end-to-end learning process with the extraction of feature representations of emotions and their matching with emotion labels. The second phase is the process where feature optimization takes place. The first phase consists of steps including local feature extraction, channel-level feature activation, temporal dependency representation, and finally, focusing on key time periods. The second phase is the process of optimizing features using eighteen different optimization configurations derived from the integration of six meta-heuristic algorithms with three machine learning paradigms. Experiments were conducted on the EMO-DB dataset. In a 5-fold cross-validation method, the proposed hybrid model achieved an unweighted accuracy (UA) of 83.73%, demonstrating a 7.8% increase in unweighted accuracy compared to the base model, while reducing feature dimensionality by 54.8%. These results confirm that the proposed hybrid model provides high accuracy and efficient feature representations.
+type: article
+open_access: true
+cited_by: 0
+query: '"Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets"'
+question: null
+search: SEARCH-023614a12f
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

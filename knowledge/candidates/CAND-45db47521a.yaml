@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-45db47521a
+created: 2026-09-15T07:38:48.880Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1055/a-2142-1348
+title: Endoscopy International Open – recently published
+authors: []
+year: 2023
+venue: Endoscopy
+doi: 10.1055/a-2142-1348
+url: https://doi.org/10.1055/a-2142-1348
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"10.1145/3814959" published'
+question: null
+search: SEARCH-76dea7765d
+score: 0.753
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 0.7
+needs_approval: false
+state: candidate

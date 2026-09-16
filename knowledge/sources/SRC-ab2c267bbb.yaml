@@ -1,0 +1,23 @@
+schema: phdude.source
+version: 1
+id: SRC-ab2c267bbb
+created: 2026-09-15T01:10:05.407Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets
+authors:
+  - Zijun Jia
+  - Diyin Tang
+  - Hongyu Long
+  - Jinsong Yu
+type: article
+artifacts:
+  - ART-8eb6d7dd88
+state: candidate
+year: 2025
+venue: Engineering Applications of Artificial Intelligence
+doi: 10.1016/j.engappai.2025.111721
+url: https://doi.org/10.1016/j.engappai.2025.111721
+abstract: "Targeted-text research summary, not original abstract: Calibrates set-valued emotion predictions and evaluates coverage/set size on IEMOCAP and TESS, including cross-dataset tests and a proposed locally exchangeable mini-batch extension. Limits: Acted corpora do not establish live-agent safety. Marginal prediction-set coverage is distinct from selective classification, conditional reliability and authorized tool invocation. The v4 mini-batch proof has an algebraic concern detailed separately; journal version not compared."

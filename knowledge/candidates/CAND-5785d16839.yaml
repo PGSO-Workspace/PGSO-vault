@@ -1,0 +1,57 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5785d16839
+created: 2026-09-15T09:46:31.407Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4390832893
+title: "Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security"
+authors:
+  - Yuanchun Li
+  - Hao Wen
+  - Weijun Wang
+  - Xiangyu Li
+  - Yi-Zhen Yuan
+  - Guohong Liu
+  - Jiacheng Liu
+  - Wenxing Xu
+  - Xiang Wang
+  - Yi Sun
+  - Rui Kong
+  - Yile Wang
+  - Hanfei Geng
+  - Jian Luan
+  - Xuefeng Jin
+  - Zilong Ye
+  - Guanjing Xiong
+  - Fan Zhang
+  - Xiang Li
+  - Mengwei Xu
+  - Zhijun Li
+  - Peng Li
+  - Yang Liu
+  - Ya-Qin Zhang
+  - Yunxin Liu
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2401.05459
+url: http://arxiv.org/abs/2401.05459
+abstract: Since the advent of personal computing devices, intelligent personal assistants (IPAs) have been one of the key technologies that researchers and engineers have focused on, aiming to help users efficiently obtain information and execute tasks, and provide users with more intelligent, convenient, and rich interaction experiences. With the development of smartphones and IoT, computing and sensing devices have become ubiquitous, greatly expanding the boundaries of IPAs. However, due to the lack of capabilities such as user intent understanding, task planning, tool using, and personal data management etc., existing IPAs still have limited practicality and scalability. Recently, the emergence of foundation models, represented by large language models (LLMs), brings new opportunities for the development of IPAs. With the powerful semantic understanding and reasoning capabilities, LLM can enable intelligent agents to solve complex problems autonomously. In this paper, we focus on Personal LLM Agents, which are LLM-based agents that are deeply integrated with personal data and personal devices and used for personal assistance. We envision that Personal LLM Agents will become a major software paradigm for end-users in the upcoming era. To realize this vision, we take the first step to discuss several important questions about Personal LLM Agents, including their architecture, capability, efficiency and security. We start by summarizing the key components and design choices in the architecture of Personal LLM Agents, followed by an in-depth analysis of the opinions collected from domain experts. Next, we discuss several key challenges to achieve intelligent, efficient and secure Personal LLM Agents, followed by a comprehensive survey of representative solutions to address these challenges.
+type: preprint
+open_access: true
+cited_by: 31
+query: Yue Qi personality cultural variables psychological simulations
+question: null
+search: SEARCH-4cdf3b8231
+score: 1.247
+score_parts:
+  rank: 0.071
+  citations: 0.376
+  recency: 0.8
+needs_approval: true
+state: candidate

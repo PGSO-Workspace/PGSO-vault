@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-da090d2eb3
+created: 2026-09-15T09:45:55.769Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1093/mam/ozag053.952
+title: Preliminary Steps Toward a Full Magnetic Multislice Treatment of Momentum-Resolved Magnetic Inelastic Scattering Simulations
+authors:
+  - Jorge Luis Briseño-Gómez
+  - José Ángel Castellanos-Reyes
+  - Jan Rusz
+year: 2026
+venue: Microscopy and Microanalysis
+doi: 10.1093/mam/ozag053.952
+url: https://doi.org/10.1093/mam/ozag053.952
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Yue Qi" full text'
+question: null
+search: SEARCH-aa21877eb5
+score: 1.063
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

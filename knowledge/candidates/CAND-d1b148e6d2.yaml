@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d1b148e6d2
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404312828
+title: "Haptics in social interaction with agents and avatars in virtual reality: a systematic review"
+authors:
+  - Giulio Jacucci
+  - Andrea Bellucci
+  - Imtiaj Ahmed
+  - Ville Harjunen
+  - Michiel Spapé
+  - Niklas Ravaja
+year: 2024
+venue: Virtual Reality
+doi: 10.1007/s10055-024-01060-6
+url: https://doi.org/10.1007/s10055-024-01060-6
+abstract: "Abstract Incorporating the sense of touch through haptics in virtual spaces enables people to communicate emotions and engage in more naturalistic and meaningful social interactions. Advances in haptics and virtual reality technologies and applications have been essential to support researchers in the exploration of mediated social touch in virtual environments. The aim of this work is to review the last decade of research on haptics and virtual reality technologies investigating social touch behavior between human avatars as well as between humans and non-human virtual agents. Our systematic review organizes the variety of the conducted research in three dimensions: the context against which mediated social touch is studied, the types of haptics and virtual reality technology used, and empirical studies including data collected and outcome measures. We discuss the results of the analysis of the three dimensions and present implications for future research. We pinpoint the importance of considering in-the-wild studies and emerging issues on social virtual reality; understanding human touch perception for people with different physical and cognitive abilities, and; creating development tools to broaden the exploration of advanced technological setups."
+type: other
+open_access: true
+cited_by: 39
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.344
+score_parts:
+  rank: 0.143
+  citations: 0.401
+  recency: 0.8
+needs_approval: false
+state: candidate

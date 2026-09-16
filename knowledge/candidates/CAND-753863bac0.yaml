@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-753863bac0
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4408249508
+title: "Integrating emotion dynamics in mental health: A trimodal framework combining ecological momentary assessment, physiological measurements, and speech emotion recognition"
+authors:
+  - Peng Wang
+  - Ao Liu
+  - Xu Sun
+year: 2025
+venue: Interdisciplinary medicine
+doi: 10.1002/inmd.20240095
+url: https://doi.org/10.1002/inmd.20240095
+abstract: "Abstract The complex relationship between emotions and mental health demands a more comprehensive theoretical framework that can capture its dynamic and multifaceted nature. This perspective article proposes a novel trimodal approach that conceptually integrates three complementary methodologies: Ecological Momentary Assessment, physiological measurements, and Speech Emotion Recognition. By adopting a dynamical system perspective, we argue that the convergence of these methodologies could provide unprecedented insights into emotional dynamics in mental health research and practice. We discuss how this framework could transform our understanding by simultaneously capturing subjective experiences, physiological responses, and linguistic patterns in naturalistic settings. The proposed integration offers a conceptual foundation for developing more sophisticated approaches to mental health monitoring and intervention. We explore the theoretical implications, methodological considerations, and potential future directions of this integrated perspective, highlighting its promise for advancing both research and clinical practice in mental health."
+type: article
+open_access: true
+cited_by: 22
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.365
+score_parts:
+  rank: 0.125
+  citations: 0.34
+  recency: 0.9
+needs_approval: false
+state: candidate

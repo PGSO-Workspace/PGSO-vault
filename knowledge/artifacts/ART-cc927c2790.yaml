@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-cc927c2790
+created: 2026-09-13T06:59:21.841Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/1b17c248d360/crates/pgso-core/src/pipeline.rs.txt
+paths:
+  - sources/software/pgso-sdk/1b17c248d360/crates/pgso-core/src/pipeline.rs.txt
+hash: cc927c2790231311d2afdb5dc209e3017dbe6bdc230d067b5a21bef54030968c
+bytes: 8881
+mime: text/plain
+kind: txt
+role: notes
+extracted:
+  status: ok
+  method: text
+  text_chars: 8865
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:59:21.631Z

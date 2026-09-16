@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b46dd40f87
+created: 2026-09-15T07:50:34.676Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1353/mns.2025.a974101
+title: List of Manuscripts Cited
+authors: []
+year: 2025
+venue: "Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript Studies"
+doi: 10.1353/mns.2025.a974101
+url: https://doi.org/10.1353/mns.2025.a974101
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"10.1016/j.chb.2025.108687" manuscript'
+question: null
+search: SEARCH-183055ff3f
+score: 0.991
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

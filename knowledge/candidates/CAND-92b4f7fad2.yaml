@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-92b4f7fad2
+created: 2026-09-14T23:47:47.446Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-10911223/v1
+title: "Authorization Assurance for Tool-Using LLM Agents: A Structured Review of Enforcement Semantics and Effect-Level Security Evidence"
+authors:
+  - Mohamed Abbas Elmasry
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-10911223/v1
+url: https://doi.org/10.21203/rs.3.rs-10911223/v1
+abstract: "Abstract Tool-using large language model (LLM) agents exercise authority over protected resources through APIs, tools, credentials, and external services. Existing evaluations often measure prompt resistance, tool selection, call admission, or benchmark success, but those observations do not necessarily justify stronger claims about preventing unauthorized protected-resource effects. This structured review introduces authorization assurance as a claim-centered lens relating asserted security properties to their required obligations, enforcement semantics, evidence, observation points, and residual assumptions. A 75-reference evidence library supported a closed analytical corpus of 30 full-text sources decomposed into 92 Source–Claim Records: a 15-source strict agent core, a six-source sensitivity layer, and nine authorization/assurance comparators. In the strict core, all three sources relevant to least privilege reduced available authority rather than measuring effective privilege across the execution trajectory; mediation claims spanned materially different enforcement and observation boundaries; and every source retained at least one material residual assumption. No evaluable revocation-assurance claim appeared among the 21 agent-focused sources, and no evaluable delegation-containment claim appeared in the 30-source corpus. The synthesis also shows that final-state correctness is not equivalent to authorization correctness and that assurance is compositional rather than determined by a single evidence modality. On this empirical basis, the review contributes the Minimum Authorization-Assurance Profile (MAAP), a novel evidence-derived analytical reporting profile that operationalizes claim scope, enforcement boundaries, effect-level observation, and residual assumptions for transparent comparison. MAAP is intended for diagnostic reporting and comparative appraisal; validation as a predictive metric or certification scheme remains future work."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"AgentDojo" tool agents security'
+question: null
+search: SEARCH-95d8fe4170
+score: 1.091
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

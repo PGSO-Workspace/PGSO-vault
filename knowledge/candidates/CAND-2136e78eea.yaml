@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2136e78eea
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6206458
+title: From Interpretive Trust to Execution Authority:&amp;nbsp;&lt;span&gt;&lt;b&gt;Runtime Epistemic Governance in Autonomous Systems&lt;/b&gt;&lt;/span&gt;
+authors:
+  - Roddy Radnia
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6206458
+url: https://doi.org/10.2139/ssrn.6206458
+abstract: <p>Recent work in AI governance, runtime verification, and safety engineering has focused on interpretability, behavioral alignment, and supervisory monitoring of learning-enabled systems. These approaches constrain behavior or evaluate compliance, but they do not formalize admissibility of action under epistemic uncertainty at the execution boundary.&nbsp;<span>This paper introduces runtime execution authority as a deterministic gating function operating between action proposal and irreversible execution. As systems transition from advisory to agentic roles, governance must move from post-hoc interpretation to prospective authorization. We define execution authority as a model-agnostic function that evaluates structured evidence, policy state, uncertainty bounds, and risk classification prior to execution.</span></p> <p>Unlike alignment mechanisms that influence model outputs upstream, execution authority governs state transitions at runtime. Trust is therefore reframed from transparency of reasoning to permission under bounded uncertainty.&nbsp;<span>The contribution is conceptual. We formalize the separation between intelligence (which proposes actions) and authority (which permits them), situate this distinction within runtime verification and safety literature, and identify a structural gap in current governance approaches for execution-capable systems.</span></p>
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.063
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

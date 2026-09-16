@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-68c434290b
+created: 2026-09-15T01:06:33.363Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3672539.3686729
+title: "Empathy-GPT: Leveraging Large Language Models to Enhance Emotional Empathy and User Engagement in Embodied Conversational Agents"
+authors:
+  - Meng Ting Shih
+  - Ming Yun Hsu
+  - Sheng Cian Lee
+year: 2024
+venue: The 37th Annual ACM Symposium on User Interface Software and Technology
+doi: 10.1145/3672539.3686729
+url: https://doi.org/10.1145/3672539.3686729
+abstract: null
+type: article
+open_access: null
+cited_by: 4
+query: affective conversational agents empathy speech dialogue action
+question: null
+search: SEARCH-fdb119aa74
+score: 1.142
+score_parts:
+  rank: 0.167
+  citations: 0.175
+  recency: 0.8
+needs_approval: false
+state: candidate

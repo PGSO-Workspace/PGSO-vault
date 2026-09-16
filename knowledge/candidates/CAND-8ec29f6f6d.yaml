@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8ec29f6f6d
+created: 2026-09-14T23:47:30.960Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3390/electronics15163700
+title: "Securing the Prompt Pipeline: A Systematic Review of Defense Mechanisms Against Prompt-Based Attacks in LLM Agents"
+authors:
+  - Sana Mourad
+  - Emad E. Abdallah
+  - Mohammad Ababneh
+year: 2026
+venue: Electronics
+doi: 10.3390/electronics15163700
+url: https://doi.org/10.3390/electronics15163700
+abstract: Current language model deployments face growing security challenges from prompt-based attacks, including jailbreaks, direct and indirect prompt injection, and instruction hijacking, which often evade traditional rule-based safeguards. As these models are increasingly integrated into agent-based systems, retrieval pipelines, and tool-driven workflows, such attacks exploit their natural language interfaces to bypass safety constraints and manipulate system behavior, in some cases leading to data leakage or unauthorized actions. Recent research has proposed a wide range of defense mechanisms ranging from prompt-level filtering and model-level detection to pipeline wrappers and multi-agent protection frameworks. Many of these methods report strong results in controlled experiments, yet their effectiveness depends heavily on the assumed threat model, the datasets used, and the evaluation protocol. This paper presents a systematic review and structured descriptive synthesis of research on defenses against prompt-based attacks in language model and agent systems. By integrating and comparing findings across multiple studies, we identify major attack categories, commonly adopted defense strategies, deployment stages, and evaluation trends, while also highlighting limitations related to generalization, robustness, and real-world applicability. The analysis reveals trade-offs between security effectiveness, performance, and system complexity as well as major gaps in benchmarks, indirect attack coverage, and multi-agent evaluation. The systematic review concludes by outlining future research priorities, including pipeline-aware defense design, adaptive and layered protection mechanisms, and more realistic evaluation practices to support the development of robust and deployable prompt security solutions.
+type: article
+open_access: null
+cited_by: 0
+query: '"Policy-as-Prompt" LLM agents'
+question: null
+search: SEARCH-b69be67f4a
+score: 1.067
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

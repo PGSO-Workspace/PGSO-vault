@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b55cc6fe13
+created: 2026-09-14T23:44:30.144Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-9620511/v1
+title: Longitudinal Effects of Automated Static Analysis Adoption on GitHub Open Source Workflow Dynamics
+authors:
+  - Mazen Al-Asali
+  - Mohammad El-Ramly
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-9620511/v1
+url: https://doi.org/10.21203/rs.3.rs-9620511/v1
+abstract: "Abstract Automated static analysis tools are commonly integrated into continuous integration pipelines; however, their longitudinal effects on open source workflow dynamics remain incompletely characterized. In GitHub pull-request--based development, these tools are typically embedded as automated checks that interact with code review, integration, and maintenance processes, while their effects may also appear in issue tracking through coordination and resolution activities. This study analyzes 82 GitHub-based open source projects that adopted SonarCloud and examines how automated static analysis adoption is associated with changes in issue-resolution efficiency, pull-request processing efficiency, and maintainer activity over time. Issues and pull requests are treated as complementary workflow artifacts: pull requests represent the immediate integration pathway affected by automated checks, whereas issues reflect maintenance and coordination work that may evolve after adoption. To characterize adoption-aligned workflow changes while accounting for temporal structure, we employ interrupted time series analysis using consistent 30-day aggregation windows, complemented by linear regression models that control for project-level characteristics. The results indicate that SonarCloud adoption is associated with faster downward trends in issue closure time after adoption, suggesting improved issue-resolution efficiency over time. In contrast, pull-request closure and merge durations exhibit heterogeneous patterns, indicating that the effects of automated static analysis on integration workflows vary across projects and outcomes. Project-level characteristics, including size, age, popularity, and programming language, are associated with differences in workflow dynamics and provide important context for interpreting adoption effects. Overall, the findings show that automated static analysis adoption is linked to measurable longitudinal changes in GitHub open source workflow dynamics, with effects shaped by project context."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"WeClaw" "Adaptive Runtime" GitHub open source'
+question: null
+search: SEARCH-b132bc032f
+score: 1.25
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

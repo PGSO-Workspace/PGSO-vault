@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9ed9568fd1
+created: 2026-09-15T00:24:33.994Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412546377
+title: Development of adaptive and emotionally intelligent educational assistants based on conversational AI
+authors:
+  - Rommel Gutiérrez
+  - William Villegas-Ch
+  - Jaime Govea
+year: 2025
+venue: Frontiers in Computer Science
+doi: 10.3389/fcomp.2025.1628104
+url: https://doi.org/10.3389/fcomp.2025.1628104
+abstract: Although increasingly sophisticated in cognitive adaptability, current educational virtual assistants lack effective integration of real-time emotional analysis mechanisms. Most existing systems focus exclusively on static cognitive adaptation or incorporate superficial emotional responses, without dynamically modifying pedagogical strategies in response to detected emotional states. This structural limitation reduces the potential for generating personalized, empathetic, and sustainable learning experiences, particularly in complex domains such as critical reading comprehension. To address this gap, this study proposes and evaluates an educational assistant based on conversational artificial intelligence, which integrates natural language processing, real-time emotional analysis, and dynamic cognitive adaptation. The system was implemented in a controlled experimental setting with university students over a period of two weeks, utilizing a Moodle-based virtual learning platform. The evaluation methodology combines quantitative and qualitative techniques, including pre- and post-tests to assess academic performance, sentiment analysis of chat conversations to track emotional evolution, structured surveys to measure user perception, and semi-structured interviews to collect in-depth, experiential feedback. All interactions were logged for semantic and affective analysis. The architecture, organized using microservices, enables real-time semantic analysis of student messages, emotional inference, and adaptive adjustment of feedback strategies at the cognitive, emotional, and metacognitive levels. The results demonstrate a significant improvement in academic performance, with an average increase of 32.5% in correct answers from the pre-test to the post-test, particularly in inference and critical analysis skills. In parallel, the error correction rate during the sessions increased from 60 to 84%, while engagement levels and emotional perceptions showed progressive improvement. Integrating cognitive and emotional adaptation mechanisms with a rigorous multimodal evaluation process positions this assistant as an innovative advance in emotionally intelligent educational technologies.
+type: article
+open_access: true
+cited_by: 16
+query: voice agents prosody paralinguistic affective dialogue governance evaluation
+question: null
+search: SEARCH-fb4225ca20
+score: 1.458
+score_parts:
+  rank: 0.25
+  citations: 0.308
+  recency: 0.9
+needs_approval: false
+state: candidate

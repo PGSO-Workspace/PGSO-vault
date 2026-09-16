@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-68a473e4be
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4405335366
+title: Computational Psychotherapy System for Mental Health Prediction and Behavior Change with a Conversational Agent
+authors:
+  - Tine Kolenik
+  - Günter Schiepek
+  - Matjaž Gams
+year: 2024
+venue: Neuropsychiatric Disease and Treatment
+doi: 10.2147/ndt.s417695
+url: https://doi.org/10.2147/ndt.s417695
+abstract: "Background: The importance of computational psychotherapy is increasing due to the record high prevalence of mental health issues worldwide. Despite advancements, current computational psychotherapy systems lack advanced prediction and behavior change mechanisms using conversational agents. Purpose: This work presents a computational psychotherapy system for mental health prediction and behavior change using a conversational agent. It makes two major contributions. First, we introduce a novel, golden standard dataset, comprising panel data with 1495 instances of quantitative stress, anxiety, and depression (SAD) symptom scores from diagnostic-level questionnaires and qualitative daily diary entries. Second, we present the computational psychotherapy system itself. Hypothesis: We hypothesize that simulating a theory of mind - the human cognitive ability to understand others – in a conversational agent enhances its effectiveness in relieving mental health issues. Methods: The system simulates theory of mind with a cognitive architecture comprising an ensemble of computational models, using cognitive modelling and machine learning models trained on the novel dataset, and novel ontologies. The system was evaluated through a computational experiment on mental health phenomena prediction from text, and an empirical interventional study on relieving mental health issues in 42 participants. Results: The system outperformed state-of-the-art systems in terms of the number of detected categories and detection accuracy (highest accuracy: 91.41% using k-nearest neighbors (kNN); highest accuracy of other systems: 84% using long-short term memory network (LSTM)). The highest accuracy for 7-day forecasting was 87.68%, whereas the other systems were not able to forecast trends. In the study, the system outperformed Woebot, the current state-of-the-art, in reducing stress ( p = 0.004) and anxiety ( p = 0.008) levels. Conclusion: The confirmation of our hypothesis indicates that incorporating theory of mind simulation in conversational agents significantly enhances their efficacy in computational psychotherapy, offering a promising advancement for mental health interventions and support compared to current state-of-the-art systems. Keywords: generative artificial intelligence, attitude and behavior change support systems, digital mental health, intelligent cognitive conversational agent, artificial cognitive architecture, machine learning"
+type: article
+open_access: true
+cited_by: 14
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.219
+score_parts:
+  rank: 0.125
+  citations: 0.294
+  recency: 0.8
+needs_approval: false
+state: candidate

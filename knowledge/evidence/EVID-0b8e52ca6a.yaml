@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-0b8e52ca6a
+created: 2026-09-15T01:13:22.531Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-b4d4c406a0
+locator: 'Publisher journal PDF; submitted3/24,revised12/24,published11/25,74pages. Not the 2024 arXiv record returned by OpenAlex.; [{"section": "Algorithm1 and Proposition1", "pdf_pages": [5, 6]}, {"section": "Assumption1 and Theorem4", "pdf_pages": [9]}, {"section": "Distribution-shift guarantees and synthetic setup", "pdf_pages": [17]}, {"section": "Experiments and conclusion", "pdf_pages": [21, 23, 24]}]'
+excerpt: "Research paraphrase, not quotation: Selects historical calibration observations after an online selection decision. Finite-sample conditional coverage requires iid data and symmetry conditions; decision-driven FCR results impose additional independence. Adaptive extension addresses drift. Limits: Drift extension provides long-run rather than finite-sample guarantees. Algorithm1 observes previous outcome labels. Arbitrary selection rules remain future work."
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-d362d356fd

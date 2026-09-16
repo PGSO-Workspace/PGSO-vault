@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-255ab4ae70
+created: 2026-09-15T07:48:07.669Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/tmi.2025.3628662
+title: Editorial Criteria for TMI Papers—Significance, Innovation, Evaluation, and Reproducibility
+authors:
+  - Hongming Shan
+  - Uwe Kruger
+  - Ge Wang
+year: 2025
+venue: IEEE Transactions on Medical Imaging
+doi: 10.1109/tmi.2025.3628662
+url: https://doi.org/10.1109/tmi.2025.3628662
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"LDREA-IEEE-Reproducibility" "FULL_SPEC"'
+question: null
+search: SEARCH-e7c8c764f9
+score: 1.034
+score_parts:
+  rank: 0.059
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a8925b30f3
+created: 2026-09-15T00:31:11.443Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/access.2024.3519761
+title: Domain Adapting Deep Reinforcement Learning for Real-World Speech Emotion Recognition
+authors:
+  - Thejan Rajapakshe
+  - Rajib Rana
+  - Sara Khalifa
+  - Björn W. Schuller
+year: 2024
+venue: IEEE Access
+doi: 10.1109/access.2024.3519761
+url: https://doi.org/10.1109/access.2024.3519761
+abstract: null
+type: article
+open_access: null
+cited_by: 6
+query: '"Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition"'
+question: null
+search: SEARCH-f9a249d1ae
+score: 1.178
+score_parts:
+  rank: 0.167
+  citations: 0.211
+  recency: 0.8
+needs_approval: false
+state: candidate

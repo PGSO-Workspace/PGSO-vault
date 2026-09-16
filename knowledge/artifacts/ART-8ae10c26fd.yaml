@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-8ae10c26fd
+created: 2026-09-15T09:57:53.746Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/live-composite-19b5c58/default-and-composite-cli-tests.log
+paths:
+  - sources/software/pgso-sdk/live-composite-19b5c58/default-and-composite-cli-tests.log
+hash: 8ae10c26fd1505b0b6ffdf5567b6fcb9e587d76a6afbf3bc1088e51d6fd314be
+bytes: 83453
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T09:57:53.534Z

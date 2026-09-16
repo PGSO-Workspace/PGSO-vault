@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ef89bbac5a
+created: 2026-09-15T01:09:16.222Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.61424/ka6yps02
+title: "Distribution-Free Selective Prediction for LLM-RAG Hallucination Detection: Word-Level Conformal Risk Control under Domain Shift"
+authors:
+  - Monica Lin
+year: 2026
+venue: Stout in Mathematics and Statistics
+doi: 10.61424/ka6yps02
+url: https://doi.org/10.61424/ka6yps02
+abstract: "Retrieval-augmented generation (RAG) gives language models access to external evidence, yet a generated answer can still contain unsupported or contradictory words. This study evaluates word-level hallucination detection and uncertainty control on the complete RAGTruth corpus: 17,790 responses derived from 2,965 evidence sources across question answering, summarization, and data-to-text generation. To prevent evidence leakage, source identifiers were partitioned before any response or token was assigned to fit, development, calibration, and test sets. Three computationally light detectors were trained and evaluated: a deterministic evidence-overlap rule, a 131,072-dimensional hashed logistic model, and a compact multilayer perceptron using 55 dense lexical, local-context, and evidence-alignment features. Platt calibration converted detector scores to probabilities, after which pooled split conformal, task-Mondrian conformal, and source-block maximum calibration produced binary prediction sets at nominal coverage levels of 0.95, 0.90, and 0.80. The hashed logistic detector achieved the strongest thresholded token F1 (0.294), compared with 0.270 for the compact MLP and 0.117 for the rule, while the MLP achieved the highest AUROC (0.813) and lowest expected calibration error (0.0099). At 90% nominal coverage, pooled and task-Mondrian prediction sets obtained 0.917 and 0.918 empirical coverage with mean set sizes of 0.945 and 0.949. Source-block maximum calibration covered every test token but always returned both labels, demonstrating the cost of conservative cluster protection. Leave-one-task-out experiments revealed substantial shift sensitivity: empirical coverage ranged from 0.752 on held-out data-to-text generation to 0.970 on held-out summarization. The results establish a reproducible, source-disjoint benchmark for selective word-level RAG auditing and clarify the boundary between finite-sample marginal coverage under exchangeability and empirical robustness under task shift."
+type: article
+open_access: null
+cited_by: 0
+query: selective classification conformal risk control runtime safety
+question: null
+search: SEARCH-54176eb439
+score: 1.333
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6d94f2dafc
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2023.acl-long.685
+title: "PAL to Lend a Helping Hand: Towards Building an Emotion Adaptive Polite and Empathetic Counseling Conversational Agent"
+authors:
+  - Kshitij Mishra
+  - Priyanshu Priya
+  - Asif Ekbal
+year: 2023
+venue: "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+doi: 10.18653/v1/2023.acl-long.685
+url: https://doi.org/10.18653/v1/2023.acl-long.685
+abstract: null
+type: article
+open_access: null
+cited_by: 7
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 0.974
+score_parts:
+  rank: 0.048
+  citations: 0.226
+  recency: 0.7
+needs_approval: false
+state: candidate

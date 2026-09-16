@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-20f06e0596
+created: 2026-09-15T07:38:43.488Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1632/vdml6267
+title: Publication Date Element in Works Cited
+authors: []
+year: 2022
+venue: MLA Handbook
+doi: 10.1632/vdml6267
+url: https://doi.org/10.1632/vdml6267
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: '"10.1109/ACCESS.2026.3719838" "Date of Publication"'
+question: null
+search: SEARCH-210eb9e969
+score: 0.683
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 0.6
+needs_approval: false
+state: candidate

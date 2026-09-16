@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2263df8095
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7204674526
+title: "Спостережуваність LLM-агентів: чому класичні засоби моніторингу непридатні"
+authors:
+  - Киселевич В. В.
+year: 2026
+venue: Zhytomyr State University Library (Zhytomyr Ivan Franko State University)
+doi: null
+url: https://orcid.org/0009-0006-6449-710X
+abstract: Показано, що класичні засоби моніторингу програмних систем (журнали, метрики, розподілене трасування) спираються на припущення про детермінований потік керування, якого агентна система на основі великої мовної моделі не задовольняє. Виокремлено чотири припущення класичного моніторингу, що руйнуються в агентному середовищі. Запропоновано перелік десяти вимог до підсистеми спостережуваності, одиницею телеметрії якої є траєкторія рішення з фіксацією точок розгалуження, викликів інструментів і підстав вибору, та визначено, які з них не покриваються наявними засобами.
+type: other
+open_access: true
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.077
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

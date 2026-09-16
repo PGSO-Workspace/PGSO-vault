@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-55c0774f3b
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6959758
+title: "MTR-Offload: Multi-Turn Reasoning for Task Offloading in Mobile Edge Computing with LLM Agents"
+authors:
+  - Youssef Mansour
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6959758
+url: https://doi.org/10.2139/ssrn.6959758
+abstract: "Mobile Edge Computing (MEC) enables latency-sensitive applications by offloading computation from resource-constrained user devices to nearby edge servers, yet deciding which tasks to offload, when, and to which server remains a high-dimensional, dynamic decision problem that must jointly account for time-varying wireless channels, heterogeneous server load, task dependency graphs, and finite energy budgets. Existing approaches based on heuristic rules, convex optimization, or single-step deep reinforcement learning either fail to generalize or lack the explicit multi-step reasoning capability required for complex task graphs with long dependency chains. Recent attempts to apply Large Language Models (LLMs) to task offloading perform single-turn predictions that ignore the sequential dependency among sub-decisions, suffer from hallucination when encountering unseen network states, and require costly full fine-tuning to adapt to new environments. We propose MTR-Offload, an LLM-based agent framework that performs iterative, multi-turn reasoning to produce high-quality task offloading plans in MEC. MTR-Offload introduces four components: a structured state encoder that serializes the heterogeneous MEC state into a token-efficient textual prompt; a multi-turn reasoning loop with an explicit memory buffer that stores prior decisions, rationales, and observed rewards; a reward-model-guided self-refinement module that detects and filters hallucinated plans via a lightweight reward model; and a low-rank adapter that enables fast, parameter-efficient adaptation to new network environments without retraining the frozen LLM. We evaluate MTR-Offload on a custom MEC simulator, the adapted EdgeCloudSim-LLM benchmark, and the LAENet-Energy scenario. Experimental results show that MTR-Offload reduces average task latency by 9.2 percent and improves the task completion rate by 1.7 percentage points over the strongest existing multi-turn LLM baseline, while the self-refinement loop keeps perdecision latency competitive through early termination of feasible plans. The adapter module further enables adaptation to a new network environment in under five minutes with less than 5 percent of the parameters updated."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.03
+score_parts:
+  rank: 0.03
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

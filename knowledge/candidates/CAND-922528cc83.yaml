@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-922528cc83
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5192182
+title: "Multimodal Transformer Models for Turn-Taking Prediction: Effects on Conversational Dynamics of Human-Agent Interaction During Cooperative Gameplay"
+authors:
+  - Young-Ho Bae
+  - Casey  C. Bennett
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5192182
+url: https://doi.org/10.2139/ssrn.5192182
+abstract: null
+type: preprint
+open_access: null
+cited_by: 1
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 1.066
+score_parts:
+  rank: 0.091
+  citations: 0.075
+  recency: 0.9
+needs_approval: true
+state: candidate

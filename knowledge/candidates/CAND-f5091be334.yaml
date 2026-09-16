@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f5091be334
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.25300/misq/2023/16700
+title: "Dealing with Complexity in Design Science Research: A Methodology Using Design Echelons"
+authors:
+  - Tuure Tuunanen
+  - Robert Winter
+  - Jan vom Brocke
+year: 2024
+venue: MIS Quarterly
+doi: 10.25300/misq/2023/16700
+url: https://doi.org/10.25300/misq/2023/16700
+abstract: Design science research (DSR) aims to generate knowledge about innovative solutions to real-world problems. Consequently, DSR needs to deal with the complexity related to problem and solution spaces involving sociotechnical phenomena that people perceive differently and are subject to constant change. This complexity poses challenges to sequential, process-based approaches—specifically, the existing DSR methodology. We designed a DSR methodology that extends existing approaches by adding a complementary organizing logic to address complexity. Based on the theory of hierarchical, multilevel systems, we suggest organizing DSR based on the concept of “echelons”—meaning decomposing DSR projects into smaller logically coherent self-contained parts—and suggest a set of five design echelons that imply a hierarchical organizing logic for DSR projects. The echeloned DSR (eDSR) methodology was developed in five iterations, involving seven design and evaluation episodes.
+type: article
+open_access: null
+cited_by: 136
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.364
+score_parts:
+  rank: 0.03
+  citations: 0.534
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d3075b3ab1
+created: 2026-09-15T07:34:04.334Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7132847160
+title: A Review of Multi-Agent AI Systems for Biological and Clinical Data Analysis
+authors:
+  - Jackson Spieser
+  - Ali Balapour
+  - Jarek Meller
+  - Krushna Patra
+  - Behrouz Shamsaei
+year: 2026
+venue: Methods and Protocols
+doi: 10.3390/mps9020033
+url: https://doi.org/10.3390/mps9020033
+abstract: "This review evaluates the emerging paradigm of multi-agent systems (MASs) for biomedical and clinical data analysis, focusing on their ability to overcome the reasoning and reliability limitations of standalone large language models (LLMs). We synthesize findings from recent architectural frameworks, specifically LangGraph, CrewAI, and the Model Context Protocol (MCP), to examine how specialized agent teams divide labor, utilize precision tools, and cross-verify outputs. We find that MAS architectures yield significant performance gains in various domains: recent implementations improved oncology decision-making accuracy from 30.3% to 87.2% and reached a peak of 93.2% accuracy on USMLE-style benchmarks through simulated clinical evolution. In clinical trial matching, multi-agent frameworks achieved 87.3% accuracy and enhanced clinician screening efficiency by 42.6% (p < 0.001). However, we also highlight critical operational challenges, including an unreliability tax of 15–50× higher token consumption compared to standalone models and the risk of cascading errors where initial hallucinations are amplified across the agent collective. We conclude that while MAS enables a shift toward collaborative intelligence in biomedicine, its clinical and research adoption requires the development of deterministic orchestration and rigorous cost-utility frameworks to ensure safety and expert-centered oversight."
+type: article
+open_access: true
+cited_by: 1
+query: 2024 2025 journal LLM agent tool permission authorization runtime enforcement security guardrails
+question: null
+search: SEARCH-b0fa183ef0
+score: 1.2
+score_parts:
+  rank: 0.125
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

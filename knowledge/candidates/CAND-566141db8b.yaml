@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-566141db8b
+created: 2026-09-14T23:47:30.960Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3390/computers15090570
+title: "Evaluating Indirect Prompt Injection Defenses in Tool-Using LLM Agents: Security, Utility, and Replication"
+authors:
+  - Adil Khan
+  - Khaled AlKhanbashi
+  - Azza Mohamed
+year: 2026
+venue: Computers
+doi: 10.3390/computers15090570
+url: https://doi.org/10.3390/computers15090570
+abstract: Large language model (LLM) agents that retrieve external content and use tools are vulnerable to indirect prompt injection, in which untrusted content contains instructions intended to influence agent behavior. We evaluated four defenses and an undefended control across GPT-5.4, GPT-5.4-mini, and Claude Sonnet 4.6 on the AgentDojo banking benchmark (Tool Filter was evaluated only for the OpenAI models), reporting attack success rate (ASR), benign utility, utility under attack, operational measures, and two independent benchmark replications. Raw undefended ASR was 0/288 for GPT-5.4, 11/288 for GPT-5.4-mini, and 1/288 for Claude Sonnet 4.6; these cross-model differences require cautious interpretation because benchmark goals were not equally reachable across models. For GPT-5.4-mini, the Prompt Injection Detector and Tool Filter were associated with lower observed ASRs but also lower benign utility, and Tool Filter restricted available actions. None of the four paired GPT-5.4-mini comparisons reached significance after Holm correction; only Tool Filter had an unadjusted p-value below 0.05. Benign utility was more stable across runs than individual low-frequency attack outcomes. The findings show that defense evaluation should report attack outcomes, goal feasibility, legitimate-task utility, action availability, operational measures, and run-to-run variation. Results are limited to the evaluated benchmark, models, defenses, and conditions.
+type: article
+open_access: null
+cited_by: 0
+query: '"Policy-as-Prompt" LLM agents'
+question: null
+search: SEARCH-b69be67f4a
+score: 1.05
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

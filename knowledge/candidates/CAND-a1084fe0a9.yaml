@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a1084fe0a9
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4405355275
+title: "From intention to implementation: automating biomedical research via LLMs"
+authors:
+  - Yi Luo
+  - Linghang Shi
+  - Yihao Li
+  - Aobo Zhuang
+  - Yeyun Gong
+  - Ling Liu
+  - Lin Chen
+year: 2025
+venue: Science China Information Sciences
+doi: 10.1007/s11432-024-4485-0
+url: https://doi.org/10.1007/s11432-024-4485-0
+abstract: null
+type: article
+open_access: true
+cited_by: 38
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.548
+score_parts:
+  rank: 0.25
+  citations: 0.398
+  recency: 0.9
+needs_approval: false
+state: candidate

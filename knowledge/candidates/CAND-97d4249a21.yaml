@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-97d4249a21
+created: 2026-09-15T00:21:11.462Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4409460650
+title: "Guardrails for Large Language Models: A Review of Techniques and Challenges"
+authors:
+  - Syed Arham Akheel
+year: 2025
+venue: Journal of Artificial Intelligence Machine Learning and Data Science
+doi: 10.51219/jaimld/syed-arham-akheel/536
+url: https://doi.org/10.51219/jaimld/syed-arham-akheel/536
+abstract: Large Language Models (LLMs) have shown remarkable capabilities across diverse applications, ranging from text generation to code synthesis.However, these models can also produce biased, harmful or privacy-violating outputs.Over the last few years, an entire ecosystem of guardrails-mechanisms for constraining LLM behavior-has emerged.This review paper offers a comprehensive examination of technical guardrail approaches, focusing on their underlying patterns, current research challenges and future directions.We present a multi-layer taxonomy of guardrails, investigate real-time content filtering and privacy-preserving techniques, discuss adversarial and "jailbreaking" (prompt injection) strategies and explore best practices for building robust, transparent and domain-specific guardrail solutions.By synthesizing recent literature and toolkits (e.g., Nvidia NeMo, Guardrails AI, Llama Guard), we identify pressing open questions and provide guidance for practitioners and researchers aiming to implement LLM guardrails effectively.
+type: article
+open_access: true
+cited_by: 10
+query: NeMo Guardrails programmable guardrails conversational systems
+question: null
+search: SEARCH-75810a0056
+score: 1.327
+score_parts:
+  rank: 0.167
+  citations: 0.26
+  recency: 0.9
+needs_approval: false
+state: candidate

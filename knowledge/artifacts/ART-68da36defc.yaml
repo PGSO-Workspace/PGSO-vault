@@ -1,0 +1,26 @@
+schema: phdude.artifact
+version: 1
+id: ART-68da36defc
+created: 2026-09-15T06:12:39.190Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/operational-7805fb9/engineering-manifest.json
+paths:
+  - sources/software/pgso-sdk/operational-7805fb9/engineering-manifest.json
+hash: 68da36defca262c4056de9b8c73d00da1687aa37c32baa6ed62854ad5331a1ca
+bytes: 7856
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T06:12:38.776Z
+versions_of: ART-f772f197e0
+latest: true

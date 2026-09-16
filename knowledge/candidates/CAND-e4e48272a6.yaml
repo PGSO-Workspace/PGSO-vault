@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e4e48272a6
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416953562
+title: "Digital Twin–Based Simulation and Decision-Making Framework for the Renewal Design of Urban Industrial Heritage Buildings and Environments: A Case Study of the Xi’an Old Steel Plant Industrial Park"
+authors:
+  - Yian Zhao
+  - Kun Li
+  - Weiping Zhang
+year: 2025
+venue: Buildings
+doi: 10.3390/buildings15234367
+url: https://doi.org/10.3390/buildings15234367
+abstract: "In response to the coexistence of multi-objective conflicts and environmental complexity in the renewal of contemporary urban industrial heritage, this study develops a simulation and decision-making methodology for architectural and environmental renewal based on a digital twin framework. Using the Xi’an Old Steel Plant Industrial Heritage Park as a case study, a community-scale digital twin model integrating multiple dimensions—architecture, environment, population, and energy systems—was constructed to enable dynamic integration of multi-source data and cross-scale response analysis. The proposed methodology comprises four core components: (1) integration of multi-source baseline datasets—including typical meteorological year data, industry standards, and open geospatial information—through BIM, GIS, and parametric modeling, to establish a unified data environment for methodological validation; (2) development of a high-performance dynamic simulation system integrating ENVI-met for microclimate and thermal comfort modeling, EnergyPlus for building energy and carbon emission assessment, and AnyLogic for multi-agent spatial behavior simulation; (3) establishment of a comprehensive performance evaluation model based on Multi-Criteria Decision Analysis (MCDA) and the Analytic Hierarchy Process (AHP); (4) implementation of a visual interactive platform for design feedback and scheme optimization. The results demonstrate that under parameter-calibrated simulation conditions, the digital twin system accurately reflects environmental variations and crowd behavioral dynamics within the industrial heritage site. Under the optimized renewal scheme, the annual carbon emissions of the park decrease relative to the baseline scenario, while the Universal Thermal Climate Index (UTCI) and spatial vitality index both show significant improvement. The findings confirm that digital twin-driven design interventions can substantially enhance environmental performance, energy efficiency, and social vitality in industrial heritage renewal. This approach marks a shift from experience-driven to evidence-based design, providing a replicable technological pathway and decision-support framework for the intelligent, adaptive, and sustainable renewal of post-industrial urban spaces. The digital twin framework proposed in this study establishes a validated paradigm for model coupling and decision-making processes, laying a methodological foundation for future integration of comprehensive real-world data and dynamic precision mapping."
+type: article
+open_access: true
+cited_by: 8
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.189
+score_parts:
+  rank: 0.05
+  citations: 0.239
+  recency: 0.9
+needs_approval: false
+state: candidate

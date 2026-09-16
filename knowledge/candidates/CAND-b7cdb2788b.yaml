@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b7cdb2788b
+created: 2026-09-14T23:47:13.887Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.30574/wjaets.2025.15.3.1091
+title: "Kubernetes runtime security framework: Integrated detection and automated remediation workflow"
+authors:
+  - Rosh Perumpully Ramadass
+year: 2025
+venue: World Journal of Advanced Engineering Technology and Sciences
+doi: 10.30574/wjaets.2025.15.3.1091
+url: https://doi.org/10.30574/wjaets.2025.15.3.1091
+abstract: This article presents a comprehensive framework for implementing runtime security and automated remediation in Kubernetes environments. It addresses the growing security challenges faced by organizations adopting containerized architectures by examining Falco's capabilities for real-time threat detection through system call analysis and rule-based anomaly detection. The integration between Falco and Argo's event-driven automation tools creates a proactive security alert and remediation system that can automatically respond to detected threats. The article details implementation considerations, performance impacts, and integration strategies with existing security infrastructure. It highlights significant improvements in threat detection, incident response times, and compliance capabilities while identifying emerging trends and research opportunities in the evolving field of Kubernetes runtime security. The proposed framework provides organizations with a structured approach to enhance their security posture through continuous monitoring and automated response mechanisms.
+type: article
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall" runtime security framework'
+question: null
+search: SEARCH-dd1444607d
+score: 0.963
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

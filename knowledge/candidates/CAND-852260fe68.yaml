@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-852260fe68
+created: 2026-09-15T07:38:48.880Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.corcom.2023.03.003
+title: Erratum regarding previously published article
+authors: []
+year: 2023
+venue: Corrosion Communications
+doi: 10.1016/j.corcom.2023.03.003
+url: https://doi.org/10.1016/j.corcom.2023.03.003
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"10.1145/3814959" published'
+question: null
+search: SEARCH-76dea7765d
+score: 0.748
+score_parts:
+  rank: 0.048
+  citations: 0
+  recency: 0.7
+needs_approval: false
+state: candidate

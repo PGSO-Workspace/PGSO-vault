@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-40dabb14d4
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3623387
+title: "UHTP: A User-Aware Hierarchical Task Planning Framework for Communication-Free, Mutually-Adaptive Human-Robot Collaboration"
+authors:
+  - Kartik Ramachandruni
+  - Cassandra Kent
+  - Sonia Chernova
+year: 2024
+venue: ACM Transactions on Human-Robot Interaction
+doi: 10.1145/3623387
+url: https://doi.org/10.1145/3623387
+abstract: Collaborative human-robot task execution approaches require mutual adaptation, allowing both the human and robot partners to take active roles in action selection and role assignment to achieve a single shared goal. Prior works have utilized a leader-follower paradigm in which either agent must follow the actions specified by the other agent. We introduce the User-aware Hierarchical Task Planning (UHTP) framework, a communication-free human-robot collaborative approach for adaptive execution of multi-step tasks that moves beyond the leader-follower paradigm. Specifically, our approach enables the robot to observe the human, perform actions that support the human’s decisions, and actively select actions that maximize the expected efficiency of the collaborative task. In turn, the human chooses actions based on their observation of the task and the robot, without being dictated by a scheduler or the robot. We evaluate UHTP both in simulation and in a human subjects experiment of a collaborative drill assembly task. Our results show that UHTP achieves more efficient task plans and shorter task completion times than non-adaptive baselines across a wide range of human behaviors, that interacting with a UHTP-controlled robot reduces the human’s cognitive workload, and that humans prefer to work with our adaptive robot over a fixed-policy alternative.
+type: article
+open_access: null
+cited_by: 18
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 1.146
+score_parts:
+  rank: 0.026
+  citations: 0.32
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-d93567e9d2
+created: 2026-09-15T09:59:10.630Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/paper1-validation-readiness-2026-09-15.md
+paths:
+  - sources/reports/paper1-validation-readiness-2026-09-15.md
+hash: d93567e9d2949ee644b77946e12a6d5f843c19a2b1187b4920b329caa380d30e
+bytes: 5251
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 5249
+  sections: 4
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T09:59:10.424Z
+versions_of: ART-33325c909b
+latest: true

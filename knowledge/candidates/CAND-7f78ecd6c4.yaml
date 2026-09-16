@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7f78ecd6c4
+created: 2026-09-15T09:46:16.656Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0014671500005104
+title: The Relationship between Prosocial Behavior and Empathy in Adolescents
+authors:
+  - Xiaoyu Guo
+year: 2024
+venue: Proceedings of the 1st International Conference on Mental Growth and Health Research
+doi: 10.5220/0014671500005104
+url: https://doi.org/10.5220/0014671500005104
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees" PDF'
+question: null
+search: SEARCH-ab2b977fc5
+score: 0.859
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

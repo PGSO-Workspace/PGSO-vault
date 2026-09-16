@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-28422c0c21
+created: 2026-09-15T07:38:17.538Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7164234159
+title: Understanding How Enterprises Adopt the Model Context Protocol for LLM-Driven Software Engineering
+authors:
+  - Kehui Chen
+  - Yicheng Sun
+  - Jacky Keung
+  - Zhenyu Mao
+  - Xiaoxue Ma
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2606.09182
+abstract: Large Language Models (LLMs) are increasingly used in AI-based software engineering, but their limitations in complex task execution and multi-tool coordination have driven growing interest in the Model Context Protocol (MCP). Existing research has mainly focused on MCP's technical design, with limited empirical evidence on how it is adopted and used in enterprise practice, particularly with regard to deployment challenges, operational risks, and practitioner expectations. To address this gap, we conducted semi-structured interviews with 20 practitioners from eight companies in the Internet and financial sectors. The findings show that MCP is valued for supporting cross-system collaboration, task decoupling, and knowledge reuse in LLM-based workflows, but its adoption remains constrained by ecosystem fragmentation, cross-component coordination difficulties, and unresolved problems in distributed state management and fault diagnosis. Participants also expressed strong demand for better standardization, lower adoption barriers through low-code or plugin-based approaches, and more systematic operational support. These results provide early empirical evidence on enterprise MCP practice and offer practical implications for improving MCP's standardization, usability, and deployment readiness in real-world software engineering environments.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance" PDF authors'
+question: null
+search: SEARCH-9fb9d5712f
+score: 1.111
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

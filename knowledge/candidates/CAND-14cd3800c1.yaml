@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-14cd3800c1
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5191419
+title: "Raider: Tool-Equipped Large Language Model Agent For Robotic Action Issue Detection, Explanation and Recovery"
+authors:
+  - Silvia Izquierdo-Badiola
+  - Guillem Alenya
+  - Carlos Rizzo
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5191419
+url: https://doi.org/10.2139/ssrn.5191419
+abstract: null
+type: preprint
+open_access: null
+cited_by: 2
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 1.067
+score_parts:
+  rank: 0.048
+  citations: 0.119
+  recency: 0.9
+needs_approval: true
+state: candidate

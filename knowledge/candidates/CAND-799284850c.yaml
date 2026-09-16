@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-799284850c
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7160707669
+title: Kajian Konseptual AI Agent On-Chain Berbasis LLM untuk Manajemen Aset DeFi
+authors:
+  - Ridwan Yusuf
+  - Andreas Perdana
+  - Febri Sugandi
+  - Untoro Apsiswanto
+year: 2025
+venue: Journal of Technology and Data Science
+doi: 10.59025/ef9b943c
+url: https://doi.org/10.59025/ef9b943c
+abstract: "Pada periode 2024-2025, pertemuan antara Large Language Model dan teknologi blockchain melahirkan kelas perangkat lunak baru yang disebut AI Agent on-chain, perangkat lunak otonom yang menerjemahkan tujuan pengguna menjadi rangkaian transaksi Decentralized Finance dan menandatanganinya tanpa intervensi manusia. Adopsi yang berlangsung cepat memperlihatkan tiga celah konseptual yang belum terjawab: kompleksitas alur eksekusi multi-langkah pada DeFi, lansekap kerentanan yang khas LLM seperti indirect prompt injection dan jailbreak yang berimplikasi langsung pada aset finansial, dan ketiadaan kerangka tata kelola yang akuntabel pada ekosistem yang terdesentralisasi. Kajian ini menyintesis 34 publikasi terverifikasi dari basis data Zotero ke dalam empat tema yang saling terkait: arsitektur agen dan kolaborasi multi-agen, manajemen kunci pada agentic wallet, lansekap ancaman keamanan, serta peran blockchain sebagai trust layer. Temuan kunci yang muncul adalah bahwa pertahanan yang hanya bertumpu pada lapisan bahasa terbukti tidak memadai; kontrol pada lapisan tindakan, melalui kebijakan yang dinamis, isolasi enclave, atau secret sharing multi-pihak, menjadi prasyarat ketika konsekuensi finansial bersifat permanen. Kontribusi yang diajukan mencakup taksonomi vektor ancaman per lapis arsitektur, kerangka pertahanan tiga-lapis hibrid, serta agenda riset masa depan dengan lima arah konkret."
+type: article
+open_access: true
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 0.953
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

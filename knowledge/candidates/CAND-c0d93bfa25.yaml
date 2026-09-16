@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c0d93bfa25
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4399984819
+title: Deep learning-based dimensional emotion recognition for conversational agent-based cognitive behavioral therapy
+authors:
+  - Julian Striegl
+  - J. Richter
+  - Leoni Grossmann
+  - Björn Bråstad
+  - Marie Gotthardt
+  - Christian Rück
+  - John Wallert
+  - Claudia Loitsch
+year: 2024
+venue: PeerJ Computer Science
+doi: 10.7717/peerj-cs.2104
+url: https://doi.org/10.7717/peerj-cs.2104
+abstract: Internet-based cognitive behavioral therapy (iCBT) offers a scalable, cost-effective, accessible, and low-threshold form of psychotherapy. Recent advancements explored the use of conversational agents such as chatbots and voice assistants to enhance the delivery of iCBT. These agents can deliver iCBT-based exercises, recognize and track emotional states, assess therapy progress, convey empathy, and potentially predict long-term therapy outcome. However, existing systems predominantly utilize categorical approaches for emotional modeling, which can oversimplify the complexity of human emotional states. To address this, we developed a transformer-based model for dimensional text-based emotion recognition, fine-tuned with a novel, comprehensive dimensional emotion dataset comprising 75,503 samples. This model significantly outperforms existing state-of-the-art models in detecting the dimensions of valence, arousal, and dominance, achieving a Pearson correlation coefficient of r = 0.90, r = 0.77, and r = 0.64, respectively. Furthermore, a feasibility study involving 20 participants confirmed the model’s technical effectiveness and its usability, acceptance, and empathic understanding in a conversational agent-based iCBT setting, marking a substantial improvement in personalized and effective therapy experiences.
+type: article
+open_access: true
+cited_by: 13
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.337
+score_parts:
+  rank: 0.25
+  citations: 0.287
+  recency: 0.8
+needs_approval: false
+state: candidate

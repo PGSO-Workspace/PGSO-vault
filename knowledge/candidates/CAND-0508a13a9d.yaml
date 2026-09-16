@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0508a13a9d
+created: 2026-09-15T00:30:50.983Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/fmsys62467.2024.00008
+title: "NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models"
+authors:
+  - Chen Qian
+  - Xiaochang Li
+  - Qineng Wang
+  - Gang Zhou
+  - Huajie Shao
+year: 2024
+venue: 2024 IEEE International Workshop on Foundation Models for Cyber-Physical Systems &amp;amp; Internet of Things (FMSys)
+doi: 10.1109/fmsys62467.2024.00008
+url: https://doi.org/10.1109/fmsys62467.2024.00008
+abstract: null
+type: article
+open_access: null
+cited_by: 6
+query: '"ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"'
+question: null
+search: SEARCH-40ed8087e2
+score: 1.082
+score_parts:
+  rank: 0.071
+  citations: 0.211
+  recency: 0.8
+needs_approval: false
+state: candidate

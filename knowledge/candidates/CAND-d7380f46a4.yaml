@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d7380f46a4
+created: 2026-09-15T08:27:35.758Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.23977/phpm.2026.060107
+title: Research on Medical Service Quality Evaluation from the Perspective of Structure-Process-Outcome
+authors: []
+year: 2026
+venue: MEDS Public Health and Preventive Medicine
+doi: 10.23977/phpm.2026.060107
+url: https://doi.org/10.23977/phpm.2026.060107
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 10.1080/0960085X.2026.2627280 MEDS Methodology for Evaluation in Design Science
+question: null
+search: SEARCH-6539f3f4d3
+score: 1.091
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

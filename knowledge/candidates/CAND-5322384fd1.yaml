@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5322384fd1
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2025.emnlp-main.714
+title: "ToolSafety: A Comprehensive Dataset for Enhancing Safety in LLM-Based Agent Tool Invocations"
+authors:
+  - Yuejin Xie
+  - Youliang Yuan
+  - Wenxuan Wang
+  - Fan Mo
+  - Jianmin Guo
+  - Pinjia He
+year: 2025
+venue: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
+doi: 10.18653/v1/2025.emnlp-main.714
+url: https://doi.org/10.18653/v1/2025.emnlp-main.714
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.057
+score_parts:
+  rank: 0.038
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

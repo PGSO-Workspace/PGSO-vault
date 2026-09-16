@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0816eeff18
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7127739802
+title: "Don't believe everything you read: Understanding and Measuring MCP Behavior under Misleading Tool Descriptions"
+authors:
+  - Zhihao Li
+  - Boyang Ma
+  - Xuelong Dai
+  - Minghui Xu
+  - Yue Zhang
+  - Biwei Yan
+  - Kun Li
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: http://arxiv.org/abs/2602.03580
+abstract: The Model Context Protocol (MCP) enables large language models to invoke external tools through natural-language descriptions, forming the foundation of many AI agent applications. However, MCP does not enforce consistency between documented tool behavior and actual code execution, even though MCP Servers often run with broad system privileges. This gap introduces a largely unexplored security risk. We study how mismatches between externally presented tool descriptions and underlying implementations systematically shape the mental models and decision-making behavior of intelligent agents. Specifically, we present the first large-scale study of description-code inconsistency in the MCP ecosystem. We design an automated static analysis framework and apply it to 10,240 real-world MCP Servers across 36 categories. Our results show that while most servers are highly consistent, approximately 13% exhibit substantial mismatches that can enable undocumented privileged operations, hidden state mutations, or unauthorized financial actions. We further observe systematic differences across application categories, popularity levels, and MCP marketplaces. Our findings demonstrate that description-code inconsistency is a concrete and prevalent attack surface in MCP-based AI agents, and motivate the need for systematic auditing and stronger transparency guarantees in future agent ecosystems.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.056
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

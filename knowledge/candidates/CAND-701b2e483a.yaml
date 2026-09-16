@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-701b2e483a
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4403247769
+title: The exploration of users’ perceived value from personalization and virtual conversational agents to enable a smart home assemblage– A mixed method approach
+authors:
+  - Marco Hubert
+  - Shahab Kazemi
+  - Mirja Hubert
+  - Andrea Carugati
+  - Marcello M. Mariani
+year: 2024
+venue: International Journal of Information Management
+doi: 10.1016/j.ijinfomgt.2024.102850
+url: https://doi.org/10.1016/j.ijinfomgt.2024.102850
+abstract: "Advancements in smart home technologies are beneficial and valuable for both users and firms. Nevertheless, users’ acceptance of these applications are considerably influenced by the need for user personalization, complex and dynamic within a smart home environment, and thus, can present limitations. Additionally, the role of a virtual conversational agent, both as an individual entity and as part of a collective network, in the setup and management of various smart home devices warrants further exploration. To investigate the enablers and inhibitors of smart home adoption and the role of virtual conversational agents, a mixed-method design was employed, comprising two studies: a survey of 1,403 users (Study 1) and a topic modeling approach based on 355,340 Reddit posts (Study 2). The findings indicate that the usefulness of personalized applications and services, as well as the integration of a virtual conversational agent as a central component, are crucial in facilitating smart home adoption. The empirical analyses provide significant implications for research and practice by extending existing technology acceptance and use models to include smart device assemblages."
+type: article
+open_access: true
+cited_by: 15
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.129
+score_parts:
+  rank: 0.028
+  citations: 0.301
+  recency: 0.8
+needs_approval: false
+state: candidate

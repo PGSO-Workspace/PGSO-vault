@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d26379b322
+created: 2026-09-14T20:36:03.109Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.62891/2d7c8429
+title: Evaluating the Multilingual Capabilities of LLM-based Web UI Agents
+authors:
+  - Sreejon Biswas Antor
+year: 2025
+venue: null
+doi: 10.62891/2d7c8429
+url: https://doi.org/10.62891/2d7c8429
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: Evaluating LLM-based Agents for Multi-turn Conversations A Survey
+question: null
+search: SEARCH-4f998515e4
+score: 1.4
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

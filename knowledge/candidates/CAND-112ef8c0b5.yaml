@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-112ef8c0b5
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/asru51503.2021.9687905
+title: Ensemble of Domain Adversarial Neural Networks for Speech Emotion Recognition
+authors:
+  - Shi-wook Lee
+year: 2021
+venue: 2021 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)
+doi: 10.1109/asru51503.2021.9687905
+url: https://doi.org/10.1109/asru51503.2021.9687905
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 0.628
+score_parts:
+  rank: 0.053
+  citations: 0.075
+  recency: 0.5
+needs_approval: false
+state: candidate

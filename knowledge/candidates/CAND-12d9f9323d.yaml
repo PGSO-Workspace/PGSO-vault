@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-12d9f9323d
+created: 2026-09-14T16:52:05.309Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.jocs.2026.103017
+title: "When simpler models win: A large-scale computational benchmark of lexical and transformer NLP pipelines for predicting medication effectiveness"
+authors:
+  - Doaa Al-Turkey
+  - rasheed Mohammad Nassr
+  - Tatiana Grieshofer
+year: 2026
+venue: Journal of Computational Science
+doi: 10.1016/j.jocs.2026.103017
+url: https://doi.org/10.1016/j.jocs.2026.103017
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: "ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"
+question: null
+search: SEARCH-7035fc0143
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

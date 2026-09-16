@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-34699b7a5e
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392964630
+title: "Incorporating AI in foreign language education: An investigation into ChatGPT’s effect on foreign language learners"
+authors:
+  - Fatih Karataş
+  - Faramarz Yaşar Abedi
+  - Filiz Ozek Gunyel
+  - Derya Karadeniz
+  - Yasemin Kuzgun
+year: 2024
+venue: Education and Information Technologies
+doi: 10.1007/s10639-024-12574-6
+url: https://doi.org/10.1007/s10639-024-12574-6
+abstract: Abstract ChatGPT, an artificial intelligence application, has emerged as a promising educational tool with a wide range of applications, attracting the attention of researchers and educators. This qualitative case study, chosen for its ability to provide an in-depth exploration of the nuanced effects of AI on the foreign language learning process within its real-world educational context, aimed to utilize ChatGPT in foreign language education, addressing a gap in existing research by offering insights into the potential, benefits, and drawbacks of this innovative approach. The study involved 13 preparatory class students studying at the School of Foreign Languages at a university in Turkey. The students were introduced to ChatGPT through learning experiences over a span of four weeks by the researcher as a language teacher. The qualitative data collected from the interviews were analysed using thematic analysis. The findings suggest that ChatGPT positively affects students’ learning experiences, especially in writing, grammar, and vocabulary acquisition, and enhances motivation and engagement through its versatile and accessible nature in various learning activities. These insights contribute to understanding the utility and constraints of employing ChatGPT technology in foreign language instruction and can inform educators and researchers in developing effective teaching strategies and in designing curricula.
+type: article
+open_access: true
+cited_by: 233
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.451
+score_parts:
+  rank: 0.059
+  citations: 0.592
+  recency: 0.8
+needs_approval: false
+state: candidate

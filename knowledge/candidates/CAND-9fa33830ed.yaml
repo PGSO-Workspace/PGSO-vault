@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9fa33830ed
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416844726
+title: Large language models in biomedicine and healthcare
+authors:
+  - Juexiao Zhou
+  - Haoyang Li
+  - Siyuan Chen
+  - Zhangtianyi Chen
+  - Zhongyi Han
+  - Xin Gao
+year: 2025
+venue: npj Artificial Intelligence
+doi: 10.1038/s44387-025-00047-1
+url: https://doi.org/10.1038/s44387-025-00047-1
+abstract: Large language models (LLMs) have revolutionized various fields, and their applications in biomedicine and healthcare have shown transformative potential. These models, trained on vast text corpora, have shown remarkable proficiency in generating, understanding, and analyzing human language. In the biomedical and healthcare sectors, where vast amounts of unstructured data are generated daily, LLMs are driving transformative change. Despite their potential, integrating LLMs into healthcare and biomedicine presents significant challenges, including data privacy, model bias, and the complexity of incorporating LLMs into existing clinical workflows. Ethical concerns such as patient confidentiality, algorithmic bias, and transparency in LLM-driven decisions are also critical issues that must be addressed. This review explores the current state of LLMs in biomedicine and healthcare, examining their practical applications, benefits, limitations, and ethical challenges. We also discuss the technical hurdles of implementing these models and highlight future research directions, aiming to unlock their full potential to advance both biomedical science and patient care.
+type: article
+open_access: true
+cited_by: 45
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 1.516
+score_parts:
+  rank: 0.2
+  citations: 0.416
+  recency: 0.9
+needs_approval: false
+state: candidate

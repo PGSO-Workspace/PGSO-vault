@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2d6ffc3f8a
+created: 2026-09-15T07:38:17.538Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7140953371
+title: "Latent Reuse in Agent Skills: Multi-modal Clone Detection at Ecosystem Scale"
+authors:
+  - Jiaying Zhu
+  - Lyuye Zhang
+  - Wenbo Guo
+  - Yang Liu
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2603.22447
+abstract: An agent skill is a reusable package for extending an LLM agent, typically a SKILL.md file that combines YAML metadata, natural-language instructions, and executable code. Public repositories now host over two million skills, yet existing tools analyze each artifact in isolation, and registries do not track reuse created through copying, renaming, or adaptation. Detecting these links is difficult because reuse may appear in one channel while the others change; conventional single-channel clone detectors can therefore miss such adaptations. We present SkillReuse, a multi-modal clone detector that combines global lexical matching with channel-specific representations for YAML, prose, and code, then uses logistic regression to produce clone scores and interpretable clone-type labels. We also introduce SkillReuse-Bench, an annotated benchmark of 300 skill pairs spanning exact copies, renamed copies, adaptations, and semantic equivalents. On SkillReuse-Bench, SkillReuse reaches an F1 of 0.939 with 0.952 precision, improving over TF-IDF and delivering 4.2x higher recall on Type-4 semantic clones than MinHash. Applied to all 137,470 skills that pass the content filter, SkillReuse identifies 1.06 million clone pairs involving 66.8% of the analyzed skills; 95.3% of these pairs cross author boundaries. Among skills in the analyzed name-based clone families, 67% are superseded by a higher-quality variant. Tracing 938 security-relevant skills through the clone graph surfaces 16,587 clone links spanning 6,376 related skills that per-skill scanners alone would miss.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance" PDF authors'
+question: null
+search: SEARCH-9fb9d5712f
+score: 1.143
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,47 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2f7cdbbd1c
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4413312755
+title: "Multimodal Large Language Models in Medical Imaging: Current State and Future Directions"
+authors:
+  - Yoojin Nam
+  - D. Kim
+  - Sunggu Kyung
+  - Jinyoung Seo
+  - Jeong Min Song
+  - Jimin Kwon
+  - Jihyun Kim
+  - Wooyoung Jo
+  - H J Park
+  - Jimin Sung
+  - Sangah Park
+  - Heeyeon Kwon
+  - T. H. Kwon
+  - Kanghyun Kim
+  - Namkug Kim
+year: 2025
+venue: Korean Journal of Radiology
+doi: 10.3348/kjr.2025.0599
+url: https://doi.org/10.3348/kjr.2025.0599
+abstract: Multimodal large language models (MLLMs) are emerging as powerful tools in medicine, particularly in radiology, with the potential to serve as trusted artificial intelligence (AI) partners for clinicians. In radiology, these models integrate large language models (LLMs) with diverse multimodal data sources by combining clinical information and text with radiologic images of various modalities, ranging from 2D chest X-rays to 3D CT/MRI. Methods for achieving this multimodal integration are rapidly evolving, and the high performance of freely available LLMs may further accelerate MLLM development. Current applications of MLLMs now span automatic generation of preliminary radiology report, visual question answering, and interactive diagnostic support. Despite these promising capabilities, several significant challenges hinder widespread clinical adoption. MLLMs require access to large-scale, high-quality multimodal datasets, which are scarce in the medical domain. Risks of hallucinated findings, lack of transparency in decision-making processes, and high computational demands further complicate implementation. This review summarizes the current capabilities and limitations of MLLMs in medicine-particularly in radiology-and outlines key directions for future research. Critical areas include incorporating region-grounded reasoning to link model outputs to specific image regions, developing robust foundation models pre-trained on large-scale medical datasets, and establishing strategies for the safe and effective integration of MLLMs into clinical practice.
+type: article
+open_access: true
+cited_by: 80
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 1.627
+score_parts:
+  rank: 0.25
+  citations: 0.477
+  recency: 0.9
+needs_approval: false
+state: candidate

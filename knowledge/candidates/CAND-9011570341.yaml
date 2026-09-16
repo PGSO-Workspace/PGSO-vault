@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9011570341
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.7554/elife.110899.1.sa2
+title: "eLife Assessment: Head before heart: cognitive empathy emerges before affective empathy in the developing brain"
+authors:
+  - Mitul Mehta
+year: 2026
+venue: null
+doi: 10.7554/elife.110899.1.sa2
+url: https://doi.org/10.7554/elife.110899.1.sa2
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.056
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

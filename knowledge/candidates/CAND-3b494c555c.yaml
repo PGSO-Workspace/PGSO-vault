@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3b494c555c
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4409826554
+title: "Anthropomorphism of Artificial Intelligence Service Agent and Consumer Responses: A Systematic Literature Review and Future Research Agenda"
+authors:
+  - Ting Li
+  - Mohan Wang
+  - Fangxiao Wang
+year: 2025
+venue: International Journal of Consumer Studies
+doi: 10.1111/ijcs.70066
+url: https://doi.org/10.1111/ijcs.70066
+abstract: ABSTRACT Artificial intelligence service agent (AISA) anthropomorphism is increasingly applied in service situations to deliver consumers a more personalized service experience. Extensive research has explored it over the past decade. However, the body of knowledge about this domain remains fragmented due to the lack of a comprehensive review. This paper aims to understand the domain through a framework‐based systematic literature review approach. We conducted an in‐depth analysis of 149 peer‐reviewed articles retrieved on April 25, 2024. Significant results include (a) analyzing research profiling (i.e., publication, journal, citation, and country analysis), (b) synthesizing findings based on the theories‐contexts‐characteristics‐methods (TCCM) framework, and (c) proposing future research agendas based on the TCCM framework. The present review concludes that research in the domain is experiencing rapid growth, evidenced by an increasing number of citations, a wide range of publications in reputable journals, and a notable surge in international collaboration. Furthermore, AISA anthropomorphism affects outcomes related to the AISA, the product, the brand, and even the company via cognitive, affective, and social mediators. Service‐, AISA‐, and consumer‐related factors moderate these effects. Based on the gap analysis, we propose future research directions. Our review advances the research domain of AISA anthropomorphism affecting consumer responses. It offers valuable insights for practitioners on effectively deploying anthropomorphic AISAs to serve consumers in appropriate contexts.
+type: other
+open_access: true
+cited_by: 18
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.243
+score_parts:
+  rank: 0.023
+  citations: 0.32
+  recency: 0.9
+needs_approval: false
+state: candidate

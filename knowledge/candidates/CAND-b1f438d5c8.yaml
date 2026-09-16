@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b1f438d5c8
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7119835050
+title: "Artificial Intelligence in Brand Communication: A Comprehensive Literature Review and Research Outlook"
+authors:
+  - Yashti Vyas
+  - Pankaj Vishwakarma
+year: 2026
+venue: International Journal of Consumer Studies
+doi: 10.1111/ijcs.70170
+url: https://doi.org/10.1111/ijcs.70170
+abstract: ABSTRACT Recent advances in artificial intelligence (AI) applications and the growing managerial emphasis on AI‐mediated touchpoints have accelerated scholarly interest in brand communication (BC). Addressing the field's fragmentation, this study synthesizes findings from 84 peer‐reviewed articles through a systematic literature review, integrating bibliometric mapping with the TCCM (Theory, Context, Characteristics, and Methodology) framework. The analysis identifies key themes including message design and interface cues, early communicator impressions, and downstream attitudinal and behavioral outcomes, while revealing unresolved issues and boundary conditions across sectors, cultures, and platforms. Several critical research gaps are identified, indicating the need for comparative assessments of technology‐centric and socio‐psychological theories, investigations in underrepresented regions and trust‐sensitive industries, and deeper examination of platform‐appeal fit, authenticity in generative content, transparency, user control, and contact cadence. Methodological recommendations include sequential mixed‐method designs linking qualitative insights with causal experiments and behavioral validation. Additional approaches such as netnography, eye‐tracking, and facial‐expression analysis are emphasized for capturing nuanced affective responses. These findings provide a comprehensive foundation for future inquiry and practical guidance for designing AI‐enabled BC that is effective, trustworthy, and contextually appropriate.
+type: article
+open_access: true
+cited_by: 7
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 1.559
+score_parts:
+  rank: 0.333
+  citations: 0.226
+  recency: 1
+needs_approval: false
+state: candidate

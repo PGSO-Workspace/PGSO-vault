@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a607f45759
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412073924
+title: "Culturally Aware and Adapted NLP: A Taxonomy and a Survey of the State of the Art"
+authors:
+  - Chen Cecilia Liu
+  - Iryna Gurevych
+  - Anna Korhonen
+year: 2025
+venue: Transactions of the Association for Computational Linguistics
+doi: 10.1162/tacl_a_00760
+url: https://doi.org/10.1162/tacl_a_00760
+abstract: Abstract The surge of interest in culture in NLP has inspired much recent research, but a shared understanding of “culture” remains unclear, making it difficult to evaluate progress in this emerging area. Drawing on prior research in NLP and related fields, we propose a fine-grained taxonomy of elements in culture that can provide a systematic framework for analyzing and understanding research progress. Using the taxonomy, we survey existing resources and methods for culturally aware and adapted NLP, providing an overview of the state of the art and the research gaps that still need to be filled.
+type: article
+open_access: true
+cited_by: 17
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.291
+score_parts:
+  rank: 0.077
+  citations: 0.314
+  recency: 0.9
+needs_approval: false
+state: candidate

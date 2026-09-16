@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-21590a6529
+created: 2026-09-15T09:57:53.749Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/live-composite-19b5c58/seven-arm-cli-test.log
+paths:
+  - sources/software/pgso-sdk/live-composite-19b5c58/seven-arm-cli-test.log
+hash: 21590a652906c9c3b1137cc2af2748ea0ce5ed4757a7b9ff8250b4bc70000307
+bytes: 73178
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T09:57:53.531Z

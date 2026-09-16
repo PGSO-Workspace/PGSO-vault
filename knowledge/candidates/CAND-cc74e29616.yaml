@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-cc74e29616
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4406409247
+title: "Embodied AI Agent for Co-creation Ecosystem: Elevating Human-AI Co-creation through Emotion Recognition and Dynamic Personality Adaptation"
+authors:
+  - Jia Fu
+  - Yingxin Fu
+  - Jade Zheng
+  - Florence Li
+year: 2025
+venue: Preprints.org
+doi: 10.20944/preprints202501.0946.v1
+url: https://doi.org/10.20944/preprints202501.0946.v1
+abstract: Embodied AI agents have the potential to revolutionize human-computer interactions by enabling experiences that are both highly creative and deeply empathetic. While platforms like Gennie2, World Labs, and MineDojo primarily focus on real-world simulations and task-oriented functionalities, we shift the emphasis toward creative expression, underscoring the pivotal role of the creator in crafting immersive, emotionally attuned, and personalized user experiences. In this paper, we present an advanced embodied AI agent that synthesizes state-of-the-art Large Language Models (LLMs) with sophisticated emotion and intent recognition modules to enable rich, context-aware interactions. Our approach integrates cutting-edge emotion analysis to interpret subtle emotional signals and a zero-shot classification pipeline that accurately infers user intentions without extensive labeled data. In addition, a dynamic personality adaptation framework inspired by the OCEAN model continuously updates the agent conversational style and tone in real time, promoting long-term engagement and user satisfaction. This proactive creativity and emotional attunement address the limitations of existing systems that rely on purely reactive responses. We evaluate our agent performance on three key metrics, (1) emotion recognition accuracy, (2) intent recognition coverage, and (3) response quality, demonstrating substantial improvements over baseline models. By merging advanced LLM technology with emotional intelligence and adaptive personalization, our work broadens the horizons of embodied AI, empowering creators to design interactive, emotionally rich and personalized experiences. Ultimately, we position our agent at the intersection of AI, human cognition, and the creative arts, envisioning a future where technology becomes a true collaborator in innovative processes, rather than a mere replicator of reality.
+type: preprint
+open_access: true
+cited_by: 2
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.072
+score_parts:
+  rank: 0.053
+  citations: 0.119
+  recency: 0.9
+needs_approval: true
+state: candidate

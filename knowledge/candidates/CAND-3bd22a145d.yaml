@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3bd22a145d
+created: 2026-09-15T06:33:03.695Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6736926
+title: A knowledge graph-constrained multi-agent workflow for constructing a benchmark for large language model evaluation in traditional Chinese medicine
+authors:
+  - Shuqi Xia
+  - Jingyao Chen
+  - Jinghua Li
+  - Wei Jiang
+  - Yang Wu
+  - Tong Yu
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6736926
+url: https://doi.org/10.2139/ssrn.6736926
+abstract: "Background and Objective: Generic benchmarks rarely capture specialized clinical reasoning that requires heterogeneous evidence and multistep inference. We developed a knowledge graph-constrained multi-agent workflow, named MAC-TCM, for constructing benchmarks in traditional Chinese medicine, and instantiated it as ZBN-Bench for the Zhao Bingnan academic school of dermatology.Methods: A domain knowledge base was assembled from over 1000 curated clinical cases, 54 books, over 1000 full-text articles, and over 3000 indexed records, and encoded as a graph of 3300 nodes and 12,370 edges along the symptom-syndrome-disease-treatment-formula-herb chain. Candidate items were produced under graph-path and question-direction constraints, filtered by answer-reachability validation and four-dimensional soft scoring. An external sample of 300 items was independently rated by four domain experts, and fourteen large language models were evaluated under a prespecified zero-shot protocol.Results: Entity extraction against manual review reached 92.4% precision and 89.6% sensitivity (Cohen’s kappa 0.85). The automatic quality filter showed high specificity against low-quality candidates, reducing factual errors from 27.2% under unconstrained generation to 5.4%. The final benchmark contains 1500 items (750 single-choice, 450 multiple-choice, 300 chained-choice), with an expert consensus score of 3.802 out of 4.0 and inter-rater Fleiss’ kappa 0.78. Automatic scoring agreed closely with expert consensus (mean absolute error 0.035). The best-performing model reached 62.30% overall accuracy, with degradation on high-difficulty (26.54%) and chained-choice (18.62%) items.Conclusions: The workflow provides a traceable software pipeline and a reproducibility-oriented protocol for constructing specialty benchmarks in traditional Chinese medicine. ZBN-Bench offers a school-specific evaluation resource for model benchmarking and methodological research, although broader external validation remains necessary before downstream clinical interpretation."
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agent evaluation benchmark reliability task success journal
+question: null
+search: SEARCH-b435e17ef6
+score: 1.111
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

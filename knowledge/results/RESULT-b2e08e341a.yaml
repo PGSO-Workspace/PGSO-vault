@@ -1,0 +1,19 @@
+schema: phdude.result
+version: 1
+id: RESULT-b2e08e341a
+created: 2026-09-15T00:15:39.375Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: Pooled descriptive agreement with the declared PGSO temporal contract; not a superiority estimate
+from: ANALYSIS-1a3562f88b
+values:
+  pgso: 1
+  fixed_threshold: 0.907608695652174
+  no_governance: 0.7119565217391305
+state: candidate
+ext:
+  analysis:
+    key: agreement
+    run_at: 2026-09-15T00:15:39.375Z

@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-af7356fe38
+created: 2026-09-15T06:12:39.195Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/operational-7805fb9/execution_validation.rs.txt
+paths:
+  - sources/software/pgso-sdk/operational-7805fb9/execution_validation.rs.txt
+hash: af7356fe383a8e5834403bdc36eddc93d08332b169f27b2efaf55aec3dcfa652
+bytes: 11484
+mime: text/plain
+kind: txt
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 11484
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T06:12:38.776Z
+versions_of: ART-c3e6033dfa
+latest: true

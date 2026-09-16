@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d03777bcd8
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4385227045
+title: "Large language models in health care: Development, applications, and challenges"
+authors:
+  - Rui Yang
+  - Ting Fang Tan
+  - Wei Lu
+  - Arun James Thirunavukarasu
+  - Daniel Shu Wei Ting
+  - Nan Liu
+year: 2023
+venue: Health care science
+doi: 10.1002/hcs2.61
+url: https://doi.org/10.1002/hcs2.61
+abstract: Recently, the emergence of ChatGPT, an artificial intelligence chatbot developed by OpenAI, has attracted significant attention due to its exceptional language comprehension and content generation capabilities, highlighting the immense potential of large language models (LLMs). LLMs have become a burgeoning hotspot across many fields, including health care. Within health care, LLMs may be classified into LLMs for the biomedical domain and LLMs for the clinical domain based on the corpora used for pre-training. In the last 3 years, these domain-specific LLMs have demonstrated exceptional performance on multiple natural language processing tasks, surpassing the performance of general LLMs as well. This not only emphasizes the significance of developing dedicated LLMs for the specific domains, but also raises expectations for their applications in health care. We believe that LLMs may be used widely in preconsultation, diagnosis, and management, with appropriate development and supervision. Additionally, LLMs hold tremendous promise in assisting with medical education, medical writing and other related applications. Likewise, health care systems must recognize and address the challenges posed by LLMs.
+type: article
+open_access: true
+cited_by: 367
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.674
+score_parts:
+  rank: 0.333
+  citations: 0.641
+  recency: 0.7
+needs_approval: false
+state: candidate

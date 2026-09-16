@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-039da653d4
+created: 2026-09-15T00:21:11.462Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4403795441
+title: Enhancing Guardrails for Safe and Secure Healthcare AI
+authors:
+  - Ananya Gangavarapu
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2409.17190
+url: http://arxiv.org/abs/2409.17190
+abstract: Generative AI holds immense promise in addressing global healthcare access challenges, with numerous innovative applications now ready for use across various healthcare domains. However, a significant barrier to the widespread adoption of these domain-specific AI solutions is the lack of robust safety mechanisms to effectively manage issues such as hallucination, misinformation, and ensuring truthfulness. Left unchecked, these risks can compromise patient safety and erode trust in healthcare AI systems. While general-purpose frameworks like Llama Guard are useful for filtering toxicity and harmful content, they do not fully address the stringent requirements for truthfulness and safety in healthcare contexts. This paper examines the unique safety and security challenges inherent to healthcare AI, particularly the risk of hallucinations, the spread of misinformation, and the need for factual accuracy in clinical settings. I propose enhancements to existing guardrails frameworks, such as Nvidia NeMo Guardrails, to better suit healthcare-specific needs. By strengthening these safeguards, I aim to ensure the secure, reliable, and accurate use of AI in healthcare, mitigating misinformation risks and improving patient safety.
+type: preprint
+open_access: true
+cited_by: 7
+query: NeMo Guardrails programmable guardrails conversational systems
+question: null
+search: SEARCH-75810a0056
+score: 1.169
+score_parts:
+  rank: 0.143
+  citations: 0.226
+  recency: 0.8
+needs_approval: true
+state: candidate

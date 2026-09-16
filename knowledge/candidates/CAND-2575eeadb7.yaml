@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2575eeadb7
+created: 2026-09-15T01:06:33.363Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21428/8e6ba8ef.d836b74f
+title: Conversational engagement modulates neural speech tracking in real-time dialogue
+authors:
+  - Marcos E. Domínguez Arriola
+  - Peter C.H. Lam
+  - Alejandro Pérez
+  - Marc D. Pell
+year: 2026
+venue: JoCN Forum
+doi: 10.21428/8e6ba8ef.d836b74f
+url: https://doi.org/10.21428/8e6ba8ef.d836b74f
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: affective conversational agents empathy speech dialogue action
+question: null
+search: SEARCH-fdb119aa74
+score: 1.2
+score_parts:
+  rank: 0.2
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

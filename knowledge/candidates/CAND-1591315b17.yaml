@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1591315b17
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.69987/aimlr.2026.70301
+title: "Comparing Prompting Strategies and Backbone Choices for LLM Agents on Tabular Credit-Card Fraud Detection: An Empirical Study"
+authors:
+  - Yanhuan Chen
+year: 2026
+venue: Artificial Intelligence and Machine Learning Review
+doi: 10.69987/aimlr.2026.70301
+url: https://doi.org/10.69987/aimlr.2026.70301
+abstract: "Large language model (LLM) agents are increasingly proposed for financial decision tasks, yet their behaviour on tabular fraud detection has not been measured under a controlled protocol. This paper reports a head-to-head empirical comparison of four prompting strategies (zero-shot, few-shot, chain-of-thought, and ReAct-style tool use) across four LLM backbones (GPT-4o-mini, Claude-3.5-Haiku, Llama-3.1-8B-Instruct, and Qwen-2.5-7B-Instruct) on two public datasets: the ULB credit-card corpus with anonymised principal-component features and the Bank Account Fraud (BAF-Base) suite with human-readable attributes. All 32 agent configurations are benchmarked against logistic regression, random forest, XGBoost, and LightGBM under identical temporal splits. Gradient-boosted trees retain a clear advantage: XGBoost reaches an AUC-PR of 0.847 on ULB and 0.196 on BAF, while the strongest agent configuration attains 0.412 and 0.153. The accuracy gap narrows substantially when features carry semantic meaning, and tool-augmented prompting yields its largest gain (+0.040 AUC-PR over chain-of-thought) on anonymised features. Inference cost remains three to four orders of magnitude higher for agents. A taxonomy of 400 manually coded errors indicates that agents most often miss fraud expressed through combinations of weak signals. Practical guidance for hybrid deployment is derived from these measurements."
+type: article
+open_access: null
+cited_by: 0
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.038
+score_parts:
+  rank: 0.038
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

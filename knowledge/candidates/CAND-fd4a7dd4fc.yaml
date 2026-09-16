@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-fd4a7dd4fc
+created: 2026-09-15T07:34:04.334Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6249979
+title: "Observability Is Not Enforcement: A Doctrinal and Architectural Framework for Distinguishing Compliance Instrumentation from Runtime Authorization in AI Governance"
+authors:
+  - Edward Meyman
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6249979
+url: https://doi.org/10.2139/ssrn.6249979
+abstract: '<p>The term “AI governance” is increasingly applied to heterogeneous systems ranging from logging dashboards and model alignment techniques to cryptographically signed audit trails and policy workflow engines. This conceptual broadening has obscured a critical architectural distinction: systems that document and monitor behavior are not equivalent to systems that enforce policy at the point of execution.</p> <p>This paper introduces a doctrinal and technical framework for distinguishing evidence-routing compliance systems from authorization governance substrates. Observability governs accounts of action—what happened and how it can be reconstructed. Authorization governs permission to act—whether a specific action was permitted under policy before execution. The paper formalizes this distinction along five architectural axes: enforcement locus, signature semantics, failure behavior, bypass resistance, and override governance.</p> <p>A six-criterion Enforcement Test Protocol is introduced to provide a binary classification of governance claims: authorization governance present or absent. The analysis demonstrates that systems may generate extensive documentation, cryptographic artifacts, and explainability bundles while still failing open when governance conditions fail. Documentation volume does not equal enforceability.</p> <p>Drawing on reference monitor theory and regulatory contexts including GDPR Article 22 and the EU AI Act, the paper argues that governance without non-bypassable, fail-closed runtime authorization remains advisory rather than determinative. Observability and authorization are complementary layers, but they provide different regulatory guarantees and address different threat models.</p> <p>The framework is intended for regulators, auditors, enterprise buyers, and researchers seeking operationally testable criteria for evaluating AI governance architectures in high-stakes and regulated environments.</p> <p>Zenodo canonical version: <a href="https://doi.org/10.5281/zenodo.18663864" rel="nofollow">https://doi.org/10.5281/zenodo.18663864</a></p>'
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal LLM agent tool permission authorization runtime enforcement security guardrails
+question: null
+search: SEARCH-b0fa183ef0
+score: 1.037
+score_parts:
+  rank: 0.037
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

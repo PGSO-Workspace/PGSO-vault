@@ -1,0 +1,42 @@
+schema: phdude.candidate
+version: 1
+id: CAND-17732dbd7a
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4402670788
+title: "Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges"
+authors:
+  - Xiaoming Shi
+  - Zeming Liu
+  - Li Du
+  - Yuxuan Wang
+  - Hongru Wang
+  - Yuhang Guo
+  - Tong Ruan
+  - Jie Xu
+  - Xiaofan Zhang
+  - Shaoting Zhang
+year: 2024
+venue: null
+doi: 10.18653/v1/2024.findings-acl.167
+url: https://doi.org/10.18653/v1/2024.findings-acl.167
+abstract: This paper surveys and organizes research works on medical dialog systems, which is an important yet challenging task.Although these systems have been surveyed in the medical community from an application perspective, a systematic review from a rigorous technical perspective has to date remained noticeably absent.As a result, an overview of the categories, methods, and evaluation of medical dialogue systems remain limited and underspecified, hindering the further improvement of this area.To fill this gap, we investigate an initial pool of 327 papers from well-known computer science, and natural language processing conferences and journals, and make an overview.Recently, large language models have shown strong model capacity on downstream tasks, which also reshaped medical dialog systems' foundation.Despite the alluring practical application value, current medical dialogue systems still suffer from problems.To this end, this paper lists the grand challenges of medical dialog systems, especially of large language models.
+type: other
+open_access: true
+cited_by: 12
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1.221
+score_parts:
+  rank: 0.143
+  citations: 0.278
+  recency: 0.8
+needs_approval: false
+state: candidate

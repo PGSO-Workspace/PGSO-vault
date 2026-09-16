@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-acb96de0da
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icrteect67512.2025.11448924
+title: "Multimodal Conversational Agent for Mental Health Support: Integrating Text, Voice, Visual, and Multilingual Emotion-Aware Analysis"
+authors:
+  - Dilsha Chebolu
+year: 2025
+venue: 2025 2nd International Conference on Recent Trends in Electrical, Electronics and Computing Technologies (ICRTEECT)
+doi: 10.1109/icrteect67512.2025.11448924
+url: https://doi.org/10.1109/icrteect67512.2025.11448924
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 0.945
+score_parts:
+  rank: 0.045
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

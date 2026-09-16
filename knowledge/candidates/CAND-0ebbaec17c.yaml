@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0ebbaec17c
+created: 2026-09-15T07:34:45.095Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404650144
+title: "Evaluation-Driven Development and Operations of LLM Agents: A Process Model and Reference Architecture"
+authors:
+  - Boming Xia
+  - Qinghua Lu
+  - Liming Zhu
+  - Zhenchang Xing
+  - Dehai Zhao
+  - Hao Zhang
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2411.13768
+url: http://arxiv.org/abs/2411.13768
+abstract: "Large Language Models (LLMs) have enabled the emergence of LLM agents, systems capable of pursuing under-specified goals and adapting after deployment. Evaluating such agents is challenging because their behavior is open ended, probabilistic, and shaped by system-level interactions over time. Traditional evaluation methods, built around fixed benchmarks and static test suites, fail to capture emergent behaviors or support continuous adaptation across the lifecycle. To ground a more systematic approach, we conduct a multivocal literature review (MLR) synthesizing academic and industrial evaluation practices. The findings directly inform two empirically derived artifacts: a process model and a reference architecture that embed evaluation as a continuous, governing function rather than a terminal checkpoint. Together they constitute the evaluation-driven development and operations (EDDOps) approach, which unifies offline (development-time) and online (runtime) evaluation within a closed feedback loop. By making evaluation evidence drive both runtime adaptation and governed redevelopment, EDDOps supports safer, more traceable evolution of LLM agents aligned with changing objectives, user needs, and governance constraints."
+type: preprint
+open_access: true
+cited_by: 2
+query: 2024 2025 journal LLM agents runtime monitor policy enforcement tool calls
+question: null
+search: SEARCH-b7942200d3
+score: 0.982
+score_parts:
+  rank: 0.063
+  citations: 0.119
+  recency: 0.8
+needs_approval: true
+state: candidate

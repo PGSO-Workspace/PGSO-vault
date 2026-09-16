@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4cb6a97825
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/asew67777.2025.00064
+title: Traceability and Accountability in Role-Specialized Multi-Agent LLM Pipelines
+authors:
+  - Amine Barrak
+year: 2025
+venue: 2025 40th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)
+doi: 10.1109/asew67777.2025.00064
+url: https://doi.org/10.1109/asew67777.2025.00064
+abstract: null
+type: article
+open_access: null
+cited_by: 7
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.153
+score_parts:
+  rank: 0.027
+  citations: 0.226
+  recency: 0.9
+needs_approval: false
+state: candidate

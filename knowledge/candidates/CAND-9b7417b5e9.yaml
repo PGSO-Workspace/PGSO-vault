@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9b7417b5e9
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4402669711
+title: "emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation"
+authors:
+  - Ziyang Ma
+  - Zhisheng Zheng
+  - Jiaxin Ye
+  - Jinchao Li
+  - Zhifu Gao
+  - Shiliang Zhang
+  - Xie Chen
+year: 2024
+venue: null
+doi: 10.18653/v1/2024.findings-acl.931
+url: https://doi.org/10.18653/v1/2024.findings-acl.931
+abstract: We propose emotion2vec, a universal speech emotion representation model.emotion2vec is pre-trained on open-source unlabeled emotion data through self-supervised online distillation, combining utterance-level loss and framelevel loss during pre-training.emotion2vec outperforms state-of-the-art pre-trained universal models and emotion specialist models by only training linear layers for the speech emotion recognition task on the mainstream IEMOCAP dataset.In addition, emotion2vec shows consistent improvements among 10 different languages of speech emotion recognition datasets.emotion2vec also shows excellent results on other emotion tasks, such as song emotion recognition, emotion prediction in conversation, and sentiment analysis.Comparison experiments, ablation experiments, and visualization comprehensively demonstrate the universal capability of the proposed emotion2vec.To the best of our knowledge, emotion2vec is the first universal representation model in various emotion-related tasks, filling a gap in the field. 1
+type: other
+open_access: true
+cited_by: 134
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.833
+score_parts:
+  rank: 0.5
+  citations: 0.533
+  recency: 0.8
+needs_approval: false
+state: candidate

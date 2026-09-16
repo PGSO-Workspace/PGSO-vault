@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e6de6a1201
+created: 2026-09-15T09:45:55.769Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.47832/baghdad.congress1
+title: Full Text Book of Baghdad.Congress1
+authors: []
+year: 2024
+venue: null
+doi: 10.47832/baghdad.congress1
+url: https://doi.org/10.47832/baghdad.congress1
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Yue Qi" full text'
+question: null
+search: SEARCH-aa21877eb5
+score: 0.845
+score_parts:
+  rank: 0.045
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-33d9153b18
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-9875876/v1
+title: "Human-Guided AI Interaction in Task-Based Language Teaching: Effects of ChatGPT and Embodied Multimodal Conversational AI in Mixed Reality on ESL Learners’ Job Interview Anxiety and Oral Performance"
+authors:
+  - Amany Alkhayat
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-9875876/v1
+url: https://doi.org/10.21203/rs.3.rs-9875876/v1
+abstract: "Abstract This quasi-experimental mixed-methods study investigated the effects of two AI-mediated conversational modalities on ESL learners' oral performance and speaking anxiety in a high-stakes English for Specific Purposes (ESP) context. Seventy-five adult ESL learners were assigned to one of three conditions: traditional instructor-led instruction (control), ChatGPT voice mode, or a Multimodal Embodied Conversational AI agent (MECAI) in Mixed Reality (MR). Over a six-week intervention, participants completed pre- and post-intervention mock job interviews assessed for fluency, vocabulary appropriateness, and grammatical accuracy. Speaking anxiety was measured using the Foreign Language Classroom Anxiety Scale (FLCAS) and physiological heart rate monitoring. Two-way repeated measures ANOVA revealed significant improvements in oral performance across all groups, with the MECAI group demonstrating the greatest gains (pre: 9.36; post: 18.52), followed by ChatGPT (pre: 8.96; post: 15.52) and the control group (pre: 7.92; post: 12.88). Pairwise comparisons confirmed statistically significant differences between all three conditions (p < 0.001). Although descriptive trends suggested a pattern of anxiety reduction in the MECAI group across both FLCAS and heart rate, neither anxiety measure reached statistical significance. Qualitative thematic analysis of structured interviews identified four themes: AI's role in shaping oral confidence, immersion and sense of presence in the MR environment, the indispensable role of the human instructor, and learner strategies for managing language anxiety. Findings suggest that embodied conversational AI in mixed reality offers meaningful advantages for ESP speaking development, while underscoring the continued centrality of human instruction in technology-enhanced language learning."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 1.077
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

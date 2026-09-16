@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7f3cc0be45
+created: 2026-09-15T00:31:18.055Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/iciea58696.2023.10241498
+title: Speech Emotion Recognition Using Multi-task Learning and Sentence-level Embedding Loss
+authors:
+  - Tao Li
+  - Jizhong Liu
+  - Peng Gao
+  - Yujun Wang
+year: 2023
+venue: 2023 IEEE 18th Conference on Industrial Electronics and Applications (ICIEA)
+doi: 10.1109/iciea58696.2023.10241498
+url: https://doi.org/10.1109/iciea58696.2023.10241498
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition"'
+question: null
+search: SEARCH-40c323d84c
+score: 0.9
+score_parts:
+  rank: 0.2
+  citations: 0
+  recency: 0.7
+needs_approval: false
+state: candidate

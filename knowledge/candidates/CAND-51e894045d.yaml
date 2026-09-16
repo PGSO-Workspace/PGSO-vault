@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-51e894045d
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416034601
+title: "Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models"
+authors:
+  - Junjie Xiong
+  - Chunfang Zhu
+  - Shuhang Lin
+  - Chong Zhang
+  - Yongfeng Zhang
+  - Yao Liu
+  - Lingyao Li
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.findings-emnlp.376
+url: https://doi.org/10.18653/v1/2025.findings-emnlp.376
+abstract: 'Large Language Models (LLMs) are increasingly equipped with capabilities of real-time web search and integrated with protocols like the Model Context Protocol (MCP).This extension could introduce new security vulnerabilities.We present a systematic investigation of LLM vulnerabilities to hidden adversarial prompts through malicious font injection in external resources like webpages, where attackers manipulate code-to-glyph mapping to inject deceptive content which are invisible to users.We evaluate two critical attack scenarios: (1) "malicious content relay" and (2) "sensitive data leakage" through MCP-enabled tools.Our experiments reveal that indirect prompts with injected malicious font can bypass LLM safety mechanisms through external resources, achieving varying success rates based on data sensitivity and prompt design.Our research underscores the urgent need for enhanced security measures in LLM deployments when processing external content.Our code is available at: https://github.com/Lingyao1219/resource- attack/.'
+type: other
+open_access: true
+cited_by: 4
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.325
+score_parts:
+  rank: 0.25
+  citations: 0.175
+  recency: 0.9
+needs_approval: false
+state: candidate

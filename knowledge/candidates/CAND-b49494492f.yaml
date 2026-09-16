@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b49494492f
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2026.3696654
+title: "ERMoV: Modeling Affective Mental States via Emotion Regulation for Dialogue Emotion Recognition"
+authors:
+  - Xiao Sun
+  - Xuxiong Liu
+  - Yueqi Jiang
+year: 2026
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2026.3696654
+url: https://doi.org/10.1109/taffc.2026.3696654
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1.029
+score_parts:
+  rank: 0.029
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

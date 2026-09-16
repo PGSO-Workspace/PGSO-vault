@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-dcab5fddac
+created: 2026-09-15T09:51:56.788Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/introduction-q1-english-audit-2026-09-15.md
+paths:
+  - sources/literature/introduction-q1-english-audit-2026-09-15.md
+hash: dcab5fddac3cf3d2e14a3029190db1bc38104e3da2b692a18218d7c1b9cd32d8
+bytes: 2466
+mime: text/markdown
+kind: md
+role: report
+extracted:
+  status: ok
+  method: text
+  text_chars: 2464
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T09:51:56.577Z

@@ -1,0 +1,22 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-2de8fa81bb
+created: 2026-09-15T19:06:02.885Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+statement: "The archived B0 development checks suggest that task feasibility depends on agent entity resolution as well as interaction budget: the generic identity-resolution run scored two successes and one task failure but retained a wrong-resource mutation, and therefore did not meet its frozen zero-wrong-mutation criterion. These checks do not compare governance treatments."
+kind: empirical
+state: candidate
+supported_by:
+  - EVID-287c494c67
+  - EVID-871b563027
+questions:
+  - RQ-1
+  - RQ-2
+sections: []
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-0acade2de7

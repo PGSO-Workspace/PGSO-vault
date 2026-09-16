@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-66c2e08d1f
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392058579
+title: Exploring caring collaborations in academia through feminist reflexive dialogues
+authors:
+  - Janet Johansson
+  - Grace Gao
+  - Ingela Sölvell
+  - Caroline Wigren‐Kristoferson
+year: 2024
+venue: Gender Work and Organization
+doi: 10.1111/gwao.13115
+url: https://doi.org/10.1111/gwao.13115
+abstract: Abstract This study challenges the prevailing collaboration norms within academia, which predominantly adhere to meritocratic principles favoring masculine and individualistic values. These principles often result in a productivity paradigm centered on publications and high research performance. We contend that such collaboration norms perpetuate exclusionary practices, limiting the participation of women and individuals who do not neatly conform to the criteria of high productivity. Drawing inspiration from Long and colleagues' work in 2020, and guided by relational care ethics, we developed the notion that collaboration as a feminist strategy represents a transformative process of reflexive becoming and co‐learning, emphasizing connectedness and generativity through care. Our findings highlight that through the lens of care, we transcended differing viewpoints, transitioning from self‐centeredness to an other‐oriented approach characterized by empathy, mutual understanding, and acceptance. Emotions emerged as embodied forms of knowledge, enriching the process of co‐learning and co‐becoming. Based on this, we propose a new constellation of Feminist Caring Collaboration in the academy, emphasizing the inclusivity of diverse participants and their varied skills and competencies, with full consideration of individuals' needs and future growth opportunities. Furthermore, we advocate for a broader acknowledgment of emotions such as satisfaction, joy, friendship, and pleasure in the knowledge production process, recognizing their significance in individuals' fulfillment in work and various life circumstances.
+type: article
+open_access: true
+cited_by: 16
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1.219
+score_parts:
+  rank: 0.111
+  citations: 0.308
+  recency: 0.8
+needs_approval: false
+state: candidate

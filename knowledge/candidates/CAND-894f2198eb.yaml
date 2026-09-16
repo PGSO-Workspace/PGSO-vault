@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-894f2198eb
+created: 2026-09-14T23:44:09.730Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1002/9781394319787.ch13
+title: |-
+  Considering Responsible
+              <scp>AI</scp>
+              with
+              <scp>GitHub</scp>
+              Copilot
+authors: []
+year: 2024
+venue: Programming with GitHub Copilot
+doi: 10.1002/9781394319787.ch13
+url: https://doi.org/10.1002/9781394319787.ch13
+abstract: null
+type: other
+open_access: null
+cited_by: 3
+query: '"Combining Neural Empathy-Aware Behavior Trees With Knowledge Graphs for Affective Human-AI Teaming" code GitHub'
+question: null
+search: SEARCH-2325920ecd
+score: 1.118
+score_parts:
+  rank: 0.167
+  citations: 0.151
+  recency: 0.8
+needs_approval: false
+state: candidate

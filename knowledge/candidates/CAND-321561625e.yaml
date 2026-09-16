@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-321561625e
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20944/preprints202408.2106.v1
+title: Affective Computing Using an Emotion-Perception System for Interactive Experiences with Multi-Sensing Interfaces
+authors:
+  - Chao-Ming Wang
+  - You-Chieh Lee
+year: 2024
+venue: null
+doi: 10.20944/preprints202408.2106.v1
+url: https://doi.org/10.20944/preprints202408.2106.v1
+abstract: "Affective computing has emerged as a prominent technology in recent years, driven by the increasing demand for machines capable of understanding and interpreting emotions. The COVID-19 pandemic has intensified this need by reducing physical interactions and increasing reliance on digital communication, which often involves complex emotional exchanges. To enhance social interactions by identifying and addressing negative emotions, an interactive emotion-perception system based on multi-sensing interfaces and affective computing has been proposed. Integration of gesture, voice, and brainwave sensors is employed to provide users with a rich sensory experience and immersive environment. Design principles and system development processes are derived from the affinity diagram method and prototype development approach. The proposed system was constructed, and experiments were conducted with 60 participants. Interpersonal interaction scenarios were explored to understand emotional transmission mechanisms, aiming to enhance user satisfaction and positive interpersonal experiences. Data were collected through indirect observation and questionnaires, followed by evaluation and statistical analysis. Findings include: (1) The emotion-perception system enhances positive interpersonal interactions by identifying 36 distinct emotions, with overall user emotions being positive but exhibiting notable individual variations; (2) The system effectively stimulates positive emotions and strengthens interpersonal interactions, with affective computing technology fostering enjoyable emotional resonance and high-quality relationships; (3) A positive correlation was observed between semantic analysis and brainwave metrics of relaxation and concentration, showing increased concentration and enhanced positive emotional interactions during message transitions; and (4) The multi-sensing and affective computing technology provides a pleasant and relaxing emotional journey, with interactions shifting from enthusiasm to comfort, demonstrating the system’s capacity for a satisfying and enjoyable experience."
+type: preprint
+open_access: null
+cited_by: 4
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1
+score_parts:
+  rank: 0.025
+  citations: 0.175
+  recency: 0.8
+needs_approval: true
+state: candidate

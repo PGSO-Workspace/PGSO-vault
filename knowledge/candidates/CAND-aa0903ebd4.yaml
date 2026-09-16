@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-aa0903ebd4
+created: 2026-09-15T09:15:44.244Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.33480/jitk.v9i1.4181
+title: IMPLEMENTATION OF IMAGE PROCESSING IN THE RECOGNITION OF OFFICIAL VEHICLE LICENSE PLATES
+authors:
+  - Santoso Setiawan
+  - Daning Nur Sulistyowati
+  - Nurman Machmud
+year: 2023
+venue: JITK (Jurnal Ilmu Pengetahuan dan Teknologi Komputer)
+doi: 10.33480/jitk.v9i1.4181
+url: https://doi.org/10.33480/jitk.v9i1.4181
+abstract: Vehicle license plates are identifiers used to uniquely identify vehicles. However, to identify vehicle license plates there are several problems encountered, namely the different formats of vehicle license plates that make license plate recognition more complicated, vehicle license plates often contain visually similar combinations of letters and numbers (for example the letter "O" and the number "0" or the letter "I" and the number "1"), . in poor lighting conditions license plates may not be clearly visible. To solve this problem, image recognition, image processing, and pattern recognition technologies can be used. The three technologies can be used to recognize characters on vehicle license plates, but cannot yet be used to recognize the colors contained on vehicle license plates. The purpose of this research is to identify and record vehicle license plate numbers quickly and accurately, monitor the presence of vehicles in a supervised area, assist in managing parking, reduce the need for human interaction in the vehicle identification process, The methods used to recognize motor vehicle plates are edge detection and character segmentation which involves image processing to detect the edges of the vehicle plate, followed by segmentation of individual characters in the plate. Another method used is optical character recognition which involves using an optical sensor to take an image of a vehicle plate, then using character recognition techniques to identify the numbers and letters on the plate. The result of this research is that the motor vehicle number recognition system can work in various lighting conditions and poor weather conditions and can monitor and control vehicles in the parking area. The finding obtained from this research is that no method has been used for color recognition on motor vehicle plates.
+type: article
+open_access: null
+cited_by: 2
+query: AgentSpec GitHub haoyuwang99 official implementation license requirements LangChain 0.3.13
+question: null
+search: SEARCH-92b23a6f19
+score: 1.819
+score_parts:
+  rank: 1
+  citations: 0.119
+  recency: 0.7
+needs_approval: false
+state: candidate

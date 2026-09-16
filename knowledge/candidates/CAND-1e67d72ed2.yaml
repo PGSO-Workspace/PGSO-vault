@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1e67d72ed2
+created: 2026-09-15T00:31:14.448Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.patcog.2026.113144
+title: Uncertainty-aware calibrated 3D human motion forecasting with latent conformal prediction
+authors:
+  - Yue Ma
+  - Frederick W.B. Li
+  - Xiaohui Liang
+year: 2026
+venue: Pattern Recognition
+doi: 10.1016/j.patcog.2026.113144
+url: https://doi.org/10.1016/j.patcog.2026.113144
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets"'
+question: null
+search: SEARCH-023614a12f
+score: 1.138
+score_parts:
+  rank: 0.063
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

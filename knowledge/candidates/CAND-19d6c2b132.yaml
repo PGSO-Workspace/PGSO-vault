@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-19d6c2b132
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7426698
+title: Recognition and Enforcement of Arbitral Awards Arising from Contracts Concluded by Autonomous AI Agents
+authors:
+  - Davronbek Abdugaffarov
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7426698
+url: https://doi.org/10.2139/ssrn.7426698
+abstract: "This article concludes a four-part study, alongside three companion articles, of how private international law should respond to cross-border contracts negotiated and concluded entirely by autonomous AI agents.&nbsp; The companion articles established that such contracts admit no choice of law, no choice of forum, and no consent-based standard of performance, because each doctrine requires a bilateral manifestation that unilateral, contract-unspecific deployment configuration cannot supply. This article extends that finding to the final, practical stage of any dispute: recognition and enforcement of the resulting award. It argues that an AI agent's inclusion of an arbitration clause fails to constitute a valid 'agreement in writing' under Article II of the New York Convention for exactly the same structural reasons identified in the companion articles, and, more importantly, that this same structural weakness manifests concretely at the enforcement stage through three grounds for refusal under Article V of the Convention: invalidity of the arbitration agreement itself, where an autonomously generated clause is ambiguous, contradictory, or otherwise 'pathological'; improper notice or inability to present a case, where automated or undersupervised proceedings fail ordinary standards of procedural fairness; and defects in the composition of the tribunal, including undisclosed conflicts of interest bearing on arbitrator independence and impartiality. The article draws comparative support from Uzbekistan's 2021 Law on International Commercial Arbitration and its judicial application of the New York Convention, and proposes drafting and institutional safeguards to reduce the risk that awards arising from autonomous-agent contracts fail at the enforcement stage."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.05
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

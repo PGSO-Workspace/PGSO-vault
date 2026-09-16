@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5991ef4e60
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4417095432
+title: "From Prompts to Constructs: A Dual-Validity Framework for Large Language Model Research in Psychology"
+authors:
+  - Zhicheng Lin
+year: 2025
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2506.16697
+url: https://arxiv.org/abs/2506.16697
+abstract: "Large language models (LLMs) are entering psychological research both as tools and as objects of inquiry. Yet many studies apply human instruments to LLMs without establishing that the outputs are reliable or interpretable, raising the risk of measurement phantoms--statistical regularities mistaken for genuine psychological phenomena. This review argues that robust AI psychological research requires integrating two methodological traditions: psychometric validation of what a score means and causal inference standards for what the results warrant. It develops a dual-validity framework in which evidentiary demands scale with scientific ambition: from tool use through behavioral characterization and human simulation to cognitive modeling. Classifying text may require only accuracy and reliability; claiming that an LLM simulates anxiety or illuminates cognitive mechanisms requires additional evidence, including construct validity evidence and experimental controls. Progress depends on developing computational analogs of psychological constructs rather than assuming human measures automatically apply to language models."
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 0.983
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

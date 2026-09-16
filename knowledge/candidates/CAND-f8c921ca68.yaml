@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f8c921ca68
+created: 2026-09-15T07:34:45.095Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7130653430
+title: "An agent-Based service architecture for smart greenhouses: Telemetry analytics and decision support with RAG-grounded LLM agents"
+authors:
+  - Sofía Pardo-Pina
+  - Jörn Germer
+  - Ricardo Suay-Cortés
+  - Manuel Platero-Horcajadas
+  - Francisco-Javier Ferrández-Pastor
+year: 2026
+venue: Smart Agricultural Technology
+doi: 10.1016/j.atech.2026.101872
+url: https://doi.org/10.1016/j.atech.2026.101872
+abstract: "This work addresses a practical barrier in smart greenhouse operations: although IoT platforms provide telemetry and dashboards, growers often lack direct, operational access to AI capabilities that can convert sensor streams into actionable decisions and bounded automated interventions. We propose an AI-driven, layer-based IoT architecture integrated with an Agent-Based Service Architecture (ASA) that orchestrates specialized agents to move from telemetry to decisions. The ASA comprises: (S1) a conversational Chat-Agent grounded via Retrieval-Augmented Generation (RAG) over standard operating procedures and local context; (S2-IoT) a telemetry analysis service that computes agronomic indicators and triggers bounded actuation; and (S2-E) an incident/emergency assessment service that recommends responses and can trigger bounded actions when enabled by the operator . Crucially, automated actions are executed only when they satisfy predefined operating conditions and remain consistent with operator-defined safety policies (stage-dependent thresholds, validation gates, and conflict-resolution rules). The services are orchestrated through auditable low-code workflows (n8n in the cloud and raspberrypi/Home Assistant at the edge) and include an edge-first offline fallback when cloud orchestration is unavailable. The system is deployed and validated in a 50 m 2 controlled-environment hydroponic greenhouse cultivating industrial hemp. For conversational support, GPT-5.2 answers 38/40 domain questions correctly (95.0%), outperforming GPT-4o-Mini (32/40; 80.0%), with ROUGE-L=0.272, BLEU-4=3.821, and BERTScore=0.872. S2-IoT estimates daily light integral (DLI) with MAE=0.005 and RMSE=0.008 mol m − 2 d − 1 over 13 evaluated days. S2-E attains 0.81 accuracy and 0.97 stability over 36 emergency test cases status (OK/WARNING/ALARM). Overall, results indicate that agent-orchestrated LLM-RAG services can provide growers with direct AI-enabled operational functions—monitoring, decision support, and policy-compliant actuation—within IoT greenhouse workflows. Further multi-site and multi-season evaluation is planned as future work."
+type: article
+open_access: true
+cited_by: 3
+query: 2024 2025 journal LLM agents runtime monitor policy enforcement tool calls
+question: null
+search: SEARCH-b7942200d3
+score: 1.228
+score_parts:
+  rank: 0.077
+  citations: 0.151
+  recency: 1
+needs_approval: false
+state: candidate

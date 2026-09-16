@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-554c560992
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4413006785
+title: "Beyond Assistance: Embracing AI as a Collaborative Co-Agent in Education"
+authors:
+  - Rena Katsenou
+  - Konstantinos Kotsidis
+  - Agnes Papadopoulou
+  - Παναγιώτης Αναστασιάδης
+  - Ioannis Deliyannis
+year: 2025
+venue: Education Sciences
+doi: 10.3390/educsci15081006
+url: https://doi.org/10.3390/educsci15081006
+abstract: The integration of artificial intelligence (AI) in education offers novel opportunities to enhance critical thinking while also posing challenges to independent cognitive development. In particular, Human-Centered Artificial Intelligence (HCAI) in education aims to enhance human experience by providing a supportive and collaborative learning environment. Rather than replacing the educator, HCAI serves as a tool that empowers both students and teachers, fostering critical thinking and autonomy in learning. This study investigates the potential for AI to become a collaborative partner that assists learning and enriches academic engagement. The research was conducted during the 2024–2025 winter semester within the Pedagogical and Teaching Sufficiency Program offered by the Audio and Visual Arts Department, Ionian University, Corfu, Greece. The research employs a hybrid ethnographic methodology that blends digital interactions—where students use AI tools to create artistic representations—with physical classroom engagement. Data was collected through student projects, reflective journals, and questionnaires, revealing that structured dialog with AI not only facilitates deeper critical inquiry and analytical reasoning but also induces a state of flow, characterized by intense focus and heightened creativity. The findings highlight a dialectic between individual agency and collaborative co-agency, demonstrating that while automated AI responses may diminish active cognitive engagement, meaningful interactions can transform AI into an intellectual partner that enriches the learning experience. These insights suggest promising directions for future pedagogical strategies that balance digital innovation with traditional teaching methods, ultimately enhancing the overall quality of education. Furthermore, the study underscores the importance of integrating reflective practices and adaptive frameworks to support evolving student needs, ensuring a sustainable model.
+type: article
+open_access: true
+cited_by: 31
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.3
+score_parts:
+  rank: 0.024
+  citations: 0.376
+  recency: 0.9
+needs_approval: false
+state: candidate

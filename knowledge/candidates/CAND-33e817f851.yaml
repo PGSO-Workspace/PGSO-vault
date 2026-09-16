@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-33e817f851
+created: 2026-09-14T23:47:13.887Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5381/jot.2024.23.2.a1
+title: Towards a Security Framework for Artifact-centric Workflows Leveraging Runtime Enforcement.
+authors:
+  - Gaurav Gupta
+  - Saumya Shankar
+  - Srinivas Pinisetty
+year: 2024
+venue: The Journal of Object Technology
+doi: 10.5381/jot.2024.23.2.a1
+url: https://doi.org/10.5381/jot.2024.23.2.a1
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall" runtime security framework'
+question: null
+search: SEARCH-dd1444607d
+score: 0.867
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

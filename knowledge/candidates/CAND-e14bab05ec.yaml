@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e14bab05ec
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/ase63991.2025.00053
+title: "Security Debt in LLM Agent Applications: A Measurement Study of Vulnerabilities and Mitigation Trade-offs"
+authors:
+  - Zhuoxiang Shen
+  - Jiarun Dai
+  - Yuan Zhang
+  - Min Yang
+year: 2025
+venue: 2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+doi: 10.1109/ase63991.2025.00053
+url: https://doi.org/10.1109/ase63991.2025.00053
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.009
+score_parts:
+  rank: 0.034
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

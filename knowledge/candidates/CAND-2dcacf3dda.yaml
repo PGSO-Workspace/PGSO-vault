@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2dcacf3dda
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3490149.3505573
+title: "Poly: Shape-changing Conversational Agent Helps Identify Multiple Characters in Storytelling"
+authors:
+  - Byoungjae Kim
+  - Jiwoo Hong
+  - Woohun Lee
+year: 2022
+venue: Sixteenth International Conference on Tangible, Embedded, and Embodied Interaction
+doi: 10.1145/3490149.3505573
+url: https://doi.org/10.1145/3490149.3505573
+abstract: null
+type: article
+open_access: null
+cited_by: 3
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 0.951
+score_parts:
+  rank: 0.2
+  citations: 0.151
+  recency: 0.6
+needs_approval: false
+state: candidate

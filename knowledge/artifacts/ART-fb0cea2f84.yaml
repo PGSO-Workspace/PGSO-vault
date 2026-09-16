@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-fb0cea2f84
+created: 2026-09-15T09:22:09.606Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/templates/Access-Pandoc-Reference.docx
+paths:
+  - sources/templates/Access-Pandoc-Reference.docx
+hash: fb0cea2f840c93efc94ce2a1e1355e0e737c8f131668df508eda2cba054822bd
+bytes: 330317
+mime: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+kind: docx
+role: unknown
+extracted:
+  status: ok
+  method: ooxml
+  text_chars: 37331
+  sections: 1
+  tables: 1
+  warnings: []
+mtime: 2026-09-15T08:10:22.463Z

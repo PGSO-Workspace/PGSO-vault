@@ -1,0 +1,42 @@
+schema: phdude.candidate
+version: 1
+id: CAND-82e9eeebd7
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4402670893
+title: "Data Augmentation using LLMs: Data Perspectives, Learning Paradigms and Challenges"
+authors:
+  - Bosheng Ding
+  - Chengwei Qin
+  - Ruochen Zhao
+  - Tianze Luo
+  - Xinze Li
+  - Guizhen Chen
+  - Wenhan Xia
+  - Junjie Hu
+  - Anh Tuan Luu
+  - Shafiq Joty
+year: 2024
+venue: null
+doi: 10.18653/v1/2024.findings-acl.97
+url: https://doi.org/10.18653/v1/2024.findings-acl.97
+abstract: "Bosheng Ding, Chengwei Qin, Ruochen Zhao, Tianze Luo, Xinze Li, Guizhen Chen, Wenhan Xia, Junjie Hu, Anh Tuan Luu, Shafiq Joty. Findings of the Association for Computational Linguistics: ACL 2024. 2024."
+type: other
+open_access: true
+cited_by: 92
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.492
+score_parts:
+  rank: 0.2
+  citations: 0.492
+  recency: 0.8
+needs_approval: false
+state: candidate

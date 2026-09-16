@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-71e9e5e963
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.61700/85oqxe1omy90e2487
+title: "Agentic Data Analytics: Automating Research Workflows"
+authors:
+  - Peter Gruber
+year: 2026
+venue: null
+doi: 10.61700/85oqxe1omy90e2487
+url: https://doi.org/10.61700/85oqxe1omy90e2487
+abstract: This workshop introduces Agentic Data Analytics, the next frontier in research automation. Unlike standard chatbots, autonomous AI agents can plan, execute, debug, and summarize an entire scientific analysis — and even draft the report. Using the free Google Antigravity tool, participants learn how to build reproducible agentic workflows using precise natural language, covering data cleaning, analysis, visualization, and report generation directly on their laptop.
+type: other
+open_access: null
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.063
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

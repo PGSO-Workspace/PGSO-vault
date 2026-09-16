@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-483ae0d927
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7205003725
+title: "Security Architecture for Agentic AI in Enterprise Cloud Environments: A Zero-Trust Framework for Secure Autonomous Systems"
+authors:
+  - Sachin Suryawanshi
+year: 2026
+venue: International Journal of Innovative Science and Research Technology (IJISRT)
+doi: 10.38124/ijisrt/26aug1168
+url: https://doi.org/10.38124/ijisrt/26aug1168
+abstract: "Agentic artificial intelligence expands the enterprise security boundary because autonomous agents can plan tasks, retain memory, invoke tools, call APIs, and initiate business actions. Authentication at session start is therefore insufficient when later actions may be influenced by untrusted content, poisoned memory, compromised tools, or excessive delegated privilege. This paper proposes the Zero Trust Agentic AI Security Framework (ZT-AASF), a vendor-neutral architecture that applies continuous verification to consequential agent actions. The framework separates six control planes: identity and delegation, context and data trust, policy and risk decision, tool and action enforcement, runtime observability, and containment and recovery. A contextual authorization model evaluates delegated scope, source provenance, data sensitivity, tool risk, behavioral deviation, and action impact before execution. A design-level evaluation against ten OWASP agentic risk classes produces 27 of 30 control-coverage points for ZT-AASF versus 5 of 30 for a conventional integration baseline. These values represent architectural coverage, not measured attack-prevention rates. The results indicate that moving enforcement from the session boundary to the action boundary can reduce implicit trust, constrain privilege propagation, and improve auditability while preserving useful autonomy."
+type: article
+open_access: true
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.077
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

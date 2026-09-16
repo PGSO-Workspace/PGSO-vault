@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3505637ce0
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4388441462
+title: ChatGPT is a Remarkable Tool—For Experts
+authors:
+  - Amos Azaria
+  - Rina Azoulay
+  - Shulamit Reches
+year: 2023
+venue: Data Intelligence
+doi: 10.1162/dint_a_00235
+url: https://doi.org/10.1162/dint_a_00235
+abstract: ABSTRACT This paper investigates the capabilities of ChatGPT as an automated assistant in diverse domains, including scientific writing, mathematics, education, programming, and healthcare. We explore the potential of ChatGPT to enhance productivity, streamline problem-solving processes, and improve writing style. Furthermore, we highlight the potential risks associated with excessive reliance on ChatGPT in these fields. These limitations encompass factors like incorrect and fictitious responses, inaccuracies in code, limited logical reasoning abilities, overconfidence, and critical ethical concerns of copyright and privacy violation. We outline areas and objectives where ChatGPT proves beneficial, applications where it should be used judiciously, and scenarios where its reliability may be limited. In light of observed limitations, and given that the tool's fundamental errors may pose a special challenge for non-experts, ChatGPT should be used with a strategic methodology. By drawing from comprehensive experimental studies, we offer methods and flowcharts for effectively using ChatGPT. Our recommendations emphasize iterative interaction with ChatGPT and independent verification of its outputs. Considering the importance of utilizing ChatGPT judiciously and with expertise, we recommend its usage for experts who are well-versed in the respective domains.
+type: article
+open_access: true
+cited_by: 117
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.418
+score_parts:
+  rank: 0.2
+  citations: 0.518
+  recency: 0.7
+needs_approval: false
+state: candidate

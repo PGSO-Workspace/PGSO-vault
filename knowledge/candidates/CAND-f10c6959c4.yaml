@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f10c6959c4
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-10863696/v1
+title: "Who Governs Autonomous AI Execution? Execution Governance AI (EGA) V9: A Deterministic Runtime Governance Framework for Trustworthy Autonomous Workflows."
+authors:
+  - DaeJung Byun
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-10863696/v1
+url: https://doi.org/10.21203/rs.3.rs-10863696/v1
+abstract: "Abstract As autonomous AI systems transition from language-generation tools to execution-driven agents, maintaining trustworthy runtime execution without sacrificing performance, operational cost, deployment simplicity, or security has become a fundamental engineering challenge. How can autonomous AI systems satisfy these requirements simultaneously without modifying existing AI applications or foundation models? Execution Governance AI (EGA) V9 addresses this challenge through a deterministic runtime-governance framework that combines deterministic replay, provenance-aware verification, trust-state evaluation, and fail-closed containment as a unified executiongovernance layer. The proposed framework was evaluated using a comprehensive methodology covering replay consistency, execution-divergence detection, provenance reconstruction, containment validation, largescale detection quality, hard-case robustness, runtime performance, runtime verification cost, deployment simplicity, runtime trust, and reproducibility. The evaluation included deterministic replay experiments, adversarial workflow mutation scenarios, large-scale governance validation, and reproducibility validation based on deterministic Replay Root generation and benchmark artifact verification. Across the predefined large-scale evaluation of up to 10,000 workflows and the 1,000-workflow hard-case evaluation, EGA V9 achieved 100% detection performance with 0% false-positive and false-negative rates, while deterministic replay remained consistent under the defined evaluation protocol. Runtime verification required zero additional language-model invocations, zero additional external API requests, and minimal execution overhead, while deterministic Replay Root generation and benchmark artifacts remained reproducible. These detection results characterize execution-divergence detection within the evaluated scenarios and should not be interpreted as guarantees of all runtime-security properties. Additional adversarial verification identified clear capability boundaries: fail-closed execution suppression remained effective while an active mismatch was present, whereas persistent post-incident restriction, exactly-once side-effect execution, and complete evidence-contract integrity were not established by the current implementation. Taken together, these results provide reproducible evidence that EGA V9 can serve as a practical foundation for deterministic execution governance within the evaluated scope, while also identifying specific runtime-governance capabilities that remain open for further development."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.2
+score_parts:
+  rank: 0.2
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

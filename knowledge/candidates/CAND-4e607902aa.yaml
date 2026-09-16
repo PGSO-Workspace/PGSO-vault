@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4e607902aa
+created: 2026-09-15T00:31:36.231Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2026.3722875
+title: A Multimodal Sentiment Analysis Model Based on Information Enhancement toward Modal Absence
+authors:
+  - Yan Cheng
+  - Chengxing Fang
+year: 2026
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2026.3722875
+url: https://doi.org/10.1109/taffc.2026.3722875
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Coupling Sentiment and Arousal Analysis Towards an Affective Dialogue Manager"'
+question: null
+search: SEARCH-7bc8da0319
+score: 1.063
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

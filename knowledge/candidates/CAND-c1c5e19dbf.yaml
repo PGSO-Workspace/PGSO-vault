@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c1c5e19dbf
+created: 2026-09-14T23:47:30.960Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412929608
+title: "Transforming Data Annotation with AI Agents: A Review of Architectures, Reasoning, Applications, and Impact"
+authors:
+  - Md Monjurul Karim
+  - Sangeen Khan
+  - Dong Hoang Van
+  - X. L. Liu
+  - Chunhui Wang
+  - Qiang Qu
+year: 2025
+venue: Future Internet
+doi: 10.3390/fi17080353
+url: https://doi.org/10.3390/fi17080353
+abstract: Data annotation serves as a critical foundation for artificial intelligence (AI) and machine learning (ML). Recently, AI agents powered by large language models (LLMs) have emerged as effective solutions to longstanding challenges in data annotation, such as scalability, consistency, cost, and limitations in domain expertise. These agents facilitate intelligent automation and adaptive decision-making, thereby enhancing the efficiency and reliability of annotation workflows across various fields. Despite the growing interest in this area, a systematic understanding of the role and capabilities of AI agents in annotation is still underexplored. This paper seeks to fill that gap by providing a comprehensive review of how LLM-driven agents support advanced reasoning strategies, adaptive learning, and collaborative annotation efforts. We analyze agent architectures, integration patterns within workflows, and evaluation methods, along with real-world applications in sectors such as healthcare, finance, technology, and media. Furthermore, we evaluate current tools and platforms that support agent-based annotation, addressing key challenges such as quality assurance, bias mitigation, transparency, and scalability. Lastly, we outline future research directions, highlighting the importance of federated learning, cross-modal reasoning, and responsible system design to advance the development of next-generation annotation ecosystems.
+type: article
+open_access: true
+cited_by: 25
+query: '"Policy-as-Prompt" LLM agents'
+question: null
+search: SEARCH-b69be67f4a
+score: 1.587
+score_parts:
+  rank: 0.333
+  citations: 0.354
+  recency: 0.9
+needs_approval: false
+state: candidate

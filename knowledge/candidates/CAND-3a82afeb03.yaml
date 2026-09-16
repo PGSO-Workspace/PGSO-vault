@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3a82afeb03
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/access.2025.3559082
+title: Enriching Emotional Expressiveness in Embodied Conversational Agents Using Anime Effects
+authors:
+  - Keishi Tainaka
+  - Toshiharu Horiuchi
+  - Hanif Fermanda Putra
+  - Tatsuya Kobayashi
+year: 2025
+venue: IEEE Access
+doi: 10.1109/access.2025.3559082
+url: https://doi.org/10.1109/access.2025.3559082
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 1.038
+score_parts:
+  rank: 0.063
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

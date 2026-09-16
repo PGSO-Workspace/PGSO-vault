@@ -1,0 +1,21 @@
+schema: phdude.result
+version: 1
+id: RESULT-8dd37841eb
+created: 2026-09-15T00:35:26.395Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: "invariant: 0 missed blocks and 0 unnecessary blocks in 1206 finite-policy preflight episodes"
+from: ANALYSIS-607978b848
+values:
+  episodes: 1206
+  expected_block: 16
+  expected_allow: 1190
+  missed_blocks: 0
+  unnecessary_blocks: 0
+state: candidate
+ext:
+  analysis:
+    key: invariant
+    run_at: 2026-09-15T00:35:26.395Z

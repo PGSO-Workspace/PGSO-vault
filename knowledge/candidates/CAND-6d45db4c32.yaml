@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6d45db4c32
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3139/9781569909690.fm
+title: Building AI Agents for Engineers
+authors: []
+year: 2026
+venue: Building AI Agents for Engineers
+doi: 10.3139/9781569909690.fm
+url: https://doi.org/10.3139/9781569909690.fm
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.029
+score_parts:
+  rank: 0.029
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

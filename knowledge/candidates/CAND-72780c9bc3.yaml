@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-72780c9bc3
+created: 2026-09-15T00:31:11.443Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/s44430-026-00028-2
+title: Emotion recognition in human robot collaboration for multimodal approaches, real-world challenges and future directions
+authors:
+  - Nikhilsingh Parihar
+  - Kanan
+  - Rashmi Chawla
+  - Giancarlo Fortino
+year: 2026
+venue: Discover Robotics
+doi: 10.1007/s44430-026-00028-2
+url: https://doi.org/10.1007/s44430-026-00028-2
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: '"Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition"'
+question: null
+search: SEARCH-f9a249d1ae
+score: 1.23
+score_parts:
+  rank: 0.111
+  citations: 0.119
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-43f95ea89f
+created: 2026-09-15T01:10:06.269Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-78f0018d2d
+locator: 'Author-hosted 14-page manuscript; exact file date/accepted status unstated. Title/authors and results correspond to journal record. Journal17(1),656–669,Jan–Mar2026; PubMed records article date2025-11-06 and English journal article. Publisher text not compared.; [{"section": "Method and experimental setup", "pdf_pages": [3, 4, 5]}, {"section": "Results and embedding analysis", "pdf_pages": [7]}, {"section": "Text-encoder fine-tuning, TableVII and cross-corpus results", "pdf_pages": [10]}, {"section": "Cross-corpus limits and mislabeled-environment ablation", "pdf_pages": [11]}]'
+excerpt: "Research paraphrase, not quotation: Text descriptions of environments condition a transformer SER model trained on MSP-Podcast with added Freesound/DEMAND noise. Tests unseen noise environments, multiple SNRs, MSP-IMPROV transfer, and deliberately incorrect environment tags. Assumes useful environmental information. Added-noise experiments do not cover every real recording distortion; cross-corpus benefit is attribute-dependent."
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-30b975db0e

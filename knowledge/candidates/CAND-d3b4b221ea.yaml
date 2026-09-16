@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d3b4b221ea
+created: 2026-09-15T06:32:59.436Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21437/interspeech.2025-619
+title: "Speech-IFEval: Evaluating Instruction-Following and Quantifying Catastrophic Forgetting in Speech-Aware Language Models"
+authors:
+  - Ke-Han Lu
+  - Chun-Yi Kuan
+  - Hung-yi Lee
+year: 2025
+venue: Interspeech 2025
+doi: 10.21437/interspeech.2025-619
+url: https://doi.org/10.21437/interspeech.2025-619
+abstract: null
+type: article
+open_access: null
+cited_by: 8
+query: speech language model evaluation paralinguistic benchmark instruction following
+question: null
+search: SEARCH-463495b5f3
+score: 1.21
+score_parts:
+  rank: 0.071
+  citations: 0.239
+  recency: 0.9
+needs_approval: false
+state: candidate

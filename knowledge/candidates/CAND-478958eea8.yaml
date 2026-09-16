@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-478958eea8
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/978-3-031-89103-8_7
+title: Enhancing Accuracy and Explainability in Anomaly Classification with Large Language Models
+authors:
+  - Roberto Santana
+year: 2025
+venue: Communications in Computer and Information Science
+doi: 10.1007/978-3-031-89103-8_7
+url: https://doi.org/10.1007/978-3-031-89103-8_7
+abstract: null
+type: chapter
+open_access: null
+cited_by: 2
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.05
+score_parts:
+  rank: 0.031
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

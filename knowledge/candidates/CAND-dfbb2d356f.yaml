@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dfbb2d356f
+created: 2026-09-15T00:30:50.983Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7204626807
+title: "Audiobook Usage Patterns Using Big Data Analytics: Insights from Large-Scale Cloud Data Analysis"
+authors:
+  - Mohanaprakash Thottipalayam Andavan
+  - Upendra Kumar
+  - Poonguzhali Chelladurai
+  - Yesudhasan JustinDhas
+  - Vijayashanthi Vaitheeswaran
+  - R. Vasanthi
+year: 2026
+venue: VFAST Transactions on Software Engineering
+doi: 10.21015/vtse.v14i3.2459
+url: https://doi.org/10.21015/vtse.v14i3.2459
+abstract: Contemporary digital ecosystems favor audio data as a handy alternative for reading. Personalising suggestions and optimising Audiodata systems requires understanding end-user usage habits. Existing approaches often rely on small datasets or weak analytical frameworks, making it difficult to capture diverse user behaviors and preferences. Audiodata Usage Patterns using Big Data Analytics (AUP-BDA) uses large-scale data to study user behavior and address these concerns. To analyze diverse audio data consumption habits, AUP-BDA uses powerful machine learning methods and scalable data processing. Millions of interactions, including listening durations, completion rates, and genre preferences, were analyzed using the suggested methodology. These patterns enable AUP-BDA to identify user engagement variables and to provide content optimization and platform design suggestions. Critical insights include how listening habits affect user retention, how customization improves user happiness, and upcoming patterns of Audiodata consumption. These findings show that AUP-BDA may help industry stakeholders create compelling Audiodata experiences.
+type: article
+open_access: true
+cited_by: 0
+query: '"ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"'
+question: null
+search: SEARCH-40ed8087e2
+score: 1.25
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9d0824d5ae
+created: 2026-09-15T07:48:25.542Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20377/rpb-1993
+title: "Wakefield, David (2024). Damit das Leben gelingt. Ermöglichung als allgemein-didaktisches Modell einer subjektorientierten Erwachsenenkatechese. Zenodo, 261 Seiten.  DOI: https://doi.org/10.5281/zenodo.14998908"
+authors:
+  - Angela Kaupp
+year: 2026
+venue: Religionspädagogische Beiträge
+doi: 10.20377/rpb-1993
+url: https://doi.org/10.20377/rpb-1993
+abstract: Rezension
+type: article
+open_access: null
+cited_by: 0
+query: '"zenodo.22296644" L-DREA'
+question: null
+search: SEARCH-78cd1e9416
+score: 1.071
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

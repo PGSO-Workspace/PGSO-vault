@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1c42f73df7
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3746027.3755389
+title: Real-Time EEG Emotion Recognition from Dynamic Mixed Spatiotemporal Graph Learning
+authors:
+  - Yue Pan
+  - Cunbo Li
+  - Peiyang Li
+  - Fali Li
+  - Feng Wan
+  - Dezhong Yao
+  - Zehong Cao
+  - Peng Xu
+year: 2025
+venue: Proceedings of the 33rd ACM International Conference on Multimedia
+doi: 10.1145/3746027.3755389
+url: https://doi.org/10.1145/3746027.3755389
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 1.025
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

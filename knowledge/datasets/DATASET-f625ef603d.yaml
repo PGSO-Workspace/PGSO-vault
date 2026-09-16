@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-f625ef603d
+created: 2026-09-15T01:09:31.688Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/bibliography-screen80-v2.json
+hash: f625ef603d5ba9c244ab004f6308a5d007cbd94bd458a59b827292c13a06dfbe
+bytes: 183904
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: "Second frozen 80-work screen: eight targeted text reviews, seven qualifying English Q1 journals; source capacity distinct from manuscript placement"

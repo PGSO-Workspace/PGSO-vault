@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-fb433bacaf
+created: 2026-09-15T18:03:38.239Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-mvp/research-bootstrap-9fcb654/python-environment.txt
+paths:
+  - sources/software/pgso-mvp/research-bootstrap-9fcb654/python-environment.txt
+hash: fb433bacaf92fbdee8edc119abb508770ef6cbbabc7c5f673c372474504f844c
+bytes: 1100
+mime: text/plain
+kind: txt
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 1100
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T18:03:34.557Z

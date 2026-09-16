@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bb24872faa
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.52783/jisem.v10i42s.8225
+title: Hybrid Feature Extraction Technique with Data Augmentation for Speech Emotion Recognition Using Deep Learning
+authors:
+  - Priyanka Joshi
+year: 2025
+venue: Journal of Information Systems Engineering and Management
+doi: 10.52783/jisem.v10i42s.8225
+url: https://doi.org/10.52783/jisem.v10i42s.8225
+abstract: Prediction of emotions from human speech by machines is termed as speech emotion recognition. Speech is one of the most common and fastest methods of communication between humans. Speech emotion recognition (SER) by machines is a challenging task. Various deep learning algorithms are trying to make machines having such learning capabilities to achieve this task. Several researches are being conducted toward this area but identifying correct emotions from human speech is still challenging. The process of speech emotion recognition consists of three main stages –the feature extraction, feature selection and classification. The feature extraction is considered as the most significant among them. Several researches work has been conducted in the past years and most of them used one technique of feature extraction for training the model. In this paper we have presented hybrid feature extraction technique with data augmentation for an effective emotion recognition model. The simulations are performed by using TESS dataset. From the speech data two sets of features are extracted by using two techniques, with first technique we use mel frequency cepstral coefficient ( MFCC )as feature sets and in the next approach the mel spectrogram images have been extracted The data augmentation technique has been proposed by noise addition to increase the number of samples. Then a Convolutional Neural network (CNN) is implemented for training and testing the model to achieve better accuracy. Our proposed hybrid feature set with data augmentation technique achieved the accuracy of 95.21%.
+type: article
+open_access: null
+cited_by: 1
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 1.086
+score_parts:
+  rank: 0.111
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

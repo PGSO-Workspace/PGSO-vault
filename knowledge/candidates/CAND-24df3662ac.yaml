@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-24df3662ac
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7130525335
+title: "Cross-Lingual Speech Emotion Recognition with Attention-Driven Bi-LSTM: Advancing Kashmiri and Multilingual Adaptation"
+authors:
+  - Gh. Mohmad Dar
+  - Radhakrishnan Delhibabu
+year: 2026
+venue: International Journal of Analysis and Applications
+doi: 10.28924/2291-8639-24-2026-43
+url: https://doi.org/10.28924/2291-8639-24-2026-43
+abstract: "Speech Emotion Recognition (SER) has achieved notable success in high-resource languages, yet remains underexplored for Kashmiri, a low-resource Dardic language characterized by tonal and prosodic complexity. This study introduces the first systematic framework for Kashmiri SER and examines its cross-lingual adaptability using Urdu, Persian, and English language datasets. A Bidirectional Long Short-Term Memory (Bi-LSTM) network with attention mechanism was employed to capture bidirectional temporal dependencies while emphasizing emotionally salient segments, with Mel-Frequency Cepstral Coefficients (MFCCs) and spectrogram features as inputs. Three experiments were conducted: within-language evaluation yielded high accuracies (93.2% for Kashmiri, 97% for Urdu, 85% for Persian, and 80.05% for English); cross-lingual transfer revealed substantial performance decline (25–34%), highlighting phonetic and prosodic mismatches; and progressive domain adaptation improved results up to 89%, 81%, and 83% for Urdu, Persian, and English, respectively. These findings demonstrate the challenges of direct transfer and the promise of adaptation, offering a pathway toward resource-efficient, multilingual SER for underrepresented languages."
+type: article
+open_access: true
+cited_by: 0
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 1.091
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

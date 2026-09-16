@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6ff70d43d6
+created: 2026-09-15T09:46:16.656Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/iccwamtip68645.2025.11352711
+title: A Behavior-Aware Heterogeneous Graph Convolutional Neural Network for Multi-Behavior Recommendation
+authors:
+  - Chen Yipeng
+year: 2025
+venue: 2025 22nd International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP)
+doi: 10.1109/iccwamtip68645.2025.11352711
+url: https://doi.org/10.1109/iccwamtip68645.2025.11352711
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees" PDF'
+question: null
+search: SEARCH-ab2b977fc5
+score: 1.043
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

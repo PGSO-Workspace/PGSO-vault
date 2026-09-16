@@ -1,0 +1,26 @@
+schema: phdude.artifact
+version: 1
+id: ART-4978f18205
+created: 2026-09-15T09:57:53.749Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/live-composite-19b5c58/test_pilot.py
+paths:
+  - sources/software/pgso-sdk/live-composite-19b5c58/test_pilot.py
+hash: 4978f18205beb43d90f374f9458475bb58db514ce94762f61ecfa307d95b2c1c
+bytes: 17086
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T09:57:53.530Z
+versions_of: ART-2ac8ed973c
+latest: true

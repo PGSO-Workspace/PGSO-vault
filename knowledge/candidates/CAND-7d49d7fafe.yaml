@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7d49d7fafe
+created: 2026-09-14T16:52:21.644Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.engappai.2025.111721
+title: Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets
+authors:
+  - Zijun Jia
+  - Diyin Tang
+  - Hongyu Long
+  - Jinsong Yu
+year: 2025
+venue: Engineering Applications of Artificial Intelligence
+doi: 10.1016/j.engappai.2025.111721
+url: https://doi.org/10.1016/j.engappai.2025.111721
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets
+question: null
+search: SEARCH-4814dc8848
+score: 2.019
+score_parts:
+  rank: 1
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

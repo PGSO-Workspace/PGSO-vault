@@ -1,0 +1,18 @@
+schema: phdude.source
+version: 1
+id: SRC-da06f686a0
+created: 2026-09-15T18:33:41.151Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: PGSO real-generation public voice development pilot, September 2026
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-2b30ef5efd
+state: candidate
+year: 2026
+abstract: Seven conditions over three public telecom development tasks, all reaching max_steps with zero original task successes. Raw archive DATASET-4179f680d6 and registered analysis ANALYSIS-2368d92858, RESULT-b2e138dc20. Descriptive feasibility evidence, not superiority or human utility.
+bibkey: pgso2026da06f686a0

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-18ab0bd1f6
+created: 2026-09-15T00:31:11.443Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-8807080/v1
+title: TAC-Net:Triple Attention Contrastive Network for Speech Complex Emotion Recognition in Real-Scene
+authors:
+  - Hankiz Yilahun
+  - Chaobo Song
+  - Askar Hamdulla
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-8807080/v1
+url: https://doi.org/10.21203/rs.3.rs-8807080/v1
+abstract: "Abstract Speech Emotion Recognition (SER) in real-world scenarios remains a challenging task due to uncontrolled acoustic interference and the co-occurrence of complex emotions. Existing single-label approaches often struggle to capture fine-grained emotional semantics while suppressing noise, leading to significant performance degradation in complex environments. To address this, we propose a Triple Attention Contrastive Network (TAC-Net), designed to enhance model robustness through multi-dimensional feature decoupling and reconstruction. First, we introduce a Label-wise Attention Module comprising three collaborative networks: Multi-label Attention (MLA) explicitly models the latent dependencies among emotion tags; Local-Global Attention (LGA) locates key emotional frames temporally while capturing long-range context; and Time-Frequency Attention (TFA) focuses on spectral energy distributions to mitigate channel distortion. Furthermore, a Contrastive Reconstruction-based Fusion Module is incorporated to align heterogeneous features in the latent space via contrastive learning, effectively filtering redundant noise while preserving critical emotional information. Experimental results on the large-scale M³ED and CMU-MOSEI datasets demonstrate that TAC-Net not only significantly outperforms existing unimodal baselines but also achieves competitive performance comparable to multimodal methods in handling multi-label and noisy data."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition"'
+question: null
+search: SEARCH-f9a249d1ae
+score: 1.077
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

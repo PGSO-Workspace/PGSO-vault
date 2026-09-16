@@ -1,0 +1,26 @@
+schema: phdude.artifact
+version: 1
+id: ART-4b4c0b4846
+created: 2026-09-15T09:50:06.677Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/task-agentspec-62937ad/framework_sidecar.py
+paths:
+  - sources/software/pgso-sdk/task-agentspec-62937ad/framework_sidecar.py
+hash: 4b4c0b48467d61a404559ba8d9c1e12a912299240de3950524c35c70621acc03
+bytes: 16438
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T09:50:06.464Z
+versions_of: ART-7c79a60442
+latest: true

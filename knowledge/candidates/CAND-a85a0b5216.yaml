@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a85a0b5216
+created: 2026-09-15T09:46:31.407Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4401149891
+title: "Firm‐level climate risk and corporate violations: Perspective of corporate managers' pressure perception"
+authors:
+  - Xiao-Nan Sun
+  - Fanghui Ci
+  - Javier Cifuentes‐Faura
+  - Xiaoqian Liu
+year: 2024
+venue: Managerial and Decision Economics
+doi: 10.1002/mde.4323
+url: https://doi.org/10.1002/mde.4323
+abstract: "Abstract This study is grounded in the perspective of pressure perception, examining how a company's awareness of climate risk influences its propensity for violations. The study reveals that an enhanced perception of climate risks is correlated with an increased likelihood of such behaviors. This effect is primarily mediated through a mechanism of stress transmission, exacerbating the myopia and rent‐seeking activities of corporate managers. Furthermore, this study integrates a heterogeneity analysis within the framework of the fraud triangle theory to explore strategies for mitigating the impact of climate risk perception on corporate violations. The findings indicate that the influence of climate risk perception on corporate violations becomes insignificant under certain conditions: when companies offer strong equity incentives to managers, thus alleviating pressure; when companies are heavily influenced by Confucian culture, thereby reducing rationalizations; and when companies possess robust internal governance and are subject to stringent external oversight, thereby diminishing opportunities for violations. This study not only validates the pressure transmission mechanism of climate risk but also proposes avenues for mitigating the onset of non‐compliant behaviors induced by the perception of climate risk."
+type: article
+open_access: true
+cited_by: 19
+query: Yue Qi personality cultural variables psychological simulations
+question: null
+search: SEARCH-4cdf3b8231
+score: 1.184
+score_parts:
+  rank: 0.059
+  citations: 0.325
+  recency: 0.8
+needs_approval: false
+state: candidate

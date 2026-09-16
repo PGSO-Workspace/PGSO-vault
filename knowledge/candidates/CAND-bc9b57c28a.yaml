@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bc9b57c28a
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415589124
+title: "Large Language Models for Constructing and Optimizing Machine Learning Workflows: A Survey"
+authors:
+  - Yang Gu
+  - Hengyu You
+  - Jian Cao
+  - Muran Yu
+  - Haoran Fan
+  - Shiyou Qian
+year: 2025
+venue: ACM Transactions on Software Engineering and Methodology
+doi: 10.1145/3773084
+url: https://doi.org/10.1145/3773084
+abstract: Machine Learning (ML) workflows—spanning data preprocessing and feature engineering, model selection and hyperparameter optimization, and workflow evaluation—are increasingly embedded in complex software systems. Building these workflows manually demands substantial ML expertise, domain knowledge, and engineering effort. Automated ML (AutoML) frameworks address parts of this challenge but often suffer from constrained search spaces, limited adaptability, and low interpretability. Recent advances in Large Language Models (LLMs) have opened new opportunities to automate and enhance ML workflows by leveraging their capabilities in language understanding, reasoning, interaction, and code generation, posing new practical and theoretical challenges for Software Engineering (SE). This survey provides the first SE-oriented, stage-wise review of LLM-based ML workflow automation. We introduce a taxonomy covering all three workflow stages, systematically compare and analyze state-of-the-art methods, and synthesize both stage-specific and cross-stage trends. Our analysis yields SE-oriented implications, including the need for robust verification, quality management, context-aware deployment, and risk mitigation, alongside ensuring key quality attributes such as usability, modularity, traceability, and performance. The findings also call for adapting development models, rethinking lifecycle boundaries, and formalizing uncertainty handling to address the probabilistic and collaborative nature of LLM-assisted workflow generation. We further identify major open challenges and outline future research directions to guide the reliable and effective adoption of LLMs in ML workflow development. Our artifacts are publicly available at https://github.com/t-harden/LLM4AutoML .
+type: article
+open_access: true
+cited_by: 11
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.503
+score_parts:
+  rank: 0.333
+  citations: 0.27
+  recency: 0.9
+needs_approval: false
+state: candidate

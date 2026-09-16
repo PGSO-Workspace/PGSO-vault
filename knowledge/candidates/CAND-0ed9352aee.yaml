@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0ed9352aee
+created: 2026-09-14T23:47:13.887Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7166863805
+title: "Securing the Tool Layer: A Threat Taxonomy and Runtime Defense Framework for Model Context Protocol Deployments"
+authors:
+  - Saurabh Yergattikar
+year: 2026
+venue: null
+doi: 10.18653/v1/2026.acl-industry.58
+url: https://doi.org/10.18653/v1/2026.acl-industry.58
+abstract: "The Model Context Protocol (MCP) has rapidly emerged as the dominant standard for connecting large language models to external tools, databases, and services.Yet this convenience introduces a fundamentally new attack surface that existing LLM safety measures fail to address: adversaries can now compromise AI agents not through the user prompt, but through the tools the agent trusts.We present SHIELDMCP, a runtime security framework grounded in two contributions.First, we introduce a structured threat taxonomy derived from analysis of 80+ attack techniques catalogued under the SAFE-MCP initiative within the Linux Foundation's OpenSSF, spanning 14 tactical categories adapted from the MITRE ATT&CK methodology.Second, we describe an interception architecture that performs realtime validation of MCP tool calls and responses, combining structural analysis with semantic intent verification to detect tool poisoning, indirect prompt injection through tool outputs, and supply chain manipulation.In red-team evaluation across five popular LLM backends, SHIELDMCP reduces attack success rates from 74% to under 9% for tool poisoning and from 47% to under 6% for indirect prompt injection via tool responses, while adding fewer than 120ms of median latency per tool call.We discuss deployment considerations, the tension between security and agent utility, and lessons applicable to any organization integrating MCP into production workflows.Our framework is categorized as an Emerging system intended for real-world deployment."
+type: other
+open_access: true
+cited_by: 0
+query: '"LlamaFirewall" runtime security framework'
+question: null
+search: SEARCH-dd1444607d
+score: 1.25
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

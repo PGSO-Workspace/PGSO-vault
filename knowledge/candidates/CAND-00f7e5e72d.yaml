@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-00f7e5e72d
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/access.2026.3729887
+title: "Uncertainty-Aware Brain-Tumor Type Classification from MRI: Segmentation-Guided ROI, Conformal Prediction, and Selective Abstention under Distribution Shift"
+authors:
+  - Ngan V. T. Nguyen
+  - Tuan Van Huynh
+  - Liet Van Dang
+year: 2026
+venue: IEEE Access
+doi: 10.1109/access.2026.3729887
+url: https://doi.org/10.1109/access.2026.3729887
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 1.043
+score_parts:
+  rank: 0.043
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

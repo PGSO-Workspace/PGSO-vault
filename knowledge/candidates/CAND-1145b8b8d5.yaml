@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1145b8b8d5
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4407084737
+title: Software Engineering by and for Humans in an AI Era
+authors:
+  - Silvia Abrahão
+  - John Grundy
+  - Mauro Pezzè
+  - Margaret‐Anne Storey
+  - Damian A. Tamburri
+year: 2025
+venue: ACM Transactions on Software Engineering and Methodology
+doi: 10.1145/3715111
+url: https://doi.org/10.1145/3715111
+abstract: The landscape of software engineering is undergoing a transformative shift driven by advancements in machine learning, Artificial Intelligence (AI), and autonomous systems. This roadmap article explores how these technologies are reshaping the field, positioning humans not only as end users but also as critical components within expansive software ecosystems. We examine the challenges and opportunities arising from this human-centered paradigm, including ethical considerations, fairness, and the intricate interplay between technical and human factors. By recognizing humans at the heart of the software lifecycle—spanning professional engineers, end users, and end user developers—we emphasize the importance of inclusivity, human-aligned workflows, and the seamless integration of AI-augmented socio-technical systems. As software systems evolve to become more intelligent and human-centric, software engineering practices must adapt to this new reality. This article provides a comprehensive examination of this transformation, outlining current trends, key challenges, and opportunities that define the emerging research and practice landscape, and envisioning a future where software engineering and AI work synergistically to place humans at the core of the ecosystem.
+type: article
+open_access: true
+cited_by: 34
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.357
+score_parts:
+  rank: 0.071
+  citations: 0.386
+  recency: 0.9
+needs_approval: false
+state: candidate

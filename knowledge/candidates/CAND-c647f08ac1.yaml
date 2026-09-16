@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c647f08ac1
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/fllm67465.2025.11390932
+title: "Explainable AI via Large Language Models: Translating Neural Network Behavior into Interpretable Decision Trees"
+authors:
+  - Belkacem Chikhaoui
+year: 2025
+venue: 2025 3rd International Conference on Foundation and Large Language Models (FLLM)
+doi: 10.1109/fllm67465.2025.11390932
+url: https://doi.org/10.1109/fllm67465.2025.11390932
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 1.006
+score_parts:
+  rank: 0.031
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

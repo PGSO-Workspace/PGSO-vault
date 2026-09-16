@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-932f74b494
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5465/amr.2021.0251
+title: "We Are Crisis: Runtime Errors in Programmatic Theory"
+authors:
+  - Richard J. Arend
+year: 2022
+venue: Academy of Management Review
+doi: 10.5465/amr.2021.0251
+url: https://doi.org/10.5465/amr.2021.0251
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 0.786
+score_parts:
+  rank: 0.111
+  citations: 0.075
+  recency: 0.6
+needs_approval: false
+state: candidate

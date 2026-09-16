@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e9db7c35f5
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/iaeac65194.2025.11166059
+title: An AI Agent and Large Language Model-Based Approach to Open Source Intelligence Analysis
+authors:
+  - Yang Su
+year: 2025
+venue: 2025 IEEE 8th Advanced Information Technology, Electronic and Automation Control Conference (IAEAC)
+doi: 10.1109/iaeac65194.2025.11166059
+url: https://doi.org/10.1109/iaeac65194.2025.11166059
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 0.928
+score_parts:
+  rank: 0.028
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

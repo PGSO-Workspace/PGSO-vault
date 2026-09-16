@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d6a0b80089
+created: 2026-09-14T16:52:13.175Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2026.3726761
+title: "DialogueSSD: Progressive Graph-Aware State Space Duality for Multimodal Emotion Recognition with Sentiment Dynamics in Conversations"
+authors:
+  - Zijian Min
+  - Byung Cheol Song
+year: 2026
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2026.3726761
+url: https://doi.org/10.1109/taffc.2026.3726761
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: "Tracing Intricate Cues in Dialogue: Joint Graph Structure and Sentiment Dynamics for Multimodal Emotion Recognition"
+question: null
+search: SEARCH-9b8336ffa2
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

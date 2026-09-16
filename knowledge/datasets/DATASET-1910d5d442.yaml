@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-1910d5d442
+created: 2026-09-15T06:12:39.465Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+path: data/pgso-operational-7805fb9.tar.gz
+hash: 1910d5d442162e30d6e0c236990d49a41f144b234abbabb35cf3fdd9e928c9a8
+bytes: 262811
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: "Imported SDK7805fb9 operational measurement: clean main run (48 process blocks, 4800 measured batches), raw responses/timings/logs, complete manifests, separate engineering/diagnostic replay, and both excluded development calibration runs. SDK execution, not a PhDude re-execution or human study."

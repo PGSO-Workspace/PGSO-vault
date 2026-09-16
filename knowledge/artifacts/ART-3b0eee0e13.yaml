@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-3b0eee0e13
+created: 2026-09-15T08:27:53.337Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/peffers-dsrm-2007-author-hosted.pdf
+paths:
+  - sources/literature/peffers-dsrm-2007-author-hosted.pdf
+hash: 3b0eee0e13dec73c03672caa9dec073f139c73cdaaf36b2f90045e48c38b0c36
+bytes: 507442
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 91611
+  sections: 34
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T08:27:46.309Z

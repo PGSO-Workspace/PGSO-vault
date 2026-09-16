@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8a9bf6f71d
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7160726747
+title: "SOCpilot: Verifying Policy Compliance for LLM-Assisted Incident Response"
+authors:
+  - Sidnei Barbieri
+  - Leonardo Vaz de Meneses
+  - Ágney Lopes Roth Ferraz
+  - Lourenço Alves Pereira Júnior
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2605.05501
+abstract: Security operations centers (SOCs) are beginning to use large language models (LLMs) as copilots to draft incident-response plans. These plans may include actions that are valid per the catalog but still violate mandatory steps, required ordering, or approval gates before analyst review. SOCpilot makes this compliance question measurable at the plan boundary. It fixes the incident package, action catalog, policy rules, verifier, and public evidence surface. Next, it verifies the copilot's proposed action trace. We evaluate two LLM providers on 200 real incidents from an anonymized production SOC in a financial-sector case study. We compare their plans to paired analyst-authored references from the same security orchestration, automation, and response (SOAR) cases. An identical inline policy text moves the two providers in opposite directions. A deterministic verifier removes 466 non-compliant, approval-gated actions, without reducing baseline-task recall. Aggregate rates remain stable across 3 reruns of the fixed corpus. The official evidence focuses on approval-gated decisions regarding recovery and containment. Separately, the artifact exposes zero-cost readiness checks for mandatory and ordering repairs. We release the runnable artifact so independent reviewers can rederive the public results without access to private incident data.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.091
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

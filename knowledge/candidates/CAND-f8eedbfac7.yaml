@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f8eedbfac7
+created: 2026-09-15T01:07:48.528Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1515/9783111382883-025
+title: B. Länderberichte
+authors: []
+year: 2025
+venue: Restatement of Restitution Rules for Nazi-Confiscated Art
+doi: 10.1515/9783111382883-025
+url: https://doi.org/10.1515/9783111382883-025
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: 10.1038/s42256-025-01115-6
+question: null
+search: SEARCH-770fd28165
+score: 1.9
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

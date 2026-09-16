@@ -1,0 +1,43 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bf399b4c1a
+created: 2026-09-15T07:50:34.676Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7167888950
+title: Public Opinion in the Age of AI
+authors:
+  - Joshua D. Clinton
+  - Soubhik Barari
+  - Ethan Busby
+  - Trent Buskirk
+  - Raymond Duch
+  - Anna‐Carolina Haensch
+  - D. Sunshine Hillygus
+  - Courtney Kennedy
+  - Kevin Munger
+  - Douglas Rivers
+  - Sean Westwood
+year: 2026
+venue: null
+doi: 10.33774/apsa-2026-1rg21-v4
+url: https://doi.org/10.33774/apsa-2026-1rg21-v4
+abstract: "The study of public opinion occupies an uneasy space between theory and measurement, referring simultaneously to a latent set of beliefs held by members of a political community and to the responses elicited through imperfect, context-sensitive instruments. The integration of AI into public opinion research makes this tension unavoidable. AI offers tools that are faster, cheaper, and more flexible than anything available, but the effects also extend further in ways that can blur distinctions between measuring and manufacturing opinion. AI raises questions the field has long grappled with: What exactly is public opinion, and what counts as evidence of it? Whether AI enriches or distorts the study of public opinion depends on choices that are as much theoretical as technical. In the limit, substituting AI-generated responses for human voices risks a form of epistemic collapse in which public opinion research loses its anchor to the people it purports to represent."
+type: preprint
+open_access: true
+cited_by: 0
+query: '"10.1016/j.chb.2025.108687" manuscript'
+question: null
+search: SEARCH-183055ff3f
+score: 1.333
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

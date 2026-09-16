@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-02863be110
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4401728247
+title: Enhancing health care through medical cognitive virtual agents
+authors:
+  - Sushruta Mishra
+  - Pamela Chaudhury
+  - Hrudaya Kumar Tripathy
+  - Kshira Sagar Sahoo
+  - N. Z. Jhanjhi
+  - Asma Abbas Hassan Elnour
+  - Abdelzahir Abdelmaboud
+year: 2024
+venue: Digital Health
+doi: 10.1177/20552076241256732
+url: https://doi.org/10.1177/20552076241256732
+abstract: "Objective: The modern era of cognitive intelligence in clinical space has led to the rise of 'Medical Cognitive Virtual Agents' (MCVAs) which are labeled as intelligent virtual assistants interacting with users in a context-sensitive and ambient manner. They aim to augment users' cognitive capabilities thereby helping both patients and medical experts in providing personalized healthcare like remote health tracking, emergency healthcare and robotic diagnosis of critical illness, among others. The objective of this study is to explore the technical aspects of MCVA and their relevance in modern healthcare. Methods: In this study, a comprehensive and interpretable analysis of MCVAs are presented and their impacts are discussed. A novel system framework prototype based on artificial intelligence for MCVA is presented. Architectural workflow of potential applications of functionalities of MCVAs are detailed. A novel MCVA relevance survey analysis was undertaken during March-April 2023 at Bhubaneswar, Odisha, India to understand the current position of MCVA in society. Results: Outcome of the survey delivered constructive results. Majority of people associated with healthcare showed their inclination towards MCVA. The curiosity for MCVA in Urban zone was more than in rural areas. Also, elderly citizens preferred using MCVA more as compared to youths. Medical decision support emerged as the most preferred application of MCVA. Conclusion: The article established and validated the relevance of MCVA in modern healthcare. The study showed that MCVA is likely to grow in future and can prove to be an effective assistance to medical experts in coming days."
+type: article
+open_access: true
+cited_by: 46
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.551
+score_parts:
+  rank: 0.333
+  citations: 0.418
+  recency: 0.8
+needs_approval: false
+state: candidate

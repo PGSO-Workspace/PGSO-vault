@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7bf0efccf3
+created: 2026-09-15T06:35:31.594Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7211909059
+title: Auditing Bias and Safety in Voice AI Customer Care
+authors:
+  - Vignesh Ethiraj
+  - Ashwath David
+year: 2026
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2609.04206
+url: https://arxiv.org/abs/2609.04206
+abstract: Voice AI systems increasingly mediate customer care interactions where caller presentation cues such as accent, affect, fluency, and urgency are available alongside the service request. Existing fairness and safety evaluations cover speech recognition disparities, spoken dialogue bias, and voice agent capability, but rarely treat customer care voice agents as stateful, multi turn, tool mediated systems where harm can appear as additional burden before any final denial occurs. We formalize a validation gated audit framework for such systems. The framework (i) separates native speech to speech, cascaded ASR to language model to TTS, and hybrid tool mediated architectures; (ii) uses matched service facts across controlled caller presentation conditions; (iii) validates fact invariance, presentation cues, artifacts, and acoustic measurements before inference; and (iv) records both material outcomes and path to service burden. We define the research problem, methodology, seven validation gates, a six family metric set, and claim boundaries for an active industry evaluation program. We illustrate the framework with a fully synthetic worked example of a refund dispute audit instance. Production system results are excluded from this release; public reporting is gated by the validation protocol.
+type: preprint
+open_access: true
+cited_by: 0
+query: "2603.13686"
+question: null
+search: SEARCH-58818ee636
+score: 1.333
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-08fc387dc9
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4402714987
+title: "Infusing Emotions into Task-oriented Dialogue Systems: Understanding, Management, and Generation"
+authors:
+  - Shutong Feng
+  - Hsien-chin Lin
+  - Christian Geishauser
+  - Nurul Lubis
+  - Carel van Niekerk
+  - Michael Heck
+  - Benjamin Ruppik
+  - Renato Vukovic
+  - Milica Gasic
+year: 2024
+venue: null
+doi: 10.18653/v1/2024.sigdial-1.60
+url: https://doi.org/10.18653/v1/2024.sigdial-1.60
+abstract: Shutong Feng, Hsien-chin Lin, Christian Geishauser, Nurul Lubis, Carel van Niekerk, Michael Heck, Benjamin Ruppik, Renato Vukovic, Milica Gašić. Proceedings of the 25th Annual Meeting of the Special Interest Group on Discourse and Dialogue. 2024.
+type: other
+open_access: true
+cited_by: 3
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1.151
+score_parts:
+  rank: 0.2
+  citations: 0.151
+  recency: 0.8
+needs_approval: false
+state: candidate

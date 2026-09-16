@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a85b460b3e
+created: 2026-09-15T00:24:33.994Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7125503048
+title: "Therapists and Technology: A Qualitative Study on AI′s Role in Counseling"
+authors:
+  - Thseen Nazır
+year: 2026
+venue: Human Behavior and Emerging Technologies
+doi: 10.1155/hbe2/3616773
+url: https://doi.org/10.1155/hbe2/3616773
+abstract: Background Integrating artificial intelligence (AI) into mental health counseling revolutionizes therapeutic practices, with tools like ChatGPT and Woebot offering scalable and accessible support. While these advancements hold promise, the relational nature of counseling, rooted in empathy and cultural sensitivity, raises questions about the role of AI in maintaining the essence of human connection. Purpose This qualitative study explores therapists′ attitudes and beliefs about integrating AI in counseling, examining factors that facilitate or hinder acceptance. As AI tools increasingly enter therapeutic settings, understanding therapists′ perspectives on their potential, limitations, and ethical implications is crucial for responsible integration. Methodology Semistructured interviews were conducted with 20 therapists from diverse professional backgrounds and varying levels of AI exposure. Data were analyzed using reflexive thematic analysis following Braun and Clarke′s [1] framework, with findings interpreted through sociotechnical systems theory (STS) and an extended technology acceptance model (TAM). Findings The analysis revealed four major themes (1) AI as a complementary tool; (2) ethical concerns regarding data privacy, bias, and transparency; (3) cultural sensitivity challenges; and (4) limitations in replicating therapeutic dynamics. These findings informed a conceptual framework highlighting the conditional nature of AI acceptance. Conclusions The findings underscore the need for ethical, culturally sensitive AI systems to complement human therapists rather than replace them. AI acceptance among therapists depends on addressing trust deficits, incorporating diverse cultural perspectives in AI development, and preserving the relational core of therapeutic practice. This study offers theoretical and practical insights for researchers, developers, and practitioners seeking to integrate AI responsibly into mental health services.
+type: article
+open_access: true
+cited_by: 5
+query: voice agents prosody paralinguistic affective dialogue governance evaluation
+question: null
+search: SEARCH-fb4225ca20
+score: 1.32
+score_parts:
+  rank: 0.125
+  citations: 0.195
+  recency: 1
+needs_approval: false
+state: candidate

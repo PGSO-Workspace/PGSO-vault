@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-13bf57b0a2
+created: 2026-09-15T07:50:14.590Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.4018/ijgcms.343517
+title: An Improved Face Mask Detection Simulation Algorithm Based on YOLOv5 Model
+authors:
+  - Yue Qi
+  - Yiqin Wang
+  - Yunyun Dong
+year: 2024
+venue: International Journal of Gaming and Computer-Mediated Simulations
+doi: 10.4018/ijgcms.343517
+url: https://doi.org/10.4018/ijgcms.343517
+abstract: This paper proposes an advanced approach for detecting faces with mask occlusion based on YOLOv5 to address various challenges encountered in face detection, including illumination blur and occlusion. The proposed methodology involves the integration of a convolutional block attention module into the backbone network and different network levels in the neck of the YOLOv5s. This approach enables the suppression of irrelevant features and emphasizes the identification of masked facial features. Replacing the conventional loss function with the Focal Loss function addresses the problem of sample imbalance. The enhanced YOLOv5s network was applied to detect mask-occluded faces. Empirical evaluations were conducted on the WIDER Face and AIZOO datasets. The simulation comparison results demonstrate that the proposed method achieves superior real-time detection performance, fulfilling the objective of developing a lightweight detection model.
+type: article
+open_access: null
+cited_by: 1
+query: '"Toward accurate psychological simulations" "Yue Qi" repository'
+question: null
+search: SEARCH-32580e75f5
+score: 0.938
+score_parts:
+  rank: 0.063
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,55 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1e4cd8d9d4
+created: 2026-09-14T16:56:11.382Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4362515116
+title: A Survey of Large Language Models
+authors:
+  - Wayne Xin Zhao
+  - Kun Zhou
+  - Junyi Li
+  - Tianyi Tang
+  - Zican Dong
+  - Yupeng Hou
+  - Beichen Zhang
+  - Yingqian Min
+  - Junjie Zhang
+  - Peiyu Liu
+  - Xiaolei Wang
+  - Yifan Du
+  - Yushuo Chen
+  - Yushuo Chen
+  - Zhipeng Chen
+  - Jinhao Jiang
+  - Ruiyang Ren
+  - Yifan Li
+  - Xinyu Tang
+  - Peiyu Liu
+  - Yiwen Hu
+  - Jian‐Yun Nie
+  - Ji-Rong Wen
+year: 2026
+venue: Frontiers of Computer Science
+doi: 10.1007/s11704-026-60308-3
+url: https://doi.org/10.1007/s11704-026-60308-3
+abstract: "Abstract The rapid evolution of large language models (LLMs) has driven a transformative shift in artificial intelligence (AI), reshaping both research paradigms and practical applications. Distinguished from their predecessors by unprecedented scale and advanced capabilities, LLMs necessitate new frameworks for understanding their development, behavior, and societal impact. This survey systematically reviews recent advancements in LLM techniques across four key dimensions: (1) pre-training methodologies, which establish core model capabilities through large-scale self-supervised training, architectural innovations, and data curation strategies; (2) post-training techniques, including supervised fine-tuning and reinforcement learning, which adapt foundational models to downstream tasks and enhance their alignment and safety; (3) utilization strategies, such as in-context learning, prompt engineering, and agentic reasoning, that optimize real-world deployment and enable effective interaction with external environments; and (4) evaluation methods, encompassing benchmarks for key ability dimensions such as core language capabilities, reasoning, and safety, which support comprehensive and reliable assessment of model performance. Additionally, we identify critical research issues, including those concerning theoretical foundations, efficient scaling, alignment, and agentic capability, and highlight the open challenges they present. By synthesizing state-of-the-art insights and emerging trends, this survey aims to provide a systematic and comprehensive framework for understanding the trajectory, current limitations, and future directions of LLM progress."
+type: article
+open_access: true
+cited_by: 1533
+query: A Survey on the Optimization of Large Language Model-based Agents
+question: null
+search: SEARCH-a32d57a17a
+score: 2.129
+score_parts:
+  rank: 0.333
+  citations: 0.796
+  recency: 1
+needs_approval: false
+state: candidate

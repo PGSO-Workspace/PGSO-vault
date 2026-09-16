@@ -1,0 +1,19 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-520500f111
+created: 2026-09-15T08:38:13.231Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-pipeline-figure-v1.json
+hash: 520500f111d1c8620ea8771b0c74d46194d66c7961d0e74b39ff412bb323ee30
+bytes: 1926
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+versions_of: DATASET-513bb60ded
+latest: false

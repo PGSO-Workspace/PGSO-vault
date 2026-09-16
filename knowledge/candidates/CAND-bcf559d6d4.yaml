@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bcf559d6d4
+created: 2026-09-14T23:47:47.446Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5112369
+title: Gendered Security Analysis:&amp;nbsp; A Critical Tool for Security
+authors:
+  - James M. Minnich
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5112369
+url: https://doi.org/10.2139/ssrn.5112369
+abstract: <span>Traditional security approaches often overlook the crucial role of gender in shaping security outcomes. This chapter presents Gendered Security Analysis (GSA) as a transformative framework for understanding and addressing the complex interplay between gender and security. It introduces the GENDER 4Ps models to foster more inclusive, equitable, and effective security strategies. Practical tools like the Gender Security Analysis Tool (GSAT) and Rapid GSAT help integrate gender dynamics into operations, illustrated through stabilization operations and natural disaster response scenarios. The SHAPE and ACTION frameworks guide real-world applications. The chapter also examines case studies, including Malaysia’s National Action Plan, to illustrate how GSA can be operationalized within national security frameworks. By integrating GSA into security policy and practice, stakeholders can enhance situational awareness, improve operational effectiveness, and promote more equitable and sustainable security outcomes.</span>
+type: preprint
+open_access: null
+cited_by: 0
+query: '"AgentDojo" tool agents security'
+question: null
+search: SEARCH-95d8fe4170
+score: 0.95
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

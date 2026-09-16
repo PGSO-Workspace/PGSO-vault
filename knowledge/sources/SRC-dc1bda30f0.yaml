@@ -1,0 +1,18 @@
+schema: phdude.source
+version: 1
+id: SRC-dc1bda30f0
+created: 2026-09-15T06:44:30.502Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: Independent comparative validation for PGSO Paper 1
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-30d0bee537
+state: candidate
+year: 2026
+abstract: Candidate research synthesis and proposed independent public voice-task evaluation. Six selected Q1 journal sources, two explicitly non-Q1 preprints and primary implementation references inform a controlled design. No new benchmark execution or superiority result is asserted.
+bibkey: workspace2026independent

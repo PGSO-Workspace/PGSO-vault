@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8a10be240f
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/aicconf69182.2026.11600714
+title: Explainable Transformer-Based Speech Emotion Recognition Using Benchmark Datasets
+authors:
+  - Turgut Ozseven
+year: 2026
+venue: 2026 4th Cognitive Models and Artificial Intelligence Conference (AICCONF)
+doi: 10.1109/aicconf69182.2026.11600714
+url: https://doi.org/10.1109/aicconf69182.2026.11600714
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.053
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

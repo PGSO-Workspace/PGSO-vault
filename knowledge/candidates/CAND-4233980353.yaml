@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4233980353
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.cogr.2024.11.002
+title: "Fourier Hilbert: The input transformation to enhance CNN models for speech emotion recognition"
+authors:
+  - Bao Long Ly
+year: 2024
+venue: Cognitive Robotics
+doi: 10.1016/j.cogr.2024.11.002
+url: https://doi.org/10.1016/j.cogr.2024.11.002
+abstract: null
+type: article
+open_access: null
+cited_by: 3
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 0.985
+score_parts:
+  rank: 0.034
+  citations: 0.151
+  recency: 0.8
+needs_approval: false
+state: candidate

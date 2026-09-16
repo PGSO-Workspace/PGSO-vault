@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-562be22003
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3757232.3757344
+title: "Emotion-Aware Chatbot Architecture: Enhancing Human-Robot Interaction through Sentiment Detection and Lip Sync"
+authors:
+  - Mostafa Abdelaziz
+  - Mariam Mostafa
+  - Rami Hesham
+  - SaifEldin Mohamed
+  - Zahy Youssef
+year: 2025
+venue: Proceedings of the Fifth Biennial African Human-Computer Interaction Conference
+doi: 10.1145/3757232.3757344
+url: https://doi.org/10.1145/3757232.3757344
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 1.002
+score_parts:
+  rank: 0.027
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

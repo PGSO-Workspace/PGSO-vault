@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-64754bd050
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7133954561
+title: "Mapping the Landscape of Family Business Conflict: A Systematic Literature Review"
+authors:
+  - Mugi Harsono
+  - Dhika Amalia Kurniawan
+  - Nimas Melenia Mutiara Akbar
+  - Erlita Ridanasti
+  - Syahruddin Syahruddin
+  - Roghiebah Jadwa Faradisi
+year: 2026
+venue: Ekuilibrium Jurnal Ilmiah Bidang Ilmu Ekonomi
+doi: 10.24269/ekuilibrium.v21i1.2026.pp150-181
+url: https://doi.org/10.24269/ekuilibrium.v21i1.2026.pp150-181
+abstract: "Family businesses play a pivotal role in the global economy but are uniquely vulnerable to internal conflict due to the overlap of family and business roles. This systematic literature review (SLR) examines 25 peer-reviewed articles published between 2016 and 2025 to explore the evolving themes, theories, and methodologies in family business conflict research. The review responds to the urgent need for a deeper understanding of conflict dynamics amid rising challenges such as digitalization, intergenerational transitions, and global competitiveness. Using the PRISMA protocol and thematic analysis supported by the Watase Uake system, the study identifies four dominant categories in the literature: types of conflict (e.g., relational, generational, governance), sources of conflict, consequences of conflict on performance and relationships, and conflict resolution strategies. The findings reveal that Agency Theory and Socioemotional Wealth Theory are the most frequently applied, while cultural and digital factors increasingly influence conflict dynamics. Despite methodological diversity, research remains largely Western-centric and quantitatively focused, with limited attention to emotional and cultural dimensions in non-Western contexts. This SLR contributes by offering an integrative conceptual framework that synthesizes key variables, relationships, and contextual influences on family business conflict. It highlights the importance of culturally adaptive and proactive conflict management strategies, particularly in emerging markets. The study also identifies gaps for future research, including the need for longitudinal studies, mixed-method approaches, and exploration of digital tools in conflict resolution. The review informs both academic inquiry and practical governance in sustaining family firms."
+type: other
+open_access: true
+cited_by: 1
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 1.138
+score_parts:
+  rank: 0.063
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

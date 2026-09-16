@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b71d85bdf6
+created: 2026-09-15T09:46:31.407Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4406399771
+title: Current virtual reality-based rehabilitation interventions in neuro-developmental disorders at developmental ages
+authors:
+  - Micaela Capobianco
+  - Concetto Puzzo
+  - Chiara Di Matteo
+  - Alberto Costa
+  - Walter Adriani
+year: 2025
+venue: Frontiers in Behavioral Neuroscience
+doi: 10.3389/fnbeh.2024.1441615
+url: https://doi.org/10.3389/fnbeh.2024.1441615
+abstract: This mini-review examines the available papers about virtual reality (VR) as a tool for the diagnosis or therapy of neurodevelopmental disorders, focusing on Attention Deficit Hyperactivity Disorder (ADHD), Autism Spectrum Disorder (ASD), and Specific Learning Disorders (SLD). Through a search on literature, we selected 62 studies published between 1998 and 2024. After exclusion criteria, our synoptic table includes 32 studies on ADHD (17 were on diagnostic evaluation and 15 were on therapeutic interventions), 2 on pure ASD, and 2 on pure SLD. These cover a total of 8,139 participants with ADHD (ages 3-19), 458 with ASD (ages 4-19), and 162 with SLD (ages 7-11). Results show that VR offers high ecological validity and enables improvements in cognitive and social skills. Specifically, in individuals with ADHD, VR showed benefits in attention and executive function, with optimal results when combined with pharmacological treatments. For ASD kids, VR proved effective in enhancing social skills and emotional regulation through personalized virtual scenarios. However, the literature on SLD remains limited, suggesting an evolving area of research. Despite limitations related to small sample sizes and technology costs, VR presents a promising outlook for clinical intervention in neuro-developmental disorders, supporting enhanced skills in a safe and controlled environment. We conclude that both immersive and non-immersive VR represents a valuable supplement to traditional therapies, allowing for personalized approaches.
+type: article
+open_access: true
+cited_by: 27
+query: Yue Qi personality cultural variables psychological simulations
+question: null
+search: SEARCH-4cdf3b8231
+score: 1.315
+score_parts:
+  rank: 0.053
+  citations: 0.362
+  recency: 0.9
+needs_approval: false
+state: candidate

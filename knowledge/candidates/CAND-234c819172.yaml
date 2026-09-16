@@ -1,0 +1,43 @@
+schema: phdude.candidate
+version: 1
+id: CAND-234c819172
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412944618
+title: "MAGI: Multi-Agent Guided Interview for Psychiatric Assessment"
+authors:
+  - Guanqun Bi
+  - Zhuang Chen
+  - Zhoufu Liu
+  - Hongkai Wang
+  - Xiyao Xiao
+  - Yuqiang Xie
+  - Wen Zhang
+  - Yongkang Huang
+  - Yuxuan Chen
+  - Libiao Peng
+  - Minlie Huang
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.findings-acl.1278
+url: https://doi.org/10.18653/v1/2025.findings-acl.1278
+abstract: "Guanqun Bi, Zhuang Chen, Zhoufu Liu, Hongkai Wang, Xiyao Xiao, Yuqiang Xie, Wen Zhang, Yongkang Huang, Yuxuan Chen, Libiao Peng, Minlie Huang. Findings of the Association for Computational Linguistics: ACL 2025. 2025."
+type: other
+open_access: true
+cited_by: 5
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.154
+score_parts:
+  rank: 0.059
+  citations: 0.195
+  recency: 0.9
+needs_approval: false
+state: candidate

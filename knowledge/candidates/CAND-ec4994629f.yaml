@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ec4994629f
+created: 2026-09-14T23:44:30.144Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3390/systems14091040
+title: "A Multi-Source Data Fusion Framework for Emerging Technology Topic Identification: Integrating Publications, Patents, and GitHub Open-Source Data"
+authors:
+  - Ge Wang
+  - Ruoxi Wu
+year: 2026
+venue: Systems
+doi: 10.3390/systems14091040
+url: https://doi.org/10.3390/systems14091040
+abstract: "Emerging technology topic identification is an important research task in the field of scientific and technological intelligence. To achieve a more comprehensive identification of emerging technology topics, this study proposes a multi-source data fusion framework that integrates three types of data sources: academic publications, patent data, and data from the GitHub open-source platform. In addition, an evaluation indicator system is constructed from four dimensions: growth, novelty, continuity, and impact. During the identification process, the BERTopic topic modeling approach is employed to uncover latent topics within the data, while the entropy weight method is applied for objective weighting, ultimately enabling the identification of emerging technology topics. The results indicate that the identified emerging technology topics include, but are not limited to, large language model-driven intelligent interaction, embodied intelligence perception, context memory management, and multimodal generation. Among the data sources, GitHub data provide earlier signals of technological evolution. Incorporating open-source platform data into the framework can effectively alleviate the lagging issues associated with traditional data sources. The proposed framework provides a more comprehensive research perspective for emerging technology topic identification."
+type: article
+open_access: null
+cited_by: 0
+query: '"WeClaw" "Adaptive Runtime" GitHub open source'
+question: null
+search: SEARCH-b132bc032f
+score: 1.167
+score_parts:
+  rank: 0.167
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

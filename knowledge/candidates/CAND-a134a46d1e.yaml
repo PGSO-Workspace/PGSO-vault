@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a134a46d1e
+created: 2026-09-14T23:47:47.446Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.52202/079017-2636
+title: "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents"
+authors:
+  - Edoardo Debenedetti
+  - Jie Zhang
+  - Mislav Balunovic
+  - Luca Beurer-Kellner
+  - Marc Fischer
+  - Florian Tramèr
+year: 2024
+venue: Advances in Neural Information Processing Systems 37
+doi: 10.52202/079017-2636
+url: https://doi.org/10.52202/079017-2636
+abstract: null
+type: article
+open_access: null
+cited_by: 89
+query: '"AgentDojo" tool agents security'
+question: null
+search: SEARCH-95d8fe4170
+score: 1.372
+score_parts:
+  rank: 0.083
+  citations: 0.489
+  recency: 0.8
+needs_approval: false
+state: candidate

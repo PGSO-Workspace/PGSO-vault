@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e1d3a1909f
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4394939130
+title: Affective Computing and the Road to an Emotionally Intelligent Metaverse
+authors:
+  - Farrukh Pervez
+  - Moazzam Shoukat
+  - Muhammad Usama
+  - Muhammad Moid Sandhu
+  - Siddique Latif
+  - Junaid Qadir
+year: 2024
+venue: IEEE Open Journal of the Computer Society
+doi: 10.1109/ojcs.2024.3389462
+url: https://doi.org/10.1109/ojcs.2024.3389462
+abstract: The metaverse is currently undergoing a profound transformation, fundamentally reshaping our perception of reality. It has transcended its origins to become an expansion of human consciousness, seamlessly blending the physical and virtual worlds. Amidst this transformative evolution, numerous applications are striving to mould the metaverse into a digital counterpart capable of delivering immersive human-like experiences. These applications envisage a future where users effortlessly traverse between physical and digital dimensions. Taking a step forward, affective computing technologies can be utilised to identify users' emotional cues and convey authentic emotions, enhancing genuine, meaningful, and context-aware interactions in the digital world. In this paper, we explore how integrating emotional intelligence can enhance the traditional metaverse, birthing an emotionally intelligent metaverse (EIM). Our work illuminates the multifaceted potential of EIM across diverse sectors, including healthcare, education, gaming, automotive, customer service, human resources, marketing, and urban metaverse cyberspace. Through our examination of these sectors, we uncover how infusing emotional intelligence enriches user interactions and experiences within the metaverse. Nonetheless, this transformative journey is riddled with challenges, and we address the obstacles hindering the realisation of EIM's full potential. By doing so, we lay the groundwork for future research endeavours aimed at further enhancing and refining the captivating journey into the world of EIM.
+type: article
+open_access: true
+cited_by: 45
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.383
+score_parts:
+  rank: 0.167
+  citations: 0.416
+  recency: 0.8
+needs_approval: false
+state: candidate

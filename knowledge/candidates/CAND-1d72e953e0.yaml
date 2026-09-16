@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1d72e953e0
+created: 2026-09-15T06:32:59.436Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.63317/4uvygn9qdyem
+title: "InstructSum: A Benchmark to Evaluate Instruction-Following Capability of Large Language Models in Summarization"
+authors:
+  - Kosuke Nishida
+  - Kyosuke Nishida
+  - Itsumi Saito
+year: 2026
+venue: Proceedings of the Language Resources and Evaluation Conference
+doi: 10.63317/4uvygn9qdyem
+url: https://doi.org/10.63317/4uvygn9qdyem
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: speech language model evaluation paralinguistic benchmark instruction following
+question: null
+search: SEARCH-463495b5f3
+score: 1.1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

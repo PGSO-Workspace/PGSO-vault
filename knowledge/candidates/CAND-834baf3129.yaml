@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-834baf3129
+created: 2026-09-15T07:34:04.334Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7207557644
+title: "Beyond Prompt Injection: Trust-Boundary Security Assurance for LLM-Integrated and Agentic Applications"
+authors:
+  - Nazar Waheed
+year: 2026
+venue: Research Square
+doi: 10.21203/rs.3.rs-10798245/v1
+url: https://doi.org/10.21203/rs.3.rs-10798245/v1
+abstract: null
+type: preprint
+open_access: true
+cited_by: 0
+query: 2024 2025 journal LLM agent tool permission authorization runtime enforcement security guardrails
+question: null
+search: SEARCH-b0fa183ef0
+score: 1.063
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

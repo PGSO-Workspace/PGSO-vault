@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7f1146dbd3
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/979-8-8688-1609-3_11
+title: Agents Assemble! Building Autonomous Workflows
+authors:
+  - Satej Kumar Sahu
+year: 2025
+venue: Generative AI-Driven Application Development with Java
+doi: 10.1007/979-8-8688-1609-3_11
+url: https://doi.org/10.1007/979-8-8688-1609-3_11
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 0.93
+score_parts:
+  rank: 0.03
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

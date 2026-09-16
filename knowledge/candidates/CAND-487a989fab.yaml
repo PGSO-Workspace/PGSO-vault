@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-487a989fab
+created: 2026-09-15T01:06:33.363Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1515/opli-2025-0052
+title: "Argumentation in recommender dialogue agents (ARDA): An unexpected journey from Pragmatics to conversational agents"
+authors:
+  - Maria Di Maro
+  - Martina Di Bratto
+  - Sabrina Mennella
+  - Antonio Origlia
+  - Francesco Cutugno
+year: 2025
+venue: Open Linguistics
+doi: 10.1515/opli-2025-0052
+url: https://doi.org/10.1515/opli-2025-0052
+abstract: "Abstract This article introduces argumentation in recommender dialogue agents (ARDA), a novel theoretical and practical framework for designing advanced argumentative dialogue systems. Grounded in principles of pragmatics and argumentation theory, ARDA integrates linguistic theory and graph-based representations to model pragmatic dialogue acts such as clarification requests, explanations, and argumentation. The framework bridges the gap between theory and implementation by providing graph-based computational models that translate these formalised concepts into functional dialogue system components. The contributions of this article are twofold: (1) providing an overarching view of the theoretical approaches applied in our prior studies and (2) offering computational models that more effectively represent linguistic phenomena within dialogue systems. Furthermore, the article explores the application of ARDA in the context of movie recommendation systems, providing previously collected results that illustrate how these models enable natural, persuasive, and logically coherent interactions between humans and intelligent agents."
+type: article
+open_access: null
+cited_by: 0
+query: affective conversational agents empathy speech dialogue action
+question: null
+search: SEARCH-fdb119aa74
+score: 0.991
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

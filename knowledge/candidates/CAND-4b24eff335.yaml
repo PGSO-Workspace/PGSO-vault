@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4b24eff335
+created: 2026-09-15T00:31:14.448Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20944/preprints202512.2705.v1
+title: Adaptive Contextualized Multi-feature Fusion Network for Robust Cross-Linguistic Speech Emotion Recognition
+authors:
+  - Haoyu Cen
+  - Yutian Gai
+year: 2025
+venue: null
+doi: 10.20944/preprints202512.2705.v1
+url: https://doi.org/10.20944/preprints202512.2705.v1
+abstract: Speech Emotion Recognition (SER) faces significant generalization challenges, particularly in Cross-Linguistic SER (CLSER), due to linguistic and cultural variabilities. Existing approaches struggle with robustly fusing diverse features and adapting to cross-linguistic discrepancies. To address this, we propose the Adaptive Contextualized Multi-feature Fusion Network (ACMF-Net), a novel architecture built on a ``contextualize first, then adaptively fuse'' paradigm. ACMF-Net leverages HuBERT embeddings alongside contextualized Mel-frequency Cepstral Coefficients (MFCCs) and prosodic features, each processed by dedicated Transformer encoders to capture rich temporal dependencies. A core innovation is the Dynamic Gating mechanism, which intelligently learns to dynamically weight the contributions of these heterogeneous feature modalities based on the input speech characteristics, thereby enhancing robustness against cross-linguistic variations. Evaluated on the IEMOCAP dataset for source language performance, ACMF-Net achieved superior Unweighted Accuracy (UAR), outperforming strong baselines and existing multi-feature fusion models. Furthermore, through few-shot fine-tuning on diverse target languages, ACMF-Net consistently demonstrated superior cross-linguistic generalization. An ablation study confirmed the critical contribution of each proposed component, especially the Dynamic Gating mechanism. These results underscore ACMF-Net's potential to significantly advance robust and generalized emotion recognition across linguistic boundaries.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets"'
+question: null
+search: SEARCH-023614a12f
+score: 0.959
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

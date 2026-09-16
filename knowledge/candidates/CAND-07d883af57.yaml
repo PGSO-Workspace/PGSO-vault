@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-07d883af57
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410431873
+title: The benefits and dangers of anthropomorphic conversational agents
+authors:
+  - Sandra Peter
+  - Kai Riemer
+  - Jevin D. West
+year: 2025
+venue: Proceedings of the National Academy of Sciences
+doi: 10.1073/pnas.2415898122
+url: https://doi.org/10.1073/pnas.2415898122
+abstract: 'A growing body of research suggests that the recent generation of large language model (LLMs) excel, and in many cases outpace humans, at writing persuasively and empathetically, at inferring user traits from text, and at mimicking human-like conversation believably and effectively-without possessing any true empathy or social understanding. We refer to these systems as "anthropomorphic conversational agents" to aptly conceptualize the ability of LLM-based systems to mimic human communication so convincingly that they become increasingly indistinguishable from human interlocutors. This ability challenges the many efforts that caution against "anthropomorphizing" LLMs, attaching human-like qualities to nonhuman entities. When the systems themselves exhibit human-like qualities, calls to resist anthropomorphism will increasingly fall flat. While the AI industry directs much effort into improving the reasoning abilities of LLMs-with mixed results-the progress in communicative abilities remains underappreciated. In this perspective, we aim to raise awareness for both the benefits and dangers of anthropomorphic agents. We ask: should we lean into the human-like abilities, or should we aim to dehumanize LLM-based systems, given concerns over anthropomorphic seduction? When users cannot tell the difference between human interlocutors and AI systems, threats emerge of deception, manipulation, and disinformation at scale. We suggest that we must engage with anthropomorphic agents across design and development, deployment and use, and regulation and policy-making. We outline in detail implications and associated research questions.'
+type: article
+open_access: true
+cited_by: 102
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 1.514
+score_parts:
+  rank: 0.111
+  citations: 0.503
+  recency: 0.9
+needs_approval: false
+state: candidate

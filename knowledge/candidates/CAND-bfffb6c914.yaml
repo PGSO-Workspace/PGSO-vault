@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bfffb6c914
+created: 2026-09-15T09:45:55.769Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.47832/sharjahconf1-20
+title: "Violent and criminal behavior : Between psychological interpretations and legal controls"
+authors:
+  - Manal Abouhmala
+year: 2024
+venue: Full Text Book of Sharjah Conference 1
+doi: 10.47832/sharjahconf1-20
+url: https://doi.org/10.47832/sharjahconf1-20
+abstract: 'This study aims to discuss the motives, causes and factors of crime, to understand and explain it, within the framework of criminal psychology and some sciences related to it. Crime and violent behavior are two sides of the same coin: "criminality". In this context, criminal psychology is positioned between the legal context and the psychological approach. Even if we consider, at first glance, that political dimensions have a role in modifying criminal behavior, this implies, in return, reformulating texts and laws, or even decrees, so that they respond to the psychological, social and emotional specificities of the convicted person. On this basis, we will discuss the relationship between violent behavior and crime, within the framework of the relationship between psychological explanations and the legal controls of these. The purpose of this discussion is to recognize the intrinsic (pathological) motivations and delusions that contribute to filling the mind with criminal thoughts contrary to social controls. Consequently, the opportunities for community integration decrease. The accused, or the prisoner of a penitentiary institution, can benefit from mitigating conditions, if he adopts a strategy of prevention and awareness whose foundations derive from psychological treatment. On this basis, we begin our analysis by answering the following questions: Do we give priority to psychological characteristics during and after violent behavior? Or do we rely on the legal requirements adopted by the authority? Is society satisfied with the punitive and rehabilitative role of penitentiary institutions, to reduce violent behavior? Or does this require a preventive approach and that the convicted or prisoner undergo psychological treatment ?'
+type: article
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Yue Qi" full text'
+question: null
+search: SEARCH-aa21877eb5
+score: 0.967
+score_parts:
+  rank: 0.167
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

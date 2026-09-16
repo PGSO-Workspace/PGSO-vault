@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-115d9367b8
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/ms.2026.3672189
+title: Secure Code Generation With Open Source Generative AI Models
+authors:
+  - Mithilesh Pandey
+  - Sandeep Kumar
+year: 2026
+venue: IEEE Software
+doi: 10.1109/ms.2026.3672189
+url: https://doi.org/10.1109/ms.2026.3672189
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.03
+score_parts:
+  rank: 0.03
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

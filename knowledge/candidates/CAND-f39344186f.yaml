@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f39344186f
+created: 2026-09-15T07:34:52.996Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+  - crossref
+external_id: W4391741548
+title: Multi-Modal Hierarchical Empathetic Framework for Social Robots With Affective Body Control
+authors:
+  - Yue Gao
+  - Yangqing Fu
+  - Ming Sun
+  - Feng Gao
+year: 2024
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2024.3356511
+url: https://doi.org/10.1109/taffc.2024.3356511
+abstract: Social robots require the ability to understand human emotions and provide affective and behavioral responses during human-robot interactions. However, current social robots lack empathy capabilities. In this work, we propose a novel Multi-modal Hierarchical Empathetic (MHE) framework for generating empathetic responses for social robots. MHE is composed of amulti-modal fusion and emotion recognitionmodule, anempathetic dialogue generationmodule, and anexpression generationmodule. By fusing the sensor signals of different modalities, the robot can recognize human emotions and generate affective responses. Multiple experiments are conducted on a real robot, Pepper, to evaluate the proposed framework. The experiments are conducted to discriminate between MHE-generated text and human responses in complete ignorance, and most experimenters agree that MHE can effectively generate human-like and empathetic responses. To better evaluate the similarity between human-robot and human-human interactions, a period eye movement map (PEM) captured by an eye tracker is proposed. The experimental results demonstrate the improvement in the MHE in human-robot interactions by comparing different PEMs.
+type: article
+open_access: false
+cited_by: 11
+query: Multi-modal hierarchical empathetic framework social robots affective body control
+question: null
+search: SEARCH-35ee737b2d
+score: 2.07
+score_parts:
+  rank: 1
+  citations: 0.27
+  recency: 0.8
+needs_approval: false
+state: candidate
+ext:
+  ids:
+    crossref: 10.1109/taffc.2024.3356511

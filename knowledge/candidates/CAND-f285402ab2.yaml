@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f285402ab2
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.36948/ijfmr.2026.v08i03.78068
+title: "Enterprise AI Supply Chain Security Governance: A Framework for Secure  Open-Source AI Model Adoption Using an Artificial Intelligence Bill of Materials (AI-BOM)"
+authors:
+  - Sandeep Kumar Anuguthala
+  - Harish Namani
+year: 2026
+venue: International Journal For Multidisciplinary Research
+doi: 10.36948/ijfmr.2026.v08i03.78068
+url: https://doi.org/10.36948/ijfmr.2026.v08i03.78068
+abstract: "The rapid availability of open-source AI models accelerates enterprise innovation but introduces supply-chain risks — malicious serialized artifacts, vulnerable dependencies, and licensing violations — that existing SBOM frameworks and emerging AI-specific schema standards (CycloneDX ML-BOM, SPDX 3.0 AI profile) address only at the data-format level, not at the operational governance level. This paper introduces the Artificial Intelligence Bill of Materials (AI-BOM), an eight-category schema, integrated within the Enterprise AI Supply Chain Security Architecture (E-AISCSA): a ten-layer governance framework with a semi-quantitative Weighted Risk Score (WRS = 0.35×AR + 0.30×SR + 0.25×DR + 0.10×PR). Evaluation across ten Hugging Face NLP models confirmed framework feasibility: all models used pickle-serialized weights, all carried CVE-2024-3568 (CVSS 9.6 Critical) in their transformers dependency, one model was rejected as High Risk (WRS 5.60), and nine received conditional Medium-Risk approval. The framework aligns with NIST AI RMF 1.0, ISO/IEC 42001:2023, and EU AI Act requirements. Raw experimental data are available from the authors upon request."
+type: article
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.028
+score_parts:
+  rank: 0.028
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

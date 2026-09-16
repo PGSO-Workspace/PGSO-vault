@@ -1,0 +1,43 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c1664f54a5
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7126151786
+title: A Research Roadmap for Augmenting Software Engineering Processes and Software Products with Generative AI
+authors:
+  - Domenico Amalfitano
+  - Andreas Metzger
+  - Marco Autili
+  - Tommaso Fulcini
+  - Tobias Hey
+  - Jan Keim
+  - Patrizio Pelliccione
+  - Vincenzo Scotti
+  - Anne Koziolek
+  - Raffaela Mirandola
+  - Andreas Vogelsang
+year: 2026
+venue: ACM Transactions on Software Engineering and Methodology
+doi: 10.1145/3788879
+url: https://doi.org/10.1145/3788879
+abstract: Generative AI (GenAI) is rapidly transforming Software Engineering (SE) practices, influencing how SE processes are executed, as well as how software systems are developed, operated, and evolved. This article applies design science research to build a roadmap for GenAI-augmented SE. The process consists of three cycles that incrementally integrate multiple sources of evidence, including collaborative discussions from the FSE 2025 “Software Engineering 2030” workshop, rapid literature reviews, and external feedback sessions involving peers. McLuhan’s tetrads were used as a conceptual instrument to systematically capture the transforming effects of GenAI on SE processes and software products. The resulting roadmap identifies four fundamental forms of GenAI augmentation in SE and systematically characterizes their related research challenges and opportunities. These insights are then consolidated into a set of future research directions. By grounding the roadmap in a rigorous multi-cycle process and cross-validating it among independent author teams and peers, the study provides a transparent and reproducible foundation for analyzing how GenAI affects SE processes, methods and tools, and for framing future research within this rapidly evolving area.
+type: article
+open_access: true
+cited_by: 8
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.406
+score_parts:
+  rank: 0.167
+  citations: 0.239
+  recency: 1
+needs_approval: false
+state: candidate

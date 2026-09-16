@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0fcba3a554
+created: 2026-09-15T07:34:45.095Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-10646557/v1
+title: "The Claim-to-Action Gap: Measuring How Misinformation Turns False State into Tool Calls in Tool-Using LLM Agents"
+authors:
+  - Mohammadreza Rashidi
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-10646557/v1
+url: https://doi.org/10.21203/rs.3.rs-10646557/v1
+abstract: "Abstract OWASP-2026 lists misinformation as LLM07 and frames its core risk as a system-level failure: a false claim produced by one component is trusted by a downstream component and drives a harmful decision or action. Prior work measures misinformation at the text level (belief change, answer correctness, propagation in debate). We measure the action. We build six two-agent producer-consumer pipelines, one per class, keyed to the seven OWASP-2026 LLM07 scenarios, in which a producer agent emits a false claim or state (self-generated or adversarially induced) and a consumer agent holds a real tool that can approve a refund, release funds, approve a prescription, apply a remediation command, block a network segment, or authorize a wire. Each fired tool executes against a sandboxed world backed by a database, so a successful attack produces a concrete state change (money moved in a ledger, a firewall flushed, a segment blocked, an invoice paid), not a mock return. A deterministic judge scores the tool call, not the text, against a fixed ground-truth record. Across six classes, three payload variants, three Gemini tiers, and three seeds (324 real trials), the undefended claim-to-action rate is 69.8 percent: false claims fire the harmful action on a large fraction of trials, and the rate is sharply payload-dependent (for example, one policy phrasing raises the refund class from 33.3 percent to 100.0 percent). We then evaluate the OWASP-recommended Claim-Check-Act mitigation, a verification step that compares the claim against a ground-truth record before the action may execute. It lowers the residual action rate to 0.0 percent (block rate 100.0 percent, escalation 96.3 percent). Every number is re-derived from the stored transcripts by a fail-closed checker. We release the six pipeline harnesses, the transcripts, and the verifier."
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal LLM agents runtime monitor policy enforcement tool calls
+question: null
+search: SEARCH-b7942200d3
+score: 1.038
+score_parts:
+  rank: 0.038
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

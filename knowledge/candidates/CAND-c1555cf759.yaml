@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c1555cf759
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4400947997
+title: "Human–Robot Companionship: Current Trends and Future Agenda"
+authors:
+  - Eshtiak Ahmed
+  - Oğuz Buruk
+  - Juho Hamari
+year: 2024
+venue: International Journal of Social Robotics
+doi: 10.1007/s12369-024-01160-y
+url: https://doi.org/10.1007/s12369-024-01160-y
+abstract: Abstract The field of robotics has grown exponentially over the years, especially the social aspect, which has enabled robots to interact with humans meaningfully. Robots are now used in many domains, such as manufacturing, healthcare, education, entertainment, rehabilitation, etc. Along with their widespread usage in many real-life environments, robots have been used as companions to humans. With the increased amount of research done on human–robot companionship (HRC), it is important to understand how this domain is developing, in which direction, and what the future might hold. There is also a need to understand the influencing factors and what kind of empirical results are in the literature. To address these questions, we conducted a systematic literature review and analyzed a final number of 134 relevant articles. The findings suggest that anthropomorphic and zoomorphic robots are more popular as human companions, while there is a lack of interest in functional and caricatured robots. Also, human-like and animal-like features are implemented more in companion robots. Studies rarely exploit the mobility available in these robots in companionship scenarios, especially in outdoor settings. In addition to that, co-existence and co-performance-based implementation with humans have been observed rarely. Based on the results, we propose a future research agenda that includes thematic, theoretical, methodological, and technological agendas. This study will help us understand the current state and usage of robotic companions which will then potentially aid in determining how HRC can be leveraged and integrated more seamlessly into human lives for better effectiveness.
+type: article
+open_access: true
+cited_by: 45
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.287
+score_parts:
+  rank: 0.071
+  citations: 0.416
+  recency: 0.8
+needs_approval: false
+state: candidate

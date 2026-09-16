@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2f2c52cdde
+created: 2026-09-15T07:34:04.334Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5896270
+title: "Z-SPACE: A MULTI-AGENT TOOL ORCHESTRATION FRAMEWORK FOR ENTERPRISE-GRADE LLM AUTOMATION"
+authors:
+  - Jing Nan
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5896270
+url: https://doi.org/10.2139/ssrn.5896270
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal LLM agent tool permission authorization runtime enforcement security guardrails
+question: null
+search: SEARCH-b0fa183ef0
+score: 0.926
+score_parts:
+  rank: 0.026
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

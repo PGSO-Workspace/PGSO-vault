@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-34d78a4f50
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412055658
+title: "PITCH: Designing Agentic Conversational Support for Planning and Self-reflection"
+authors:
+  - Adnan Abbas
+  - Caleb Wohn
+  - Donghan Hu
+  - Eugenia Ha Rim Rho
+  - Sang Won Lee
+year: 2025
+venue: null
+doi: 10.1145/3719160.3736634
+url: https://doi.org/10.1145/3719160.3736634
+abstract: Effective planning and reflection are essential for knowledge workers’ productivity and well-being, yet many struggle with them. While conversational agents (CAs) have shown promise, existing approaches rely on repetitive check-in without variance. We designed PITCH, a CA that checks in twice daily for morning planning and evening reflection while considering the morning conversation. Atwo-week field study with 12 graduate students demonstrated that engagement with PITCH increased their perceived well-being over time.We also evaluated a rotation strategy, which cycles through diverse topics every day, hypothesizing that rotation would mitigate wear-out effects and offer new perspectives. The results revealed that the specificity of a randomly chosen goal was perceived as being out of context and authoritarian, with most preferring the non-rotation version for consistency and flexibility. These findings highlight the potential of CAs to support knowledge workers and offer design considerations for varying conversations to provide topical diversity.
+type: other
+open_access: true
+cited_by: 8
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.165
+score_parts:
+  rank: 0.026
+  citations: 0.239
+  recency: 0.9
+needs_approval: false
+state: candidate

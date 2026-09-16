@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-09e02f90cb
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2025.findings-emnlp.1258
+title: "AGENTVIGIL: Automatic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents"
+authors:
+  - Zhun Wang
+  - Vincent Siu
+  - Zhe Ye
+  - Tianneng Shi
+  - Yuzhou Nie
+  - Xuandong Zhao
+  - Chenguang Wang
+  - Wenbo Guo
+  - Dawn Song
+year: 2025
+venue: "Findings of the Association for Computational Linguistics: EMNLP 2025"
+doi: 10.18653/v1/2025.findings-emnlp.1258
+url: https://doi.org/10.18653/v1/2025.findings-emnlp.1258
+abstract: null
+type: article
+open_access: null
+cited_by: 4
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.115
+score_parts:
+  rank: 0.04
+  citations: 0.175
+  recency: 0.9
+needs_approval: false
+state: candidate

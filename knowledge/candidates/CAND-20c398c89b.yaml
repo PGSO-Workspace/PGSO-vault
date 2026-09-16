@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-20c398c89b
+created: 2026-09-15T06:33:03.695Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20944/preprints202609.0236.v1
+title: "Benchmark, Agent, and Tool-Use Harnesses for Large Language Models: A Taxonomy of Evaluation Infrastructure"
+authors:
+  - Ziqian Bi
+  - Junfeng Hao
+  - Yue Ma
+  - Ye Tao
+  - Xin Liang Chia
+year: 2026
+venue: null
+doi: 10.20944/preprints202609.0236.v1
+url: https://doi.org/10.20944/preprints202609.0236.v1
+abstract: "Large language model evaluation has moved from static benchmark scripts to executable harnesses:systems that bind datasets, prompts, model adapters, inference backends, tools, environments, sandboxes,scorers, traces, and leaderboards into a measurement contract. This survey explains why that layer nowdetermines what a benchmark score means. We distinguish three harness families. Benchmark harnessesmake model comparison possible by fixing task registries, prompt templates, inference adapters, answerparsers, metrics, and aggregation rules. Agent harnesses turn evaluation into an environment experimentin which repositories, browsers, operating systems, mobile apps, users, databases, reset procedures, andexecutable oracles become part of the measured system. Tool-use harnesses isolate the interface problem: retrieving tool documentation, selecting APIs, formatting arguments, deciding when not to call atool, carrying state across turns, and recovering from tool failures. We map the infrastructure shared bythese families, show how their scoring contracts differ, and explain why scaffold effects, oracle design,environment drift, schema sensitivity, and trace policy can change the scientific meaning of a result. Thepaper argues that harnesses are no longer peripheral implementation details. They define what the taskis, what the model is allowed to do, how evidence is scored, and whether a result can be audited or cited.We provide a layered taxonomy, a literature stem map, family-specific failure analyses, guidance for in-terpreting leaderboard scores, and a reporting agenda for model developers, benchmark maintainers, andresearchers building agentic systems."
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agent evaluation benchmark reliability task success journal
+question: null
+search: SEARCH-b435e17ef6
+score: 1.077
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f0f8eb71d9
+created: 2026-09-15T00:24:33.994Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1101/2024.10.29.620829
+title: "Linguistic and Affective Prosody – A Unifying Perspective: A Systematic Review and ALE Meta-Analysis of the Cortical Organization of Prosody"
+authors:
+  - Charalambos Themistocleous
+year: 2024
+venue: null
+doi: 10.1101/2024.10.29.620829
+url: https://doi.org/10.1101/2024.10.29.620829
+abstract: Abstract Prosody is a cover term referring to the melodic aspects of speech, with linguistic and affective (a.k.a. emotional) meanings. This review provides an overview of linguistic and affective prosody, testing two hypotheses on healthy individuals’ linguistic and affective prosody. The first hypothesizes that the biological nature of affective prosody triggers activations unrelated to language (biological hypothesis), and the second that the aspects of affective prosody have been grammaticalized, i.e., incorporated into the language (linguistic hypothesis). We employed a systematic ALE metanalytic approach to identify neural correlates of prosody from the literature. Specifically, we assessed papers that report brain coordinates from healthy individuals selected using systematic research from academic databases, such as PubMed (NLM), Scopus, and Web of Science. We found that affective and linguistic prosody activate bilateral frontotemporal regions, like the Superior Temporal Gyrus (STG). A key difference is that affective prosody involves subcortical structures like the amygdala, and linguistic prosody activates linguistic areas and brain areas of social cognition and engagement. The shared activations, therefore, suggest that linguistic and affective meanings are combined, involving shared underlying brain connectivity mechanisms and acoustic manifestations. We propose the “prosodic blending hypothesis” to account for the findings. The hypothesis unifies the linguistic and affective prosody distinction, suggesting that prosody incorporates affective, social, and linguistic meanings in the acoustic signal and involves selective bilateral neural contributions. Although brain regions responsible for core emotions can be activated, those meanings are produced through a coordinated and structured linguistic manner, accounting for the gradient expression of non-linguistic and categorical linguistic aspects. We argue that the process is similar to speech, lexicon, and grammar domains, as they, too, convey affective, social, and linguistic meanings without their explicit separation into linguistic and affective. Therefore, our blending hypothesis views prosody as a unified system that combines affective and linguistic functions.
+type: preprint
+open_access: null
+cited_by: 0
+query: voice agents prosody paralinguistic affective dialogue governance evaluation
+question: null
+search: SEARCH-fb4225ca20
+score: 0.871
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 0.8
+needs_approval: true
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e0b07b981e
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7208744618
+title: "LDREA-IEEE-Reproducibility: three-track reproducibility package for L-DREA / Gamma G-0"
+authors:
+  - Abhinandan Gill
+year: 2026
+venue: Zenodo (CERN European Organization for Nuclear Research)
+doi: 10.5281/zenodo.22296644
+url: https://doi.org/10.5281/zenodo.22296644
+abstract: "Reproducibility software artifact for the IEEE Access article \"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents\" (Abhinandan Gill, IEEE Access, vol. 14, pp. 119764-119790, 2026, doi:10.1109/ACCESS.2026.3719838). This record is the software artifact, not the article. It receives its own Zenodo DOI, which is a different identifier from the IEEE article DOI above. Cite the article for the science; cite this record in addition to, not instead of, the article if you need to reference the software. The package lets an independent reviewer regenerate the paper's empirical results from source, without access to the authors' machines, private repositories, or credentials. It covers all three evidence tracks the paper reports, with denominators never merged: Track 1 - the primary seeded synthetic LAB corpus of 1,217,906 proposals (857,906 nominal + 360,000 adversarial, seed 20260623), plus 120,000 adaptive-attacker attempts. Track 2 - the ULB public-data authorization trace of 284,807 transactions as a golden-oracle mapped-label trace, plus the separate blind multi-dataset protocol (E12). Track 3 - the engine-level harness: exhaustive 2^16 reference-vs-engine equivalence, predicate isolation, fault injection, ablation, concurrency, formal TLA+ model checking, and live revocation / watchdog / risk-detection suites. Datasets are not bundled. The ULB, IEEE-CIS and UNSW-NB15 datasets are externally licensed and are not redistributed; they are fetched by the reviewer from their providers under those providers' own terms (see datasets/README.md and scripts/fetch_datasets.sh). A dataset that is absent is reported as such with no metrics, and nothing is fabricated to fill the gap. Entry points. make verify is a dataset-free, non-destructive scientific gate. make reproduce runs the full campaign and re-executes experiments. See README.md, REPRODUCIBILITY.md and KNOWN_ISSUES.md. Software in this repository is MIT licensed. FULL_SPEC.md is vendored under CC BY 4.0; see THIRD_PARTY_NOTICES.md."
+type: other
+open_access: true
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

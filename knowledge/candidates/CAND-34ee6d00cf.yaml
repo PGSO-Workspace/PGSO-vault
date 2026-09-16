@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-34ee6d00cf
+created: 2026-09-14T16:52:06.356Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.11591/eei.v14i1.8339
+title: The use of generative adversarial network as a domain adaptation method for cross-corpus speech emotion recognition
+authors:
+  - Muhammad Farhan Fadhil
+  - Amalia Zahra
+year: 2025
+venue: Bulletin of Electrical Engineering and Informatics
+doi: 10.11591/eei.v14i1.8339
+url: https://doi.org/10.11591/eei.v14i1.8339
+abstract: The research of speech emotion recognition (SER) is growing rapidly. However, SER still faces a cross-corpus SER problem which is performance degradation when a single SER model is tested in different domains. This study shows the impact of implementing a generative adversarial network (GAN) model for adapting speech data from different domains and performs emotion classification from the speech features using a 1D convolutional neural network (CNN) model. The results of this study found that the domain adaptation approach using a GAN model could improve the accuracy of emotion classification in speech data from 2 different domain such as the ryerson audio-visual database of emotional speech and song (RAVDESS) speech corpus and the EMO-DB speech corpus ranging from 10.88% to 28.77%, with the highest average performance increase across three different class balancing method reaching 18.433%.
+type: article
+open_access: null
+cited_by: 2
+query: Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition
+question: null
+search: SEARCH-b643681c1c
+score: 2.019
+score_parts:
+  rank: 1
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4bd0d117c1
+created: 2026-09-15T09:45:55.769Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7161916334
+title: Evaluating Cognitive Age Alignment in Interactive AI Agents
+authors:
+  - Yifan Shen
+  - Jiawen Zhang
+  - Jian Xu
+  - Junho Kim
+  - Ismini Lourentzou
+  - Xu Cao
+  - Meihuan Huang
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2605.17894
+abstract: While agentic AI and its core multimodal large language models (MLLMs) have demonstrated remarkable promise in language and visual reasoning across domains ranging from daily life to advanced scientific research, a profound gap remains between artificial and human intelligence. Despite the integration of powerful tools and advanced MLLMs, state-of-the-art AI agents frequently fail at foundational, seemingly simple tasks that a child can resolve with ease. Inspired by the Wechsler Intelligence Scale for Children (WISC), we introduce ChildAgentEval, the first psychometrically grounded interactive benchmark for evaluating cognitive age alignment in MLLM-based agents. ChildAgentEval systematically compares the reasoning performance of various MLLM-based interactive agents against age-specific human developmental stages, exposing where current agentic AI systems can and cannot simulate age-specific cognitive behavior.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Yue Qi" full text'
+question: null
+search: SEARCH-aa21877eb5
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

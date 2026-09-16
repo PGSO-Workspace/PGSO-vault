@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a82b2eaaa4
+created: 2026-09-15T01:07:48.528Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1055/a-2680-8245
+title: A Nile Red Based COF-catalyzed C–H Functionalization of Heteroarenes under Photoirradiation
+authors: []
+year: 2025
+venue: Synfacts
+doi: 10.1055/a-2680-8245
+url: https://doi.org/10.1055/a-2680-8245
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 10.1038/s42256-025-01115-6
+question: null
+search: SEARCH-770fd28165
+score: 1.233
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

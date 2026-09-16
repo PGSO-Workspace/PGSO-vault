@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-72165df78a
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0013889500004919
+title: "Temporal Convolutional Networks for Speech Emotion Recognition: A Benchmark Study against Deep Learning Models"
+authors:
+  - Nitasha Rathore
+  - Pratibha Barua
+  - Arhaan Sood
+  - Bandaru Kumar
+  - Ashutosh Singh
+year: 2025
+venue: Proceedings of the 1st International Conference on Research and Development in Information, Communication, and Computing Technologies
+doi: 10.5220/0013889500004919
+url: https://doi.org/10.5220/0013889500004919
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 0.959
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ef013e6328
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410862154
+title: Ethical Considerations in Emotion Recognition Research
+authors:
+  - Darlene Barker
+  - Mukesh Kumar Reddy Tippireddy
+  - Farhan Ali
+  - Bilal Ahmed
+year: 2025
+venue: Psychology International
+doi: 10.3390/psycholint7020043
+url: https://doi.org/10.3390/psycholint7020043
+abstract: The deployment of emotion-recognition technologies expands across healthcare education and gaming sectors to improve human–computer interaction. These systems examine facial expressions together with vocal tone and physiological signals, which include pupil size and electroencephalogram (EEG), to detect emotional states and deliver customized responses. The technology provides benefits through accessibility, responsiveness, and adaptability but generates multiple complex ethical issues. The combination of emotional profiling with biased algorithmic interpretations of culturally diverse expressions and affective data collection without meaningful consent presents major ethical concerns. The increased presence of these systems in classrooms, therapy sessions, and personal devices makes the potential for misuse or misinterpretation more critical. The paper integrates findings from literature review and initial emotion-recognition studies to create a conceptual framework that prioritizes data dignity, algorithmic accountability, and user agency and presents a conceptual framework that addresses these risks and includes safeguards for participants’ emotional well-being. The framework introduces structural safeguards which include data minimization, adaptive consent mechanisms, and transparent model logic as a more complete solution than privacy or fairness approaches. The authors present functional recommendations that guide developers to create ethically robust systems that match user principles and regulatory requirements. The development of real-time feedback loops for user awareness should be combined with clear disclosures about data use and participatory design practices. The successful oversight of these systems requires interdisciplinary work between researchers, policymakers, designers, and ethicists. The paper provides practical ethical recommendations for developing affective computing systems that advance the field while maintaining responsible deployment and governance in academic research and industry settings. The findings hold particular importance for high-stakes applications including healthcare, education, and workplace monitoring systems that use emotion-recognition technology.
+type: article
+open_access: true
+cited_by: 28
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 1.329
+score_parts:
+  rank: 0.063
+  citations: 0.366
+  recency: 0.9
+needs_approval: false
+state: candidate

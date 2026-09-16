@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-e829ccd00d
+created: 2026-09-15T01:02:46.419Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/realvoice-independent-review-v1.json
+hash: e829ccd00da6d11c8129f3dd4ff158b197cf20ca4802e40ba672bc43f2999ae6
+bytes: 7603
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Independent Astra adversarial review of real-voice diagnostic; no statistical blocker, retained-window timing limitation

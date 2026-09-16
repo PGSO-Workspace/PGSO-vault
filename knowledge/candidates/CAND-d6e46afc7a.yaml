@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d6e46afc7a
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7067739
+title: "mcp-fdsnws-event: An MCP gateway for FDSNWS-Event web services"
+authors:
+  - Valentino Lauciani
+  - Daniele Bailo
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7067739
+url: https://doi.org/10.2139/ssrn.7067739
+abstract: "Earthquake catalogues and event metadata are essential for monitoring seis-mic activity, consulting event lists and bulletins, and supporting both op-erational and research workflows. Access to these resources, however, stilltypically assumes users who can address FDSNWS-Event endpoints directlyand interpret tabular or QuakeML responses programmatically. This createsa practical obstacle as conversational interfaces and agent-based systems areincreasingly used for earthquake-related tasks, while requiring tools that arediscoverable, schema-driven, and easy to reuse across multiple interactionturns. mcp-fdsnws-event addresses this interoperability problem by ex-posing FDSNWS-Event web services as structured Model Context Protocol(MCP) tools. The server provides six read-only tools covering event search,single-event detail, arrivals, magnitudes, origins, and focal mechanisms. Itsimplementation combines two access paths: compact catalogue queries areexecuted through the FDSNWS-Event format=text interface, while eventdetail is retrieved as QuakeML and serialized through ObsPy. The softwaresupports multiple FDSN-compliant datacenters through a single parameter-ized interface, ships as a Docker container, and optionally exposes the sameMCP tools through an OpenAPI/REST wrapper for web clients. Validationis supported by offline unit tests, live integration tests against INGV, anMCP protocol smoke test, and a standalone harness for assessing client-sideevent identifier reuse in multi-turn interactions. The resulting software pro-vides a standardized bridge between established seismological web servicesand the emerging ecosystem of MCP-enabled AI applications."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 1.071
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

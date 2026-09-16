@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5452a7f3ec
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4223542857
+title: Enhancing brick-and-mortar store shopping experience with an augmented reality shopping assistant application using personalized recommendations and explainable artificial intelligence
+authors:
+  - Robert Zimmermann
+  - Daniel Mocencahua Mora
+  - Douglas Cirqueira
+  - Markus Helfert
+  - Marija Bezbradica
+  - Dirk Werth
+  - Wolfgang Weitzl
+  - René Riedl‬
+  - Andreas Auinger
+year: 2022
+venue: Journal of Research in Interactive Marketing
+doi: 10.1108/jrim-09-2021-0237
+url: https://doi.org/10.1108/jrim-09-2021-0237
+abstract: Purpose The transition to omnichannel retail is the recognized future of retail, which uses digital technologies (e.g. augmented reality shopping assistants) to enhance the customer shopping experience. However, retailers struggle with the implementation of such technologies in brick-and-mortar stores. Against this background, the present study investigates the impact of a smartphone-based augmented reality shopping assistant application, which uses personalized recommendations and explainable artificial intelligence features on customer shopping experiences. Design/methodology/approach The authors follow a design science research approach to develop a shopping assistant application artifact, evaluated by means of an online experiment ( n = 252), providing both qualitative and quantitative data. Findings Results indicate a positive impact of the augmented reality shopping assistant application on customers' perception of brick-and-mortar shopping experiences. Based on the empirical insights this study also identifies possible improvements of the artifact. Research limitations/implications This study's assessment is limited to an online evaluation approach. Therefore, future studies should test actual usage of the technology in brick-and-mortar stores. Contrary to the suggestions of established theories (i.e. technology acceptance model, uses and gratification theory), this study shows that an increase of shopping experience does not always convert into an increase in the intention to purchase or to visit a brick-and-mortar store. Additionally, this study provides novel design principles and ideas for crafting augmented reality shopping assistant applications that can be used by future researchers to create advanced versions of such applications. Practical implications This paper demonstrates that a shopping assistant artifact provides a good opportunity to enhance users' shopping experience on their path-to-purchase, as it can support customers by providing rich information (e.g. explainable recommendations) for decision-making along the customer shopping journey. Originality/value This paper shows that smartphone-based augmented reality shopping assistant applications have the potential to increase the competitive power of brick-and-mortar retailers.
+type: article
+open_access: true
+cited_by: 128
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.195
+score_parts:
+  rank: 0.067
+  citations: 0.528
+  recency: 0.6
+needs_approval: false
+state: candidate

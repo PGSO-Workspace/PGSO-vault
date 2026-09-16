@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-65cfa5cfd2
+created: 2026-09-13T06:59:21.862Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/1b17c248d360/docs/phase1-arousal-generalization-report.md
+paths:
+  - sources/software/pgso-sdk/1b17c248d360/docs/phase1-arousal-generalization-report.md
+hash: 65cfa5cfd2ca7d912bc118021678c23a70f329a1fe39fa6b8861c43f0047164e
+bytes: 11228
+mime: text/markdown
+kind: md
+role: report
+extracted:
+  status: ok
+  method: text
+  text_chars: 11223
+  sections: 15
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:59:21.629Z

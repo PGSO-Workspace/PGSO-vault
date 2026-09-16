@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-80c6743165
+created: 2026-09-15T07:34:04.334Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3719027.3765136
+title: "NodeShield: Runtime Enforcement of Security-Enhanced SBOMs for Node.js"
+authors:
+  - Eric Cornelissen
+  - Musard Balliu
+year: 2025
+venue: Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security
+doi: 10.1145/3719027.3765136
+url: https://doi.org/10.1145/3719027.3765136
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 journal LLM agent tool permission authorization runtime enforcement security guardrails
+question: null
+search: SEARCH-b0fa183ef0
+score: 0.927
+score_parts:
+  rank: 0.027
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-417d7a97b3
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.52202/085713-5416
+title: Combining Cost Constrained Runtime Monitors for AI Safety
+authors:
+  - Tim Hua
+  - James Baskerville
+  - Henri Lemoine
+  - Mia Hopman
+  - Aryan Bhatt
+  - Tyler Tracy
+year: 2025
+venue: Advances in Neural Information Processing Systems 38
+doi: 10.52202/085713-5416
+url: https://doi.org/10.52202/085713-5416
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 1.002
+score_parts:
+  rank: 0.027
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

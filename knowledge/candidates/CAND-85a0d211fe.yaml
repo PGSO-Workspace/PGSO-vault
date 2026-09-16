@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-85a0d211fe
+created: 2026-09-14T16:52:13.175Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/tpami.2025.3581236
+title: "Tracing Intricate Cues in Dialogue: Joint Graph Structure and Sentiment Dynamics for Multimodal Emotion Recognition"
+authors:
+  - Jiang Li
+  - Xiaoping Wang
+  - Zhigang Zeng
+year: 2025
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+doi: 10.1109/tpami.2025.3581236
+url: https://doi.org/10.1109/tpami.2025.3581236
+abstract: null
+type: article
+open_access: null
+cited_by: 19
+query: "Tracing Intricate Cues in Dialogue: Joint Graph Structure and Sentiment Dynamics for Multimodal Emotion Recognition"
+question: null
+search: SEARCH-9b8336ffa2
+score: 2.225
+score_parts:
+  rank: 1
+  citations: 0.325
+  recency: 0.9
+needs_approval: false
+state: candidate

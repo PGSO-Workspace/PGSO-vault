@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a2a489fe9c
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5091613
+title: "Enhancing Empathetic Communication: AI-Driven Emotion Recognition Using Integrated Electronic Systems"
+authors:
+  - Chethana RM
+  - SP. Karuppiah
+  - M. Esther Hannah
+  - S. Saranya
+  - S. Raja
+  - T.  A. Mohanaprakash
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5091613
+url: https://doi.org/10.2139/ssrn.5091613
+abstract: Whether it's improved human-control interaction or more empathetic contact over the internet, voice-based emotional recognition and emotion acknowledgment have great potential. The goal of this model is to identify the emotional state of an individual by analyzing their voice and tone. By employing state-of-the-art machine learning methods such as deep neural networks, we apply the methods to build a model that accurately predicts a vast range of emotions contained in audio recordings. These programs, though different, all use multiple strategies to address the many systemic and cultural factors affecting educational equity. The initial results show the model is able to achieve high accuracy of detecting emotions from different demographics. Integrating this model in the voice-based survey systems, this overview of respondent’s emotional response can help in enhancing overall survey analysis and enacting more powerful communication experiences. The highest accuracies using Multilayer Perception classifier were achieved by the proposed system with 96%. The relatively low perception score of 0.51, however, signals room for improvement in how well the model grasps subtle variations in emotional states. The above results showcase the significant strides made towards recognizing the emotional state of individuals based on their voice, with the system proposed yielding promising accuracy, paving the way for more effective and empathetic communication in digital touchpoints. Their study enhances the accuracy of AI-based emotion detection models with practical applications in real life, including in user-specified fields like market research and personalized user experiences.
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 0.929
+score_parts:
+  rank: 0.029
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

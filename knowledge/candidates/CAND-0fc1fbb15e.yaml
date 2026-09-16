@@ -1,0 +1,47 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0fc1fbb15e
+created: 2026-09-15T06:33:03.695Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412158322
+title: "🧜Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models"
+authors:
+  - Yue Zhang
+  - Yafu Li
+  - Leyang Cui
+  - Cai Deng
+  - Lemao Liu
+  - Tingchen Fu
+  - Xinting Huang
+  - Enbo Zhao
+  - Yanwen Zhang
+  - Yulong Chen
+  - Longyue Wang
+  - Ahn Tuan Luu
+  - Wei Bi
+  - Freda Shi
+  - Shuming Shi
+year: 2025
+venue: Computational Linguistics
+doi: 10.1162/coli.a.16
+url: https://doi.org/10.1162/coli.a.16
+abstract: "Abstract While large language models (LLMs) have demonstrated remarkable capabilities across a range of downstream tasks, a significant concern revolves around their propensity to exhibit hallucinations: LLMs occasionally generate content that diverges from the user input, contradicts previously generated context, or misaligns with established world knowledge. This phenomenon poses a substantial challenge to the reliability of LLMs in real-world scenarios. In this article, we survey recent efforts on the detection, explanation, and mitigation of hallucination, with an emphasis on the unique challenges posed by LLMs. We present taxonomies of the LLM hallucination phenomena and evaluation benchmarks, analyze existing approaches aiming at mitigating LLM hallucination, and discuss potential directions for future research."
+type: article
+open_access: true
+cited_by: 225
+query: large language model agent evaluation benchmark reliability task success journal
+question: null
+search: SEARCH-b435e17ef6
+score: 1.632
+score_parts:
+  rank: 0.143
+  citations: 0.589
+  recency: 0.9
+needs_approval: false
+state: candidate

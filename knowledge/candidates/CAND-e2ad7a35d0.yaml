@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e2ad7a35d0
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5475926
+title: "Open Source AI: Strategic Motives for the Selective Revealing of AI System Components"
+authors:
+  - Leonard Hanschur
+  - Joachim Henkel
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5475926
+url: https://doi.org/10.2139/ssrn.5475926
+abstract: "<p>The revealing of AI systems challenges the notion that the exclusivity of an AI system’s data and model constitutes a source of competitive advantage. We explore two dimensions of revealing strategies: their completeness, describing which components are revealed, and their degree, determined by the license type. We draw on theoretical considerations and 24 interviews to construct hypotheses that we test on 659 AI systems. We find that larger and more novel models are revealed less completely and to a lesser degree, which is amplified for organizations that offer both revealed and non-revealed AI systems. We conclude that revealing AI systems serves to promote adoption and create lock-in across versions rather than to facilitate collaborative development, and introduce the notion of an “open freemium” business model.</p>"
+type: preprint
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 0.933
+score_parts:
+  rank: 0.033
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

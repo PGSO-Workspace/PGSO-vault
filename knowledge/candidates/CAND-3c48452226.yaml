@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3c48452226
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2196/preprints.86550
+title: "From Agents to Governance: Essential AI Skills for Clinicians in the Large Language Model Era (Preprint)"
+authors:
+  - Weiping Cao
+  - Qing Zhang
+  - Jialin Liu
+  - Siru Liu
+year: 2025
+venue: null
+doi: 10.2196/preprints.86550
+url: https://doi.org/10.2196/preprints.86550
+abstract: UNSTRUCTURED Large language models are rapidly transitioning from pilot schemes to routine clinical practice. This creates an urgent need for clinicians to develop the necessary skills to strike the right balance between seizing opportunities and taking accountability. We propose a 3-tier competency framework to support clinicians’ evolution from cautious users to responsible stewards of artificial intelligence (AI). Tier 1 (foundational skills) defines the minimum competencies for safe use, including prompt engineering, human–AI agent interaction, security and privacy awareness, and the clinician-patient interface (transparency and consent). Tier 2 (intermediate skills) emphasizes evaluative expertise, including bias detection and mitigation, interpretation of explainability outputs, and the effective clinical integration of AI-generated workflows. Tier 3 (advanced skills) establishes leadership capabilities, mandating competencies in ethical governance (delineating accountability and liability boundaries), regulatory strategy, and model life cycle management—specifically, the ability to govern algorithmic adaptation and change protocols. Integrating this framework into continuing medical education programs and role-specific job descriptions could enhance clinicians’ ability to use AI safely and responsibly. This could standardize deployment and support safer clinical practice, with the potential to improve patient outcomes.
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 0.956
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

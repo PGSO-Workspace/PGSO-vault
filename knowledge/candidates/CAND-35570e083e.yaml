@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-35570e083e
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.59543/jidmis.v3.1810
+title: Graph-Based Adaptive Multimodal Transformer with Temporal Emotion Memory for Robust Conversational Emotion Recognition
+authors:
+  - Sunil Kumar V
+year: 2026
+venue: Journal of Intelligent Decision Making and Information Science
+doi: 10.59543/jidmis.v3.1810
+url: https://doi.org/10.59543/jidmis.v3.1810
+abstract: Conversational emotion recognition has become an essential research area for developing intelligent human–computer interaction systems capable of understanding contextual emotional dynamics from multimodal information. Existing transformer-based approaches mainly focus on local contextual dependencies while often overlooking long-range conversational relationships and historical emotional evolution, resulting in reduced recognition accuracy under noisy and heterogeneous environments. To overcome these limitations, this paper proposes a Graph-Based Adaptive Multimodal Transformer with Temporal Emotion Memory (GAMT-TEM) framework that integrates adaptive conversational graph learning, graph transformer encoding, temporal emotion memory modeling, confidence-aware graph fusion, and end-to-end multi-objective optimization. The proposed framework simultaneously exploits textual, acoustic, and visual modalities collected from the CMU-MOSEI and IEMOCAP benchmark datasets to capture both contextual and temporal emotional dependencies. Experimental evaluation demonstrates that the proposed framework significantly outperforms existing conversational emotion recognition methods. On the CMU-MOSEI dataset, GAMT-TEM achieves 92.84% accuracy, 92.17% F1-score, and 97.23% AUC, while obtaining 85.73% accuracy and 85.22% weighted F1-score on IEMOCAP. The proposed model further exhibits superior robustness under missing modalities, efficient computational complexity with only 24.1 million parameters, and stable convergence during optimization. These results demonstrate that adaptive graph reasoning combined with temporal emotion memory substantially improves multimodal conversational emotion recognition under realistic conversational environments.
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.036
+score_parts:
+  rank: 0.036
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

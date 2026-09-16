@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1e7de70aa9
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5495910
+title: Context-Aware LLM-Based Program Repair Enhanced by Historical Patch Retrieval
+authors:
+  - yang li
+  - qin luo
+  - Peng Wu
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5495910
+url: https://doi.org/10.2139/ssrn.5495910
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 0.932
+score_parts:
+  rank: 0.032
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

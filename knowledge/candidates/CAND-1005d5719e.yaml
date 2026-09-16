@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1005d5719e
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392487628
+title: "Automatic speech recognition using advanced deep learning approaches: A survey"
+authors:
+  - Hamza Kheddar
+  - Mustapha Hemis
+  - Yassine Himeur
+year: 2024
+venue: Information Fusion
+doi: 10.1016/j.inffus.2024.102422
+url: https://doi.org/10.1016/j.inffus.2024.102422
+abstract: null
+type: article
+open_access: true
+cited_by: 194
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.873
+score_parts:
+  rank: 0.5
+  citations: 0.573
+  recency: 0.8
+needs_approval: false
+state: candidate

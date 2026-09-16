@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-63b11edb62
+created: 2026-09-15T09:45:34.518Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-9047312/v1
+title: Artificial emotional introspection improves learning for facial emotion recognition
+authors:
+  - Kuzma Strelnikov
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-9047312/v1
+url: https://doi.org/10.21203/rs.3.rs-9047312/v1
+abstract: Abstract While facial emotion recognition (FER) systems have advanced significantly, they remain constrained by conventional training paradigms that rely solely on low-level optimization signals, without any mechanism for the model to reflect on or adaptively respond to its own learning experience. Here, we integrate the I-Center, a computational framework for artificial introspection, into the training pipeline of FER models. The I‑Center translates real‑time training metrics such as loss, gradient flow, inference time, and prediction confidence into an emotional feature vector grounded in the psychological valence–arousal emotional model, providing the network with a continuous introspective narrative of its own operational state in a psychologically defined format. Across several architectures, including standard convolutional neural networks and attention‑augmented ResNet, emotionally enhanced models significantly outperformed their baseline counterparts on the FER‑2013 dataset. These results show that psychologically grounded, emotionally informed introspection can enhance learning and generalization in FER, moving beyond AI that merely recognizes emotion toward systems that learn with an integrated awareness of their own cognitive emotional state. This work bridges machine introspection with affective computing, offering a pathway toward more transparent, adaptive, and psychologically plausible human‑AI interaction.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Dual Learning for Conversational Emotion Recognition and Emotional Response Generation" PDF'
+question: null
+search: SEARCH-370d9309b7
+score: 1.143
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

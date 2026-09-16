@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f4c69c4824
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4413326065
+title: "Integrating Artificial Intelligence and Extended Reality in Language Education: A Systematic Literature Review (2017–2024)"
+authors:
+  - Weijian Yan
+  - Belle Li
+  - Victoria L. Lowell
+year: 2025
+venue: Education Sciences
+doi: 10.3390/educsci15081066
+url: https://doi.org/10.3390/educsci15081066
+abstract: This systematic literature review examines the integration of Artificial Intelligence (AI) and Extended Reality (XR) technologies in language education, synthesizing findings from 32 empirical studies published between 2017 and 2024. Guided by the PRISMA framework, we searched four databases—ERIC, Web of Science, Scopus, and IEEE Xplore—to identify studies that explicitly integrated both AI and XR to support language learning. The review explores publication trends, educational settings, target languages, language skills, learning outcomes, and theoretical frameworks, and analyzes how AI–XR technologies have been pedagogically integrated, and identifies affordances, challenges, design considerations, and future directions of AI–XR integration. Key integration strategies include coupling AI with XR technologies such as automatic speech recognition, natural language processing, computer vision, and conversational agents to support skills like speaking, vocabulary, writing, and intercultural competence. The reported affordances pertain to technical, pedagogical, and affective dimensions. However, challenges persist in terms of technical limitations, pedagogical constraints, scalability and generalizability, ethical and human-centered concerns, and infrastructure and cost barriers. Design recommendations and future directions emphasize the need for adaptive AI dialogue systems, broader pedagogical applications, longitudinal studies, learner-centered interaction, scalable and accessible design, and evaluation. This review offers a comprehensive synthesis to guide researchers, educators, and developers in designing effective AI–XR language learning experiences.
+type: other
+open_access: true
+cited_by: 24
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.312
+score_parts:
+  rank: 0.063
+  citations: 0.349
+  recency: 0.9
+needs_approval: false
+state: candidate

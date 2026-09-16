@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-19204cb751
+created: 2026-09-15T00:24:33.994Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/southeastcon63549.2026.11476412
+title: "VoiceBook: Self-Improving Voice Agents for Appointment Booking Through Adversarial Dialogue Self-Play"
+authors:
+  - Srikalyan Swayampakula
+  - Sriram Panyam
+year: 2026
+venue: SoutheastCon 2026
+doi: 10.1109/southeastcon63549.2026.11476412
+url: https://doi.org/10.1109/southeastcon63549.2026.11476412
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: voice agents prosody paralinguistic affective dialogue governance evaluation
+question: null
+search: SEARCH-fb4225ca20
+score: 1.091
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d2e744cfd3
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4414000703
+title: "LangChain vs. LangGraph vs. LangSmith: Taxonomies of Agentic AI Toolchains for End-to-End Orchestration"
+authors:
+  - Ranjan Sapkota
+  - Rashik Shrestha
+  - Madhav Rijal
+  - Manoj Karkee
+year: 2025
+venue: null
+doi: 10.36227/techrxiv.175695645.52670060/v1
+url: https://doi.org/10.36227/techrxiv.175695645.52670060/v1
+abstract: "This paper presents a comparative overview of the LangChain, LangGraph, and LangSmith as toolchains for agentic orchestration, covering architecture, functionality, and end-to-end LLMOps. We introduce a taxonomy that distinguishes chain-based composition, stateful graph orchestration, observability/evaluation layers, and map capabilities to high-impact applications such as retrieval-augmented generation (RAG), multi-agent planning, and human-in-the-loop workflows. We detail conversion patterns (chain-graph) and middleware strategies for interoperability including shared state schemas, event buses, and standardized telemetry to streamline integration. To move beyond anecdote, we propose a reproducible benchmarking protocol measuring throughput, latency, scalability, memory behavior, and a developer-centric metric: debugging resolution time. Case studies demonstrate hybrid stacks that pair LangChain for rapid construction, LangGraph for adaptive orchestration, and LangSmith for continuous monitoring, testing, and governance. Finally, we surface current limits complexity growth, state explosion, and transparency gaps and outline future directions: modular state abstraction, unified observability, ethics-by-design, performance-aware routing, and auto-evaluation pipelines. The result is a practical framework for selecting, composing, and evolving Agentic AI systems from prototype to production, improving reliability, developer experience, and time-to-value. The project page for this study is available at https://rashik.info.np/agentic_ai_toolchains/"
+type: preprint
+open_access: true
+cited_by: 4
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.166
+score_parts:
+  rank: 0.091
+  citations: 0.175
+  recency: 0.9
+needs_approval: true
+state: candidate

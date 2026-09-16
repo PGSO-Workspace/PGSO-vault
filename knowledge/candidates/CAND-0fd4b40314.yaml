@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0fd4b40314
+created: 2026-09-14T23:47:13.887Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6626161
+title: "QR Navigation Security Is Not Primarily a Cryptography Problem: A Trust-Model Framework for Managed Issuer Verification, Destination Binding, and Runtime Safety"
+authors:
+  - Hassan El-Masri
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6626161
+url: https://doi.org/10.2139/ssrn.6626161
+abstract: Navigation QR codes are now widely used across payments, ordering, public-facing navigation, and other business or institutional workflows, yet current mainstream QR scanning appears to remain primarily a convenience feature rather than a trust system. This paper addresses navigation QR rather than presentation or credential QR. Scanners typically decode a payload and surface a URL or app intent, but do not determine whether the issuer is legitimate, whether the destination remains issuer-approved, or whether the destination is safe at the time of scanning. The central claim of this manuscript is that navigation-QR security is not primarily a cryptography problem. Signed payloads, certificate checks, and HTTPS transport are necessary but insufficient because they do not, by themselves, create a managed trust signal for users. The framework developed here separates issuer legitimacy, destination binding, and runtime destination safety; develops one hierarchical but federated trust-tree model for issuer delegation and state distribution; defines issuer assurance tiers and scanner decision states; and analyzes enrollment, inspection scope, and governance constraints. It does not claim a completed deployment or empirical validation of a universal governance model. Instead, it argues that the surveyed platform behavior and cited literature do not show a widely deployed managed trust layer that can make scanner-visible trust states intelligible to users.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall" runtime security framework'
+question: null
+search: SEARCH-dd1444607d
+score: 1.091
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

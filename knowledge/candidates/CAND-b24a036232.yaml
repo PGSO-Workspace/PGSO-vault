@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b24a036232
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/smc58881.2025.11342727
+title: Multimodal Large Language Model-Action Unit Approach for Mixed Emotion Descriptors
+authors:
+  - Cheolhee Kim
+  - Seungyeon Ji
+  - Kyungreem Han
+year: 2025
+venue: 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+doi: 10.1109/smc58881.2025.11342727
+url: https://doi.org/10.1109/smc58881.2025.11342727
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 0.953
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

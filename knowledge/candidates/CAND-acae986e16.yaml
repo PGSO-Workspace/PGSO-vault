@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-acae986e16
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7116748900
+title: "S-AI-AntiHallucination: A Bio-Inspired and Confidence-Aware Sparse AI Framework for Reliable Generative Systems"
+authors:
+  - Said Slaoui
+year: 2025
+venue: Research Square
+doi: 10.21203/rs.3.rs-8398781/v1
+url: https://doi.org/10.21203/rs.3.rs-8398781/v1
+abstract: null
+type: preprint
+open_access: true
+cited_by: 0
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 0.956
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

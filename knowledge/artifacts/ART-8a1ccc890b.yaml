@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-8a1ccc890b
+created: 2026-09-15T09:06:09.093Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/task-comparators-151b6b4/bridge.py
+paths:
+  - sources/software/pgso-sdk/task-comparators-151b6b4/bridge.py
+hash: 8a1ccc890bab10ce4e2838c70321f8b052b94afdce5eec08f70f792d5661fd49
+bytes: 14280
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T09:04:58.205Z
+latest: false

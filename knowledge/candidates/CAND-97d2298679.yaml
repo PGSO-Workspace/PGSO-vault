@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-97d2298679
+created: 2026-09-15T00:30:50.983Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7117339957
+title: "Foundation Model-based Evaluation of Neuropsychiatric Disorders: A Lifespan-Inclusive, Multi-Modal, and Multi-Lingual Study"
+authors:
+  - Zhongren Dong
+  - Haotian Guo
+  - Weixiang Xu
+  - Huan Zhao
+  - Zixing Zhang
+year: 2025
+venue: arXiv (Cornell University)
+doi: null
+url: http://arxiv.org/abs/2512.20948
+abstract: Neuropsychiatric disorders, such as Alzheimer's disease (AD), depression, and autism spectrum disorder (ASD), are characterized by linguistic and acoustic abnormalities, offering potential biomarkers for early detection. Despite the promise of multi-modal approaches, challenges like multi-lingual generalization and the absence of a unified evaluation framework persist. To address these gaps, we propose FEND (Foundation model-based Evaluation of Neuropsychiatric Disorders), a comprehensive multi-modal framework integrating speech and text modalities for detecting AD, depression, and ASD across the lifespan. Leveraging 13 multi-lingual datasets spanning English, Chinese, Greek, French, and Dutch, we systematically evaluate multi-modal fusion performance. Our results show that multi-modal fusion excels in AD and depression detection but underperforms in ASD due to dataset heterogeneity. We also identify modality imbalance as a prevalent issue, where multi-modal fusion fails to surpass the best mono-modal models. Cross-corpus experiments reveal robust performance in task- and language-consistent scenarios but noticeable degradation in multi-lingual and task-heterogeneous settings. By providing extensive benchmarks and a detailed analysis of performance-influencing factors, FEND advances the field of automated, lifespan-inclusive, and multi-lingual neuropsychiatric disorder assessment. We encourage researchers to adopt the FEND framework for fair comparisons and reproducible research.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"'
+question: null
+search: SEARCH-40ed8087e2
+score: 1.043
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

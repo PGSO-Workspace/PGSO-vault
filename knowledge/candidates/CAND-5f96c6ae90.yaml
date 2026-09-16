@@ -1,0 +1,45 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5f96c6ae90
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4393065402
+title: A survey on large language model based autonomous agents
+authors:
+  - Lei Wang
+  - Chen Ma
+  - Xueyang Feng
+  - Zeyu Zhang
+  - Hao Yang
+  - Jingsen Zhang
+  - Zhiyuan Chen
+  - Jiakai Tang
+  - Xu Chen
+  - Yankai Lin
+  - Wayne Xin Zhao
+  - Zhewei Wei
+  - Ji-Rong Wen
+year: 2024
+venue: Frontiers of Computer Science
+doi: 10.1007/s11704-024-40231-1
+url: https://doi.org/10.1007/s11704-024-40231-1
+abstract: Abstract Autonomous agents have long been a research focus in academic and industry communities. Previous research often focuses on training agents with limited knowledge within isolated environments, which diverges significantly from human learning processes, and makes the agents hard to achieve human-like decisions. Recently, through the acquisition of vast amounts of Web knowledge, large language models (LLMs) have shown potential in human-level intelligence, leading to a surge in research on LLM-based autonomous agents. In this paper, we present a comprehensive survey of these studies, delivering a systematic review of LLM-based autonomous agents from a holistic perspective. We first discuss the construction of LLM-based autonomous agents, proposing a unified framework that encompasses much of previous work. Then, we present a overview of the diverse applications of LLM-based autonomous agents in social science, natural science, and engineering. Finally, we delve into the evaluation strategies commonly used for LLM-based autonomous agents. Based on the previous studies, we also present several challenges and future directions in this field.
+type: article
+open_access: true
+cited_by: 1566
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 2.599
+score_parts:
+  rank: 1
+  citations: 0.799
+  recency: 0.8
+needs_approval: false
+state: candidate

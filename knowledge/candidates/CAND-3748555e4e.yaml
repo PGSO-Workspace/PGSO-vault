@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3748555e4e
+created: 2026-09-14T23:44:09.730Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5396126
+title: "AI-OSINT with Knowledge Graphs and Graph Neural Networks: Evidence on Transnational Religious Diplomacy and Financial Anomalies"
+authors:
+  - Wei Meng
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5396126
+url: https://doi.org/10.2139/ssrn.5396126
+abstract: 'This study proposes an AI-OSINT framework for transnational religious figures, linking knowledge graphs, graph neural networks and Bayesian updating into a computable evidence chain to reconstruct and quantify the overseas assets and foreign contacts of Shi Yongxin and the Shaolin system (2024-11-2025-06). Combining GCN/GAT with unsupervised anomaly detection (Isolation Forest, LOF) on heterogeneous time-series graphs and Bayesian modelling to form monthly outputs of Religious Diplomatic Risk Index (RDRI, 0-100), assessed by ROC-AUC/AUPRC; link prediction by MRR/Hits@k. The results show that the Vatican meeting (2025-02-01) triggered a short-term peak, with the RDRI rising from c. 24-27 to c. 42, and reaching c. 45 in 2025-03; the subsequent chain of "foundations/cultural centres → out-of-country activities" maintained the index at a medium-term high of c. 40 (±3), with a medium-term high of c. 40 (±3), and a medium-term high of c. 40 (±3). The "Foundation/Cultural Centre → Outbound Activities" chain maintains the index at a medium-term high of ~40 (±3), showing a double-engine rhythm of "event amplification + resource penetration". The reported uncertainty interval is ±3; and the conclusion level is shown to be stable under a priori/likelihood ±10% perturbation. The framework enhances the systematic and verifiable study of transnational religious networks without relying on internal intelligence and is transferable to other religious or transnational NGO contexts; to avoid misuse, the RDRI is defined as an early warning scale rather than a factual or judicial characterisation (all judgements cross-checked against registered and chained anchors).Keywords: knowledge graph; graph neural networks; religious diplomacy; financial anomalies; OSINT'
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees With Knowledge Graphs for Affective Human-AI Teaming" code GitHub'
+question: null
+search: SEARCH-2325920ecd
+score: 0.971
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

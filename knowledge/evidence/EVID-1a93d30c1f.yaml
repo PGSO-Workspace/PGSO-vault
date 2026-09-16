@@ -1,0 +1,42 @@
+schema: phdude.evidence
+version: 1
+id: EVID-1a93d30c1f
+created: 2026-09-13T07:00:35.815Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-4c878e2b5b
+locator: crates/pgso-core/tests/property_tests.rs lines 59–83, commit 1b17c248d3608a7d80cc1147e8aa57acbb715132
+excerpt: |-
+  fn prop_allowlist_never_pruned(
+          readings in prop::collection::vec(arb_reading(), 1..50),
+          rules in prop::collection::vec(arb_rule(), 1..10),
+      ) {
+          let protected = HashSet::from([ToolId::from("escalate")]);
+          let config = EngineConfig {
+              confidence_threshold: 0.3,
+              deviation_threshold: 0.2,
+              hysteresis_window: 2,
+              ema_alpha: 0.1,
+              warmup_readings: 3,
+              population_prior: 0.5,
+          };
+
+          let mut engine = DecisionEngine::new(config);
+          let rule_engine = RuleEngine::new(RuleSet::new(rules), protected.clone());
+
+          for reading in &readings {
+              if let Some(output) = engine.process(reading) {
+                  let decisions = rule_engine.evaluate(&output);
+                  for decision in &decisions {
+                      if let Action::Prune(ref id) = decision.action {
+                          prop_assert!(
+                              !protected.contains(id),
+                              "G2 VIOLATED: Prune emitted for protected tool {:?}
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-2ea288a4cb

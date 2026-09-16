@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-c8cd426d1b
+created: 2026-09-15T06:12:39.196Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/operational-7805fb9/lifecycle_comparison.rs.txt
+paths:
+  - sources/software/pgso-sdk/operational-7805fb9/lifecycle_comparison.rs.txt
+hash: c8cd426d1bae105e174c9f096bb329b97f1d772d5dd62d7c5bf2682e68d0da56
+bytes: 11874
+mime: text/plain
+kind: txt
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 11874
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T06:12:38.776Z

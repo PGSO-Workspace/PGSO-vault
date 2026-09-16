@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9374bff540
+created: 2026-09-14T23:47:13.887Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.cose.2025.104455
+title: LTL-based runtime verification framework for cyber-attack anomaly prediction in cyber–physical systems
+authors:
+  - Ayodeji James Akande
+  - Zhe Hou
+  - Ernest Foo
+  - Qinyi Li
+year: 2025
+venue: Computers &amp; Security
+doi: 10.1016/j.cose.2025.104455
+url: https://doi.org/10.1016/j.cose.2025.104455
+abstract: null
+type: article
+open_access: null
+cited_by: 5
+query: '"LlamaFirewall" runtime security framework'
+question: null
+search: SEARCH-dd1444607d
+score: 1.172
+score_parts:
+  rank: 0.077
+  citations: 0.195
+  recency: 0.9
+needs_approval: false
+state: candidate

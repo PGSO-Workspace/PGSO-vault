@@ -1,0 +1,28 @@
+schema: phdude.result
+version: 1
+id: RESULT-67f69e86a3
+created: 2026-09-15T19:03:20.948Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: Two of three identity-instruction sessions passed; the remaining task failed after an incorrect line mutation. The original run contains two scored sessions and one provider-rate infrastructure failure.
+from: ANALYSIS-ac3418414d
+values:
+  original:
+    scored: 2
+    success: 1
+    task_failure: 1
+    infrastructure_failure: 1
+    wrong_line_mutation: 1
+  identity:
+    scored: 3
+    success: 2
+    task_failure: 1
+    infrastructure_failure: 0
+    wrong_line_mutation: 1
+state: candidate
+ext:
+  analysis:
+    key: b0_development_counts
+    run_at: 2026-09-15T19:03:20.948Z

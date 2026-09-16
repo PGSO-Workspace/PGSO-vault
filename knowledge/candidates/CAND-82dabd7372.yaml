@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-82dabd7372
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5392553
+title: "Governing Self-Modifying AI: A Federal Framework for Runtime Safety"
+authors:
+  - Waydell Carvalho
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5392553
+url: https://doi.org/10.2139/ssrn.5392553
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 0.948
+score_parts:
+  rank: 0.048
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

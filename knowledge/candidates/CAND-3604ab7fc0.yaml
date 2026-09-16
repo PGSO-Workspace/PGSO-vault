@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3604ab7fc0
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2024.3406726
+title: Affect-Conditioned Image Generation
+authors:
+  - Francisco Ibarrola
+  - Rohan Lulham
+  - Kazjon Grace
+year: 2024
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2024.3406726
+url: https://doi.org/10.1109/taffc.2024.3406726
+abstract: null
+type: article
+open_access: null
+cited_by: 3
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 0.996
+score_parts:
+  rank: 0.045
+  citations: 0.151
+  recency: 0.8
+needs_approval: false
+state: candidate

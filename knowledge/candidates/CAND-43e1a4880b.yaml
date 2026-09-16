@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-43e1a4880b
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7140287625
+title: "Generative AI-Assisted Automation of Clinical Data Processing: A Methodological Framework for Streamlining Behavioral Research Workflows"
+authors:
+  - Marta Lilia Eraña-Díaz
+  - Alejandra Rosales-Lagarde
+  - Iván Arango
+  - José Alejandro Velázquez-Monzón
+year: 2026
+venue: Informatics
+doi: 10.3390/informatics13040048
+url: https://doi.org/10.3390/informatics13040048
+abstract: This article presents a methodological framework for automating clinical data processing workflows using Generative Artificial Intelligence (AI) as an interactive co-developer. We demonstrate how Large Language Models (LLMs), specifically ChatGPT and Claude, can assist researchers in designing, implementing, and deploying complete ETL (Extract, Transform, Load) pipelines without requiring advanced programming or DevOps expertise. Using a dataset of 102 participants from a nonverbal expression study as a proof-of-concept, we show how AI-assisted automation transforms FaceReader video analysis outputs during the Cyberball paradigm into structured, analysis-ready datasets through containerized workflows orchestrated via Docker and n8n. The resulting framework successfully processes all 102 datasets, generating machine learning outputs to validate pipeline execution stability (rather than clinical predictivity), and deploys interactive visualization dashboards, tasks that would normally require significant manual effort and technical specialization expertise. This work establishes a replicable methodology for integrating Generative AI into research data management workflows, with implications for accelerating scientific discovery across behavioral and medical research domains.
+type: article
+open_access: true
+cited_by: 1
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.131
+score_parts:
+  rank: 0.056
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

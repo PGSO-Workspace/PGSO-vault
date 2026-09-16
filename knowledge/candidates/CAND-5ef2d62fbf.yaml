@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5ef2d62fbf
+created: 2026-09-14T23:46:57.333Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.33774/coe-2026-vt9t2-v2
+title: "State-Aware Runtime for Long-Horizon LLM Agents: A Conceptual Framework and Research Agenda"
+authors:
+  - Xiwei Chen
+year: 2026
+venue: null
+doi: 10.33774/coe-2026-vt9t2-v2
+url: https://doi.org/10.33774/coe-2026-vt9t2-v2
+abstract: Long-horizon LLM agents are increasingly expected to operate across extended interactions, evolving tasks, tool calls, memory updates, and multi-step plans. However, many failures in such systems are not adequately explained by single-turn reasoning errors or insufficient model capability. Instead, they arise from unstable state maintenance, uncontrolled memory injection, protocol drift, tool-mediated side effects, and missing recovery mechanisms. This paper defines State-Aware Runtime as the transaction-governance layer that separates model generation from canonical state, memory operations, validation, commit/rollback, and audit traces during execution. Its lifecycle includes boot-time initialization, session resume, baseline recovery, bounded state-view construction, proposal validation, commit, rollback or compensation, and audit. Stronger models may reduce the frequency of invalid proposals, but they do not remove the need for durable state, audit trails, permission boundaries, and side-effect governance when agent actions persist beyond a single model context. We provide a structured conceptual review of work on agent memory, tool use, long-context modeling, self-reflection, generative agents, workflow orchestration, and monitoring, and reorganize these strands around the problem of long-horizon runtime reliability. The central claim is that future agent reliability will depend less on prompt accumulation and more on explicit runtime systems that manage what the model is allowed to know, change, commit, forget, and recover. We conclude with a taxonomy of long-horizon failures and a research agenda for auditable, recoverable, and state-aware agent infrastructure.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"AgentSpec" runtime enforcement LLM agents'
+question: null
+search: SEARCH-ab8e976bec
+score: 1.063
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

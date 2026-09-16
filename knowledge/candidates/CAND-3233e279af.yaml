@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3233e279af
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4406438133
+title: "Emotion Forecasting: A Transformer-Based Approach"
+authors:
+  - Leire Paz-Arbaizar
+  - Jorge López‐Castromán
+  - Antonio Artés-Rodrı́guez
+  - Pablo M. Olmos
+  - David Ramírez
+year: 2025
+venue: Journal of Medical Internet Research
+doi: 10.2196/63962
+url: https://doi.org/10.2196/63962
+abstract: "BACKGROUND: Monitoring the emotional states of patients with psychiatric problems has always been challenging due to the noncontinuous nature of clinical assessments, the effect of the health care environment, and the inherent subjectivity of evaluation instruments. However, mental states in psychiatric disorders exhibit substantial variability over time, making real-time monitoring crucial for preventing risky situations and ensuring appropriate treatment. OBJECTIVE: This study aimed to leverage new technologies and deep learning techniques to enable more objective, real-time monitoring of patients. This was achieved by passively monitoring variables such as step count, patient location, and sleep patterns using mobile devices. We aimed to predict patient self-reports and detect sudden variations in their emotional valence, identifying situations that may require clinical intervention. METHODS: Data for this project were collected using the Evidence-Based Behavior (eB2) app, which records both passive and self-reported variables daily. Passive data refer to behavioral information gathered via the eB2 app through sensors embedded in mobile devices and wearables. These data were obtained from studies conducted in collaboration with hospitals and clinics that used eB2. We used hidden Markov models (HMMs) to address missing data and transformer deep neural networks for time-series forecasting. Finally, classification algorithms were applied to predict several variables, including emotional state and responses to the Patient Health Questionnaire-9. RESULTS: Through real-time patient monitoring, we demonstrated the ability to accurately predict patients' emotional states and anticipate changes over time. Specifically, our approach achieved high accuracy (0.93) and a receiver operating characteristic (ROC) area under the curve (AUC) of 0.98 for emotional valence classification. For predicting emotional state changes 1 day in advance, we obtained an ROC AUC of 0.87. Furthermore, we demonstrated the feasibility of forecasting responses to the Patient Health Questionnaire-9, with particularly strong performance for certain questions. For example, in question 9, related to suicidal ideation, our model achieved an accuracy of 0.9 and an ROC AUC of 0.77 for predicting the next day's response. Moreover, we illustrated the enhanced stability of multivariate time-series forecasting when HMM preprocessing was combined with a transformer model, as opposed to other time-series forecasting methods, such as recurrent neural networks or long short-term memory cells. CONCLUSIONS: The stability of multivariate time-series forecasting improved when HMM preprocessing was combined with a transformer model, as opposed to other time-series forecasting methods (eg, recurrent neural network and long short-term memory), leveraging the attention mechanisms to capture longer time dependencies and gain interpretability. We showed the potential to assess the emotional state of a patient and the scores of psychiatric questionnaires from passive variables in advance. This allows real-time monitoring of patients and hence better risk detection and treatment adjustment."
+type: article
+open_access: true
+cited_by: 16
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.264
+score_parts:
+  rank: 0.056
+  citations: 0.308
+  recency: 0.9
+needs_approval: false
+state: candidate

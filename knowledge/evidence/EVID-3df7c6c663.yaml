@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-3df7c6c663
+created: 2026-09-15T08:11:53.920Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-dc1bda30f0
+locator: ART-30d0bee537, section Evidence that changes the design
+excerpt: Perception rankings do not establish downstream tool-policy utility.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-30d0bee537

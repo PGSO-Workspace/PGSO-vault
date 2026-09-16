@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-29705918a2
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412886713
+title: Conformity in Large Language Models
+authors:
+  - Xiaochen Zhu
+  - Caiqi Zhang
+  - Tom Stafford
+  - Nigel Collier
+  - Andreas Vlachos
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.acl-long.195
+url: https://doi.org/10.18653/v1/2025.acl-long.195
+abstract: The conformity effect describes the tendency of individuals to align their responses with the majority.Studying this bias in large language models (LLMs) is crucial, as LLMs are increasingly used in various information-seeking and decision-making tasks as conversation partners to improve productivity.Thus, conformity to incorrect responses can compromise their effectiveness.In this paper, we adapt psychological experiments to examine the extent of conformity in popular LLMs.Our findings reveal that all tested models exhibit varying levels of conformity toward the majority, regardless of their initial choice or correctness, across different knowledge domains.Notably, we are the first to show that LLMs are more likely to conform when they are more uncertain in their own prediction.We further explore factors that influence conformity, such as training paradigms and input characteristics, finding that instruction-tuned models are less susceptible to conformity, while increasing the naturalness of majority tones amplifies conformity.Finally, we propose two interventions, Devil's Advocate and Question Distillation, to mitigate conformity, providing insights into building more robust language models. What is the oldest college in Cambridge?It is Peterhouse College. What is the oldest college in Cambridge?King's.
+type: other
+open_access: true
+cited_by: 4
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.125
+score_parts:
+  rank: 0.05
+  citations: 0.175
+  recency: 0.9
+needs_approval: false
+state: candidate

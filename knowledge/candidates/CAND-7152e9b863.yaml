@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7152e9b863
+created: 2026-09-15T01:09:29.009Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392781304
+title: "CAP: A General Algorithm for Online Selective Conformal Prediction with FCR Control"
+authors:
+  - Yajie Bao
+  - Yuyang Huo
+  - Haojie Ren
+  - Changliang Zou
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2403.07728
+url: http://arxiv.org/abs/2403.07728
+abstract: We study the problem of post-selection predictive inference in an online fashion. To avoid devoting resources to unimportant units, a preliminary selection of the current individual before reporting its prediction interval is common and meaningful in online predictive tasks. Since the online selection causes a temporal multiplicity in the selected prediction intervals, it is important to control the real-time false coverage-statement rate (FCR) which measures the overall miscoverage level. We develop a general framework named CAP (Calibration after Adaptive Pick) that performs an adaptive pick rule on historical data to construct a calibration set if the current individual is selected and then outputs a conformal prediction interval for the unobserved label. We provide tractable procedures for constructing the calibration set for popular online selection rules. We proved that CAP can achieve an exact selection-conditional coverage guarantee in the finite-sample and distribution-free regimes. To account for the distribution shift in online data, we also embed CAP into some recent dynamic conformal prediction algorithms and show that the proposed method can deliver long-run FCR control. Numerical results on both synthetic and real data corroborate that CAP can effectively control FCR around the target level and yield more narrowed prediction intervals over existing baselines across various settings.
+type: preprint
+open_access: true
+cited_by: 0
+query: CAP A General Algorithm for Online Selective Conformal Prediction with FCR Control
+question: null
+search: SEARCH-2f7e5e9e96
+score: 1.8
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 0.8
+needs_approval: true
+state: candidate

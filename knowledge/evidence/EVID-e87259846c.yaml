@@ -1,0 +1,23 @@
+schema: phdude.evidence
+version: 1
+id: EVID-e87259846c
+created: 2026-09-13T07:00:36.654Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-4c878e2b5b
+locator: docs/known-issues.md lines 10–15, commit 1b17c248d3608a7d80cc1147e8aa57acbb715132
+excerpt: |-
+  `context.md` is broadly out of date. Beyond the project-name and punitive-framing
+  fixes already made on `bench/decision-latency`, sections §2–§4 describe a stack,
+  decision formula, and state machine that the shipped `pgso-core` /
+  `pgso-signal-egemaps` crates **do not implement**. If the paper (or onboarding)
+  cites `context.md` as an architecture reference, it will mislead. Nothing about
+  the actual engine behavior is wrong — only `context.md`'s description of it.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-17468eb20f

@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9fd293319f
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1037/emo0001040.supp
+title: Supplemental Material for Spatial Frequencies Affect Cuteness Perception of Infant Faces
+authors: []
+year: 2022
+venue: Emotion
+doi: 10.1037/emo0001040.supp
+url: https://doi.org/10.1037/emo0001040.supp
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 0.63
+score_parts:
+  rank: 0.03
+  citations: 0
+  recency: 0.6
+needs_approval: false
+state: candidate

@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-2ac4c12dce
+created: 2026-09-15T08:30:27.251Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/roaming-withholding-ff8f5ff/test_bridge.py.txt
+paths:
+  - sources/software/pgso-sdk/roaming-withholding-ff8f5ff/test_bridge.py.txt
+hash: 2ac4c12dce89fcc5cd9bb666cb91640ba907b1a4723ae2c6c7b555a0fc2389a3
+bytes: 8371
+mime: text/plain
+kind: txt
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 8371
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T08:30:27.035Z
+latest: false

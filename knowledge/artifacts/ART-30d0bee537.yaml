@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-30d0bee537
+created: 2026-09-15T06:44:22.675Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/reports/paper1-independent-validation-research-2026-09-15.md
+paths:
+  - sources/reports/paper1-independent-validation-research-2026-09-15.md
+hash: 30d0bee537e023385883019b8e0820448b6e06a2b2d7fa8857ba734b9ed7439e
+bytes: 21178
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 21170
+  sections: 13
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T06:44:22.481Z

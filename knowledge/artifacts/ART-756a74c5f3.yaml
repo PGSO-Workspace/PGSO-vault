@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-756a74c5f3
+created: 2026-09-15T08:40:16.401Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/step-up-1a9f60c/provenance.md
+paths:
+  - sources/software/pgso-sdk/step-up-1a9f60c/provenance.md
+hash: 756a74c5f3046c734a952db6c79693eced2aadb5b14414203922b80371b76129
+bytes: 1309
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 1309
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T08:40:16.192Z

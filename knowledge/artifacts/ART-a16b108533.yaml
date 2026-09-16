@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-a16b108533
+created: 2026-09-15T07:15:12.583Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/public-voice-4a840ba/integration-tests.log
+paths:
+  - sources/software/pgso-sdk/public-voice-4a840ba/integration-tests.log
+hash: a16b1085336f046aa8937d9bbd8b75c8e14245f1aac5cd862ac34c07616c01bc
+bytes: 2407
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T07:15:12.038Z

@@ -1,0 +1,16 @@
+schema: phdude.source
+version: 1
+id: SRC-2c278fd626
+created: 2026-09-15T00:22:10.757Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: Invariant agent guardrails — comparator screening 2026-09-15
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts: []
+state: candidate
+year: 2026
+abstract: "Mechanism comparator: policies over tool-call traces; not inherently a prosodic perception system. Official source inspected: https://github.com/invariantlabs-ai/invariant"

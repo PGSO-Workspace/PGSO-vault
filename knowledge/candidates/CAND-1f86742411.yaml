@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1f86742411
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7203631
+title: "Configuration-Level Semantic Brittleness in Tool-Using LLM Agents: A Factor-Ranking Study of Persona, History, and Tool Definition"
+authors:
+  - omar altawil
+  - Dr. Mustafa Al-Fayoumi
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7203631
+url: https://doi.org/10.2139/ssrn.7203631
+abstract: "Tool-using Large Language Model (LLM) agents pose a security risk that differs from text-only misuse: an unsafe response can become a harmful ac tion. This paper investigates that risk through configuration-level semantic brittleness, defined as the possibility that an agent’s safety behavior changes when operator-controlled deployment settings change, even though malicious intent remains constant. We focus on three configuration factors—system persona, prefixed conversation history, and model-facing tool definition— and develop an Adversarial Configuration Harness for structured red-teaming across model families. The empirical program uses an exploratory stage fol lowed by a frozen confirmatory stage comprising 570 trials across OpenAI, Anthropic, and Qwen-family models. Three findings emerge: persona fram ing is the strongest factor affecting safety failure; tool-definition effects are real but family-specific in mechanism; and history effects depend on seman tic type rather than a simple safe/unsafe continuum. In the combined-factor experiment, persona produced the largest Safety Failure Rate spread (66.7 percentage points), compared with 16.7 for history and 7.5 for tool definition. The study shows that safe deployment depends not only on model choice, but also on how the surrounding configuration is presented."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.037
+score_parts:
+  rank: 0.037
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3c4057a23d
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/979-8-8688-0515-8_3
+title: LangChain and Agents
+authors:
+  - Pere Martra
+year: 2024
+venue: Large Language Models Projects
+doi: 10.1007/979-8-8688-0515-8_3
+url: https://doi.org/10.1007/979-8-8688-0515-8_3
+abstract: null
+type: chapter
+open_access: null
+cited_by: 1
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 0.907
+score_parts:
+  rank: 0.032
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

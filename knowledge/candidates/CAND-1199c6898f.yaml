@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1199c6898f
+created: 2026-09-14T16:52:17.509Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20944/preprints202609.0138.v1
+title: "Augmenting the Intelligence of Large Language Model-Based Agents with Graphs: A Survey"
+authors:
+  - Qi Shao
+  - Long Yuan
+  - Xuemin Lin
+  - Wenjie Zhang
+year: 2026
+venue: null
+doi: 10.20944/preprints202609.0138.v1
+url: https://doi.org/10.20944/preprints202609.0138.v1
+abstract: "Large language models (LLMs) have achieved remarkable performance, prompting the development of LLM-based agents to tackle complex, open-world tasks. Despite these advances, autonomous agents still face critical bottlenecks in environmental perception, multi-step reasoning, and long-term opera-tional consistency. Graphs provide a systematic solution to these challenges by explicitly modeling entities, relationships, and dependencies, thereby establishing a rigorous foundation for reasoning and interaction. While recent literature explores this integration, existing surveys primarily focus on operational workflows and architectures, lacking a systematic analysis of how graphs fundamentally elevate agent intelligence. To bridge this gap, this survey presents a comprehensive review of Graph-Augmented LLM-based Agents (GLAs). We systematically decompose agent architecture to distill five core capabilities required for advanced intelligence: perception, reasoning, memorization, generaliza-tion, and interaction. We explicitly address why graphs are uniquely suited to bolster these capabilities and how they are practically integrated, proposing a novel taxonomy that organizes existing studies along these five dimensions. Furthermore, we review representative real-world applications of GLAs across diverse domains and outline key challenges and promising directions for future research. A curated repository containing the literature reviewed in this survey, along with the latest advancements in this field, is maintained and regularly updated at https://github.com/sqs17/GLA."
+type: preprint
+open_access: null
+cited_by: 0
+query: A Survey on the Optimization of Large Language Model-based Agents
+question: null
+search: SEARCH-a32d57a17a
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

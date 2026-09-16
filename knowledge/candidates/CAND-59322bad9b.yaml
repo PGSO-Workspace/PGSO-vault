@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-59322bad9b
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4393342727
+title: "AI and English language teaching: Affordances and challenges"
+authors:
+  - Helen Crompton
+  - Adam Edmett
+  - Neenaz Ichaporia
+  - Diane Burke
+year: 2024
+venue: British Journal of Educational Technology
+doi: 10.1111/bjet.13460
+url: https://doi.org/10.1111/bjet.13460
+abstract: Abstract English is one of the most used languages for jobs, markets, tourism, discourse and international connectivity. However, English learners face many challenges in gaining English language skills. Extant studies show that AI has affordances to support in English language teaching and learning ELT/L. This study answers the call to examine specific challenges and affordances for using AI in ELT/L. A systematic review method was used with PRISMA principles to identify 42 studies. Findings reveal the geographical locations of studies, learner ages and years of study. Grounded coding was then used to identify affordances of the use of AI in ELT/L in the areas of speaking, writing, reading, pedagogy and self‐regulation. AI in ELT/L challenges uncovered were technology breakdowns, limited capabilities, fear and standardising language. Policymakers, funders, practitioners and educational leaders can use the information provided in this study to gain a holistic understanding of the current trend in the use of AI in ELT/L, and practical implications are provided to guide future use of AI. Practitioner notes What is already known about this topic English is one of the most used languages for jobs, markets, tourism, discourse and international connectivity. Empirical evidence shows that pupils can often face difficulties when learning English, with challenges such as irregularity in English spelling. AI has supported language teaching and learning with studies showing that AI can support language‐specific skills. What this paper adds Provides the scholarly community with a unique systematic review in the use of AI in ELT/L across learner levels. Identifies affordances of AI in ELT/L in speaking, writing, reading, pedagogy and self‐regulation. Identifies challenges of AI in ELT/L in technology breakdowns, limited capabilities, fear and standardising language. Provides researchers with a review of the field with identification of gaps and future research opportunities. Implications for practice and/or policy Provides practical implications from the findings for educators, policy makers and program designers. Highlights the gaps in academic knowledge as a lack in the use of AI for assessment in ELT /L.
+type: article
+open_access: true
+cited_by: 251
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.422
+score_parts:
+  rank: 0.022
+  citations: 0.6
+  recency: 0.8
+needs_approval: false
+state: candidate

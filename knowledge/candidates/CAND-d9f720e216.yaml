@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d9f720e216
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1017/dsj.2025.10037
+title: "Enhancing design concept diversity: multi-persona prompting strategies for large language models"
+authors:
+  - Wangchuan Bradley Feng
+  - Sébastien Hélie
+  - Jitesh H. Panchal
+year: 2025
+venue: Design Science
+doi: 10.1017/dsj.2025.10037
+url: https://doi.org/10.1017/dsj.2025.10037
+abstract: Abstract Large language models (LLMs) are increasingly used to address real-world design problems, especially during the design ideation phase. Although LLMs hold substantial promise for concept generation, the understanding of how they can effectively assist designers in enhancing the diversity of design concepts is still limited. In this study, we set up different strategies for prompting multiple professional personas to the LLM for design concept generation, including (1) multiple prompts for concept generation in parallel, each with a professional persona, (2) a single prompt for concept generation with multiple professional personas, and (3) a sequence of prompts for concept generation and update, each with a professional persona. We formulate and test several hypotheses on the effectiveness of different strategies. All hypotheses are tested by constructing professional knowledge bases, selecting design problems and personas, and designing the prompts. The results suggest that LLMs can facilitate the design ideation process and provide more diverse design concepts when they are given multiple prompts in parallel, each with a professional persona, or given a sequence of prompts with multiple professional personas to generate and update design concepts gradually.
+type: article
+open_access: null
+cited_by: 3
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.096
+score_parts:
+  rank: 0.045
+  citations: 0.151
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0b3f133091
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7127707603
+title: "Corporate Communication of Sustainability in the Fashion Industry: A Systematic Literature Review"
+authors:
+  - Sonia Llácer-Falcón
+  - María J. Vilaplana-Aparicio
+  - Cristina González Díaz
+year: 2026
+venue: Administrative Sciences
+doi: 10.3390/admsci16020076
+url: https://doi.org/10.3390/admsci16020076
+abstract: "Corporate communication of sustainability within the fashion industry operates in a sector with high reputational exposure and increasing demands for environmental and social accountability. Despite the growing volume of research, the field remains conceptually and methodologically dispersed, with a predominant focus on discourse and limited emphasis on verification and structural integration. This study presents a systematic review of 80 peer-reviewed articles published between 2015 and 2025 in Scopus and Web of Science, examining how sustainability communication in the fashion industry has been conceptualised, investigated, and operationalised across the literature. Following the PRISMA protocol and employing a mixed-method approach combining bibliometric and content analyses, four thematic lines were identified: (1) corporate communication and reputation; (2) digital communication and social media; (3) CSR and sustainability; (4) transparency and greenwashing. Keyword co-occurrence and conceptual clusters were mapped using VOSviewer. Results reveal a predominance of content analysis, case studies, and corporate narratives, with fewer quantitative and mixed-method designs. Research largely focuses on discourse interpretation and credibility-building rather than on empirically verifying sustainability commitments. Thematic developments indicate a shift from general CSR frameworks toward transparency, digital traceability, and social media communication. Key gaps persist in message authenticity, greenwashing evaluation, and communicating public sustainability funds, including Next Generation EU programs. Overall, the review portrays an expanding yet fragmented field in which sustainability communication operates primarily as a reputational mechanism. Methodologically, the study combines a PRISMA-guided systematic literature review with bibliometric mapping techniques to support thematic synthesis and field contextualisation."
+type: other
+open_access: true
+cited_by: 2
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 1.202
+score_parts:
+  rank: 0.083
+  citations: 0.119
+  recency: 1
+needs_approval: false
+state: candidate

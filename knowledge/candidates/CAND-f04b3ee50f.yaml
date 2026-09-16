@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f04b3ee50f
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.4659033
+title: Transparency in Design Science Research
+authors:
+  - Alan Hevner
+  - Jeffrey Parsons
+  - Alfred  Benedikt Brendel
+  - Roman Lukyanenko
+  - Verena Tiefenbeck
+  - Monica Tremblay
+  - Jan vom Brocke
+year: 2023
+venue: null
+doi: 10.2139/ssrn.4659033
+url: https://doi.org/10.2139/ssrn.4659033
+abstract: null
+type: preprint
+open_access: null
+cited_by: 2
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 0.847
+score_parts:
+  rank: 0.028
+  citations: 0.119
+  recency: 0.7
+needs_approval: true
+state: candidate

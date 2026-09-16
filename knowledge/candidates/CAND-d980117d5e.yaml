@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d980117d5e
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410151868
+title: "Law-Following AI: Designing AI Agents to Obey Human Laws"
+authors:
+  - Cullen O’Keefe
+  - Ketan Ramakrishnan
+  - Janna Tay
+  - Christoph Winter
+year: 2025
+venue: SSRN Electronic Journal
+doi: 10.2139/ssrn.5242643
+url: https://doi.org/10.2139/ssrn.5242643
+abstract: null
+type: preprint
+open_access: true
+cited_by: 7
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.251
+score_parts:
+  rank: 0.125
+  citations: 0.226
+  recency: 0.9
+needs_approval: true
+state: candidate

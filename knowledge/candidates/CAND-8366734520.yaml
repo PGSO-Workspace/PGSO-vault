@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8366734520
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4391840620
+title: "Robots as Mental Well-being Coaches: Design and Ethical Recommendations"
+authors:
+  - Minja Axelsson
+  - Micol Spitale
+  - Hatice Güneş
+year: 2024
+venue: ACM Transactions on Human-Robot Interaction
+doi: 10.1145/3643457
+url: https://doi.org/10.1145/3643457
+abstract: "The last decade has shown a growing interest in robots as well-being coaches. However, insightful guidelines for the design of robots as coaches to promote mental well-being have not yet been proposed. This article details design and ethical recommendations based on a qualitative analysis drawing on a grounded theory approach, which was conducted with a three-step iterative design process which included user-centered design studies involving robotic well-being coaches, namely: (1) a user-centred design study conducted with 11 participants consisting of both prospective users who had participated in a Brief Solution-Focused Practice study with a human coach, as well as coaches of different disciplines, (2) semi-structured individual interview data gathered from 20 participants attending a Positive Psychology intervention study with the robotic well-being coach Pepper, and (3) a user-centred design study conducted with 3 participants of the Positive Psychology study as well as 2 relevant well-being coaches. After conducting a thematic analysis and a qualitative analysis, we collated the data gathered into convergent and divergent themes, and we distilled from those results a set of design guidelines and ethical considerations. Our findings can inform researchers and roboticists on the key aspects to take into account when designing robotic mental well-being coaches."
+type: article
+open_access: true
+cited_by: 31
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.205
+score_parts:
+  rank: 0.029
+  citations: 0.376
+  recency: 0.8
+needs_approval: false
+state: candidate

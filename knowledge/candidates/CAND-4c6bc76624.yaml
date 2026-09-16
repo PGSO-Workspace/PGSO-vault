@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4c6bc76624
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415872256
+title: "LLMs for Cybersecurity in the Big Data Era: A Comprehensive Review of Applications, Challenges, and Future Directions"
+authors:
+  - Aristeidis Karras
+  - Leonidas Theodorakopoulos
+  - Christos Karras
+  - Alexandra Theodoropoulou
+  - Ioanna Kalliampakou
+  - Gerasimos Kalogeratos
+year: 2025
+venue: Information
+doi: 10.3390/info16110957
+url: https://doi.org/10.3390/info16110957
+abstract: "This paper presents a systematic review of research (2020–2025) on the role of Large Language Models (LLMs) in cybersecurity, with emphasis on their integration into Big Data infrastructures. Based on a curated corpus of 235 peer-reviewed studies, this review synthesizes evidence across multiple domains to evaluate how models such as GPT-4, BERT, and domain-specific variants support threat detection, incident response, vulnerability assessment, and cyber threat intelligence. The findings confirm that LLMs, particularly when coupled with scalable Big Data pipelines, improve detection accuracy and reduce response latency compared with traditional approaches. However, challenges persist, including adversarial susceptibility, risks of data leakage, computational overhead, and limited transparency. The contribution of this study lies in consolidating fragmented research into a unified taxonomy, identifying sector-specific gaps, and outlining future research priorities: enhancing robustness, mitigating bias, advancing explainability, developing domain-specific models, and optimizing distributed integration. In doing so, this review provides a structured foundation for both academic inquiry and practical adoption of LLM-enabled cyberdefense strategies. Last search: 30 April 2025; methods followed: PRISMA-2020; risk of bias was assessed; random-effects syntheses were conducted."
+type: article
+open_access: true
+cited_by: 25
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.31
+score_parts:
+  rank: 0.056
+  citations: 0.354
+  recency: 0.9
+needs_approval: false
+state: candidate

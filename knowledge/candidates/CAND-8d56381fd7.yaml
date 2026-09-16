@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8d56381fd7
+created: 2026-09-15T00:30:50.983Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5194/essd-2022-52
+title: "WaterBench: A Large-scale Benchmark Dataset for Data-Driven Streamflow Forecasting"
+authors:
+  - Ibrahim Demir
+  - Zhongrun Xiang
+  - Bekir Demiray
+  - Muhammed Sit
+year: 2022
+venue: null
+doi: 10.5194/essd-2022-52
+url: https://doi.org/10.5194/essd-2022-52
+abstract: Abstract. This study proposes a comprehensive benchmark dataset for streamflow forecasting, WaterBench, that follows FAIR data principles that is prepared with a focus on convenience for utilizing in data-driven and machine learning studies, and provides benchmark performance for state-of-art deep learning architectures on the dataset for comparative analysis. By aggregating the datasets of streamflow, precipitation, watershed area, slope, soil types, and evapotranspiration from federal agencies and state organizations (i.e., NASA, NOAA, USGS, and Iowa Flood Center), we provided the WaterBench for hourly streamflow forecast studies. This dataset has a high temporal and spatial resolution with rich metadata and relational information, which can be used for varieties of deep learning and machine learning research. We defined a sample streamflow forecasting task for the next 120 hours and provided performance benchmarks on this task with sample linear regression and deep learning models, including Long Short-Term Memory (LSTM), Gated Recurrent Units (GRU), and S2S (Sequence-to-sequence). To some extent, WaterBench makes up for the lack of unified benchmarks in earth science research. We highly encourage researchers to use the WaterBench for deep learning research in hydrology.
+type: preprint
+open_access: null
+cited_by: 1
+query: '"ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"'
+question: null
+search: SEARCH-40ed8087e2
+score: 0.734
+score_parts:
+  rank: 0.059
+  citations: 0.075
+  recency: 0.6
+needs_approval: true
+state: candidate

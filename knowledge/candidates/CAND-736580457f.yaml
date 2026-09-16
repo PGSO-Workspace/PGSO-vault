@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-736580457f
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4405740618
+title: "Participant behavior and community response in online mental health communities: Insights from Reddit"
+authors:
+  - Virginia Morini
+  - Maria Sansoni
+  - Giulio Rossetti
+  - Dino Pedreschi
+  - Carlos Castillo
+year: 2024
+venue: Computers in Human Behavior
+doi: 10.1016/j.chb.2024.108544
+url: https://doi.org/10.1016/j.chb.2024.108544
+abstract: The growing presence of online mutual-help communities has significantly changed how people access and provide mental health (MH) support. While extensive research has explored self-disclosure and social support dynamics within these communities, less is known about users’ distinctive behavioral patterns, posting intents, and community response. This study analyzed a large-scale, five-year Reddit dataset of 67 MH-related subreddits, comprising over 3.4 million posts and 24 million comments from approximately 2.4 million users. We categorized subreddits based on the Diagnostic and Statistical Manual of Mental Disorders and compared the behavioral patterns in these communities with Reddit non-MH ones. Leveraging Reddit’s post flair feature, we defined a ground truth for post intents and applied an automated classification method to infer intents across the dataset. We then used causal inference analysis to assess the effect of community responses on subsequent user behavior. Our analysis revealed that MH-related subreddits featured unique characteristics in content length, throwaway account usage, user actions, persistence, and community response. These online behaviors mirrored those in other mutual-help Reddit communities and resonated with offline patterns while diverging from non-support-oriented subreddits. We also found that seeking support and venting are the predominant posting intents, with users tending to maintain consistent intents over time. Furthermore, we observed that receiving comments and reactions significantly influenced users’ follow-up engagement, fostering increased participation. These findings highlight the supportive role of online MH communities and emphasize the need for tailored design to optimize user experience and support for individuals facing MH challenges. • Analysis of 69 Reddit mental health communities reveals distinct behavioral patterns. • Mental health subreddits mirror mutual-help forums, differ from non-support ones. • Novel method for identifying actual users posting intents using Reddit post flairs. • Seeking support and venting are primary posting intents, most consistent over time. • Community responses significantly influence users’ follow-up behaviors.
+type: article
+open_access: true
+cited_by: 22
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 1.473
+score_parts:
+  rank: 0.333
+  citations: 0.34
+  recency: 0.8
+needs_approval: false
+state: candidate

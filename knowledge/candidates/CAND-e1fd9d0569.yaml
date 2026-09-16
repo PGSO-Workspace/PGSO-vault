@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e1fd9d0569
+created: 2026-09-15T06:32:59.436Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/iscslp63861.2024.10800328
+title: "Zh-Paral: Benchmark Dataset for Comprehension of Chinese Paralinguistic Speech"
+authors:
+  - Dekun Chen
+  - Zhizheng Wu
+year: 2024
+venue: 2024 IEEE 14th International Symposium on Chinese Spoken Language Processing (ISCSLP)
+doi: 10.1109/iscslp63861.2024.10800328
+url: https://doi.org/10.1109/iscslp63861.2024.10800328
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: speech language model evaluation paralinguistic benchmark instruction following
+question: null
+search: SEARCH-463495b5f3
+score: 0.925
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

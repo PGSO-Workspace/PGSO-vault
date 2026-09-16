@@ -1,0 +1,26 @@
+schema: phdude.artifact
+version: 1
+id: ART-10f490ff2b
+created: 2026-09-15T09:06:09.097Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/task-comparators-151b6b4/provenance.json
+paths:
+  - sources/software/pgso-sdk/task-comparators-151b6b4/provenance.json
+hash: 10f490ff2b3e9140a111595ae18e0b56d859f90678b0fdedfd41259376a781d3
+bytes: 264
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T09:06:08.880Z
+versions_of: ART-50b87ef546
+latest: false

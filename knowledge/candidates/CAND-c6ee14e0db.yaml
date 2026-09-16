@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c6ee14e0db
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/s00530-025-01972-6
+title: "CL-FGAN: curriculum learning-guided emotion recognition in conversation model based on frequency graph attention network"
+authors:
+  - Yuqiang Li
+  - Yiyi Ma
+  - Xinyi Shen
+  - Chun Liu
+year: 2025
+venue: Multimedia Systems
+doi: 10.1007/s00530-025-01972-6
+url: https://doi.org/10.1007/s00530-025-01972-6
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 1.058
+score_parts:
+  rank: 0.083
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

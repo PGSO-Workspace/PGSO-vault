@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6584d55a05
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20944/preprints202603.1023.v1
+title: "Real User Instruction: Black-Box Instruction Authentication Middleware Against Indirect Prompt Injection"
+authors:
+  - Jingtang Luo
+  - Chenlin Zhang
+year: 2026
+venue: null
+doi: 10.20944/preprints202603.1023.v1
+url: https://doi.org/10.20944/preprints202603.1023.v1
+abstract: "Large Language Model (LLM) agents are increasingly deployed to interact with untrusted external data, exposing them to Indirect Prompt Injection (IPI) attacks. While current black-box defenses (i.e., model-agnostic methods) such as “Sandwich Defense” and “Spotlighting” provide baseline protection, they remain brittle against adaptive attacks like Actor-Critic (where injections evolve to better evade LLM’s internal defense). In this paper, we introduce Real User Instruction (RUI), a lightweight, black-box middleware that enforces strict instruction-data separation without model fine-tuning. RUI operates on three novel mechanisms: (1) a Privileged Channel that encapsulates user instructions within a cryptographic-style schema; (2) Explicit Adversarial Identification, a cognitive forcing strategy that compels the model to detect and list potential injections before response generation; and (3) Dynamic Key Rotation, a moving target defense that re-encrypts the conversation state at every turn, rendering historical injection attempts obsolete. We evaluate RUI against a suite of adaptive attacks, including Context-Aware Injection, Token Obfuscation, and Delimitation Spoofing. Our experiments demonstrate that RUI reduces the Attack Success Rate (ASR) from 100% (undefended baseline) to less than 8.1% against cutting-edge adaptive attacks, while maintaining a Benign Performance Preservation (BPP) rate of over 88.8%. These findings suggest that RUI is an effective and practical solution for securing agentic workflows against sophisticated, context-aware adversaries."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.029
+score_parts:
+  rank: 0.029
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

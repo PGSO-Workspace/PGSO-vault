@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8db113b837
+created: 2026-09-14T23:47:13.887Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416037537
+title: Towards Enforcing Company Policy Adherence in Agentic Workflows
+authors:
+  - Naama Zwerdling
+  - David Boaz
+  - Ella Rabinovich
+  - Guy Uziel
+  - David Amid
+  - Ateret Anaby Tavor
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.emnlp-industry.41
+url: https://doi.org/10.18653/v1/2025.emnlp-industry.41
+abstract: Large Language Model (LLM) agents hold promise for a flexible and scalable alternative to traditional business process automation, but struggle to reliably follow complex company policies.In this study we introduce a deterministic, transparent, and modular framework for enforcing business policy adherence in agentic workflows.Our method operates in two phases:(1) an offline buildtime stage that compiles policy documents into verifiable guard code associated with tool use, and (2) a runtime integration where these guards ensure compliance before each agent action.We demonstrate our approach on the challenging τ -bench Airlines domain, showing encouraging preliminary results in policy enforcement, and further outline key challenges for real-world deployments.
+type: other
+open_access: true
+cited_by: 3
+query: '"LlamaFirewall" runtime security framework'
+question: null
+search: SEARCH-dd1444607d
+score: 1.251
+score_parts:
+  rank: 0.2
+  citations: 0.151
+  recency: 0.9
+needs_approval: false
+state: candidate

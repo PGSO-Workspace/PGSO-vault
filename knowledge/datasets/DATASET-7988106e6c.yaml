@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-7988106e6c
+created: 2026-09-15T00:59:52.858Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/invariant-lifecycle-contract-v1.json
+hash: 7988106e6c02566538f8e2dfd41e14d4ea379a3fb43f99516835afae2253a999
+bytes: 2599
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Bounded Invariant host-state lifecycle preflight; not PGSO equivalence; expiry semantics differ

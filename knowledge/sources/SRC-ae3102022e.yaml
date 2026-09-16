@@ -1,0 +1,22 @@
+schema: phdude.source
+version: 1
+id: SRC-ae3102022e
+created: 2026-09-15T00:59:18.734Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: "AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents"
+authors:
+  - Haoyu Wang
+  - Christopher M. Poskitt
+  - Jun Sun
+type: article
+artifacts:
+  - ART-7553b6c2e7
+state: candidate
+year: 2026
+venue: Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering
+doi: 10.1145/3744916.3764546
+url: https://doi.org/10.1145/3744916.3764546
+abstract: "Targeted primary text review: Author-hosted 12-page ICSE 2026 PDF; first-page ACM reference names 2026 IEEE/ACM 48th ICSE, April 12–18, and DOI. External DSL rules combine event triggers, predicates and enforcement (stop, user inspection, predefined actions, LLM self-examination). LangChain hooks intervene before actions, after observations and at completion. Evaluations use RedCode, SafeAgentBench and FixDrive; manual and LLM-generated rules are distinct conditions. Limits: Author-defined rules and manual outcome judgments risk overfitting/bias. Enforcement latency excludes variable human/LLM delays. §6.3 states that future unsafe trajectories are not predicted."

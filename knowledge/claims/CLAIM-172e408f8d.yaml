@@ -1,0 +1,21 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-172e408f8d
+created: 2026-09-13T07:00:38.105Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The inspected MCP adapter governs tools/list output and catalog-change notification state; invocation authorization in a surrounding tools/call dispatcher is not established by this adapter alone.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-4e5b13a3ff
+questions: []
+sections:
+  - methods
+  - discussion
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-8fcc780add

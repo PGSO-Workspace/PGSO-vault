@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9cd8f3aac8
+created: 2026-09-15T01:07:13.133Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.52783/jisem.v10i61s.13328
+title: Online Evaluation of Conversational Agents Using Machine-Learned Metrics
+authors:
+  - Guneet Singh Kohli
+year: 2025
+venue: Journal of Information Systems Engineering and Management
+doi: 10.52783/jisem.v10i61s.13328
+url: https://doi.org/10.52783/jisem.v10i61s.13328
+abstract: The article discusses the new paradigm of metrics learned by machines to be used in the assessment of conversational agents in a real-time setting. With voice assistants and chatbots playing an ever-larger role in human interactions with computers in many domains, the classical evaluation techniques are fatally limited in their range, precision, and dynamism. Manual feedback mechanisms are primarily retrospective, introducing significant delays between defect identification and corrective action. Machine-learned evaluation methods, in contrast, utilize computational models that have been trained over historical interactions to automatically evaluate the satisfaction of users solely based on the content of a dialogue, conversation metadata, and behavioral cues. Hierarchical systems process information at multiple temporal resolutions. This enables both detailed and summary-level evaluations of dialogue quality. Applied in real time, these measures allow conversational systems to adapt dynamically during interactions. Remediation strategies may include response adjustment or escalation to human operators. Empirical studies explain that such approaches have a stronger association with user satisfaction, spot deficiencies in quality earlier, extrapolate to other areas of application, and continue to enhance their performance through online education. However, these benefits are accompanied by major challenges such as ensuring explainability, adapting to cultural contexts, evaluating multimodal interactions, modeling long-term engagement, preserving user privacy, and establishing standardized evaluation frameworks.
+type: article
+open_access: null
+cited_by: 0
+query: '"Empathetic Conversational Agents" "10.1080/10447318.2025.2540500" arXiv 2501.08393'
+question: null
+search: SEARCH-3dc085d3d3
+score: 0.963
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

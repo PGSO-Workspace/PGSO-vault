@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d5e9d022dd
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.36227/techrxiv.177078613.36070729/v1
+title: "Nested Hyperbolic Spaces for Context-Aware LLM Reasoning: A Geometric Framework"
+authors:
+  - Hikage Morino
+year: 2026
+venue: null
+doi: 10.36227/techrxiv.177078613.36070729/v1
+url: https://doi.org/10.36227/techrxiv.177078613.36070729/v1
+abstract: "We propose a dual hyperbolic space architecture for context-aware reasoning in large language models, featuring nested hierarchical structures and ridge-based secondary space positioning. The framework addresses fundamental challenges in managing multiple conversational contexts through principled geometric design. Our key contributions are: (1) a dual space architecture maintaining geometrically distinct primary and secondary hyperbolic spaces for parallel reasoning, (2) ridge-based positioning that places secondary centers at optimal transition points between contexts, (3) nested hierarchical structures with adaptive depth assignment integrating geometric distance and semantic relevance, and (4) a comprehensive theoretical framework connecting hyperbolic geometry, information theory, and cognitive principles. We provide detailed implementation proposals and evaluation protocols, with empirical validation remaining as important future work. The geometric substrate we propose may have applications beyond context management, offering insights into the organization of conceptual knowledge and the structure of multi-perspective reasoning."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.026
+score_parts:
+  rank: 0.026
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

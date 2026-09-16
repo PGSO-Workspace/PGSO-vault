@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-2dcc60f52a
+created: 2026-09-15T17:53:56.320Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-mvp/eebf20e/07_ablation/ablation_table.md
+paths:
+  - sources/software/pgso-mvp/eebf20e/07_ablation/ablation_table.md
+hash: 2dcc60f52a8f1e1562fa5a020f1ac7082a47c0d3b30682f4147100163fc4b083
+bytes: 6672
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 6611
+  sections: 15
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T16:50:41.609Z

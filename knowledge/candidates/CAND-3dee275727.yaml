@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3dee275727
+created: 2026-09-14T16:52:15.904Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/s10462-025-11471-9
+title: "From language to action: a review of large language models as autonomous agents and tool users"
+authors:
+  - Sadia Sultana Chowa
+  - Riasad Alvi
+  - Subhey Sadi Rahman
+  - Md Abdur Rahman
+  - Mohaimenul Azam Khan Raiaan
+  - Md Rafiqul Islam
+  - Mukhtar Hussain
+  - Sami Azam
+year: 2026
+venue: Artificial Intelligence Review
+doi: 10.1007/s10462-025-11471-9
+url: https://doi.org/10.1007/s10462-025-11471-9
+abstract: Abstract The pursuit of human-level artificial intelligence (AI) has significantly advanced the development of autonomous agents and Large Language Models (LLMs). LLMs are now widely utilized as decision-making agents for their ability to interpret instructions, manage sequential tasks, and adapt through feedback. This review examines recent developments in employing LLMs as autonomous agents and tool users and comprises seven research questions. We only used the papers published between 2023 and 2025 in conferences of the A* and A-ranked and Q1 journals. A structured analysis of the LLM agents’ architectural design principles, dividing their applications into single-agent and multi-agent systems, and strategies for integrating external tools is presented. In addition, the cognitive mechanisms of LLMs, including reasoning, planning, and memory, and the impact of prompting methods and fine-tuning procedures on agent performance are also investigated. Furthermore, we have evaluated current benchmarks and assessment protocols and provided an analysis of 68 publicly available datasets to assess the performance of LLM-based agents in various tasks. In conducting this review, we have identified critical findings on verifiable reasoning of LLMs, the capacity for self-improvement, and the personalization of LLM-based agents. Finally, we have discussed ten future research directions to overcome these gaps.
+type: article
+open_access: null
+cited_by: 39
+query: "From language to action: a review of large language models as autonomous agents and tool users"
+question: null
+search: SEARCH-e59384c920
+score: 2.401
+score_parts:
+  rank: 1
+  citations: 0.401
+  recency: 1
+needs_approval: false
+state: candidate

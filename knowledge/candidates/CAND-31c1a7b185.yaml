@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-31c1a7b185
+created: 2026-09-15T09:46:16.656Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.46727/c.07-08-11-2025.p276-283
+title: Empathy, morality, and neural mechanisms involved in bullying behavior
+authors:
+  - Alexandru CAȘCAVAL
+year: 2025
+venue: "Valorificarea neuroştiinţelor în dezvoltarea personală: Materialele Conferinţei Ştiinţifice Internaţionale, 7-8 noiembrie 2025"
+doi: 10.46727/c.07-08-11-2025.p276-283
+url: https://doi.org/10.46727/c.07-08-11-2025.p276-283
+abstract: 'The article examines school bullying as a phenomenon situated at the intersection between empathy, morality, and the neural systems that support social interaction and emotion regulation. Drawing on recent psychological and neuroscientific literature, it synthesizes evidence that affective empathy and moral disengagement play complementary roles in facilitating or inhibiting bullying behavior in adolescence. The paper reviews data on the social brain, with a focus on the anterior cingulate cortex, amygdala and ventral striatum, highlighting how reduced sensitivity to others’ distress and increased sensitivity to social status and dominance can shape the profiles of aggressors. In parallel, it discusses how repeated victimization may leave enduring traces on neural circuits involved in stress regulation, self-representation, and social threat processing. The final section outlines clinical and educational implications, emphasizing early identification of risk factors, wholeschool interventions targeting group norms, and individual therapies that strengthen perspective taking, emotion regulation, and prosocial motivation. The article was developed within the research project "Moral patterns and bullying experiences in schools: a longitudinal approach based on an integrative educational intervention".'
+type: article
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees" PDF'
+question: null
+search: SEARCH-ab2b977fc5
+score: 0.95
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4fc788a497
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.4331057
+title: Adaptive Neural Decision Tree For Eeg Based Emotion Recognition
+authors:
+  - Yongqiang Zheng
+  - Peng Chang
+  - Feng Liu
+  - Dongqing Wang
+year: 2023
+venue: null
+doi: 10.2139/ssrn.4331057
+url: https://doi.org/10.2139/ssrn.4331057
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 0.732
+score_parts:
+  rank: 0.032
+  citations: 0
+  recency: 0.7
+needs_approval: true
+state: candidate

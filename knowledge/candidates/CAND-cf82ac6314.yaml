@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-cf82ac6314
+created: 2026-09-14T23:44:09.730Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3233/faia250204
+title: Vector Space Transformations to Uncover Knowledge Graphs in Neural Language Models
+authors:
+  - Giacomo Munda
+  - Dagmar Gromann
+  - Tobias Heinzle
+year: 2025
+venue: Frontiers in Artificial Intelligence and Applications
+doi: 10.3233/faia250204
+url: https://doi.org/10.3233/faia250204
+abstract: Transformer-based language models are known to encode factual information in their hidden representations, however, an open question is how to explicate this implicitly encoded knowledge. Approaches to unveil encoded factual associations relate to prompt-based methods, techniques to localize or edit specific model weights, and to trace the information flow during inference. Inspired by evidence of entire dependency graphs in embedding (sub-)spaces of these models, this chapter presents an approach to utilize linear transformation of a model’s vector representation space to uncover the properties of knowledge graphs. Subjects and objects of factual knowledge graph triples, i.e., from Wikidata, are expected to be near neighbors, a proximity of knowledge entity embeddings that can be measured with simple cosine similarity and approximated by training a transformation matrix in a supervised manner on minimizing the distance between the actual and predicted similarity scores. The obtained results are promising in terms of Pearson and Spearman correlations as well as mean squared error rates, indicating that there is a specific vector sub-space that encodes factual associations in the last layer of neural language models.
+type: chapter
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees With Knowledge Graphs for Affective Human-AI Teaming" code GitHub'
+question: null
+search: SEARCH-2325920ecd
+score: 0.953
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

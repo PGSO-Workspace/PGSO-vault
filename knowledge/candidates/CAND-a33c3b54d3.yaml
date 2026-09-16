@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a33c3b54d3
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1177/19485506251352242
+title: Greater Bias Toward Transgender People Compared to Gay Men and Lesbian Women Is WEIRD
+authors:
+  - Jaime L. Napier
+year: 2025
+venue: Social Psychological and Personality Science
+doi: 10.1177/19485506251352242
+url: https://doi.org/10.1177/19485506251352242
+abstract: "The greater acceptance of gay, compared with transgender, people in Western countries may be a result of a specific trajectory—where queer rights was centered by and around White, middle class, gender-conforming gay men—and may not generalize to other places. Two surveys of respondents in 23 countries ( Ns∼ = 500 or 1,000 per country) showed that bias toward gay and transgender people is lower in Western (vs. non-Western) countries, but that the relative bias changes as a function of region: there is greater acceptance of gay (vs. transgender) people in most Western countries, whereas the reverse is true in most non-Western countries. Analyses of legal frameworks ( N = 193) show that recognition of same-gender unions is prevalent in Western countries but virtually nonexistent elsewhere, whereas recognition of gender marker changes is prevalent throughout the world. Overall, in the most intolerant places, transgender people are relatively more accepted than gay people."
+type: article
+open_access: null
+cited_by: 2
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 1.055
+score_parts:
+  rank: 0.036
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

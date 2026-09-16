@@ -1,0 +1,35 @@
+schema: phdude.source
+version: 1
+id: SRC-a2a8634f13
+created: 2026-09-15T06:13:13.785Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: PGSO persistent integration-path operational measurement and diagnostic information, SDK7805fb9
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-007480841d
+  - ART-1a8b405219
+  - ART-27af74aad7
+  - ART-2ee79ec4e4
+  - ART-45e0a7b696
+  - ART-68da36defc
+  - ART-8dea3461b5
+  - ART-954cb69774
+  - ART-a4491f653c
+  - ART-a712e1f38d
+  - ART-af7356fe38
+  - ART-bbdedee24b
+  - ART-c3e6033dfa
+  - ART-c8cd426d1b
+  - ART-dfef919c3b
+  - ART-ef680b9749
+  - ART-f772f197e0
+state: candidate
+year: 2026
+url: https://github.com/PGSO-Workspace/pgso-sdk/pull/6
+abstract: "Imported SDK execution, not PhDude re-execution. Clean SDK7805fb9: 48 process blocks, 1200 measured batches per arm, 23 scenarios and 96 calls per batch; all expected outcomes retained. Median block p50 latency: PGSO 0.515425 ms, minimal Python 0.604799 ms, Invariant 23.086647 ms, NeMo 425.849599 ms. Paired PGSO/minimal ratio 0.851699 (95% process-block bootstrap 0.846206–0.855259); minimal Python has lower warm RSS (12.311 vs 13.127 MiB). Single pinned-core Linux virtual host, configured public integration APIs, exploratory development workload. Diagnostic fixture: 13 receipts match predeclared labels, seven reason categories, no human diagnostic measurement. Raw evidence and excluded calibration history: DATASET-1910d5d442. No vendor-wide superiority, algorithmic novelty, developer productivity, human utility or submission readiness established."
+bibkey: workspace2026pgso-4

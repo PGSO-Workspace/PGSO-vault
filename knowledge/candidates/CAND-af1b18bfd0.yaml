@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-af1b18bfd0
+created: 2026-09-14T23:47:30.960Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/aaiml67890.2026.11498071
+title: "Hold the Prompt (HODPOT): Defense Design for Securing the System Prompt of LLM Agents"
+authors:
+  - Lilian Tai Do Khac
+  - Marc Fabian Mezger
+  - Daniel Thürck
+year: 2026
+venue: 2026 International Conference on Advances in Artificial Intelligence and Machine Learning (AAIML)
+doi: 10.1109/aaiml67890.2026.11498071
+url: https://doi.org/10.1109/aaiml67890.2026.11498071
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Policy-as-Prompt" LLM agents'
+question: null
+search: SEARCH-b69be67f4a
+score: 1.056
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

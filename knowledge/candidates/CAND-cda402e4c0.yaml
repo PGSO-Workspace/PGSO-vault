@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-cda402e4c0
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0013368000003890
+title: Prediction-Based Selective Negotiation for Refining Multi-Agent Resource Allocation
+authors:
+  - Madalina Croitoru
+  - Cornelius Croitoru
+  - Gowrishankar Ganesh
+year: 2025
+venue: Proceedings of the 17th International Conference on Agents and Artificial Intelligence
+doi: 10.5220/0013368000003890
+url: https://doi.org/10.5220/0013368000003890
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 0.934
+score_parts:
+  rank: 0.034
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-f89827002e
+created: 2026-09-15T17:53:56.324Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-mvp/eebf20e/08_baseline_prompt/baseline_prompt_table.md
+paths:
+  - sources/software/pgso-mvp/eebf20e/08_baseline_prompt/baseline_prompt_table.md
+hash: f89827002e8bca00ac789aa578549dbaf840556abf07a388a573724f6cb80448
+bytes: 7067
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 7016
+  sections: 6
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T16:50:41.609Z

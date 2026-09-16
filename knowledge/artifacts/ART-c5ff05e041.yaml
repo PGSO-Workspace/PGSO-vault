@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-c5ff05e041
+created: 2026-09-15T08:50:09.010Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/comparator-tools-9aaa300/invariant-tool-policy.log
+paths:
+  - sources/software/pgso-sdk/comparator-tools-9aaa300/invariant-tool-policy.log
+hash: c5ff05e04155b0d8632210cf6760f00b42dbebe9a0606b9ccfaf4204cc526a93
+bytes: 47
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T08:50:08.803Z

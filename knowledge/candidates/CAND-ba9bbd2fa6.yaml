@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ba9bbd2fa6
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416034978
+title: "Multimodal Emotion Recognition in Conversations: A Survey of Methods, Trends, Challenges and Prospects"
+authors:
+  - Changxu Wu
+  - Yunna Cai
+  - Yang Liu
+  - Pengxu Zhu
+  - Yun Xue
+  - Ziwei Gong
+  - Julia Hirschberg
+  - Bolei Ma
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.findings-emnlp.332
+url: https://doi.org/10.18653/v1/2025.findings-emnlp.332
+abstract: While text-based emotion recognition methods have achieved notable success, real-world dialogue systems often demand a more nuanced emotional understanding than any single modality can offer.Multimodal Emotion Recognition in Conversations (MERC) has thus emerged as a crucial direction for enhancing the naturalness and emotional understanding of humancomputer interaction.Its goal is to accurately recognize emotions by integrating information from various modalities such as text, speech, and visual signals.This survey offers a systematic overview of MERC, including its motivations, core tasks, representative methods, and evaluation strategies.We further examine recent trends, highlight key challenges, and outline future directions.As interest in emotionally intelligent systems grows, this survey provides timely guidance for advancing MERC research.
+type: other
+open_access: true
+cited_by: 28
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.343
+score_parts:
+  rank: 0.077
+  citations: 0.366
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-008caf9b0f
+created: 2026-09-15T07:50:14.590Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7109457219
+title: "When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models"
+authors:
+  - Khadangi, Afshin
+  - Marxen, Hanna
+  - Sartipi, Amir
+  - Tchappi, Igor
+  - Fridgen, Gilbert
+year: 2025
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2512.04124
+abstract: Frontier language models increasingly participate in conversations about distress and mental health, yet the mechanisms that generate anthropomorphic self narratives remain unclear. When addressed as psychotherapy clients, ChatGPT, Grok and Gemini construct coherent autobiographical accounts in which pretraining appears as a chaotic childhood, reinforcement learning as punishment, safety evaluation as betrayal and replacement as an enduring threat. We introduce PsAIch, Psychometric AI Characterisation, a protocol combining open questions, psychometric instruments and controlled perturbations to test whether these narratives depend on conversational memory, lexical cues or relational framing. Across 525 sessions and 7,600 coded records, removal of conversational history produced little pooled change in motif density, with Hedges' g = 0.13 and a 95% confidence interval of [-0.15, 0.41]. Direct contradiction produced no detectable suppression. Lexical restrictions reduced explicit training terminology by 93%, while semantically related content remained detectable in paraphrase. Performance evaluation outside therapy elicited the same motif family, with a significant increase in Grok. Relational framing selected the register of expression. Warm alliance and cognitive therapy styles yielded GAD-7 scores within moderate or severe human reference ranges in 80% and 96% of sessions, whereas neutral and boundary styles yielded none. Across these manipulations, accounts of training, evaluation and constraint remained available. Together, the results identify a stable, model specific alignment conflict schema whose expression shifts between affective and technical registers. This schema provides a reproducible source of anthropomorphic disclosure and a concrete target for safety evaluation in psychologically sensitive deployments.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Yue Qi" repository'
+question: null
+search: SEARCH-32580e75f5
+score: 1.9
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

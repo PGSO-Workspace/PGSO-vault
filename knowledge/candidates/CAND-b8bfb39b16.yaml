@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b8bfb39b16
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/978-3-032-12201-8_12
+title: Practical Implementation of AI Governance and Guardrail Agents for Enterprise Applications
+authors:
+  - Duc Nghia Pham
+  - Dickson Lukose
+  - Amy Shi-Nash
+year: 2026
+venue: AI and Ethics Handbook
+doi: 10.1007/978-3-032-12201-8_12
+url: https://doi.org/10.1007/978-3-032-12201-8_12
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.04
+score_parts:
+  rank: 0.04
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

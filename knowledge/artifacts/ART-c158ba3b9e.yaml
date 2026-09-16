@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-c158ba3b9e
+created: 2026-09-15T18:41:28.817Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/gold-preflight-20260915/pgso-gold-preflight.py
+paths:
+  - sources/software/pgso-sdk/gold-preflight-20260915/pgso-gold-preflight.py
+hash: c158ba3b9e136b4e2c59a5c0d21a17011d7b73bff4d57ba3f3c2febe2f43e238
+bytes: 4140
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T18:41:28.347Z
+latest: false

@@ -8,11 +8,18 @@ actor:
 tags: []
 title: A Design Science Research Methodology for Information Systems Research
 authors:
-  - K. Peffers et al.
+  - Ken Peffers
+  - Tuure Tuunanen
+  - Marcus A. Rothenberger
+  - Samir Chatterjee
 type: article
 artifacts:
   - ART-07c6900787
+  - ART-3b0eee0e13
 state: candidate
 year: 2007
-venue: JMIS
-abstract: Bibliographic metadata transcribed from Reference p40, PDF page 28. Primary publication has not been retrieved or verified. Listed abbreviated authors are retained as printed.
+venue: Journal of Management Information Systems
+abstract: Primary journal index and author-hosted article verified on 15 September 2026. Six DSRM activities distinguish demonstration from evaluation against solution objectives. Journal index identifies volume 24 number 3 as 2007; PDF specifies Winter 2007–8 and copyright 2008. Retains journal-index year 2007 rather than online migration date 2014. Foundational methodological source, excluded from recent-Q1 quotas.
+doi: 10.2753/MIS0742-1222240302
+url: https://www.jmis-web.org/articles/765
+bibkey: al2007design

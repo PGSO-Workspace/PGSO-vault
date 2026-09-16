@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b997e831bb
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.14293/pr2199.004144.v1
+title: Hybrid Vector-Graph RAG for SAP Process Context Preservation in Agentic Workflows
+authors:
+  - Morris Campbell
+year: 2026
+venue: null
+doi: 10.14293/pr2199.004144.v1
+url: https://doi.org/10.14293/pr2199.004144.v1
+abstract: "The integration of Large Language Model (LLM)-based agents into enterprise systems promises transformative automation, yet it faces a critical bottleneck: the preservation of process context within complex, stateful environments such as SAP. Traditional Retrieval-Augmented Generation (RAG) systems, which rely predominantly on vector similarity, often fail to capture the relational dependencies, sequential constraints, and transactional semantics inherent in enterprise workflows. This paper introduces a Hybrid Vector-Graph RAG architecture specifically designed for agentic workflows in SAP landscapes. Our framework synergistically combines dense vector retrieval for semantic understanding with a property graph-based representation of process metadata, control flows, and data lineage. By maintaining a dynamic contextual state that evolves with each agentic action, the system ensures that retrieved information is not only semantically relevant but also procedurally valid and temporally coherent. We detail the construction of the hybrid knowledge base from SAP IDoc, BAPI, and table structures, and present a novel retrieval fusion mechanism that ranks information based on both semantic similarity and graph-distance to the current process node. Experimental evaluations on real-world SAP order-to-cash and procure-to-pay scenarios demonstrate that our approach significantly outperforms pure vector RAG baselines, reducing hallucination rates by 42% and improving task completion accuracy by 37% in multi-step agentic workflows. The findings underscore the necessity of structural process awareness for reliable enterprise automation and offer a scalable blueprint for embedding contextual intelligence into next-generation AI agents."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.037
+score_parts:
+  rank: 0.037
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

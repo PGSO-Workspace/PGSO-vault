@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-38d015ad98
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2026.bigpicture-main.3
+title: "Beyond Hallucination: Reframing LLM Quality Assessment as Task-Output Alignment"
+authors:
+  - Andrew Hoblitzell
+year: 2026
+venue: "Proceedings of The Big Picture v2: Crafting a Research Narrative"
+doi: 10.18653/v1/2026.bigpicture-main.3
+url: https://doi.org/10.18653/v1/2026.bigpicture-main.3
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.026
+score_parts:
+  rank: 0.026
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

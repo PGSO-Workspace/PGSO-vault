@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-26e9df0895
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410895495
+title: Scoring German Alternate Uses Items Applying Large Language Models
+authors:
+  - Janika Saretzki
+  - Thomas Knopf
+  - Boris Forthmann
+  - Benjamin Goecke
+  - Ann‐Kathrin Jaggy
+  - Mathias Benedek
+  - Selina Weiss
+year: 2025
+venue: Journal of Intelligence
+doi: 10.3390/jintelligence13060064
+url: https://doi.org/10.3390/jintelligence13060064
+abstract: The alternate uses task (AUT) is the most popular measure when it comes to the assessment of creative potential. Since their implementation, AUT responses have been rated by humans, which is a laborious task and requires considerable resources. Large language models (LLMs) have shown promising performance in automatically scoring AUT responses in English as well as in other languages, but it is not clear which method works best for German data. Therefore, we investigated the performance of different LLMs for the automated scoring of German AUT responses. We compiled German data across five research groups including ~50,000 responses for 15 different alternate uses objects from eight lab and online survey studies (including ~2300 participants) to examine generalizability across datasets and assessment conditions. Following a pre-registered analysis plan, we compared the performance of two fine-tuned, multilingual LLM-based approaches [Cross-Lingual Alternate Uses Scoring (CLAUS) and the Open Creativity Scoring with Artificial Intelligence (OCSAI)] with the Generative Pre-trained Transformer (GPT-4) in scoring (a) the original German AUT responses and (b) the responses translated to English. We found that the LLM-based scorings were substantially correlated with human ratings, with higher relationships for OCSAI followed by GPT-4 and CLAUS. Response translation, however, had no consistent positive effect. We discuss the generalizability of the results across different items and studies and derive recommendations and future directions.
+type: article
+open_access: true
+cited_by: 9
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.217
+score_parts:
+  rank: 0.067
+  citations: 0.25
+  recency: 0.9
+needs_approval: false
+state: candidate

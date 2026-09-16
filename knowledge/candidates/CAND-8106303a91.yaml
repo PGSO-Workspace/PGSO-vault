@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8106303a91
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2025.3549926
+title: "PeTracker: Poincaré-Based Dual-Strategy Emotion Tracker for Emotion Recognition in Conversation"
+authors:
+  - YuKun Cao
+  - Luobin Huang
+  - Yijia Tang
+year: 2025
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2025.3549926
+url: https://doi.org/10.1109/taffc.2025.3549926
+abstract: null
+type: article
+open_access: null
+cited_by: 4
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.104
+score_parts:
+  rank: 0.029
+  citations: 0.175
+  recency: 0.9
+needs_approval: false
+state: candidate

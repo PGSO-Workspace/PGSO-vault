@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1d71b0956a
+created: 2026-09-15T09:46:31.407Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4396880878
+title: "Entrepreneurship education for non-business students: A social learning perspective"
+authors:
+  - Raysa Geaquinto Rocha
+  - Arminda Paço
+  - Héléna Alves
+year: 2024
+venue: The International Journal of Management Education
+doi: 10.1016/j.ijme.2024.100974
+url: https://doi.org/10.1016/j.ijme.2024.100974
+abstract: "This research has two goals. First, map the research on entrepreneurship education for non-business students. Second, propose a synergetic framework for the existing research focusing on the relationship between students, universities, and the entrepreneurial ecosystem. Hence, we conducted a systematic literature review to analyze the status quo of the literature and applied a comprehensive bibliometric analysis supported by VOSviewer and Bibliometrix to distinguish the most prominent authors, institutions, countries, seminar articles, journals, and themes. The discussion is grounded on four dimensions of social learning: (i) observational learning in entrepreneurial education, (ii) the role of mentors and peers, (iii) institutional influence on learning, and (iv) the entrepreneurial ecosystem as a social learning environment. Therefore, our research contributes to advancing knowledge in the field of non-business entrepreneurship education through the lens of social learning theory. It sheds light on the entrepreneurial ecosystem surrounding the learning environment and provides a comprehensive overview of the field's current state. From a practical perspective, our study can guide policymakers and educators in designing and implementing changes in entrepreneurial education for non-business curricula. Moreover, it can potentially promote international collaboration and knowledge sharing among stakeholders in the ecosystem."
+type: article
+open_access: true
+cited_by: 33
+query: Yue Qi personality cultural variables psychological simulations
+question: null
+search: SEARCH-4cdf3b8231
+score: 1.266
+score_parts:
+  rank: 0.083
+  citations: 0.383
+  recency: 0.8
+needs_approval: false
+state: candidate

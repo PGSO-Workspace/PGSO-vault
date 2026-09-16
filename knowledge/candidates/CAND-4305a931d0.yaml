@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4305a931d0
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7133737356
+title: "Authorization-First Retrieval: Enforcing Least Privilege in Multi-Agent RAG Systems"
+authors:
+  - Rohith Namboothiri
+year: 2026
+venue: null
+doi: 10.36227/techrxiv.177273889.98246164/v1
+url: https://doi.org/10.36227/techrxiv.177273889.98246164/v1
+abstract: "Enterprise deployments of Retrieval-Augmented Generation and multi-agent LLM systems routinely handle data subject to role-based access control, yet the semantic retrieval step in these pipelines bypasses conventional authorization enforcement. We formalize this gap as a pipeline ordering problem: once unauthorized content enters any model context, no downstream filter can provably undo its influence on generation. We introduce Authorization-First Retrieval (AFR), an architectural invariant requiring that authorization constrain the retrieval candidate set before any learned component consumes retrieved content. We prove AFR is a necessary condition for authorization correctness under the contextexposure model used by all major deployed RAG systems. We construct a controlled evaluation corpus of 43 chunks across 28 documents with role-scoped access rules spanning five enterprise roles, three sensitivity levels, and four domains. Against 93 structured queries covering six attack categories, retrieve-then-filter pipelines expose unauthorized context in 96.8% of queries and violate authorization correctness on 100% of queries that should be denied. AFR eliminates all structural leaks (0/93) and all answer leaks (0/93). A chunk-size sweep across five granularities confirms AFR holds invariant to chunking strategy, while retrieve-then-filter leakage increases monotonically with chunk size. Stress testing at retrieval depth exceeding corpus size shows AFR holds under worstcase saturation. We identify parametric knowledge leakage as a fundamental boundary on what retrieval architecture can guarantee."
+type: preprint
+open_access: true
+cited_by: 0
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.059
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

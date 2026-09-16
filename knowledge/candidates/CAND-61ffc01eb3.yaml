@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-61ffc01eb3
+created: 2026-09-14T16:52:14.673Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3771090
+title: A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems
+authors:
+  - Zihao Yi
+  - Jiarui Ouyang
+  - Zhe Xu
+  - Yuwen Liu
+  - Tianhao Liao
+  - Haohao Luo
+  - Ying Shen
+year: 2025
+venue: ACM Computing Surveys
+doi: 10.1145/3771090
+url: https://doi.org/10.1145/3771090
+abstract: This survey provides a comprehensive review of research on multi-turn dialogue systems, with a particular focus on multi-turn dialogue systems based on large language models (LLMs). This article aims to (a) giving a summary of existing LLMs and approaches for adapting LLMs to downstream tasks; (b) elaborate recent advances in multi-turn dialogue systems, covering both LLM-based open-domain dialogue (ODD) and task-oriented dialogue (TOD) systems, along with datasets and evaluation metrics; (c) discuss some future emphasis and recent research problems arising from the development of LLMs and the increasing demands on multi-turn dialogue systems.
+type: article
+open_access: null
+cited_by: 52
+query: A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems
+question: null
+search: SEARCH-b23cbffda4
+score: 2.331
+score_parts:
+  rank: 1
+  citations: 0.431
+  recency: 0.9
+needs_approval: false
+state: candidate

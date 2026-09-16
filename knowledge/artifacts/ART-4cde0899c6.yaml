@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-4cde0899c6
+created: 2026-09-13T06:59:21.863Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/1b17c248d360/experiments/phase2-arousal-benchmark/README.md
+paths:
+  - sources/software/pgso-sdk/1b17c248d360/experiments/phase2-arousal-benchmark/README.md
+hash: 4cde0899c6075014f15b859fb7000293550e8e8168ddc119f4802863f2e1f0f2
+bytes: 3841
+mime: text/markdown
+kind: md
+role: notes
+extracted:
+  status: ok
+  method: text
+  text_chars: 3801
+  sections: 8
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:59:21.630Z
+versions_of: ART-e42e168741
+latest: false

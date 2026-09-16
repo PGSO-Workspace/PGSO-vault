@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ac17627f56
+created: 2026-09-14T23:46:57.333Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icscan66520.2026.11588348
+title: Customizable Runtime Enforcement of Safe and Reliable LLM Agents for Future Unsafe States
+authors:
+  - Chiranth Gowda
+  - Rupesh P
+  - Shreyas R
+  - Thomas Fernandes
+  - Sandhya N
+year: 2026
+venue: 2026 International Conference on System, Computation, Automation and Networking (ICSCAN)
+doi: 10.1109/icscan66520.2026.11588348
+url: https://doi.org/10.1109/icscan66520.2026.11588348
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"AgentSpec" runtime enforcement LLM agents'
+question: null
+search: SEARCH-ab8e976bec
+score: 1.071
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

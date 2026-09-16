@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c814a739bd
+created: 2026-09-15T07:38:43.488Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-9059330/v1
+title: Study on the phenomenon where index date is earlier than early access date in Web of Science
+authors:
+  - Yunu Zhu
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-9059330/v1
+url: https://doi.org/10.21203/rs.3.rs-9059330/v1
+abstract: Abstract In recent years, an increasing quantity of early access articles have been indexed by Web of Science. However, there is an abnormal phenomenon where articles have an earlier index date than their early access date (pre-index), and this has not attracted much attention. Therefore, based on the Web of Science core collection database, this study conducts a comprehensive investigation of 6559632 early access records from 2018 to 2024. By combining multiple dimensions of literature features such as publication date, journal, publisher, WoS category, research area, document type, language, and index type, horizontal and vertical analysis were conducted on 12043 records with pre-index, revealing the characteristics and development trends of this abnormal phenomenon. The results show that, in terms of the total quantity and proportion of records, the pre-index phenomenon is not significant, but it shows an increasing trend year by year. From universality perspective, pre-index shows differentiated characteristics in various specific dimensions. Currently, it has covered 1338 journals and 99 publishers. Moreover, from the analysis of the chronological order of index date, early access date, and final publication date, pre-index does not mean that the index date is the earliest publication date of the article. In the future, multiple related factors need to be considered to comprehensively determine the earliest publication date.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"10.1109/ACCESS.2026.3719838" "Date of Publication"'
+question: null
+search: SEARCH-210eb9e969
+score: 1.25
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

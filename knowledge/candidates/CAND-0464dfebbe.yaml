@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0464dfebbe
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4309925695
+title: Is trust in artificial intelligence systems related to user personality? Review of empirical evidence and future research directions
+authors:
+  - René Riedl‬
+year: 2022
+venue: Electronic Markets
+doi: 10.1007/s12525-022-00594-4
+url: https://doi.org/10.1007/s12525-022-00594-4
+abstract: "Abstract Artificial intelligence (AI) refers to technologies which support the execution of tasks normally requiring human intelligence (e.g., visual perception, speech recognition, or decision-making). Examples for AI systems are chatbots, robots, or autonomous vehicles, all of which have become an important phenomenon in the economy and society. Determining which AI system to trust and which not to trust is critical, because such systems carry out tasks autonomously and influence human-decision making. This growing importance of trust in AI systems has paralleled another trend: the increasing understanding that user personality is related to trust, thereby affecting the acceptance and adoption of AI systems. We developed a framework of user personality and trust in AI systems which distinguishes universal personality traits (e.g., Big Five), specific personality traits (e.g., propensity to trust), general behavioral tendencies (e.g., trust in a specific AI system), and specific behaviors (e.g., adherence to the recommendation of an AI system in a decision-making context). Based on this framework, we reviewed the scientific literature. We analyzed N = 58 empirical studies published in various scientific disciplines and developed a “big picture” view, revealing significant relationships between personality traits and trust in AI systems. However, our review also shows several unexplored research areas. In particular, it was found that prescriptive knowledge about how to design trustworthy AI systems as a function of user personality lags far behind descriptive knowledge about the use and trust effects of AI systems. Based on these findings, we discuss possible directions for future research, including adaptive systems as focus of future design science research."
+type: article
+open_access: true
+cited_by: 116
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.317
+score_parts:
+  rank: 0.2
+  citations: 0.517
+  recency: 0.6
+needs_approval: false
+state: candidate

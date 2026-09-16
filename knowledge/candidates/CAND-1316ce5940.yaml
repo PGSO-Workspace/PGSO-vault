@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1316ce5940
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/b978-0-443-22270-2.00016-2
+title: "Toward a positive emotion-elicitation human–robot interaction: positive emotion recognition with multimodal inputs"
+authors:
+  - Junpei Zhong
+  - Jiancong Ye
+  - Hongjie Jiang
+  - Pablo Barros
+year: 2025
+venue: Digital Technology in Public Health and Rehabilitation Care
+doi: 10.1016/b978-0-443-22270-2.00016-2
+url: https://doi.org/10.1016/b978-0-443-22270-2.00016-2
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 0.931
+score_parts:
+  rank: 0.031
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

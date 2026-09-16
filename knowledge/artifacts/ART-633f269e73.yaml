@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-633f269e73
+created: 2026-09-15T00:58:29.858Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/paralbench.pdf
+paths:
+  - sources/literature/paralbench.pdf
+hash: 633f269e732671fd2ca02d8609b7c0c4c2f79ee6d0a30dc2e85be0afa6546717
+bytes: 3144278
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 164117
+  sections: 17
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T00:49:06.022Z

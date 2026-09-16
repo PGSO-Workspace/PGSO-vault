@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a71f7cfa27
+created: 2026-09-15T01:07:48.528Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/s10468-024-10283-9
+title: Translation Hopf Algebras and Hopf Heaps
+authors:
+  - Tomasz Brzeziński
+  - Małgorzata Hryniewicka
+year: 2024
+venue: Algebras and Representation Theory
+doi: 10.1007/s10468-024-10283-9
+url: https://doi.org/10.1007/s10468-024-10283-9
+abstract: Abstract To every Hopf heap or quantum cotorsor of Grunspan a Hopf algebra of translations is associated. This translation Hopf algebra acts on the Hopf heap making it a Hopf-Galois co-object. Conversely, any Hopf-Galois co-object has the natural structure of a Hopf heap with the translation Hopf algebra isomorphic to the acting Hopf algebra. It is then shown that this assignment establishes an equivalence between categories of Hopf heaps and Hopf-Galois co-objects.
+type: article
+open_access: null
+cited_by: 1
+query: 10.1038/s42256-025-01115-6
+question: null
+search: SEARCH-770fd28165
+score: 1.375
+score_parts:
+  rank: 0.5
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1bb2c2dd1b
+created: 2026-09-15T00:21:11.462Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5121/ijci.2025.140510
+title: NEMO GUARDRAILS FOR SAFE AND SECURE INSURANCE AI
+authors:
+  - Rakesh More
+year: 2025
+venue: International Journal on Cybernetics &amp; Informatics
+doi: 10.5121/ijci.2025.140510
+url: https://doi.org/10.5121/ijci.2025.140510
+abstract: Artificial intelligence (AI) is becoming central to insurance operations, especially in property and casualty (P&C) claims processing. AI can speed up workflows and improve efficiency, but it also introduces risks. Large language models (LLMs) may generate false or misleading information, often called hallucinations. These errors can harm customers, cause financial losses, and weaken trust in insurance systems. Current safety tools, such as Llama Guard, focus on filtering harmful or toxic content. However, they do not ensure factual accuracy or address insurance-specific needs. This paper studies these gaps and proposes improvements to NVIDIA NeMo Guardrails to build stronger, domain-specific safeguards. The approach includes defining rules for factual correctness, validating policy details, and preventing unsupported responses. We evaluate these enhancements through experiments with insurance-related queries and measure improvements in accuracy and safety. Results show that customized guardrails significantly reduce misinformation and improve reliability. By integrating these measures, insurers can deploy AI systems that are safer, more accurate, and better aligned with regulatory and customer expectations.
+type: article
+open_access: null
+cited_by: 0
+query: NeMo Guardrails programmable guardrails conversational systems
+question: null
+search: SEARCH-75810a0056
+score: 1.4
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

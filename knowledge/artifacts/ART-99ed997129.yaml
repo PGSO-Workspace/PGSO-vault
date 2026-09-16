@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-99ed997129
+created: 2026-09-15T08:47:02.612Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/annotation-trace-27ed615/test_pilot.py.txt
+paths:
+  - sources/software/pgso-sdk/annotation-trace-27ed615/test_pilot.py.txt
+hash: 99ed997129baaba3aba4e337aeab6284edcc451fbe574e38547de8663888f333
+bytes: 9863
+mime: text/plain
+kind: txt
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 9863
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T08:47:02.403Z

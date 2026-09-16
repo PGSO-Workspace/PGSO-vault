@@ -1,0 +1,43 @@
+schema: phdude.candidate
+version: 1
+id: CAND-91321c353e
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411120037
+title: Evaluating the Prompt Steerability of Large Language Models
+authors:
+  - Erik Miehling
+  - Michael Desmond
+  - Karthikeyan Natesan Ramamurthy
+  - Elizabeth Daly
+  - Kush R. Varshney
+  - Eitan Farchi
+  - Pierre Dognin
+  - Jesus Rios
+  - Djallel Bouneffouf
+  - Miao Liu
+  - Prasanna Sattigeri
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.naacl-long.400
+url: https://doi.org/10.18653/v1/2025.naacl-long.400
+abstract: "Erik Miehling, Michael Desmond, Karthikeyan Natesan Ramamurthy, Elizabeth M. Daly, Kush R. Varshney, Eitan Farchi, Pierre Dognin, Jesus Rios, Djallel Bouneffouf, Miao Liu, Prasanna Sattigeri. Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers). 2025."
+type: other
+open_access: true
+cited_by: 2
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.072
+score_parts:
+  rank: 0.053
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

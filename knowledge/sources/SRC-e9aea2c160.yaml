@@ -1,0 +1,16 @@
+schema: phdude.source
+version: 1
+id: SRC-e9aea2c160
+created: 2026-09-15T00:27:03.585Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: War room bibliography and comparator readiness audit — 2026-09-15
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts: []
+state: candidate
+year: 2026
+abstract: "Bibliography snapshot 2026-09-15 00:24:34 UTC: original supplied manuscript ART-29ad619744 references numbered1-44 across cache pages24-26;43 academic entries plus1ElevenLabs documentation. Printed years2024:12,2025:19,2026:3(includescommercialdoc),older:10. These are bibliography entries, not independently verified authentic/Q1 papers. Searchpool322 candidate records:175article,91preprint,12chapter,44other;314 uniqueDOIs,320normalizedtitles; DOI-else-title dedup322. No defensible count of English2024-26Q1-verified papers established: journal quartile requires rankingyear/category evidence; Q1doesNOTmeanJanuary-March. The journal requirement examined at https://ieeeaccess.ieee.org/authors/preparing-your-article/ asks appropriate related references and rigorous evidence, not80minimum. Researcher reports adviser expects80+; propose broader screenedcoverage, notpadding. AgentSpec official repo cloned at e6fa3902e2cfb9681f454b355691b771f70543f8;minimalANTLRparser test passed usingantlr4-python3-runtime4.13;officialspec_lang.test_parse fails staleDSL conflict_light_status.ar. LangChainprivateexecutionhook/unlockeddeps needwork; noLICENSEfound. This is readiness evidence, notcomparativeperformance. OfficialNeMo readiness SRC-f450c3f055. No competitor may consume PGSO governed-state verdict as its decisioninput; sameexogenousobservations and independentlyspecifiedtaskpolicies are required."

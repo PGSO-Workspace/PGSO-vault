@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-464b606f31
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4393904462
+title: "A Taxonomy for Human-LLM Interaction Modes: An Initial Exploration"
+authors:
+  - Jie Gao
+  - Simret Araya Gebreegziabher
+  - Kenny Tsu Wei Choo
+  - Toby Jia-Jun Li
+  - Simon T. Perrault
+  - Thomas W. Malone
+year: 2024
+venue: null
+doi: 10.1145/3613905.3650786
+url: https://doi.org/10.1145/3613905.3650786
+abstract: "With ChatGPT’s release, conversational prompting has become the most popular form of human-LLM interaction. However, its effectiveness is limited for more complex tasks involving reasoning, creativity, and iteration. Through a systematic analysis of HCI papers published since 2021, we identified four key phases in the human-LLM interaction flow—planning, facilitating, iterating, and testing—to precisely understand the dynamics of this process. Additionally, we have developed a taxonomy of four primary interaction modes: Mode 1: Standard Prompting, Mode 2: User Interface, Mode 3: Context-based, and Mode 4: Agent Facilitator. This taxonomy was further enriched using the “5W1H” guideline method, which involved a detailed examination of definitions, participant roles (Who), the phases that happened (When), human objectives and LLM abilities (What), and the mechanics of each interaction mode (How). We anticipate this taxonomy will contribute to the future design and evaluation of human-LLM interaction."
+type: other
+open_access: true
+cited_by: 56
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.739
+score_parts:
+  rank: 0.5
+  citations: 0.439
+  recency: 0.8
+needs_approval: false
+state: candidate

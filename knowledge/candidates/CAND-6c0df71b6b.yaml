@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6c0df71b6b
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412055678
+title: How Managers Perceive AI-Assisted Conversational Training for Workplace Communication
+authors:
+  - Lance Wilhelm
+  - Xiaohan Ding
+  - Kirk McInnis Knutsen
+  - Buse Carik
+  - Eugenia Ha Rim Rho
+year: 2025
+venue: null
+doi: 10.1145/3719160.3736639
+url: https://doi.org/10.1145/3719160.3736639
+abstract: Effective workplace communication is essential for managerial success, yet many managers lack access to tailored and sustained training. Although AI-assisted communication systems may offer scalable training solutions, little is known about how managers envision the role of AI in helping them improve their communication skills. To investigate this, we designed a conversational role-play system, CommCoach, as a functional probe to understand how managers anticipate using AI to practice their communication skills. Through semi-structured interviews, participants emphasized the value of adaptive, low-risk simulations for practicing difficult workplace conversations. They also highlighted opportunities, including human-AI teaming, transparent and context-aware feedback, and greater control over AI-generated personas. AI-assisted communication training should balance personalization, structured learning objectives, and adaptability to different user styles and contexts. However, achieving this requires carefully navigating tensions between adaptive and consistent AI feedback, realism and potential bias, and the open-ended nature of AI conversations versus structured workplace discourse.
+type: other
+open_access: true
+cited_by: 8
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.389
+score_parts:
+  rank: 0.25
+  citations: 0.239
+  recency: 0.9
+needs_approval: false
+state: candidate

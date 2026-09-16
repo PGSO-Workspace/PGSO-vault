@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0bfcbf4ba0
+created: 2026-09-14T23:47:30.960Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0014467300004052
+title: Human-LLM Collaboration for Reliable Prompt Monitoring and Benchmarking of Domain-Specific Language Assistants
+authors:
+  - Daniel Pawlowicz
+  - Mirjam Wittich
+  - Claudia Dukino
+year: 2026
+venue: Proceedings of the 18th International Conference on Agents and Artificial Intelligence
+doi: 10.5220/0014467300004052
+url: https://doi.org/10.5220/0014467300004052
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Policy-as-Prompt" LLM agents'
+question: null
+search: SEARCH-b69be67f4a
+score: 1.063
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

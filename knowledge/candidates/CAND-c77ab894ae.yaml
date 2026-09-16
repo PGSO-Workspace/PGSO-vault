@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c77ab894ae
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4393970695
+title: Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil's Advocate
+authors:
+  - C. Chiang
+  - Zhuoran Lu
+  - Zhuoyan Li
+  - Ming Yin
+year: 2024
+venue: null
+doi: 10.1145/3640543.3645199
+url: https://doi.org/10.1145/3640543.3645199
+abstract: Group decision making plays a crucial role in our complex and interconnected world. The rise of AI technologies has the potential to provide data-driven insights to facilitate group decision making, although it is found that groups do not always utilize AI assistance appropriately. In this paper, we aim to examine whether and how the introduction of a devil’s advocate in the AI-assisted group decision making processes could help groups better utilize AI assistance and change the perceptions of group processes during decision making. Inspired by the exceptional conversational capabilities exhibited by modern large language models (LLMs), we design four different styles of devil’s advocate powered by LLMs, varying their interactivity (i.e., interactive vs. non-interactive) and their target of objection (i.e., challenge the AI recommendation or the majority opinion within the group). Through a randomized human-subject experiment, we find evidence suggesting that LLM-powered devil’s advocates that argue against the AI model’s decision recommendation have the potential to promote groups’ appropriate reliance on AI. Meanwhile, the introduction of LLM-powered devil’s advocate usually does not lead to substantial increases in people’s perceived workload for completing the group decision making tasks, while interactive LLM-powered devil’s advocates are perceived as more collaborating and of higher quality. We conclude by discussing the practical implications of our findings.
+type: other
+open_access: true
+cited_by: 86
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.452
+score_parts:
+  rank: 0.167
+  citations: 0.485
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c8c557aa2b
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/access.2026.3730896
+title: "FlowFixer-EDA: A Tool-Feedback-Augmented Large Language Model Agent for Automated Diagnosis and Repair of Open-Source RTL-to-GDS Design Flow Failures"
+authors:
+  - Ke Dong
+  - Ruidong Wang
+  - Fang Yuan
+  - Baichun An
+  - Xia Zhang
+year: 2026
+venue: IEEE Access
+doi: 10.1109/access.2026.3730896
+url: https://doi.org/10.1109/access.2026.3730896
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 1.038
+score_parts:
+  rank: 0.038
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

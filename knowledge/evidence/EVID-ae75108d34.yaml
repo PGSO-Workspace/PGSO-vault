@@ -1,0 +1,28 @@
+schema: phdude.evidence
+version: 1
+id: EVID-ae75108d34
+created: 2026-09-13T07:00:35.394Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-4c878e2b5b
+locator: crates/pgso-core/src/rules.rs lines 133–143, commit 1b17c248d3608a7d80cc1147e8aa57acbb715132
+excerpt: |-
+  let final_action = match action {
+                      // G2 + G3: downgrade — never prune a protected tool, but
+                      // never silently drop the intent either.
+                      Action::Prune(id) if self.protected.contains(id) => {
+                          Action::RequireStepUp(id.clone())
+                      }
+                      // `RuleEngine` lives in the same crate as `Action`, so the
+                      // remaining variants (Allow, RequireStepUp, Prune of an
+                      // unprotected tool, InjectDirective, and any future
+                      // `#[non_exhaustive]` variant) are passed through unchanged.
+                      other => other.clone(),
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-dca4bb42b4

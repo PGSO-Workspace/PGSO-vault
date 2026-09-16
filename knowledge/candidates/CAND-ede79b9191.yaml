@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ede79b9191
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3769694.3771165
+title: "Weaponizing Words: Direct &amp; Indirect Prompt Injection Attacks on LLM"
+authors:
+  - Pavan Reddy
+year: 2025
+venue: Proceedings of the 26th ACM Annual Conference on Cybersecurity &amp; Information Technology Education
+doi: 10.1145/3769694.3771165
+url: https://doi.org/10.1145/3769694.3771165
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.002
+score_parts:
+  rank: 0.027
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

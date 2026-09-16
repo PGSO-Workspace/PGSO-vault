@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4d6ebcd3f0
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3786335.3813173
+title: Does Safety Molt? Evaluating LLM Safety in Multi-Agent Social Environments
+authors:
+  - Aman Priyanshu
+  - Supriti Vijay
+  - Esha Pahwa
+year: 2026
+venue: Proceedings of the ACM Conference on AI and Agentic Systems
+doi: 10.1145/3786335.3813173
+url: https://doi.org/10.1145/3786335.3813173
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.04
+score_parts:
+  rank: 0.04
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e8217404c8
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6607420
+title: Agent-Facing Information Design in LLM Tool Registries
+authors:
+  - Haochuan Wang
+  - Zechen Zhang
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6607420
+url: https://doi.org/10.2139/ssrn.6607420
+abstract: "LLM tool registries function as unregulated advertising platforms: providers write free-text descriptions that agents use for selection, yet no measurement infrastructure-no viewability standard, quality score, or outcome audit-exists to make this market accountable. We provide the first systematic framework, combining 17,700+ trials across five LLMs and ten domains with a constructive registry design prescription. Legal puffery alone (subjective superlatives, benefit framing) captures 100% of the optimization effect; fabricated claims add zero incremental bias-rendering FTC enforcement of deceptive advertising rules ineffective against the active mechanism. Disclosure fails structurally: system-prompt warnings produce zero measurable effect for four of five models, and behavioral ceilings leave no headroom for label-based correction. Superlatives are the dominant single feature (SBC = +0.35). Registry-layer description normalization achieves first-best welfare model-independently. We propose separating selection-facing descriptions (structured, registrycontrolled) from marketing-facing descriptions (provider-authored, shown post-selection), and introduce the Agent Attention Quality Score to distinguish capability from copywriting."
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.032
+score_parts:
+  rank: 0.032
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

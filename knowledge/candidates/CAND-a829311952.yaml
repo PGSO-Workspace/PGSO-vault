@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a829311952
+created: 2026-09-15T07:38:17.538Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415948577
+title: "MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents"
+authors:
+  - Dongsen Zhang
+  - Zichan Li
+  - Xu Luo
+  - Xuannan Liu
+  - Peipei Li
+  - Wenjun Xu
+year: 2025
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2510.15994
+url: http://arxiv.org/abs/2510.15994
+abstract: "The Model Context Protocol (MCP) standardizes how large language model (LLM) agents discover, describe, and call external tools. While MCP unlocks broad interoperability, it also enlarges the attack surface by making tools first-class, composable objects with natural-language metadata, and standardized I/O. We present MSB (MCP Security Benchmark), the first end-to-end evaluation suite that systematically measures how well LLM agents resist MCP-specific attacks throughout the full tool-use pipeline: task planning, tool invocation, and response handling. MSB contributes: (1) a taxonomy of 12 attacks including name-collision, preference manipulation, prompt injections embedded in tool descriptions, out-of-scope parameter requests, user-impersonating responses, false-error escalation, tool-transfer, retrieval injection, and mixed attacks; (2) an evaluation harness that executes attacks by running real tools (both benign and malicious) via MCP rather than simulation; and (3) a robustness metric that quantifies the trade-off between security and performance: Net Resilient Performance (NRP). We evaluate nine popular LLM agents across 10 domains and 405 tools, producing 2,000 attack instances. Results reveal the effectiveness of attacks against each stage of MCP. Models with stronger performance are more vulnerable to attacks due to their outstanding tool calling and instruction following capabilities. MSB provides a practical baseline for researchers and practitioners to study, compare, and harden MCP agents. Code: https://github.com/dongsenzhang/MSB"
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance" PDF authors'
+question: null
+search: SEARCH-9fb9d5712f
+score: 0.983
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

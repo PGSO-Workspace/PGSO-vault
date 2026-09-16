@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b0cc6c8356
+created: 2026-09-15T07:48:07.669Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/gcce59613.2023.10315493
+title: Super-Resolution Using Deep Learning Focusing on Local Reproducibility
+authors:
+  - Mizuki Ishikawa
+  - Masataka Seo
+year: 2023
+venue: 2023 IEEE 12th Global Conference on Consumer Electronics (GCCE)
+doi: 10.1109/gcce59613.2023.10315493
+url: https://doi.org/10.1109/gcce59613.2023.10315493
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"LDREA-IEEE-Reproducibility" "FULL_SPEC"'
+question: null
+search: SEARCH-e7c8c764f9
+score: 0.767
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 0.7
+needs_approval: false
+state: candidate

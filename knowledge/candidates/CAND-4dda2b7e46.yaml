@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4dda2b7e46
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4313550453
+title: "Artificial Intelligence-Driven Talent Management System: Exploring the Risks and Options for Constructing a Theoretical Foundation"
+authors:
+  - Ali Faqihi
+  - Shah Jahan Miah
+year: 2023
+venue: Journal of risk and financial management
+doi: 10.3390/jrfm16010031
+url: https://doi.org/10.3390/jrfm16010031
+abstract: AI (Artificial intelligence) has the potential to improve strategies to talent management by implementing advanced automated systems for workforce management. AI can make this improvement a reality. The objective of this study is to discover the new requirements for generating a new AI-oriented artefact so that the issues pertaining to talent management are effectively addressed. The design artefact is an intelligent Human Resource Management (HRM) automation solution for talent career management primarily based on a talent intelligent module. Improving connections between professional assessment and planning features is the key goal of this initiative. Utilising a design science methodology we investigate the use of organised machine learning approaches. This technique is the key component of a complete AI solution framework that would be further informed through a suggested moderation of technology-organisation-environment (TOE) theory with the theory of diffusion of innovation (DOI). This framework was devised in order solve AI-related problems. Aside from the automated components available in talent management solutions, this study will make recommendations for practical approaches researchers may follow to fulfil a company’s specific requirements for talent growth.
+type: article
+open_access: true
+cited_by: 100
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.344
+score_parts:
+  rank: 0.143
+  citations: 0.501
+  recency: 0.7
+needs_approval: false
+state: candidate

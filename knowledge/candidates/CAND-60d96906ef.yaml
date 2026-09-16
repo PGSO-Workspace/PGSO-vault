@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-60d96906ef
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4403078068
+title: "Psychological impacts of AI use on school students: a systematic scoping review of the empirical literature"
+authors:
+  - Arnab Kundu
+  - Tripti Bej
+year: 2024
+venue: Research and Practice in Technology Enhanced Learning
+doi: 10.58459/rptel.2025.20030
+url: https://doi.org/10.58459/rptel.2025.20030
+abstract: This systematic scoping review aimed to collate evidence assessing associations between AI use and psychological outcomes (including cognitive, emotional, and behavioural responses to these intelligent systems) for school students from preschool (age <5 years), primary school (age 5–11 years), middle school (age 12–14 years), to high school (age 15–18 years). Original empirical studies were identified in seven reliable databases (Scopus, Web of Science, PubMed, PsycINFO, ScienceDirect, IEEE, and ERIC), resulting in 189 eligible studies. From these, we have identified 24 relevant studies reporting students’ hands-on experiential learning outcomes on AI use. Findings revealed that the use of AI in schools can have both positive and negative impacts on the psychological well-being of students. Increased engagement, cognitive achievement, self-efficacy, learning autonomy, and decreased frustration are among the benefits of this strategy; nevertheless, over reliance, anxiety, stress, social isolation, unstable mental health, and moral dilemmas including privacy, bias, and justice are among its drawbacks. Overall, the psychological impacts of AI use among school students are multifaceted, context-dependent and across grades. By carefully considering the design, implementation, and ethical decorum of AI in school education, teachers and policymakers can maximise its benefits by mitigating potential risks in practicing technology enhanced learning.
+type: article
+open_access: true
+cited_by: 30
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.194
+score_parts:
+  rank: 0.021
+  citations: 0.373
+  recency: 0.8
+needs_approval: false
+state: candidate

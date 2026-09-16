@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-62479f7b30
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5824821
+title: "GUARD: A Semantic Embedding-Based Defense Against Prompt Injection Attacks in LLM-Driven Hiring"
+authors:
+  - Loubna Aminou
+  - Abdelaziz Daaif
+  - Maha Soulami
+  - Mohamed Youssfi
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5824821
+url: https://doi.org/10.2139/ssrn.5824821
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 0.929
+score_parts:
+  rank: 0.029
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

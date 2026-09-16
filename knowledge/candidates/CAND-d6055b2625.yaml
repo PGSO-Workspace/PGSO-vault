@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d6055b2625
+created: 2026-09-15T00:31:11.443Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.3901841
+title: Probabilistic Uncertainty Quantification of Borehole Thermal Resistance in Real-World Scenarios
+authors:
+  - Wonjun Choi
+  - Hideki Kikumoto
+  - Ryozo Ooka
+year: 2021
+venue: null
+doi: 10.2139/ssrn.3901841
+url: https://doi.org/10.2139/ssrn.3901841
+abstract: "The thermal resistance of a borehole heat exchanger (BHE) varies significantly depending on the position of the pipe legs. However, the pipe position cannot be fully controlled during its construction because of extreme slenderness of BHEs. As a result, the borehole thermal resistance (R<sub>b</sub>) estimated from one BHE cannot represent the entire borefield. This study probabilistically quantified the uncertainty of R<sub>b</sub> caused by the inherent uncertain characteristics through Monte Carlo simulations. The following four scenarios were considered: <br><br>1) pipe legs move along the central axis of the borehole, <br><br>2) insertion of a U-tube using spacers to maintain the shank spacing, <br><br>3) pipe legs freely located inside the borehole, and <br><br>4) considering uncertainty of the pipe location, borehole radius, and thermal conductivities of the grout and ground. <br><br>The results demonstrated that the use of spacers significantly improves R<sub>b</sub> and reduces its uncertainty range. The results of the last scenario revealed that the maximum R<sub>b</sub> could be more than twice the minimum value. Moreover, the spatial variation of R<sub>b</sub> according to the pipe position was systematically analyzed to clarify the dynamics of <sub>b</sub> change. The results suggest that R<sub>b</sub> obtained through a thermal response test cannot adequately represent the entire borefield."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition"'
+question: null
+search: SEARCH-f9a249d1ae
+score: 0.583
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 0.5
+needs_approval: true
+state: candidate

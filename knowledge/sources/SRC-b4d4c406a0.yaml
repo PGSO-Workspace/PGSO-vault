@@ -1,0 +1,21 @@
+schema: phdude.source
+version: 1
+id: SRC-b4d4c406a0
+created: 2026-09-15T01:10:37.841Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: "CAP: A General Algorithm for Online Selective Conformal Prediction with FCR Control"
+authors:
+  - Yajie Bao
+  - Yuyang Huo
+  - Haojie Ren
+  - Changliang Zou
+type: article
+artifacts:
+  - ART-d362d356fd
+state: candidate
+year: 2025
+venue: Journal of Machine Learning Research
+url: https://jmlr.org/papers/v26/24-0452.html

@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-50b87ef546
+created: 2026-09-15T09:02:03.781Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/permission-packets-7a3f504/provenance.json
+paths:
+  - sources/software/pgso-sdk/permission-packets-7a3f504/provenance.json
+hash: 50b87ef54696470cefec7dc56bc71614d8ffbd9a2953d6b6bd052b32b4a872d7
+bytes: 290
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T09:02:03.573Z
+latest: false

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ee708e33a6
+created: 2026-09-15T07:38:48.880Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1515/jura-2024-2141
+title: Anspruch auf Verschaffung des Zugangs zu einer öffentlichen Einrichtung
+authors:
+  - B.J. Hartmann
+  - F. Schlag
+year: 2024
+venue: JURA - Juristische Ausbildung
+doi: 10.1515/jura-2024-2141
+url: https://doi.org/10.1515/jura-2024-2141
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"10.1145/3814959" published'
+question: null
+search: SEARCH-76dea7765d
+score: 0.943
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

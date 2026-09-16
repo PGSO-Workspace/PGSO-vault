@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-71bf6c3ef6
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4401043540
+title: Simulating Opinion Dynamics with Networks of LLM-based Agents
+authors:
+  - Yun‐Shiuan Chuang
+  - Agam Goyal
+  - Nikunj Harlalka
+  - Siddharth Suresh
+  - Robert P. Hawkins
+  - Sijia Yang
+  - Dhavan V. Shah
+  - Junjie Hu
+  - Timothy T. Rogers
+year: 2024
+venue: null
+doi: 10.18653/v1/2024.findings-naacl.211
+url: https://doi.org/10.18653/v1/2024.findings-naacl.211
+abstract: "Yun-Shiuan Chuang, Agam Goyal, Nikunj Harlalka, Siddharth Suresh, Robert Hawkins, Sijia Yang, Dhavan Shah, Junjie Hu, Timothy Rogers. Findings of the Association for Computational Linguistics: NAACL 2024. 2024."
+type: other
+open_access: true
+cited_by: 41
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.289
+score_parts:
+  rank: 0.083
+  citations: 0.406
+  recency: 0.8
+needs_approval: false
+state: candidate

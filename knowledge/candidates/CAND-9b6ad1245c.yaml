@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9b6ad1245c
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.25115/kasp.v7i3.10837
+title: Variables de personalidad predictoras del bienestar psicológico en mujeres mayores
+authors:
+  - César Augusto De León Ricardi
+year: 2026
+venue: KNOW AND SHARE PSYCHOLOGY
+doi: 10.25115/kasp.v7i3.10837
+url: https://doi.org/10.25115/kasp.v7i3.10837
+abstract: El envejecimiento poblacional ha generado un mayor interés en conocer los factores asociados al bienestar de la población mayor, sin embargo, es limitada la investigación sobre el efecto predictivo de las variables de personalidad en el bienestar psicológico durante la vejez. El objetivo de este estudio fue conocer si el locus de control, el enfrentamiento y la autoestima predicen el bienestar psicológico en mujeres mayores mexicanas. Colaboraron 100 mujeres de 60 años (M= 65.2, DE=7.4) residentes de la Ciudad de México. Las participantes respondieron un cuestionario de datos sociodemográficos y las escalas de locus de control, estilos de enfrentamiento, autoestima y bienestar psicológico. Se obtuvieron tres modelos de regresión lineal paso por paso. La autoestima positiva y el enfrentamiento directo explicaron el 27% de la varianza de la seguridad personal, el locus de control interno explicó el 11% de la varianza de autonomía y el enfrentamiento directo explicó el 13% de la varianza de las relaciones sociales. Se espera que la descripción de las variables de personalidad que predicen el bienestar psicológico contribuya a la comprensión de la salud mental en mujeres mayores.
+type: article
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 1.033
+score_parts:
+  rank: 0.033
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

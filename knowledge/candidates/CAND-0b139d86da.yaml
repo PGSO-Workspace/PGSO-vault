@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0b139d86da
+created: 2026-09-15T07:37:52.267Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7316378
+title: "Deterministic AI Governance: A Unified Derivation of the Runtime Authorization Boundary, Authorization Artifact, Integrity Model, and Five Tests Standard"
+authors:
+  - Edward Meyman
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7316378
+url: https://doi.org/10.2139/ssrn.7316378
+abstract: <p>This paper reconstructs the FERZ doctrine as a unified analytical argument. Beginning with the distinction between observation and pre-execution authorization, it states the additional definitions and integrity requirements from which the runtime authorization boundary, authorization artifact, Authorization Boundary Integrity Model, and Five Tests Standard follow. The argument is conceptual and classificatory. It does not report empirical validation or claim that these constructs follow from a single premise alone. The derivation proceeds from the governance problem through the separation of authority, delegation, policy, authorization, and enforcement; positions the resulting structure relative to the reference-monitor, access-control, and runtimeverification traditions, to proof-carrying authorization and related evidence models, and to the provenance tradition; and culminates in the Authorization Non-Substitution Principle [1], for which the corpus's substitution analyses provide representative applications. An appended source map identifies the controlling publication for each doctrinal position, and a claim-status appendix states, for each principal construct, what kind of claim it is, how it can be independently examined, and what it does not establish.&nbsp;</p>
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement" "Abhinandan Gill-Lakhowal"'
+question: null
+search: SEARCH-9d6de85957
+score: 1.056
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

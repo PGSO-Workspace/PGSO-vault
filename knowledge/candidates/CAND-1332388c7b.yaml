@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1332388c7b
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411814566
+title: "Towards spatial computing: recent advances in multimodal natural interaction for Extended Reality headsets"
+authors:
+  - Zhimin Wang
+  - Mao-Hang Rao
+  - Shiyu Ye
+  - Weitao Song
+  - Feng Lu
+year: 2025
+venue: Frontiers of Computer Science
+doi: 10.1007/s11704-025-41123-8
+url: https://doi.org/10.1007/s11704-025-41123-8
+abstract: "Abstract With the widespread adoption of Extended Reality (XR) headsets, spatial computing technologies are gaining increasing attention. Spatial computing enables interaction with virtual elements through natural input methods such as eye tracking, hand gestures, and voice commands, thus placing natural human-computer interaction at its core. While previous surveys have reviewed conventional XR interaction techniques, recent advancements in natural interaction, particularly driven by artificial intelligence (AI) and large language models (LLMs), have introduced new paradigms and technologies. In this paper, we review research on multimodal natural interaction for wearable XR, focusing on papers published since 2022 in six top venues: ACM CHI, UIST, IMWUT (Ubicomp), IEEE VR, ISMAR, and TVCG. We classify and analyze these studies based on application scenarios, operation types, and interaction modalities. This analysis provides a structured framework for understanding how researchers are designing advanced natural interaction techniques in XR. Based on these findings, we discuss the challenges in natural interaction techniques and suggest potential directions for future research. This review provides valuable insights for researchers aiming to design natural and efficient interaction systems for XR, ultimately contributing to the advancement of spatial computing."
+type: article
+open_access: true
+cited_by: 32
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 1.391
+score_parts:
+  rank: 0.111
+  citations: 0.38
+  recency: 0.9
+needs_approval: false
+state: candidate

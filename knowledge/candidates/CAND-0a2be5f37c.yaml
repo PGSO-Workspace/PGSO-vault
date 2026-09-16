@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0a2be5f37c
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7125596406
+title: "Survey on Learning-based Dynamic Fault Localization: From Traditional Machine Learning to Large Language Models"
+authors:
+  - Chunyan Liu
+  - Yan Lei
+  - Huan Xie
+  - jinping Wang
+  - Yue Yu
+  - David Lo
+year: 2026
+venue: ACM Computing Surveys
+doi: 10.1145/3787202
+url: https://doi.org/10.1145/3787202
+abstract: "Learning-based dynamic fault localization techniques play a crucial role in the field of software engineering. These techniques dynamically execute test cases to meticulously extract useful knowledge from the execution information in the program, with the aim of identifying fault locations by leveraging machine learning, deep learning, and large language models. Currently, there is already a flourishing body of research that is intensely focused on learning-based dynamic fault localization. Research literature can be categorized into two main aspects for learning-based dynamic fault localization: data-based enhancements (i.e., the datasets) and model-based enhancements (i.e., the suspiciousness algorithms). Thus, we conduct an extensive literature review on learning-based dynamic fault localization from the aspects of the data task and the model task. Among them, each task is divided into multiple sub-tasks in a systematic manner to comprehensively discuss the details. In addition, we analyze and summarize the datasets and metrics that have been widely used to evaluate the effectiveness of the proposed techniques in recent years, so that researchers can have an intuitive perception of them. We also discuss the present challenges and the directions for future research."
+type: article
+open_access: true
+cited_by: 2
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.219
+score_parts:
+  rank: 0.1
+  citations: 0.119
+  recency: 1
+needs_approval: false
+state: candidate

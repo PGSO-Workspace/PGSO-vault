@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d48e1c0161
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/isssr61934.2024.00028
+title: Research on Multi-agent Path Planning Algorithm Based on Large Language Model
+authors:
+  - Liu Lian
+  - Cui Peng
+year: 2024
+venue: 2024 10th International Symposium on System Security, Safety, and Reliability (ISSSR)
+doi: 10.1109/isssr61934.2024.00028
+url: https://doi.org/10.1109/isssr61934.2024.00028
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 0.911
+score_parts:
+  rank: 0.036
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

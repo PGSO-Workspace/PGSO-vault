@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-782bc4ea2b
+created: 2026-09-15T01:07:13.133Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/978-3-032-12657-3_29
+title: Examining the Impact of Embodied Conversational Agents’ Emotional Expressions and Empathetic Communication on Companionship for Middle-Aged and Older Adults
+authors:
+  - Xueyang Wang
+  - Lingjie Pan
+  - Xingyu Lan
+year: 2026
+venue: Lecture Notes in Computer Science
+doi: 10.1007/978-3-032-12657-3_29
+url: https://doi.org/10.1007/978-3-032-12657-3_29
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: '"Empathetic Conversational Agents" "10.1080/10447318.2025.2540500" arXiv 2501.08393'
+question: null
+search: SEARCH-3dc085d3d3
+score: 1.067
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

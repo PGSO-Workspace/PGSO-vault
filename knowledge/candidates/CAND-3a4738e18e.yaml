@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3a4738e18e
+created: 2026-09-14T16:51:30.061Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0013134000003890
+title: "Tunisian Dialect Speech Corpus: Construction and Emotion Annotation"
+authors:
+  - Latifa Nasr
+  - Abir Masmoudi
+  - Lamia Belguith
+year: 2025
+venue: Proceedings of the 17th International Conference on Agents and Artificial Intelligence
+doi: 10.5220/0013134000003890
+url: https://doi.org/10.5220/0013134000003890
+abstract: null
+type: article
+open_access: null
+cited_by: 4
+query: runtime shields uncertainty abstention speech emotion agents
+question: null
+search: SEARCH-b8dd8c19fd
+score: 2.075
+score_parts:
+  rank: 1
+  citations: 0.175
+  recency: 0.9
+needs_approval: false
+state: candidate

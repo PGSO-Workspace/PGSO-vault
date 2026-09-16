@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-192125a463
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W2964902328
+title: "U.S. Election Analysis 2024: Media, Voters and the Campaign"
+authors:
+  - Daniel Jackson
+  - Carson, Andrea
+  - Coombs, Danielle Sarver
+  - Edgerly, Stephanie
+  - Einar Thorsen
+  - Trevisan, Filippo
+  - Wright, Scott
+year: 2024
+venue: Bournemouth University Research Online (Bournemouth University)
+doi: 10.26181/27850800
+url: http://eprints.bournemouth.ac.uk/34838/1/USElectionAnalysis2020_Jackson-et_al_v1.pdf
+abstract: Featuring 88 contributions from leading scholars, this publication captures the immediate thoughts, reflections and early research insights on the 2024 U.S. presidential election from the cutting edge of media and politics research.Published 10 days after the election, contributions are short and accessible for a wide range of audiences. As with our previous reports, authors provide authoritative analysis of the campaign, including research findings or new theoretical insights; to bring readers original ways of understanding the election.https://www.electionanalysis.ws/us/ (direct link to pdf download)
+type: book
+open_access: true
+cited_by: 31
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1.253
+score_parts:
+  rank: 0.077
+  citations: 0.376
+  recency: 0.8
+needs_approval: false
+state: candidate

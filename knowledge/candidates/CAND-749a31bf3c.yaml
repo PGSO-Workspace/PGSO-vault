@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-749a31bf3c
+created: 2026-09-15T07:38:48.880Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7204272740
+title: Model Context Protocol (MCP) or Agent-to-Agent (A2A) — Defining Right Communication Protocol for Agentic AI in Financial Services Use Cases
+authors:
+  - Aditya Ghosh
+  - Siddhartha Kumar Ghosh
+year: 2026
+venue: International Journal of Innovative Research in Engineering & Management
+doi: 10.55524/ijirem.2026.13.4.5
+url: https://doi.org/10.55524/ijirem.2026.13.4.5
+abstract: "The rapid adoption of large language model (LLM)-based agentic systems in financial services has created an urgent architectural question for enterprise technology leaders: should an institution standardize on the Model Context Protocol (MCP), introduced by Anthropic in November 2024, or the Agent2Agent (A2A) protocol, introduced by Google in April 2025, when designing agentic AI infrastructure? This paper undertakes a structured comparative analysis of both protocols through the lens of financial-services use cases such as fraud detection, credit decisioning, model risk management, regulatory compliance, treasury operations, and agentic commerce and payments. Drawing on protocol specifications, peer-reviewed and preprint literature, and documented industry deployments at institutions including JPMorgan Chase, Goldman Sachs, Commonwealth Bank, Visa, and Mastercard, the study finds that MCP and A2A occupy complementary layers of the agentic AI stack rather than competing for the same role: MCP is a vertical protocol governing how an individual agent accesses tools, data, and enterprise systems, while A2A is a horizontal protocol governing how autonomous agents owned by different teams, vendors, or institutions discover, negotiate with, and delegate tasks to one another. To move beyond a purely narrative comparison, the paper adds a literature-supported case-study table of documented financial-services deployments and a rubric-based comparative scoring exercise across six operational criteria. The results support a decision framework in which mature agentic AI architectures in regulated finance converge toward a layered deployment: MCP grounds individual agents in trusted enterprise data, and A2A orchestrates cross-institutional and cross-vendor collaboration, with emerging payment-layer extensions such as the Agent Payments Protocol (AP2) and x402 bridging agent coordination to settlement. The paper closes by identifying research gaps around protocol security maturity, regulatory liability for autonomous agent transactions, and the absence of controlled empirical benchmarking in the financial-services domain."
+type: article
+open_access: true
+cited_by: 0
+query: '"10.1145/3814959" published'
+question: null
+search: SEARCH-76dea7765d
+score: 2
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

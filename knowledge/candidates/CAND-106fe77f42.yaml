@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-106fe77f42
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6369059
+title: "Constitutional Governance for Autonomous AI Agents: The Execution Authority Control Layer"
+authors:
+  - David L Justice
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6369059
+url: https://doi.org/10.2139/ssrn.6369059
+abstract: "Autonomous artificial intelligence agents-software systems that perceive their environment, form decisions, and execute actions without continuous human direction-are being deployed into enterprise computing environments at an accelerating rate. These agents interact with databases, APIs, communication platforms, financial systems, and other agents, exercising operational authority that can have significant and irreversible consequences. Yet no standardized architectural layer exists to govern what agents are constitutionally permitted to do before they act. Existing approaches-model-level safety training, post-hoc observability, identity and authentication frameworks, and statistical consensus systems-address adjacent concerns but leave the core problem of runtime execution authority governance unsolved. This paper introduces the Execution Authority Control Layer (EACL), a constitutional governance architecture for AI agent systems. EACL introduces five novel components: () the Policy Constitution, a cryptographically signed governance instrument authored by a human principal that defines the execution authority of one or more AI agents; () the Execution Intent Envelope (EIE), a structured, cryptographically signed request format that agents must submit to an external governance plane before executing any action; () the Decision Engine, a deterministic rules evaluator that evaluates EIEs against applicable Policy Constitutions and returns permit, deny, or escalate decisions; () the Governance-of-Governance (GoG) Layer, a recursive protection mechanism that applies the same constitutional enforcement logic to attempts to modify the governance system itself; and () the Delegation and Attenuation Engine, which enforces the principle that delegated agents cannot receive more authority than their delegating parent agents. We present the formal model, security properties, implementation architecture, and a comparative analysis against existing approaches. We argue that EACL represents a necessary and previously absent layer in the AI system stack-analogous to the role of firewalls in network security-and that its constitutional model provides security properties that probabilistic and training-based approaches cannot achieve."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.143
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,23 @@
+schema: phdude.source
+version: 1
+id: SRC-f5af3a29f4
+created: 2026-09-15T01:10:04.768Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: Multitask Transformer for Cross-Corpus Speech Emotion Recognition
+authors:
+  - Chung-Soo Ahn
+  - Rajib Rana
+  - Carlos Busso
+  - Jagath C. Rajapakse
+type: article
+artifacts:
+  - ART-839a958889
+state: candidate
+year: 2025
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2025.3526592
+url: https://doi.org/10.1109/taffc.2025.3526592
+abstract: "Targeted-text research summary, not original abstract: Audio/text transformers use contrastive and information-maximization auxiliary objectives, plus logit fusion. Target training data are unlabeled; 30% of target corpus is used for adaptation. Ten randomized repetitions evaluate transfer. Limits: Primarily laboratory corpora, with preliminary naturalistic results; target-data adaptation is required. Random utterance splits are described, so do not assume unseen-speaker evaluation."

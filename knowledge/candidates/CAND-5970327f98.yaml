@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5970327f98
+created: 2026-09-15T07:50:34.676Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1353/mns.2025.a965556
+title: "A Scribe's Luxury Manuscript: Text and Image in a Hebrew Medical Tract (Cambridge, University Library, MS Dd.10.68)"
+authors:
+  - Sivan Gottlieb
+year: 2025
+venue: "Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript Studies"
+doi: 10.1353/mns.2025.a965556
+url: https://doi.org/10.1353/mns.2025.a965556
+abstract: "Abstract: The Cambridge Hebrew manuscript stands as an example of a multi-text manuscript. This manuscript's original stage was written by a single scribe who undertook the formidable task of amalgamating content from various sources, carefully curating and sometimes adapting the treatises to align with his specific requirements. Beyond text compilation, the scribe enriching the manuscript with a decorative program that not only adds aesthetic value but also aids in navigation. This program consists of seven illustrative panels, some featuring medical themes, while others depict scenes of classroom instruction, revealing the scribe's intellectual pursuits. Upon closer examination of both the textual content and the illustrations, it becomes evident that this manuscript was crafted for the scribe's personal use. This essay endeavors to illuminate this relatively unexplored manuscript, shedding light on the medical interests prevalent during its time of creation and delving into the significance of its illustrations. By unraveling the scribe's workmanship and analyzing his choices, we can gain valuable insights into the production of luxury secular manuscripts designed for personal utilization."
+type: article
+open_access: null
+cited_by: 0
+query: '"10.1016/j.chb.2025.108687" manuscript'
+question: null
+search: SEARCH-183055ff3f
+score: 0.956
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

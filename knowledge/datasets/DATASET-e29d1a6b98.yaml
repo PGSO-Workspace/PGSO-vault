@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-e29d1a6b98
+created: 2026-09-15T00:49:17.365Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/execution_validation.rs
+hash: e29d1a6b98317122207a24eb5ce44ebac329082b97bf9728ee6e36d36d83ac4c
+bytes: 9560
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: ActualSDK dispatch/confirmation validation artifact; in-process memorycallbacks only

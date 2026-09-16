@@ -1,0 +1,16 @@
+schema: phdude.evidence
+version: 1
+id: EVID-acc517ff26
+created: 2026-09-15T08:13:42.280Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-f2e7be8661
+locator: AIS eLibrary primary landing page, abstract lines 22-25, https://aisel.aisnet.org/misq/vol28/iss1/6/ (inspected 2026-09-15)
+excerpt: The design-science paradigm seeks to extend the boundaries of human and organizational capabilities by creating new and innovative artifacts.
+strength: strong
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from: []

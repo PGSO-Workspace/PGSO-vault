@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b1ab8665ea
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.14293/pr2199.003853.v1
+title: "From Retrieval to Autonomy: Governance and Accountability Challenges in Tool-Calling Large Language Model Agents"
+authors:
+  - Lawal G. Anand
+year: 2026
+venue: null
+doi: 10.14293/pr2199.003853.v1
+url: https://doi.org/10.14293/pr2199.003853.v1
+abstract: The evolution of large language models (LLMs) from passive text generators to autonomous agents capable of invoking external tools, accessing databases, executing code, and interacting with digital environments has significantly expanded their practical utility across diverse domains. While tool-calling architectures enhance problem-solving capabilities and enable dynamic decision-making, they also introduce complex governance and accountability challenges that extend beyond traditional concerns associated with standalone LLMs. Autonomous agents can perform multi-step actions with limited human intervention, creating new risks related to transparency, responsibility attribution, security vulnerabilities, privacy violations, and unintended consequences. This paper critically examines the governance implications of tool-calling LLM agents, focusing on the tension between increased autonomy and the need for effective oversight. The study explores key accountability issues, including decision traceability, auditability, explainability, human-in-the-loop control, regulatory compliance, and liability allocation among developers, deployers, and end users. Furthermore, it analyzes emerging governance frameworks and technical safeguards designed to ensure trustworthy agent behavior in high-stakes environments such as healthcare, finance, cybersecurity, and public administration. The paper argues that existing governance mechanisms developed for conventional AI systems are insufficient to address the operational complexity of autonomous tool-using agents. A multidimensional governance approach integrating technical controls, organizational policies, ethical principles, and regulatory standards is therefore proposed. The findings contribute to ongoing discussions on responsible AI deployment by highlighting pathways for balancing innovation, autonomy, and accountability in next-generation intelligent systems.
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 1.077
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

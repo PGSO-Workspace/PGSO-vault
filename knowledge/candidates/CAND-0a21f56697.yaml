@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0a21f56697
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1038/s41598-025-27399-7
+title: The interactions between major dietary patterns and rs320 polymorphism of LPL gene on cardiometabolic risk factors
+authors:
+  - Hooman Yekrang Safakar
+  - Sayyed Saeed Khayyatzadeh
+  - Zeinab Yazdanpanah
+  - Mehdi Mollahosseini
+  - Mohammad Hasan Sheikhha
+  - Masoud Mirzaei
+  - Hosein Fallahzadeh
+  - Hassan Mozaffari-Khosravi
+year: 2025
+venue: Scientific Reports
+doi: 10.1038/s41598-025-27399-7
+url: https://doi.org/10.1038/s41598-025-27399-7
+abstract: "Abstract There is a lack of comprehensive understanding concerning the variations in cardiometabolic parameters due to the interactions between dietary habits and Lipoprotein lipase (LPL) gene polymorphisms. This study aimed to investigate how primary dietary patterns relate to the Rs320 variant of the LPL gene and their impact on the cardiometabolic profile in a group of Iranian adults. This cross-sectional study involved 387 adults in Yazd, Iran, ranging in age from 20 to 70. Following an assessment of the inclusion and exclusion criteria, participants in the Yazd Health Study (YaHS) enrollment phase were chosen. In the present study, the major dietary patterns were identified using factor analysis method. The polymerase chain reaction-restricted fragment length polymorphism (PCR-RFLP) method was used to identify rs320 variant on LPL gene. General linear models (GLM) were applied to evaluate how dietary patterns interact with rs320 polymorphism to influence cardiometabolic markers. Three major dietary patterns were identified: western, healthy, and traditional. The allele distributions of rs320 were 66.5% for T and 33.5% for G. The prevalences of the genotypes were 57.90% ( n = 224) for TT, 36.2% ( n = 140) for TG, and 5.9% ( n = 23) for GG. In unadjusted models, individuals with the TG + GG genotype exhibited higher odds ratios (ORs) for various factors, such as body mass index (BMI) exceeding 25 (OR: 1.36, 95% CI: 0.90–2.07), fasting blood sugar levels over 100 mg/dL (OR: 1.18, 95% CI: 0.74–1.87), and systolic blood pressure above 120 mmHg (OR: 1.41, 95% CI: 0.94–2.12). The interaction between traditional dietary patterns and the rs320 polymorphism was particularly significant. Total cholesterol and systolic blood pressure (SBP) revealed considerable crude p-values of 0.014 and 0.013, respectively. The adjusted models remained significance for SBP ( p = 0.035). No cardiometabolic factors showed significant associations in the adjusted models for the western dietary pattern. Our findings suggest that extracted major dietary patterns are not associated with different genotypes of rs320 polymorphism in relation to the cardiometabolic profile. More extensive longitudinal research is required to elucidate the interaction."
+type: article
+open_access: null
+cited_by: 0
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 0.967
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

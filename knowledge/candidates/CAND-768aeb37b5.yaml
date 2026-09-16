@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-768aeb37b5
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4413933064
+title: "Large language models: an overview of foundational architectures, recent trends, and a new taxonomy"
+authors:
+  - Ibomoiye Domor Mienye
+  - Nobert Jere
+  - George Obaido
+  - Oyindamola Omolara Ogunruku
+  - Ebenezer Esenogho
+  - Cameron Modisane
+year: 2025
+venue: Discover Applied Sciences
+doi: 10.1007/s42452-025-07668-w
+url: https://doi.org/10.1007/s42452-025-07668-w
+abstract: "Abstract Since the introduction of foundational models such as Bidirectional Encoder Representations from Transformers (BERT) and Generative Pre-trained Transformers (GPT), there has been rapid evolution in both the scale and application of large language models (LLMs). This review provides a concise overview of LLMs, their architecture, training methodologies, and recent innovative applications, focusing on notable models such as the GPT series, BERT, Pathways Language Model (PaLM), and Large Language Model Meta AI (LLaMA), and recently the DeepSeek-R1 model. Additionally, this paper presents a taxonomy for categorizing LLMs based on three critical dimensions: scalability, application domains, and ethical considerations. This taxonomy aims to enable researchers and practitioners to better understand these models in terms of their potential and limitations. Lastly, by reviewing contributions from numerous publications, this study identifies emerging trends, gaps, and opportunities in LLM research, providing a structured guide for future investigations."
+type: article
+open_access: true
+cited_by: 40
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 1.37
+score_parts:
+  rank: 0.067
+  citations: 0.403
+  recency: 0.9
+needs_approval: false
+state: candidate

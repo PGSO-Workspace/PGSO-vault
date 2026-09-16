@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0f919db5c7
+created: 2026-09-15T08:10:36.723Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W96424787
+title: Modellierung für Integrated Enterprise Balancing
+authors:
+  - Hans-Georg Fill
+  - Anke Gericke
+  - Dimitris Karagiannis
+  - Robert Winter
+year: 2007
+venue: WIRTSCHAFTSINFORMATIK
+doi: 10.1007/s11576-007-0094-6
+url: https://doi.org/10.1007/s11576-007-0094-6
+abstract: null
+type: article
+open_access: true
+cited_by: 12
+query: '"Design Science in Information Systems Research"'
+question: null
+search: SEARCH-e78eb7cdff
+score: 0.389
+score_parts:
+  rank: 0.111
+  citations: 0.278
+  recency: 0
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1616133a8c
+created: 2026-09-14T23:44:30.144Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0015072600004088
+title: A Study of Cursorrules Files in GitHub Open Source Projects
+authors:
+  - Shuang Sun
+  - Jafar Akhoundali
+  - Arina Kudriavtseva
+  - Sengim Karayalcin
+  - Olga Gadyatskaya
+year: 2026
+venue: Proceedings of the 21st International Conference on Software Technologies
+doi: 10.5220/0015072600004088
+url: https://doi.org/10.5220/0015072600004088
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"WeClaw" "Adaptive Runtime" GitHub open source'
+question: null
+search: SEARCH-b132bc032f
+score: 1.333
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

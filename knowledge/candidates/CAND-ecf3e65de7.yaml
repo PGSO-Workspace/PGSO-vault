@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ecf3e65de7
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415368550
+title: Unraveling Emotions With Pre-Trained Models
+authors:
+  - Alejandro Pajón-Sanmartín
+  - Francisco de Arriba-Pérez
+  - Silvia García-Méndez
+  - Fátima Leal
+  - Benedita Malheiro
+  - Juan C. Burguillo
+year: 2025
+venue: IEEE Access
+doi: 10.1109/access.2025.3623877
+url: https://doi.org/10.1109/access.2025.3623877
+abstract: "Transformer models have significantly advanced the field of emotion recognition. However, there are still open challenges when exploring open-ended queries for Large Language Models (LLMs). Although current models offer good results, automatic emotion analysis in open texts presents significant challenges, such as contextual ambiguity, linguistic variability, and difficulty interpreting complex emotional expressions. These limitations make the direct application of generalist models difficult. Accordingly, this work compares the effectiveness of fine-tuning and prompt engineering in emotion detection in three distinct scenarios: (i) performance of fine-tuned pre-trained models and general-purpose LLMs using simple prompts; (ii) effectiveness of different emotion prompt designs with LLMs; and (iii) impact of emotion grouping techniques on these models. Experimental tests attain metrics above 70% with a fine-tuned pre-trained model for emotion recognition. Moreover, the findings highlight that LLMs require structured prompt engineering and emotion grouping to enhance their performance. These advancements improve sentiment analysis, human-computer interaction, and understanding of user behavior across various domains."
+type: article
+open_access: true
+cited_by: 2
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.069
+score_parts:
+  rank: 0.05
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-596c842e2e
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.4018/979-8-3373-1419-8.ch006
+title: Governance of AI Agents
+authors:
+  - Silvio Andrae
+year: 2025
+venue: Advances in Computational Intelligence and Robotics
+doi: 10.4018/979-8-3373-1419-8.ch006
+url: https://doi.org/10.4018/979-8-3373-1419-8.ch006
+abstract: The increasing integration of AI into economic, social, and political processes is creating new challenges for the governance of autonomous AI agents. Traditional governance models are reaching their limits. With AI agents, motivations based on monetary incentives or personal interests no longer apply. Instead, new forms of information asymmetry arise from the technological functioning of AI. This results in key challenges for AI governance, such as the balance between autonomy and control, the transparency issue due to difficult-to-understand AI decisions, ambiguities in accountability and liability, and ethical and societal risks such as algorithmic discrimination and manipulation. To address these challenges comprehensively, the paper proposes a hybrid governance model for AI agents. This model includes technical transparency mechanisms for the traceability of decision-making processes, regulatory frameworks for the disclosure of decision-making parameters, a risk-based liability model, and a dynamic adaptation of rules for the continuous evaluation of governance mechanisms.
+type: chapter
+open_access: null
+cited_by: 0
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 0.926
+score_parts:
+  rank: 0.026
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

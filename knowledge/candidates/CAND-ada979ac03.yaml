@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ada979ac03
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1371/journal.pone.0346770
+title: "EAC-Agent: A deep learning framework for multimodal emotion-aware conversational agent with contextual response generation"
+authors:
+  - Shahid Jamil
+  - Tariq Ali
+  - Asif Nawaz
+  - Abdul Shahid
+year: 2026
+venue: PLOS One
+doi: 10.1371/journal.pone.0346770
+url: https://doi.org/10.1371/journal.pone.0346770
+abstract: Conversational agents, commonly referred to as chatbots, have become an integral part of various important applications, such as customer support and virtual assistants in enterprise-level solutions. Despite their widespread use, current solutions predominantly rely on a single modality input, primarily text, which limits their ability to fully understand the correct emotions of users and respond accordingly. The increasing demand for multimodal inputs in conversation such as text, audio, and videos, highlights the need for a more comprehensive approach. Existing conversational agents face significant challenges in generating emotionally aware responses, as they lack the ability to effectively handle emotion embeddings, leading to limitations in emotional accuracy and contextual appropriateness. Focusing on these challenges, this research work leads to a novel multimodal approach which incorporates features from text, audio, and visual. The EAC-Agent proposed a sequence-to-sequence model with transformer, along with pre-trained embeddings such as GloVe. The self and cross-modal attention on text, audio and visual is used to generate a more emotionally intelligent response. EAC-Agent is validated through comparison with existing techniques on two benchmark datasets. The obtained results demonstrate superior performance in emotion classification and response generation. The proposed model achieves an accuracy of 76.27% on IEMOCAP and 67.57% on MELD for emotion recognition from multimodal user inputs. In addition, the emotion-aware response generation module shows clear improvements, with perplexity values of 39.01 and 42.30, BLEU scores of 0.31 and 0.30, and ROUGE-L scores of 0.45 and 0.44 on IEMOCAP and MELD, respectively. EAC-Agent demonstrates clear superiority over existing models and holds great promise for applications in customer service, healthcare, and other areas requiring empathetic and contextually appropriate interactions.
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.027
+score_parts:
+  rank: 0.027
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1c165abd49
+created: 2026-09-15T00:30:50.983Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/978-1-0716-1006-0_300320
+title: Large-Scale Models of the Visual System
+authors: []
+year: 2022
+venue: Encyclopedia of Computational Neuroscience
+doi: 10.1007/978-1-0716-1006-0_300320
+url: https://doi.org/10.1007/978-1-0716-1006-0_300320
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: '"ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"'
+question: null
+search: SEARCH-40ed8087e2
+score: 0.637
+score_parts:
+  rank: 0.037
+  citations: 0
+  recency: 0.6
+needs_approval: false
+state: candidate

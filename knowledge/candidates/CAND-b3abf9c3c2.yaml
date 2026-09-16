@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b3abf9c3c2
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416712242
+title: Securing AI Agents with Information-Flow Control
+authors:
+  - Manuel F. M. Costa
+  - Boris Köpf
+  - Aashish Kolluri
+  - Andrew Paverd
+  - Mark Russinovich
+  - Ahmed Salem
+  - Shruti Tople
+  - Lukas Wutschitz
+  - Santiago Zanella-Béguelin
+year: 2025
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2505.23643
+url: http://arxiv.org/abs/2505.23643
+abstract: As AI agents become increasingly autonomous and capable, ensuring their security against vulnerabilities such as prompt injection becomes critical. This paper explores the use of information-flow control (IFC) to provide security guarantees for AI agents. We present a formal model to reason about the security and expressiveness of agent planners. Using this model, we characterize the class of properties enforceable by dynamic taint-tracking and construct a taxonomy of tasks to evaluate security and utility trade-offs of planner designs. Informed by this exploration, we present Fides, a planner that tracks confidentiality and integrity labels, deterministically enforces security policies, and introduces novel primitives for selectively hiding information. Its evaluation in AgentDojo demonstrates that this approach enables us to complete a broad range of tasks with security guarantees. A tutorial to walk readers through the the concepts introduced in the paper can be found at https://github.com/microsoft/fides
+type: preprint
+open_access: true
+cited_by: 4
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.2
+score_parts:
+  rank: 0.125
+  citations: 0.175
+  recency: 0.9
+needs_approval: true
+state: candidate

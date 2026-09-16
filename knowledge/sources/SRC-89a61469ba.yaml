@@ -1,0 +1,18 @@
+schema: phdude.source
+version: 1
+id: SRC-89a61469ba
+created: 2026-09-15T04:58:51.350Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: PGSO SDK merged pilot baseline and comparator readiness, 2026-09-15
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts: []
+state: candidate
+year: 2026
+url: https://github.com/PGSO-Workspace/pgso-sdk/pull/3
+abstract: "PR #3 merged on 2026-09-15 at 04:54:51 UTC as ef9838d50964592be5179d88b1708d8c461ca784. Local origin/main and tested head 3206f5d0fab2e6de4951454b86a42ddf095a4ce2 share Git tree 1852cab4b1f54abf305ad54e492e51c97d8521fe. This fixes the technical pilot baseline; it does not establish comparative superiority or readiness for the confirmatory human study. Next step: complete independently specified NeMo and Invariant lifecycle and actual-dispatch adapters on shared inputs before paired comparison. Static inspection of data/invariant_lifecycle.py finds that low-confidence or backward observations set hold and block quote even from nominal state, accepted gaps enter expired without processing the incoming observation, and explicit expiry resets the counter. These differ from PGSO hold, gap, and expiry semantics. The adapter records policy verdicts without actual callback execution receipts. Existing bounded preflight evidence must not be extrapolated to full lifecycle or dispatch equivalence. Preserve version-1 evidence; evaluate revisions separately."
+bibkey: pgso202689a61469ba

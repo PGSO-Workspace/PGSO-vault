@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-da923d8e5f
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0013375700003890
+title: "AgentFlow: A Context Aware Multi-Agent Framework for Dynamic Agent Collaboration"
+authors:
+  - Gayathri Nettem
+  - M. Disha
+  - Aavish J.
+  - Skanda Prasad
+  - S. Natarajan
+year: 2025
+venue: Proceedings of the 17th International Conference on Agents and Artificial Intelligence
+doi: 10.5220/0013375700003890
+url: https://doi.org/10.5220/0013375700003890
+abstract: null
+type: article
+open_access: null
+cited_by: 4
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.105
+score_parts:
+  rank: 0.03
+  citations: 0.175
+  recency: 0.9
+needs_approval: false
+state: candidate

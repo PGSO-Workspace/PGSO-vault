@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-471e5a1e5e
+created: 2026-09-15T00:30:50.983Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6815738
+title: "Season-specific national peak load forecasting: A large-scale benchmark of econometric, machine learning, and deep learning forecasting models"
+authors:
+  - Juyong Lee
+  - Youngsang Cho
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6815738
+url: https://doi.org/10.2139/ssrn.6815738
+abstract: "Accurate national peak load forecasting is essential for reliable and cost-effective power system operation; however, comparisons across model classes are often distorted by inconsistent covariates, preprocessing, and validation protocols. This study presents a season-specific benchmark for South Korea’s daily national peak load, using fixed calendar and weather covariates, leakage-free train–test splits, algorithm-level reporting, and peak-aware evaluation. A total of 58 winter and 61 summer candidate configurations including traditional econometric methods, tabular machine learning models, sequence-aware deep learning models, structured regression, and simple mean ensembles were assessed. Results showed a strong seasonal dependence. In winter, the best-performing single algorithm was Time-Series Dense Encoder (TiDE), achieving a root mean squared error (RMSE) of 2,052 MW; this was an improvement of 39.3% over the strongest traditional baseline, Seasonal Autoregressive Integrated Moving Average with Exogenous Regressors and Fourier Terms (SARIMAX-Fourier), which recorded an RMSE of 3,379 MW. In summer, multivariate regression emerges as the suitable single model (RMSE: 2,402 MW), while a top-5 mean ensemble yields the best overall accuracy (RMSE: 2,037 MW). However, average accuracy did not ensure peak-day fidelity. In the summer test window, the lowest-RMSE algorithm missed the actual peak date by 28 days and yielded a 5.18% absolute percentage error (APE) on that day. In contrast, SARIMAX-Fourier correctly identified the peak date and achieved a substantially lower APE of 0.61%. These findings highlight that model selection should be both season-specific and objective-driven, balancing overall accuracy with peak-day magnitude and timing."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"'
+question: null
+search: SEARCH-40ed8087e2
+score: 1.056
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e37219de21
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4378575091
+title: "Explainable artificial intelligence in information systems: A review of the status quo and future research directions"
+authors:
+  - Julia Brasse
+  - Hanna Rebecca Broder
+  - Maximilian Förster
+  - Mathias Klier
+  - Irina Sigler
+year: 2023
+venue: Electronic Markets
+doi: 10.1007/s12525-023-00644-5
+url: https://doi.org/10.1007/s12525-023-00644-5
+abstract: Abstract The quest to open black box artificial intelligence (AI) systems evolved into an emerging phenomenon of global interest for academia, business, and society and brought about the rise of the research field of explainable artificial intelligence (XAI). With its pluralistic view, information systems (IS) research is predestined to contribute to this emerging field; thus, it is not surprising that the number of publications on XAI has been rising significantly in IS research. This paper aims to provide a comprehensive overview of XAI research in IS in general and electronic markets in particular using a structured literature review. Based on a literature search resulting in 180 research papers, this work provides an overview of the most receptive outlets, the development of the academic discussion, and the most relevant underlying concepts and methodologies. Furthermore, eight research areas with varying maturity in electronic markets are carved out. Finally, directions for a research agenda of XAI in IS are presented.
+type: article
+open_access: true
+cited_by: 85
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.684
+score_parts:
+  rank: 0.5
+  citations: 0.484
+  recency: 0.7
+needs_approval: false
+state: candidate

@@ -1,0 +1,17 @@
+schema: phdude.source
+version: 1
+id: SRC-b8cc139e89
+created: 2026-09-15T07:56:52.919Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: Paper 1 bibliography placement and IEEE Access formatting audit
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-85e2faace5
+state: candidate
+year: 2026
+abstract: Draft placement audit:13 distinct Introduction references and4 per Related Work family,16unique articles overall. Separates candidate citation placement from fulltext/quarter verification and notes Li/Qi preview-only, author-version limitations, and remaining Access formatting issues.

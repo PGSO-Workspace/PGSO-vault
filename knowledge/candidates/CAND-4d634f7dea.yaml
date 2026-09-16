@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4d634f7dea
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.4524010
+title: Efficient Water Quality Prediction by Synthesizing Seven Heavy Metalparameters Using Deep Neural Network
+authors:
+  - Hossein MOEINZADEH
+  - Poogitha Jegakumarana
+  - Ken-Tye Yong
+  - Anusha Withana
+year: 2023
+venue: null
+doi: 10.2139/ssrn.4524010
+url: https://doi.org/10.2139/ssrn.4524010
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 0.867
+score_parts:
+  rank: 0.167
+  citations: 0
+  recency: 0.7
+needs_approval: true
+state: candidate

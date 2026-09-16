@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-302063d555
+created: 2026-09-15T07:34:45.095Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7017320
+title: "Deterministic Policy Enforcement for Healthcare RAG: A Runtime Control Pattern for Privacy, Access, and Auditability"
+authors:
+  - Pradeep Chellappa Chockalingam
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7017320
+url: https://doi.org/10.2139/ssrn.7017320
+abstract: "Background. Healthcare organizations are deploying retrieval-augmented generation (RAG) to surface knowledge from enterprise data across clinical, administrative, and operational functions. RAG systems introduce a class of runtime governance exposure that data-at-rest controls do not fully address: information is retrieved, assembled into context, embedded in prompts, transformed during generation, and surfaced in responses, with each stage creating distinct policy-conformance risks. In regulated healthcare environments, existing candidate enforcement mechanisms, including model alignment, prompt instructions, and post-hoc review, are structurally insufficient as the primary enforcement layer because they cannot produce perinteraction governance guarantees that are independent of probabilistic model behavior. <div> Objective. This paper proposes a runtime control pattern for healthcare RAG that places deterministic policy enforcement in the orchestration layer surrounding the language model, external to the model and independent of its behavior. The pattern specifies how governance rules are operationalized at runtime across six deterministic gates aligned with the retrievalaugmented generation lifecycle. </div> <div> Key Messages. The paper introduces four contributions. First, a staged control fabric that organizes deterministic enforcement by gate, applying the lowest-cost control sufficient for the interaction's risk tier and escalating only when policy, sensitivity, or exception conditions require it. Second, a policy compilation principle that translates governance rules into executable artifacts before runtime, enabling each gate to enforce pre-approved policy decisions rather than interpret policy at runtime. Third, a six-gate runtime control pattern and associated runtime control matrix covering pre-retrieval, retrieval-time, context-assembly, prompt-construction, response-time, and post-response stages. Fourth, a failure-mode vocabulary naming enforcement leakage, boundary inversion, and verification gap as the primary architectural patterns that undermine deterministic enforcement. </div> <div> Conclusions. The contribution is conceptual-architectural. No empirical validation is presented. The pattern specifies a runtime enforcement layer for regulated healthcare RAG systems; runtime auditability, evidence logging, source traceability, and human attestation are treated in the next paper in this series.&nbsp; </div>"
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal LLM agents runtime monitor policy enforcement tool calls
+question: null
+search: SEARCH-b7942200d3
+score: 1.028
+score_parts:
+  rank: 0.028
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-8dea3461b5
+created: 2026-09-15T06:12:39.200Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/operational-7805fb9/operational-manifest.json
+paths:
+  - sources/software/pgso-sdk/operational-7805fb9/operational-manifest.json
+hash: 8dea3461b50627374425348802613f64cdbf8459ba2e95db0d03deea49891311
+bytes: 149516
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T06:12:38.776Z

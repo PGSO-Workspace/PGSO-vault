@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-57287c2f35
+created: 2026-09-15T07:33:42.712Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4401207036
+title: "Evaluating Recent Advances in Affective Intelligent Tutoring Systems: A Scoping Review of Educational Impacts and Future Prospects"
+authors:
+  - Jorge Fernández-Herrero
+year: 2024
+venue: Education Sciences
+doi: 10.3390/educsci14080839
+url: https://doi.org/10.3390/educsci14080839
+abstract: Affective intelligent tutoring systems (ATSs) are gaining recognition for their role in personalized learning through adaptive automated education based on students’ affective states. This scoping review evaluates recent advancements and the educational impact of ATSs, following PRISMA guidelines for article selection and analysis. A structured search of the Web of Science (WoS) and Scopus databases resulted in 30 studies covering 27 distinct ATSs. These studies assess the effectiveness of ATSs in meeting learners’ emotional and cognitive needs. This review examines the technical and pedagogical aspects of ATSs, focusing on how emotional recognition technologies are used to customize educational content and feedback, enhancing learning experiences. The primary characteristics of the selected studies are described, emphasizing key technical features and their implications for educational outcomes. The discussion highlights the importance of emotional intelligence in educational environments and the potential of ATSs to improve learning processes. This review identifies gaps in the current research and suggests future directions, including broader implementation across diverse educational settings and deeper integration of affective data to refine system responsiveness. Future research should investigate the integration of advanced natural dialogue modules and generative AI to create more sophisticated interfaces, underscoring the role of affective adaptation in educational technology.
+type: article
+open_access: true
+cited_by: 69
+query: empathetic conversational agents affective dialogue adaptation evaluation
+question: null
+search: SEARCH-6152ab5e94
+score: 1.461
+score_parts:
+  rank: 0.2
+  citations: 0.461
+  recency: 0.8
+needs_approval: false
+state: candidate

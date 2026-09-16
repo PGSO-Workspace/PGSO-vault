@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-607d053b9c
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410638192
+title: Facial emotion based smartphone addiction detection and prevention using deep learning and video based learning
+authors:
+  - C. Joseph
+  - P. Uma Maheswari
+year: 2025
+venue: Scientific Reports
+doi: 10.1038/s41598-025-99681-7
+url: https://doi.org/10.1038/s41598-025-99681-7
+abstract: Smartphone addiction among students has emerged as a critical issue, negatively impacting their academic performance, emotional well-being, and social behavior. This paper introduces the Theory of Mind integrated with Video Modelling (TMVM) framework, a novel deep learning-based approach aimed at recognizing and mitigating smartphone addiction. The TMVM framework leverages Theory of Mind AI to analyze students' facial emotions via smartphone cameras while watching videos. Based on detected emotions such as happiness, sadness, or anger, the system dynamically shuffles motivational videos using advanced algorithms like Fisher-Yates and Durstenfeld shuffling techniques to promote behavioral change. The framework also incorporates Behavior Parameters (BHP) evaluation, grounded in the Social Identity Model of Deindividuation Effects (SIDE) theory, to assess key behavioral metrics such as social identity, self-awareness, anonymity, responsibility, and accountability. Additionally, face emotion detection algorithms tuned with MnasNet-Teaching Learning Based Optimization (TLBO) and Convolution Neural Networks (CNN)-Cuckoo Search Optimization (CSO) are employed for accurate emotion recognition. Experimental results demonstrate significant improvements in students' behavior and reductions in smartphone usage post-intervention. The TMVM system achieves high accuracy in emotion detection and behavioral outcome prediction while fostering engagement in school and social activities. . TMVM method is tested in 750 students with low BHP and evaluated the behavioural parameters. After the intervention of TMVM the students showed more than 90% improvement in their BHP parameters. A paired sample t-test revealed notable reductions in mean scores from pre- to post-intervention across all measured dimensions. Social identity decreased from 4.07 to 2.21 (t(55) = 16.125, p < 0.001), anonymity from 4.11 to 2.01 (t(55) = 15.699, p < 0.001), self-awareness from 3.95 to 1.93 (t(55) = 15.103, p < 0.001), loss of individuality from 4.04 to 2.07 (t(55) = 13.364, p < 0.001), while sense of responsibility and accountability improved with mean differences of 1.18 and 2.0, respectively, both statistically significant at p < 0.001.The results showed 85% improvement in students' knowledge and attitudes.
+type: article
+open_access: true
+cited_by: 14
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.394
+score_parts:
+  rank: 0.2
+  citations: 0.294
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,16 @@
+schema: phdude.source
+version: 1
+id: SRC-8baa4c1fee
+created: 2026-09-15T00:22:10.115Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: Gemini Live API — comparator screening 2026-09-15
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts: []
+state: candidate
+year: 2026
+abstract: "Frontier audio-native alternative with affective dialog and tool use; exact feature availability must be pinned per tested model. Official source inspected: https://ai.google.dev/gemini-api/docs/live-api"

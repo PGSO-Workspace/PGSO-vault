@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1b2e2e7144
+created: 2026-09-14T23:44:09.730Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3233/faia240219
+title: Hypothesis Updating by Combining Knowledge Graphs and Argumentation
+authors:
+  - Giacomo Zamprogno
+year: 2024
+venue: Frontiers in Artificial Intelligence and Applications
+doi: 10.3233/faia240219
+url: https://doi.org/10.3233/faia240219
+abstract: This project explores the applicability of computational argumentation and knowledge graph methods for the validation and updating of scientific hypotheses. Starting from a game setting example, we suggest that such framework could be extended to the scientific discovery domain as a long-term plan.
+type: chapter
+open_access: null
+cited_by: 1
+query: '"Combining Neural Empathy-Aware Behavior Trees With Knowledge Graphs for Affective Human-AI Teaming" code GitHub'
+question: null
+search: SEARCH-2325920ecd
+score: 0.986
+score_parts:
+  rank: 0.111
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

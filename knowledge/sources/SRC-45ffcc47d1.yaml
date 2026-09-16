@@ -1,0 +1,20 @@
+schema: phdude.source
+version: 1
+id: SRC-45ffcc47d1
+created: 2026-09-15T17:57:43.932Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: PGSO MVP historical evidence recovery and implementation audit
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-f5a3dc8a8f
+  - ART-48c0e99587
+  - ART-c350c7ab7f
+state: candidate
+year: 2026
+abstract: "Recovered candidate historical evidence: 720 trial records with Python catalog enforcement, not Rust PGSO execution; only aggregate 64152-decision ablation results available. Neither 512-episode traces nor cross-corpus outputs recovered from this repository. No independent action-appropriateness validation."
+bibkey: pgso202645ffcc47d1

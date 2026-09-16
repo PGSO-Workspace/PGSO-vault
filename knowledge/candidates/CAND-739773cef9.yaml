@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-739773cef9
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20533/licej.2040.2589.2025.0499
+title: "University Orientation through Conversational Technologies: Evaluating the User Experience of an Embodied Conversational Agent"
+authors:
+  - Joy Ciliani
+year: 2025
+venue: Literacy Information and Computer Education Journal
+doi: 10.20533/licej.2040.2589.2025.0499
+url: https://doi.org/10.20533/licej.2040.2589.2025.0499
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 1.011
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

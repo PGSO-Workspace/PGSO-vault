@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-999126bccc
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4403662649
+title: "AI safety landscape for large language models: taxonomy, state-of-the-art, and future directions"
+authors:
+  - Chen Chen
+  - Xueluan Gong
+  - Ziyao Liu
+  - W.M. Wang L.H. Jiang
+  - Si Qi Goh
+  - Kwok‐Yan Lam
+year: 2026
+venue: Artificial Intelligence Review
+doi: 10.1007/s10462-026-11590-x
+url: https://doi.org/10.1007/s10462-026-11590-x
+abstract: "AI safety is an emerging field of critical importance for the secure adoption and deployment of AI systems. With the recent advancements in large language models (LLMs), the technological landscape surrounding the design, development, and deployment of AI systems has undergone significant change. The failure of AI systems at one organization, or AI risks undertaken by one organization, can propagate down the AI technology supply chain, affect the entire AI ecosystem, and potentially lead to collective failures and cause large-scale harm to society. In this paper, we propose a novel architectural framework for understanding and analyzing AI safety in the context of LLMs, defining its characteristics through three key perspectives: Trustworthy AI, Responsible AI, and Ecosystemic Safe AI. We provide a comprehensive review of current research and advancements in AI safety from these perspectives, identifying major challenges and outlining mitigation strategies. Additionally, we highlight potential future directions that warrant further exploration to advance AI safety research and, ultimately, strengthen public trust in digital transformation."
+type: article
+open_access: true
+cited_by: 9
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.5
+score_parts:
+  rank: 0.25
+  citations: 0.25
+  recency: 1
+needs_approval: false
+state: candidate

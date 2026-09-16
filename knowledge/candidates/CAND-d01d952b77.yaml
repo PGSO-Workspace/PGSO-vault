@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d01d952b77
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4393000854
+title: "Design principles for artificial intelligence-augmented decision making: An action design research study"
+authors:
+  - Savindu Herath Pathirannehelage
+  - Yash Raj Shrestha
+  - Georg von Krogh
+year: 2024
+venue: European Journal of Information Systems
+doi: 10.1080/0960085x.2024.2330402
+url: https://doi.org/10.1080/0960085x.2024.2330402
+abstract: Artificial intelligence (AI) applications have proliferated, garnering significant interest among information systems (IS) scholars.AI-powered analytics, promising effective and low-cost decision augmentation, has become a ubiquitous aspect of contemporary organisations.Unlike traditional decision support systems (DSS) designed to support decisionmakers with fixed decision rules and models that often generate stable outcomes and rely on human agentic primacy, AI systems learn, adapt, and act autonomously, demanding recognition of IS agency within AI-augmented decision making (AIADM) systems.Given this fundamental shift in DSS; its influence on autonomy, responsibility, and accountability in decision making within organisations; the increasing regulatory and ethical concerns about AI use; and the corresponding risks of stochastic outputs, the extrapolation of prescriptive design knowledge from conventional DSS to AIADM is problematic.Hence, novel design principles incorporating contextual idiosyncrasies and practice-based domain knowledge are needed to overcome unprecedented challenges when adopting AIADM.To this end, we conduct an action design research (ADR) study within an e-commerce company specialising in producing and selling clothing.We develop an AIADM system to support marketing, consumer engagement, and product design decisions.Our work contributes to theory and practice with a set of actionable design principles to guide AIADM system design and deployment.
+type: article
+open_access: true
+cited_by: 72
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.599
+score_parts:
+  rank: 0.333
+  citations: 0.466
+  recency: 0.8
+needs_approval: false
+state: candidate

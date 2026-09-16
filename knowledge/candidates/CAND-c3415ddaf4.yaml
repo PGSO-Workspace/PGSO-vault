@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c3415ddaf4
+created: 2026-09-15T07:37:52.267Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5908182
+title: "A Deterministic Governance Architecture for AI: Runtime Ethics, Continuity, and Integrity beyond Stochastic Models"
+authors:
+  - Meike Wolff
+  - Till-Matthias Jürgens
+  - Jan Kaminski
+year: 2026
+venue: null
+doi: 10.2139/ssrn.5908182
+url: https://doi.org/10.2139/ssrn.5908182
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement" "Abhinandan Gill-Lakhowal"'
+question: null
+search: SEARCH-9d6de85957
+score: 1.059
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

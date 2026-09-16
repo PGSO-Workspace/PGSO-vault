@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-34b7ae8e67
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.4686345
+title: Energy Social Surveys Replicated with Large Language Model Agents
+authors:
+  - Michael Fell
+year: 2024
+venue: null
+doi: 10.2139/ssrn.4686345
+url: https://doi.org/10.2139/ssrn.4686345
+abstract: Large Language Models (LLMs) are artificial intelligence systems trained to understand and predict human language. In this study I programmatically create numerous LLM agents with population-representative characteristics, and prompt them provide survey responses with the aim of replicating existing energy social survey findings. Three studies are replicated, yielding moderate to high degrees of fidelity to the original results. Potentially significant contributions of the approach include improving the efficiency of research by identifying most promising interventions before conducting human studies, and simulating input from harder-to-access populations. However, there are also important practical and ethical challenges requiring of careful consideration.
+type: preprint
+open_access: null
+cited_by: 1
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 0.917
+score_parts:
+  rank: 0.042
+  citations: 0.075
+  recency: 0.8
+needs_approval: true
+state: candidate

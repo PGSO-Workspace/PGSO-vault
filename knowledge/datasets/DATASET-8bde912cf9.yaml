@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-8bde912cf9
+created: 2026-09-15T00:34:55.065Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/comparator-environment-v1.json
+hash: 8bde912cf9bfbfe76c8a4873b5904d51368515ccd213a2bc51466156173c12e8
+bytes: 8616
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Pinned sourcecommits, installed dependencyversions and source fingerprints for local offline comparator runs

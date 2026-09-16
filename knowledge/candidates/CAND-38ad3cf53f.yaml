@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-38ad3cf53f
+created: 2026-09-15T00:31:11.443Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3662739.3672322
+title: Application of Transfer Learning-Based English Speech Emotion Recognition in Real-World Scenarios
+authors:
+  - Ping Zhang
+year: 2024
+venue: 2024 International Conference on Machine Intelligence and Digital Applications
+doi: 10.1145/3662739.3672322
+url: https://doi.org/10.1145/3662739.3672322
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition"'
+question: null
+search: SEARCH-f9a249d1ae
+score: 1
+score_parts:
+  rank: 0.2
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

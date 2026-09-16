@@ -1,0 +1,45 @@
+schema: phdude.candidate
+version: 1
+id: CAND-90ed4bedf6
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/tnnls.2024.3394494
+title: "From Algorithm to Hardware: A Survey on Efficient and Safe Deployment of Deep Neural Networks"
+authors:
+  - Xue Geng
+  - Zhe Wang
+  - Chunyun Chen
+  - Qing Xu
+  - Kaixin Xu
+  - Chao Jin
+  - Manas Gupta
+  - Xulei Yang
+  - Zhenghua Chen
+  - Mohamed M. Sabry Aly
+  - Jie Lin
+  - Min Wu
+  - Xiaoli Li
+year: 2025
+venue: IEEE Transactions on Neural Networks and Learning Systems
+doi: 10.1109/tnnls.2024.3394494
+url: https://doi.org/10.1109/tnnls.2024.3394494
+abstract: null
+type: article
+open_access: null
+cited_by: 20
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 1.314
+score_parts:
+  rank: 0.083
+  citations: 0.331
+  recency: 0.9
+needs_approval: false
+state: candidate

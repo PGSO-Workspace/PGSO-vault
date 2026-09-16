@@ -1,0 +1,42 @@
+schema: phdude.candidate
+version: 1
+id: CAND-93fcc31d72
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4409507112
+title: "Networking Systems for Video Anomaly Detection: A Tutorial and Survey"
+authors:
+  - Jing Liu
+  - Yang Liu
+  - Jieyu Lin
+  - Jielin Li
+  - Liang Cao
+  - Peng Sun
+  - Bo Hu
+  - Liang Song
+  - Azzedine Boukerche
+  - Victor C. M. Leung
+year: 2025
+venue: ACM Computing Surveys
+doi: 10.1145/3729222
+url: https://doi.org/10.1145/3729222
+abstract: The increasing utilization of surveillance cameras in smart cities, coupled with the surge of online video applications, has heightened concerns regarding public security and privacy protection, which propelled automated Video Anomaly Detection (VAD) into a fundamental research task within the Artificial Intelligence (AI) community. With the advancements in deep learning and edge computing, VAD has made significant progress and advances synergized with emerging applications in smart cities and video internet, which has moved beyond the conventional research scope of algorithm engineering to deployable Networking Systems for VAD (NSVAD), a practical hotspot for intersection exploration in the AI, IoVT, and computing fields. In this article, we delineate the foundational assumptions, learning frameworks, and applicable scenarios of various deep learning-driven VAD routes, offering an exhaustive tutorial for novices in NSVAD. In addition, this article elucidates core concepts by reviewing recent advances and typical solutions and aggregating available research resources accessible at https://github.com/fdjingliu/NSVAD . Last, this article projects future development trends and discusses how the integration of AI and computing technologies can address existing research challenges and promote open opportunities, serving as an insightful guide for prospective researchers and engineers.
+type: article
+open_access: true
+cited_by: 68
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1.423
+score_parts:
+  rank: 0.063
+  citations: 0.46
+  recency: 0.9
+needs_approval: false
+state: candidate

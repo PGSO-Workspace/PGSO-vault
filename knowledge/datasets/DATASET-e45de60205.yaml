@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-e45de60205
+created: 2026-09-15T02:30:29.273Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-package-reference-54c1c7d.tar
+hash: e45de602055e75d8424333f0c47afa12bad5835ebebdbf53afc3aa2c836df8d4
+bytes: 71680
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Exact recorded clean SDK54c1c7d engineering outputs and manifest, independently checked against Git blobs; imported execution evidence, not a PhDude re-execution

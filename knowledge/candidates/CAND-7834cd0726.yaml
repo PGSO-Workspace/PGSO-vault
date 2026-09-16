@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7834cd0726
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6300558
+title: "Execution-Time Authorization for AI Agents: A Formal Framework for Deterministic Governance Boundaries"
+authors:
+  - Edward Meyman
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6300558
+url: https://doi.org/10.2139/ssrn.6300558
+abstract: <p>Autonomous AI agents increasingly execute actions that produce irreversible changes in real-world systems. In regulated domains—including healthcare, finance, defense, and critical infrastructure—the distinction between what an agent is technically capable of doing and what it is authorized to do under governing policy becomes a material governance boundary. Existing AI governance approaches—alignment techniques, guardrails, identity and access management, observability tooling, and orchestration frameworks—address important but distinct problems. None provide deterministic, pre-execution authorization with independently verifiable decision evidence.</p> <p>This paper formalizes execution-time authorization as a distinct architectural category within AI governance. Execution-time authorization is defined as a deterministic, fail-closed enforcement layer that evaluates canonicalized action instances against versioned policy and governed system state prior to execution, producing a replayable authorization verdict and an immutable, provenance-complete decision artifact.</p> <p>The paper makes five contributions. First, it provides a canonical definition specifying the necessary and jointly defining properties of execution-time authorization. Second, it presents a formal mathematical model of the authorization function with determinism, canonicalization, and replay invariants. Third, it establishes testable conformance criteria that distinguish conforming execution-time authorization systems from adjacent governance categories. Fourth, it offers a structured architectural analysis differentiating authorization from guardrails, alignment, identity management, observability, and orchestration. Fifth, it outlines deployment patterns for integrating execution-time authorization within enterprise AI infrastructure.</p> <p>Execution-time authorization is established as a foundational primitive for enforcement-grade AI governance, providing pre-execution, deterministic, and independently verifiable decision control for autonomous systems.</p>
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.071
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

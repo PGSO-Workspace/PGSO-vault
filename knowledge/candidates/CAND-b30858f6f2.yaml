@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b30858f6f2
+created: 2026-09-15T01:07:29.902Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/ichi69079.2026.00231
+title: Repetition-Aware Reinforcement Learning from AI Feedback for Empathetic Dialogue
+authors:
+  - Roopika Ganesh
+  - Heena Rathore
+year: 2026
+venue: 2026 IEEE 14th International Conference on Healthcare Informatics (ICHI)
+doi: 10.1109/ichi69079.2026.00231
+url: https://doi.org/10.1109/ichi69079.2026.00231
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation" 11293762'
+question: null
+search: SEARCH-a309ac3231
+score: 1.05
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

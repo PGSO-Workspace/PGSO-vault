@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-871b563027
+created: 2026-09-15T19:04:12.335Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-3c76439a29
+locator: Recorded outcomes, hard-persona session 1560dce84ef1
+excerpt: In the failed identity-instruction session, source text and ASR both preserve the supplied phone number exactly. The agent then reads L1001 and receives its different phone number before still mutating L1001, supporting an agent entity-resolution failure rather than ASR identifier corruption.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-0acade2de7

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-316a8dc93e
+created: 2026-09-15T07:51:13.215Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5290350
+title: Enhancing Llm-Based Multi-Agent Systems Through Dynamic Integration of Agents
+authors:
+  - Ravindu Perera
+  - Anuradha Basnayake
+  - Manjusri Wickramasinghe
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5290350
+url: https://doi.org/10.2139/ssrn.5290350
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"dynamic tool retrieval LLM agent journal 2024 2025'
+question: null
+search: SEARCH-da10c5ec54
+score: 0.937
+score_parts:
+  rank: 0.037
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-15dca154ca
+created: 2026-09-15T00:30:50.983Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.28995/2075-7182-2023-22-267-277
+title: Fact-checking benchmark for the Russian Large Language Models
+authors:
+  - SberDevices
+  - Anastasia Kozlova
+  - Denis Shevelev
+  - Alena Fenogenova
+year: 2023
+venue: COMPUTATIONAL LINGUISTICS AND INTELLECTUAL TECHNOLOGIES”
+doi: 10.28995/2075-7182-2023-22-267-277
+url: https://doi.org/10.28995/2075-7182-2023-22-267-277
+abstract: Modern text-generative language models are rapidly developing. They produce text of high quality and are used in many real-world applications. However, they still have several limitations, for instance, the length of the context, degeneration processes, lack of logical structure, and facts consistency. In this work, we focus on the fact-checking problem applied to the output of the generative models on classical downstream tasks, such as paraphrasing, summarization, text style transfer, etc. We define the task of internal fact-checking, set the criteria for factual consistency, and present the novel dataset for this task for the Russian language. The benchmark for internal fact-checking and several baselines are also provided. We research data augmentation approaches to extend the training set and compare classification methods on different augmented data sets.
+type: article
+open_access: null
+cited_by: 0
+query: '"ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"'
+question: null
+search: SEARCH-40ed8087e2
+score: 0.767
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 0.7
+needs_approval: false
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a933611fbb
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2023.3332631
+title: Dual Learning for Conversational Emotion Recognition and Emotional Response Generation
+authors:
+  - Shuhe Zhang
+  - Haifeng Hu
+  - Songlong Xing
+year: 2024
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2023.3332631
+url: https://doi.org/10.1109/taffc.2023.3332631
+abstract: null
+type: article
+open_access: null
+cited_by: 3
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 0.977
+score_parts:
+  rank: 0.026
+  citations: 0.151
+  recency: 0.8
+needs_approval: false
+state: candidate

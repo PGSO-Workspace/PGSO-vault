@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-f4820598ce
+created: 2026-09-15T01:12:34.031Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-6c945bc8c5
+locator: Publisher PDF inspected, targeted pp. 1954–1957 (PDF pp.1–4); publisher PDF downloaded and hashed.
+excerpt: "Research paraphrase, not quotation: The authors evaluate 18 LLMs and report that some configurations support reliable, valid synthetic-personality measurements; structured prompts shape expressed traits and downstream social-media text. Validation and shaping outcomes vary materially across model families and training configurations; some downstream shaping tests were not run. Limits: No tool-catalog manipulation or runtime authorization experiment. Does not validate PGSO capability-induced personality. Full downstream methods/results not exhaustively reviewed."
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-735ca3b72b

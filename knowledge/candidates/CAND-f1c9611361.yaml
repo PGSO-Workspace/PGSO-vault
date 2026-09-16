@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f1c9611361
+created: 2026-09-15T09:46:16.656Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.55277/researchhub.v3nvfh8z.1
+title: Read [pdf]&gt; As Long as the Lemon Trees Grow by Zoulfa Katouh
+authors:
+  - Malcolm Kinney
+year: 2026
+venue: null
+doi: 10.55277/researchhub.v3nvfh8z.1
+url: https://doi.org/10.55277/researchhub.v3nvfh8z.1
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees" PDF'
+question: null
+search: SEARCH-ab2b977fc5
+score: 1.053
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

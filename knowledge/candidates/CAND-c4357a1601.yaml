@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c4357a1601
+created: 2026-09-15T09:46:31.407Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7128517146
+title: "The efficacy of music therapy in alleviating anxiety among college students: a systematic review and meta-analysis"
+authors:
+  - Sirong Li
+  - Zixuan Gong
+  - Rujie Wang
+  - Jialing Liu
+  - Xingxin Zhan
+  - Jia Lan
+  - Hui Feng
+year: 2026
+venue: Frontiers in Psychology
+doi: 10.3389/fpsyg.2025.1723316
+url: https://doi.org/10.3389/fpsyg.2025.1723316
+abstract: "Background Anxiety is a prevalent psychological issue among university students, adversely affecting their mental health and academic performance. Music therapy (MT) has emerged as a promising non-pharmacological intervention. This systematic review and meta-analysis aims to evaluate MT’s efficacy in alleviating anxiety symptoms among college students. Methods A comprehensive search of eight databases was conducted up to December 1, 2025.Randomized controlled trials (RCTs) involving MT interventions for anxiety reduction in college students were included. Study selection, data extraction, and quality assessment using the Cochrane Risk of Bias tool were performed independently by two reviewers. Meta-analysis was conducted using RevMan 5.2 and Stata 16.0. Results Eighteen RCTs (from 17 included studies) involving 1,679 participants (829 in the experimental group; 850 in the control group) were included. The meta-analysis demonstrated that MT significantly alleviated anxiety symptoms compared to control groups [standardized mean difference (SMD) = –1.54, 95% confidence interval (CI): –2.08 to –1.01, P < 0.00001] with high heterogeneity ( I 2 = 95%). Subgroup analyses revealed that both passive and combined (active and passive) MT were effective, with combined interventions showing a larger effect. Studies conducted in domestic settings ( n = 13) showed a more significant effect than international ones ( n = 3). Significant anxiety reduction was observed across both short-term (<8 weeks) and long-term ( ≥ 8 weeks) interventions. Conclusion MT is an effective intervention for alleviating anxiety in university students, with combined delivery formats and longer durations showing particular promise. It represents a safe, low-cost, and flexible option for campus mental health services. Future research should prioritize standardizing MT protocols, implementing long-term follow-ups, and conducting cross-cultural validations to facilitate its broader integration."
+type: other
+open_access: true
+cited_by: 4
+query: Yue Qi personality cultural variables psychological simulations
+question: null
+search: SEARCH-4cdf3b8231
+score: 1.242
+score_parts:
+  rank: 0.067
+  citations: 0.175
+  recency: 1
+needs_approval: false
+state: candidate

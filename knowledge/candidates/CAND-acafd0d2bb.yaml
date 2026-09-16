@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-acafd0d2bb
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412017442
+title: "ELLMA-T: an Embodied LLM-agent for Supporting English Language Learning in Social VR"
+authors:
+  - Mengxu Pan
+  - Alexandra Kitson
+  - Hongyu Wan
+  - Mirjana Prpa
+year: 2025
+venue: null
+doi: 10.1145/3715336.3735786
+url: https://doi.org/10.1145/3715336.3735786
+abstract: Many people struggle with learning a new language when moving to a new country, with traditional tools falling short in providing contextualized learning tailored to each learner's needs.The recent development of large language models (LLMs) and embodied conversational agents (ECAs) in social virtual reality (VR) provides new opportunities to practice language learning in a contextualized and naturalistic way that takes into account the learner's language level and needs.To explore this opportunity, we developed ELLMA-T, 576
+type: other
+open_access: true
+cited_by: 28
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.319
+score_parts:
+  rank: 0.053
+  citations: 0.366
+  recency: 0.9
+needs_approval: false
+state: candidate

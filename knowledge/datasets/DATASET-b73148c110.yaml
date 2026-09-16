@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-b73148c110
+created: 2026-09-15T00:35:07.417Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/invariant_adapter.py
+hash: b73148c11070b579a810cd4ae887e5918ad9ed70ca98f3c25020739d0f798814
+bytes: 3440
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Actual Invariant DSL matchedpolicy adapter; noPGSOverdictinput

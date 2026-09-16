@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-6bd98b62c3
+created: 2026-09-15T17:53:56.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-mvp/eebf20e/08_baseline_prompt/baseline_prompt_results.json
+paths:
+  - sources/software/pgso-mvp/eebf20e/08_baseline_prompt/baseline_prompt_results.json
+hash: 6bd98b62c3f4a550d5f4a6765a96299838d3f6087beeeea31f6e048ac6264743
+bytes: 15453
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T16:50:41.609Z

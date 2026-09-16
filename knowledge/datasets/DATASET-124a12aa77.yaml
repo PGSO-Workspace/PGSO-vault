@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-124a12aa77
+created: 2026-09-15T01:09:31.457Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/additional-primary-review-v1.json
+hash: 124a12aa776d25028029d606878310b225c8e4f106594597828bff50305a9eca
+bytes: 20013
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Four additional primary-text reviews with publisher metadata and Q1 evidence; preprint-specific mathematical concern separated from unexamined journal version

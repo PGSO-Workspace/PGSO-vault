@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3c2ef37c98
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1177/17540739241233009
+title: |-
+  Dhaniya's Anger in Premchand's
+                      <i>Godan:</i>
+                      Emotion System Activation and Affective Marxism
+authors:
+  - Lalita Pandit Hogan
+year: 2024
+venue: Emotion Review
+doi: 10.1177/17540739241233009
+url: https://doi.org/10.1177/17540739241233009
+abstract: This essay focuses on the anger of Dhaniya, the female protagonist of Premchand's Godan. Rather than approaching it as a specifically feminist anger, it sees it more broadly as the anger of the oppressed, which signals hope that the conditions of oppression will change. Premchand is influenced by Karl Marx, and uses narrative emotion to tell the (Indian) story of labor and capital; this essay puts Panksepp's neurocognitive theory of anger in conversation with Marxist political theory, demonstrating how Marx's thoughts on systemic economic injustices can elucidate the “social context” in which emotion systems (such as RAGE, PLAY, and CARE) are activated.
+type: article
+open_access: null
+cited_by: 0
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 0.84
+score_parts:
+  rank: 0.04
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

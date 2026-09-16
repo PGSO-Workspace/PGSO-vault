@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b20f477832
+created: 2026-09-15T07:34:45.095Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415071524
+title: A Comprehensive Survey on LLM‐Based Network Management and Operations
+authors:
+  - Jibum Hong
+  - Jibum Hong
+  - Nguyen Van Tu
+  - James Won‐Ki Hong
+  - James Won‐Ki Hong
+year: 2025
+venue: International Journal of Network Management
+doi: 10.1002/nem.70029
+url: https://doi.org/10.1002/nem.70029
+abstract: ABSTRACT The growing demands for network capacity and the increasing complexities of modern network environments pose significant challenges for effective network management and operations. In response, network operators and administrators are moving beyond traditional manual and rule‐based methods, adopting advanced artificial intelligence (AI)‐driven paradigms (e.g., self‐driving networks, autonomous networks, network automation). Recently, large language models (LLMs) have emerged as a promising AI technology with the potential to revolutionize network management and operations through natural language interaction. In this paper, we provide a comprehensive survey of LLM‐based approaches in network management and compare those approaches with existing methods. We identify key advantages of LLM‐based approaches, such as their ability to interpret intent and automate complex tasks, as well as limitations, which include hallucinations and domain adaptation challenges. Based on these insights, we outline open technical challenges and propose future research directions to guide the development of LLM‐based network management.
+type: article
+open_access: true
+cited_by: 16
+query: 2024 2025 journal LLM agents runtime monitor policy enforcement tool calls
+question: null
+search: SEARCH-b7942200d3
+score: 1.375
+score_parts:
+  rank: 0.167
+  citations: 0.308
+  recency: 0.9
+needs_approval: false
+state: candidate

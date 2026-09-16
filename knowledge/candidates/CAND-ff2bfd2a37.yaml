@@ -1,0 +1,50 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ff2bfd2a37
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4393177788
+title: "A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond"
+authors:
+  - Qiushi Sun
+  - Zhirui Chen
+  - Fangzhi Xu
+  - Kanzhi Cheng
+  - Chang Ma
+  - Zhangyue Yin
+  - Jianing Wang
+  - Chengcheng Han
+  - Renyu Zhu
+  - Shuai Yuan
+  - Qipeng Guo
+  - Xipeng Qiu
+  - Pengcheng Yin
+  - Xiaoli Li
+  - Fei Yuan
+  - Lingpeng Kong
+  - Xiang Li
+  - Zhiyong Wu
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2403.14734
+url: http://arxiv.org/abs/2403.14734
+abstract: Neural Code Intelligence -- leveraging deep learning to understand, generate, and optimize code -- holds immense potential for transformative impacts on the whole society. Bridging the gap between Natural Language and Programming Language, this domain has drawn significant attention from researchers in both research communities over the past few years. This survey presents a systematic and chronological review of the advancements in code intelligence, encompassing over 50 representative models and their variants, more than 20 categories of tasks, and an extensive coverage of over 680 related works. We follow the historical progression to trace the paradigm shifts across different research phases (e.g., from modeling code with recurrent neural networks to the era of Large Language Models). Concurrently, we highlight the major technical transitions in models, tasks, and evaluations spanning through different stages. For applications, we also observe a co-evolving shift. It spans from initial endeavors to tackling specific scenarios, through exploring a diverse array of tasks during its rapid expansion, to currently focusing on tackling increasingly complex and varied real-world challenges. Building on our examination of the developmental trajectories, we further investigate the emerging synergies between code intelligence and broader machine intelligence, uncovering new cross-domain opportunities and illustrating the substantial influence of code intelligence across various domains. Finally, we delve into both the opportunities and challenges associated with this field, alongside elucidating our insights on the most promising research directions. An ongoing, dynamically updated project and resources associated with this survey have been released at https://github.com/QiushiSun/Awesome-Code-Intelligence.
+type: preprint
+open_access: true
+cited_by: 5
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.12
+score_parts:
+  rank: 0.125
+  citations: 0.195
+  recency: 0.8
+needs_approval: true
+state: candidate

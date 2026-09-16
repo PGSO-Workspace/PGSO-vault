@@ -1,0 +1,44 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ea9799b291
+created: 2026-09-15T00:30:50.983Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7155452370
+title: "NVV-SuperBench: Beyond Words, Beyond Quality-Benchmarking Nonverbal Vocalizations in Speech Generation"
+authors:
+  - Liumeng Xue
+  - Weizhen Bian
+  - Jiahao Pan
+  - Wenxuan Wu
+  - Yilin Ren
+  - Boyi Kang
+  - Jingbin Hu
+  - Ziyang Ma
+  - Shuai Wang
+  - Xinyuan Qian
+  - Hung-yi Lee
+  - Yike Guo
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2604.16211
+abstract: Nonverbal vocalizations (NVVs), such as laughing, sighing, and sobbing, are essential for human-like speech, yet standardized evaluation rarely jointly assesses whether systems generate the intended NVVs, place them correctly, and keep them salient without harming speech. We present NVV-SuperBench, a bilingual English/Chinese benchmark for speech generation with NVVs. It provides a unified 45-type taxonomy and a multi-axis protocol beyond conventional speech quality assessment, evaluating NVV-specific controllability, placement, and perceptual salience. We benchmark 15 speech generation systems spanning prompt-based and tag-based control paradigms, using objective metrics, human listening tests, and LLM-based multi-rater evaluation. Results show that NVV controllability often decouples from speech quality, while low-SNR oral cues and long-duration affective NVVs remain bottlenecks. NVV-SuperBench highlights current gaps and supports progress toward more human-like speech generation.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"'
+question: null
+search: SEARCH-40ed8087e2
+score: 1.125
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

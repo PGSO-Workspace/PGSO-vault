@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7f84fcff9b
+created: 2026-09-14T16:55:49.787Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1017/s0007114524000655
+title: BJN volume 131 issue 10 Cover and Back matter
+authors: []
+year: 2024
+venue: British Journal of Nutrition
+doi: 10.1017/s0007114524000655
+url: https://doi.org/10.1017/s0007114524000655
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 10.1145/3789261 10.1038/s42256-025-01115-6 10.1016/j.inffus.2025.103599 10.1109/TASLP.2024.3389631
+question: null
+search: SEARCH-7146fb4e7f
+score: 1.133
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

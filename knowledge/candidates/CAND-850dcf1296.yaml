@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-850dcf1296
+created: 2026-09-15T06:35:31.594Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7212059771
+title: What Did I Just Say? Self-Listening for Full-Duplex Speech Models
+authors:
+  - Xuanning Zhou
+  - Junyi Ao
+  - Xiaotong Liu
+  - Tom Ko
+  - Benyou Wang
+  - Haizhou Li
+year: 2026
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2609.05592
+url: https://arxiv.org/abs/2609.05592
+abstract: Full-duplex spoken language models can listen and speak simultaneously, enabling them to handle interruptions and backchannels in human conversation. However, text generation, speech synthesis, and audio playback proceed asynchronously. As a result, what a model believes it has said may not match what has actually been played to the user. We refer to the problem of recovering from an interruption while remaining aware of the model's realized speech as anchor interruption. To address this problem, we propose Self-Listening, a full-duplex modeling approach that interleaves user speech, model text, and the model's played speech. By feeding the realized speech output back to the model as an input stream, self-listening grounds interruption recovery in what the user has actually heard. We further introduce AnchorSpeech, a collection with homogeneous training and test splits for tracking which items of structured ordered responses have actually been spoken. AnchorSpeech-test evaluates whether a model can respond consistently with the last completed item before an interruption. Experiments show that, compared with full-duplex baselines, models equipped with self-listening mechanism achieve better anchoring performance.
+type: preprint
+open_access: true
+cited_by: 0
+query: "2603.13686"
+question: null
+search: SEARCH-58818ee636
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-656d5ef708
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.ifacol.2022.10.338
+title: On synthesizing tolerable and permissive controllers for labeled transition systems
+authors:
+  - Rômulo Meira-Góes
+  - Eunsuk Kang
+  - Stéphane Lafortune
+  - Stavros Tripakis
+year: 2022
+venue: IFAC-PapersOnLine
+doi: 10.1016/j.ifacol.2022.10.338
+url: https://doi.org/10.1016/j.ifacol.2022.10.338
+abstract: null
+type: article
+open_access: null
+cited_by: 3
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 0.796
+score_parts:
+  rank: 0.045
+  citations: 0.151
+  recency: 0.6
+needs_approval: false
+state: candidate

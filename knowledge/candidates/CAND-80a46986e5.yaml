@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-80a46986e5
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392224039
+title: "Understanding Public Perceptions of AI Conversational Agents: A Cross-Cultural Analysis"
+authors:
+  - Zihan Liu
+  - Han Li
+  - Anfan Chen
+  - Renwen Zhang
+  - Yi‐Chieh Lee
+year: 2024
+venue: null
+doi: 10.1145/3613904.3642840
+url: https://doi.org/10.1145/3613904.3642840
+abstract: Conversational Agents (CAs) have increasingly been integrated into everyday life, sparking significant discussions on social media. While previous research has examined public perceptions of AI in general, there is a notable lack in research focused on CAs, with fewer investigations into cultural variations in CA perceptions. To address this gap, this study used computational methods to analyze about one million social media discussions surrounding CAs and compared people’s discourses and perceptions of CAs in the US and China. We find Chinese participants tended to view CAs hedonically, perceived voice-based and physically embodied CAs as warmer and more competent, and generally expressed positive emotions. In contrat, US participants saw CAs more functionally, with an ambivalent attitude. Warm perception was a key driver of positive emotions toward CAs in both countries. We discussed practical implications for designing contextually sensitive and user-centric CAs to resonate with various users’ preferences and needs.
+type: other
+open_access: true
+cited_by: 54
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.735
+score_parts:
+  rank: 0.5
+  citations: 0.435
+  recency: 0.8
+needs_approval: false
+state: candidate

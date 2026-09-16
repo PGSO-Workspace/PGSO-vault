@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-e8c4e1bfff
+created: 2026-09-15T09:57:53.737Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/live-composite-19b5c58/README.md
+paths:
+  - sources/software/pgso-sdk/live-composite-19b5c58/README.md
+hash: e8c4e1bfff35250354e4617a8890b06a2810355acb4bbea192f19c902a685a05
+bytes: 15575
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 15571
+  sections: 6
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T09:57:53.529Z
+versions_of: ART-e42e168741
+latest: true

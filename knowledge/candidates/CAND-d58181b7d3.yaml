@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d58181b7d3
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3102/ip.25.2194046
+title: "Towards Responsible Generative AI in Academia: Synthesizing AI Policies for Manuscript and Proposal Writing (Poster 24)"
+authors:
+  - Hsien-Yuan Hsu
+year: 2025
+venue: AERA 2025
+doi: 10.3102/ip.25.2194046
+url: https://doi.org/10.3102/ip.25.2194046
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 0.943
+score_parts:
+  rank: 0.043
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

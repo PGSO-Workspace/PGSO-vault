@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-cf0498f481
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5500185
+title: Multimodal Dual-Head Adversarial Learning Network for Conversational Emotion Recognition
+authors:
+  - Kangwei Liu
+  - Qirong Mao
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5500185
+url: https://doi.org/10.2139/ssrn.5500185
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 0.938
+score_parts:
+  rank: 0.038
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

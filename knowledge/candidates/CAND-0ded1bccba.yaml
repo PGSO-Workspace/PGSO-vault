@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0ded1bccba
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7138608
+title: Evaluating Large Language Model Agents for Simulink Model Repair
+authors:
+  - Rohail Malik
+  - Jari Vepsäläinen
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7138608
+url: https://doi.org/10.2139/ssrn.7138608
+abstract: Simulink is widely used for model-based design and simulation across engineering domains, yet debugging Simulink models remains labor intensive, especially when errors do not produce compilation diagnostics. Large Language Model (LLM) coding agents have shown strong performance in code repair, but their application to Simulink remains limited by the non-textual and proprietary interface. This paper evaluates whether frontier LLM coding agents can repair faulty Simulink models when provided with structured context, programmatic editing tools, and executable feedback. The contribution from an artificial-intelligence perspective is an empirical evaluation of agentic LLM repair using structured context and tool use; the engineering application is automated debugging of behavioral and semantic faults in Simulink models. We develop a Model Context Protocol (MCP)-based toolkit that enables agents to inspect and modify models through Simulink&apos;s programmatic interface, using either a dictionary representation of topology or a model snapshot for context. We also introduce a mutation-based fault-injection methodology and construct a benchmark suite of faulty models spanning domains and complexity levels. Agents are evaluated in terms of mutation fix rate and cost. Results show that frontier coding agents repair injected faults with varying success, with best performing agent fixing up to 93.1% of mutations. An ablation study indicates that dictionary-based structural context reduces cost and generally improves repair performance. Repair success is more strongly affected by model complexity than by mutation count. These findings suggest that LLM coding agents, when coupled with suitable model-access infrastructure, can support automated debugging of Simulink models.
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 1.053
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a6a234d200
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0013235400003932
+title: Prompting an LLM Chatbot to Role Play Conversational Situations for Language Practice
+authors:
+  - Pablo Gervás
+  - Carlos León
+  - Mayuresh Kumar
+  - Gonzalo Méndez
+  - Susana Bautista
+year: 2025
+venue: Proceedings of the 17th International Conference on Computer Supported Education
+doi: 10.5220/0013235400003932
+url: https://doi.org/10.5220/0013235400003932
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.02
+score_parts:
+  rank: 0.045
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

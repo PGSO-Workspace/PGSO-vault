@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-59590c7a70
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6870178
+title: "Ariadne: Adaptive, Human-in-the-Loop Defense for AI Agents against Indirect Prompt Injection"
+authors:
+  - Abdulrahman Mohammed Yahya
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6870178
+url: https://doi.org/10.2139/ssrn.6870178
+abstract: "Large language model (LLM) agents increasingly read external content and act on the world through tools, which exposes them to indirect prompt injection: an attacker hides instructions inside content the agent ingests, and the agent executes them with its own credentials—no malware, no exploit, only text. We present Ariadne, a lightweight, embeddable defense framework that treats a compromised agent as an expected operating condition rather than an exception. Ariadne combines four mutually reinforcing controls: least-privilege agent scoping, an independent and tamper-evident observability layer, synthetic deception used as a high-precision detector, and a two-channel response in which an automatic circuit breaker contains incidents in real time while a periodic report feeds a strictly human-gated remediation loop. The human gate is a security control, not a convenience: it closes the poisoning surface that an automatic learning loop would otherwise create. We evaluate the architecture on a reproducible, seeded simulation of 8,000 agent sessions containing a diverse and deliberately evasive attack population. Least-privilege scoping alone contains 56.5% of attacks at zero false positives; the full deterministic stack reaches 90.6% containment at a 5.9% false-positive cost; and the statistical anomaly detector adds no marginal containment over the deterministic layers while roughly doubling the false-positive rate—evidence that statistical detection belongs in the human review queue, not in an auto-halting gate. No configuration reaches 100%; the residual is precisely the well-resourced adversary who exfiltrates low volume through a sanctioned channel while avoiding decoys. A live pilot on the AgentDojo benchmark with a capable open model confirms the architecture operates end-to-end on a real, injectable agent—least-privilege containment lowers attack success while preserving benign utility—though at a baseline attack rate too low to rank the layers, which we leave to the controlled simulation. We argue this honest residual, rather than a claim of invulnerability, is the correct framing for agent defense."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.045
+score_parts:
+  rank: 0.045
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

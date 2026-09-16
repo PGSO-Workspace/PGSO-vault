@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5bd9dabd11
+created: 2026-09-15T01:10:33.788Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.19181/smtp.2023.5.3.3
+title: "Determining Official Scopus Journal Quartile: Why SCImago SJR Is Not Appropriate"
+authors:
+  - Alexander Mzhelsky
+year: 2023
+venue: "Science Management: Theory and Practice"
+doi: 10.19181/smtp.2023.5.3.3
+url: https://doi.org/10.19181/smtp.2023.5.3.3
+abstract: There are several metrics for calculating journal quartiles across different platforms in science. The official metric for determining journal quartiles in the Web of Science database is Impact Factor, and for Scopus it is CiteScore. The quartiles for the journals on the SCImago platform are formed based on the SJR metric (which is calculated with a different methodology than CiteScore). Moreover, the data used on SCImago and Scopus are slightly different. SCImago also assigns quartiles even to journals excluded from Scopus. For this reason,SCImago quartiles are not appropriate for substituting official Scopus quartiles. To obtain the correct Scopus values anyone should use this database, which even in the free Preview version provides such opportunity.
+type: article
+open_access: null
+cited_by: 2
+query: SCImago 2024 International Journal of Human-Computer Interaction ISSN 10447318 SJR quartile category
+question: null
+search: SEARCH-5d85bf2102
+score: 1.819
+score_parts:
+  rank: 1
+  citations: 0.119
+  recency: 0.7
+needs_approval: false
+state: candidate

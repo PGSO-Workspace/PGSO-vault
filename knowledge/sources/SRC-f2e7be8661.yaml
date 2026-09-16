@@ -8,11 +8,16 @@ actor:
 tags: []
 title: Design Science in Information Systems Research
 authors:
-  - A. Hevner et al.
+  - Alan R. Hevner
+  - Salvatore T. March
+  - Jinsoo Park
+  - Sudha Ram
 type: article
 artifacts:
   - ART-07c6900787
 state: candidate
 year: 2004
 venue: MIS Quarterly
-abstract: Bibliographic metadata transcribed from Reference p41, PDF page 28. Primary publication has not been retrieved or verified. Listed abbreviated authors are retained as printed.
+abstract: Primary AIS/MIS Quarterly landing page verified on 2026-09-15. Its abstract presents design science as creating artifacts and gaining problem-and-solution knowledge through building and applying them. The full paper was not inspected in this review.
+url: https://aisel.aisnet.org/misq/vol28/iss1/6/
+bibkey: al2004design

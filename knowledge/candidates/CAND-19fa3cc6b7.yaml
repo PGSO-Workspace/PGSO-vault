@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-19fa3cc6b7
+created: 2026-09-15T00:21:13.389Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5595591
+title: "Simpliflow: A Lightweight Open-Source Framework for Rapid Creation and Deployment of Generative Agentic AI Workflows"
+authors:
+  - Deven Panchal
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5595591
+url: https://doi.org/10.2139/ssrn.5595591
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: LlamaFirewall open source guardrail agentic AI systems
+question: null
+search: SEARCH-70332b9336
+score: 1.4
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

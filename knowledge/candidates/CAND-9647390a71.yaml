@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9647390a71
+created: 2026-09-15T00:21:13.389Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/cyber-ai66431.2025.11233438
+title: "Agentic Penetration Testing using Secure Shell: Context-Aware Command Generation and Analysis Using Open-Source LLMs"
+authors:
+  - Siddhant Prashant Kale
+  - Preet Kanwal
+  - Prasad B Honnavalli
+year: 2025
+venue: 2025 International Conference on Cybersecurity and AI-Based Systems (Cyber-AI)
+doi: 10.1109/cyber-ai66431.2025.11233438
+url: https://doi.org/10.1109/cyber-ai66431.2025.11233438
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: LlamaFirewall open source guardrail agentic AI systems
+question: null
+search: SEARCH-70332b9336
+score: 1.225
+score_parts:
+  rank: 0.25
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

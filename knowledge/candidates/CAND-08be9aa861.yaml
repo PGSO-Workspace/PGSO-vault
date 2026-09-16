@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-08be9aa861
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.seta.2023.103522
+title: New procedure for an optimal design of an integrated solar tower power plant with supercritical carbon dioxide and organic Rankine cycle and MED-RO desalination based on 6E analysis
+authors:
+  - Maryam Fallahzadeh
+  - Mohammad Hasan Khoshgoftar Manesh
+  - Bahram Ghorbani
+year: 2023
+venue: Sustainable Energy Technologies and Assessments
+doi: 10.1016/j.seta.2023.103522
+url: https://doi.org/10.1016/j.seta.2023.103522
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 0.882
+score_parts:
+  rank: 0.063
+  citations: 0.119
+  recency: 0.7
+needs_approval: false
+state: candidate

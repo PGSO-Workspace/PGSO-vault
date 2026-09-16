@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-22d76d1a95
+created: 2026-09-15T07:34:45.095Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416926286
+title: "Ads that Talk Back: Implications and Perceptions of Injecting Personalized Advertising into LLM Chatbots"
+authors:
+  - Brian Tang
+  - Kaiwen Sun
+  - Noah T. Curran
+  - Florian Schaub
+  - Kang G. Shin
+year: 2025
+venue: Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies
+doi: 10.1145/3770640
+url: https://doi.org/10.1145/3770640
+abstract: Recent advances in large language models (LLMs) have enabled the creation of highly effective chatbots. However, the compute costs of widely deploying LLMs have raised questions about profitability. Companies have proposed exploring ad-based revenue streams for monetizing LLMs, which could serve as the new de facto platform for advertising. This paper investigates the implications of personalizing LLM advertisements to individual users via a between-subjects experiment with 179 participants. We developed a chatbot that embeds personalized product advertisements within LLM responses, inspired by similar forays by AI companies. The evaluation of our benchmarks showed that ad injection only slightly impacted LLM performance, particularly response desirability. Results revealed that participants struggled to detect ads, and even preferred LLM responses with hidden advertisements. Rather than clicking on our advertising disclosure, participants tried changing their advertising settings using natural language queries. We created an advertising dataset and an open-source LLM, Phi-4-Ads, fine-tuned to serve ads and flexibly adapt to user preferences.
+type: article
+open_access: true
+cited_by: 10
+query: 2024 2025 journal LLM agents runtime monitor policy enforcement tool calls
+question: null
+search: SEARCH-b7942200d3
+score: 1.243
+score_parts:
+  rank: 0.083
+  citations: 0.26
+  recency: 0.9
+needs_approval: false
+state: candidate

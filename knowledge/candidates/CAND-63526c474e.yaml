@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-63526c474e
+created: 2026-09-15T06:32:41.203Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0014211200004052
+title: "From Chatbot to Validator: A Dual-Agent Strategy towards Trustworthy On-Premise Conversational LLMs"
+authors:
+  - Michal Podpora
+  - Marek Baranowski
+  - Aleksandra Kawala-Sterniuk
+  - Mariusz Pelc
+  - Piotr Rogala
+  - Piotr Kawa
+  - Pawel Pirog
+  - Anna Romaniewska
+  - Wojciech Rogala
+year: 2026
+venue: Proceedings of the 18th International Conference on Agents and Artificial Intelligence
+doi: 10.5220/0014211200004052
+url: https://doi.org/10.5220/0014211200004052
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: tau2 benchmark conversational agents dual control
+question: null
+search: SEARCH-6eb3d17581
+score: 1.2
+score_parts:
+  rank: 0.125
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

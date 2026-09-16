@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-2b30ef5efd
+created: 2026-09-15T16:31:50.377Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/public-voice-live-pilot-2026-09-15.md
+paths:
+  - sources/reports/public-voice-live-pilot-2026-09-15.md
+hash: 2b30ef5efdafe4185247ee670451ab01b33388805d08d0b9710c980b5a2eea9b
+bytes: 3984
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 3984
+  sections: 5
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T16:31:50.176Z

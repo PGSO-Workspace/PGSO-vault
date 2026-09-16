@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6cfa785245
+created: 2026-09-15T00:30:50.983Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416247055
+title: Which Evaluation for Which Model? A Taxonomy for Speech Model Assessment
+authors:
+  - Maureen de Seyssel
+  - Eeshan Gunesh Dhekane
+year: 2025
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2510.19509
+url: http://arxiv.org/abs/2510.19509
+abstract: "Speech foundation models have recently achieved remarkable capabilities across a wide range of tasks. However, their evaluation remains disjointed across tasks and model types. Different models excel at distinct aspects of speech processing and thus require different evaluation protocols. This paper proposes a unified taxonomy that addresses the question: Which evaluation is appropriate for which model? The taxonomy defines three orthogonal axes: the evaluation aspect being measured, the model capabilities required to attempt the task, and the task or protocol requirements needed to perform it. We classify a broad set of existing evaluations and benchmarks along these axes, spanning areas such as representation learning, speech generation, and interactive dialogue. By mapping each evaluation to the capabilities a model exposes (e.g., speech generation, real-time processing) and to its methodological demands (e.g., fine-tuning data, human judgment), the taxonomy provides a principled framework for aligning models with suitable evaluation methods. It also reveals systematic gaps, such as limited coverage of prosody, interaction, or reasoning, that highlight priorities for future benchmark design. Overall, this work offers a conceptual foundation and practical guide for selecting, interpreting, and extending evaluations of speech models."
+type: preprint
+open_access: true
+cited_by: 0
+query: '"ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"'
+question: null
+search: SEARCH-40ed8087e2
+score: 1.011
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

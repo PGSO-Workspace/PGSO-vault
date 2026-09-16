@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-57a79bf330
+created: 2026-09-15T06:33:03.695Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.63317/5kocg97rooga
+title: Estonian Native Large Language Model Benchmark
+authors:
+  - Helena Grete Lillepalu
+  - Tanel Alumäe
+year: 2026
+venue: Proceedings of the Language Resources and Evaluation Conference
+doi: 10.63317/5kocg97rooga
+url: https://doi.org/10.63317/5kocg97rooga
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: large language model agent evaluation benchmark reliability task success journal
+question: null
+search: SEARCH-b435e17ef6
+score: 1.091
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

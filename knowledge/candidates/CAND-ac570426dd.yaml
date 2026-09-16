@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ac570426dd
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7046079
+title: Secure Explainable Audit Trails for Workflows in Agentic AI
+authors:
+  - Subhasis Thakur
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7046079
+url: https://doi.org/10.2139/ssrn.7046079
+abstract: An Explainable Audit Trail (EAT) records process execution traces of an agentic workflow, the underlying reasoning behind the agent's decision, and results of audits on the execution traces and validity of agent's reasoning. EAT can enable an organisation to efficiently remain compliant with regulations by presenting its audit results to it. However, current state of the art in EAT for agentic workflows lacks privacy protection of agent's models which can be intellectual properties of the organisation. Exposing audit trails to external entities may facilitate orchestration of attacks on the agent's model. Auditing a complex workflow will require verification of dependencies among tasks as preconditions to execute a task. Further, it is necessary for the audit algorithm to ensure that a process execution trace follows the pre-planned process execution model for security reasons, i.e., audit should include functionality that can check if the agents have deviated from its planned process execution models. In this paper, we build a secure EAT that can address these gaps in the state of the art in EAT for agentic workflows. Our main contribution is the application of zero-knowledge proof on verifying audit procedures. It can prove that audit has validated correctness of chain of thoughts for each task executed by the agents, if the there execution trace at the runtime matches the planned process execution model, and a complete traceability among logs of a complex workflow involving dependencies among the tasks in terms of preconditions. Our solution can enable an organisation to provide a trust-less infrastructure to verify the audit results to external entities such as regulators while not exposing the audit trails. We used lattice-based zero knowledge proof for this procedure which is not only extremely time-efficient but also quantum-safe. We provide an analysis on security and privacy of the EAT procedure. We show experimental evaluation of this EAT procedure with large workflow dataset.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.045
+score_parts:
+  rank: 0.045
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-39c9cab622
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-9121599/v1
+title: "LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems"
+authors:
+  - Sunil Prakash
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-9121599/v1
+url: https://doi.org/10.21203/rs.3.rs-9121599/v1
+abstract: "Abstract As multi-agent AI systems scale to production, the protocols connecting them constrain their capabilities. Current protocols such as Google's A2A and Anthropic's MCP omit model-level metadata, preventing quality-aware routing, efficient communication, and governance. We present the LLM Delegate Protocol (LDP), which introduces five AI-native primitives: rich delegate identity cards, progressive payload negotiation, governed sessions, structured provenance, and trust domains. We implement LDP as a plugin adapter for the JamJet agent runtime and evaluate it against A2A and random baselines. Identity-aware routing achieves 12x lower latency on easy tasks; semantic frame payloads reduce token count by 37 percent with no quality loss; governed sessions eliminate 39 percent token overhead; and noisy provenance degrades quality below the no-provenance baseline, showing that confidence metadata is harmful without verification. Trust domain and fallback analyses demonstrate architectural advantages in security and resilience. This paper contributes a protocol design, reference implementation, and initial evidence that AI-native protocol primitives enable more efficient and governable multi-agent delegation."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.029
+score_parts:
+  rank: 0.029
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

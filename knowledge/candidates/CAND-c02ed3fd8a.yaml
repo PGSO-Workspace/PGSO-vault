@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c02ed3fd8a
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20944/preprints202509.0093.v2
+title: A Control-Theoretic MCP Framework for MLLMs’ Efficiency and Interpretability
+authors:
+  - Yaolin Zhang
+  - Menghui Li
+year: 2025
+venue: null
+doi: 10.20944/preprints202509.0093.v2
+url: https://doi.org/10.20944/preprints202509.0093.v2
+abstract: Aiming at the computational inefficiency and insufficient interpretability of multimodal large language models (MLLMs) in complex tasks such as multi-round reasoning and medical diagnosis, this paper proposes the MCP (Model-Controller-Presenter) three-layer collaborative framework. By decoupling MLLMs into reasoning, generation, and retrieval sub-modules, integrating a reinforcement learning (RL)-driven dynamic routing algorithm, and designing a task adaptation mechanism, the framework realizes the systematic integration of control theory and MLLM dynamic reasoning for the first time. Experiments on cross-modal benchmark datasets (GLUE, COCO, ScienceQA) show that compared with baseline models (LLaMA-2 7B, GPT-3.5, etc.), MCP improves task performance by 15–30%, enhances reasoning efficiency by 40%, and achieves a 90% manual interpretability score through the Presenter layer. This work provides a practical solution to break through the application bottleneck of MLLMs.
+type: preprint
+open_access: null
+cited_by: 1
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 1.075
+score_parts:
+  rank: 0.1
+  citations: 0.075
+  recency: 0.9
+needs_approval: true
+state: candidate

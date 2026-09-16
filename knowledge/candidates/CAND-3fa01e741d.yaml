@@ -1,0 +1,43 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3fa01e741d
+created: 2026-09-15T07:38:48.880Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1038/s44220-024-00299-x
+title: Neocortical serotonin 2A receptor binding, neuroticism and risk of developing depression in healthy individuals
+authors:
+  - Anjali Sankar
+  - Simon C. Ziersen
+  - Brice Ozenne
+  - Vibeke H. Dam
+  - Emily E. Beaman
+  - Lars V. Kessing
+  - Patrick. M. Fisher
+  - Esben Budtz-Jørgensen
+  - Gitte M. Knudsen
+  - Kamilla W. Miskowiak
+  - Vibe G. Frokjaer
+year: 2024
+venue: Nature Mental Health
+doi: 10.1038/s44220-024-00299-x
+url: https://doi.org/10.1038/s44220-024-00299-x
+abstract: null
+type: article
+open_access: null
+cited_by: 3
+query: '"10.1145/3814959" published'
+question: null
+search: SEARCH-76dea7765d
+score: 1.118
+score_parts:
+  rank: 0.167
+  citations: 0.151
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a297333858
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2025.3641641
+title: Combining Neural Empathy-Aware Behavior Trees With Knowledge Graphs for Affective Human-AI Teaming
+authors:
+  - Glenda Amaral
+  - Stefania Costantini
+  - Giovanni De Gasperis
+  - Lorenzo De Lauretis
+  - Pierangelo Dell'Acqua
+  - Giancarlo Guizzardi
+  - Francesco Gullo
+  - Andrea Rafanelli
+year: 2026
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2025.3641641
+url: https://doi.org/10.1109/taffc.2025.3641641
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.077
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e7a6c4e92f
+created: 2026-09-15T00:31:18.055Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-2695951/v1
+title: Speech Emotion Recognition Based on Simultaneously Fusing and Transferring of Multi-level Speech Features
+authors:
+  - cheng zha
+  - yu zang tang
+year: 2023
+venue: null
+doi: 10.21203/rs.3.rs-2695951/v1
+url: https://doi.org/10.21203/rs.3.rs-2695951/v1
+abstract: Abstract To improve the speech emotion recognition accuracy with availability of multi-level features, it is natural to fuse the emotion information and reduce the distribution mismatch of multi-level features simultaneously. To address the above issues, based on two constraints, we propose a novel transfer multiple kernel learning for fusing multi-level features (MFF-TMKL) . The first constraint aims at fusing the emotion information from multi-level features. Correspondingly, a weighted collaborative representation constraint is proposed to learn the similarity and distinctiveness of multi-level features by a space induced by the multiple kernel functions The second one aims at reducing the Maximum Mean Discrepancy of multi-level features also in this multiple kernel induced space. Experimental results on the Aibo emotional speech database show that:(1) MFF-TMKL achieves significant improvement than MKL, TMKL and MFF-TMKL with only one constraint. Specifically, using the utterance-level and unvoiced-level features, MFF-TMKL achieve the optimal recognition accuracy with 43.4% (2 ) using the utterance-level and unvoiced-level features, the recognition rate of MFF-TMKL is higher than the several state-of-the-art algorithms methods.
+type: preprint
+open_access: null
+cited_by: 1
+query: '"Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition"'
+question: null
+search: SEARCH-40c323d84c
+score: 0.846
+score_parts:
+  rank: 0.071
+  citations: 0.075
+  recency: 0.7
+needs_approval: true
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dd6a1098d0
+created: 2026-09-14T23:44:09.730Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1093/oso/9780198892182.005.0002
+title: Sample of AI-enabled autonomous weapons used in human–machine teaming
+authors:
+  - James Johnson
+year: 2024
+venue: The AI Commander
+doi: 10.1093/oso/9780198892182.005.0002
+url: https://doi.org/10.1093/oso/9780198892182.005.0002
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees With Knowledge Graphs for Affective Human-AI Teaming" code GitHub'
+question: null
+search: SEARCH-2325920ecd
+score: 0.891
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

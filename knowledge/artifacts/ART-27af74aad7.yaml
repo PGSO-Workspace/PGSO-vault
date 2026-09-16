@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-27af74aad7
+created: 2026-09-15T05:35:43.945Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/diagnostics-84242c9/engineering-results.json
+paths:
+  - sources/software/pgso-sdk/diagnostics-84242c9/engineering-results.json
+  - sources/software/pgso-sdk/operational-7805fb9/engineering-results.json
+hash: 27af74aad7f01786f236e4251c1e0a9050032a1a2d76af35cc4cbf13cd5b4965
+bytes: 399
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T05:35:43.721Z

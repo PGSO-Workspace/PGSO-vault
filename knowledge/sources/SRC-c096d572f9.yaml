@@ -1,0 +1,27 @@
+schema: phdude.source
+version: 1
+id: SRC-c096d572f9
+created: 2026-09-15T05:36:07.349Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: PGSO bounded execution receipt diagnostics and unchanged-behavior validation, SDK84242c9
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-0e9c5d747b
+  - ART-27af74aad7
+  - ART-3ec18a1b16
+  - ART-4d6e868fcd
+  - ART-62837fc281
+  - ART-65f2119402
+  - ART-dfef919c3b
+  - ART-ec46c4032c
+  - ART-f772f197e0
+state: candidate
+year: 2026
+url: https://github.com/PGSO-Workspace/pgso-sdk/pull/5
+abstract: SDK84242c9 adds serialized bounded ExecutionReason and policy_transition_count to execution receipts. Typed authorization checking preserves public error text, confirmation consumption ordering and call outcomes. Tests cover reason classification, omission of actual confirmation tokens and callback text from serialized receipts, same-timestamp policy-history linkage across drains, and distinction from permission-only revision changes. 101 workspace tests pass. Clean release engineering rerun passes 184 labeled governance observations (454 total), 13 dispatch and 14 transport cases. Matched 23-scenario/96-call comparison retains prior PGSO/NeMo/Invariant equality and ablation differences, with seven marked input rejections per arm. Full raw evidence imported as DATASET-6580d57b10. This improves recorded diagnostic information; no measured human diagnosis advantage, complete causal replay, persistent/tamper-evident audit or comparative superiority is claimed. New public receipt fields are a source API compatibility change for downstream struct literals/strict schemas. PR5 merged into main as 47569de90dcbdae0d3b2bcf5d87d30eb1b36f1c1 on 2026-09-15 at 05:36:36 UTC after stable and MSRV CI passed. Merge tree 02fbc1267855e82027c71bc0f9667458375140ae equals tested SDK84242c9.
+bibkey: pgso2026c096d572f9

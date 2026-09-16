@@ -11,7 +11,8 @@ kind: methodological
 state: candidate
 supported_by:
   - EVID-8cac9afc1a
-questions: []
+questions:
+  - RQ-2
 sections:
   - methods
   - discussion

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-08f41b5c90
+created: 2026-09-14T16:51:30.061Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7338498
+title: "Adversary-Controlled Abstention Adversary-Controlled Abstention: How Unevaluable Outcomes Inflate Reported Detection Rates"
+authors:
+  - Osama Saraireh
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7338498
+url: https://doi.org/10.2139/ssrn.7338498
+abstract: "Detection and verification systems produce a third outcome besides detected and not detected: the episode the checker could not evaluate at all, because the evidence it needed never arrived. A widespread convention scores that outcome as a detection, on the reasoning that the system did not fail to notice anything. This paper shows that the convention is not merely conservative but structurally unsafe once the party choosing how often it occurs is an adversary rather than the system designer. We model an attacker who chooses, with probability w, to suppress the evidence a checker requires rather than to forge it. Writing d for the checker's detection rate on evidence it can evaluate, the reported detection rate under the collapsing convention is w + (1-w)d while the true rate is (1-w)d. Three results follow. First, the inflation is exactly w: the gap between the reported and the true rate equals the adversary's suppression probability, independent of d. Second, the two rates move in opposite directions in w, so the reported figure is not only biased in level but wrong in sign as a trend indicator-it improves as the attacker improves, reaching 1.000 precisely when true detection reaches zero. Third, and most consequentially, the convention selects the attacker's strategy: writing c for the probability that suppression is itself independently detected, suppression strictly dominates forgery whenever c &lt; d, and the collapsing convention sets c = 0 by construction, so suppression dominates for every d &gt; 0. A mature literature already reports abstention separately-classification with a reject option, accuracy-rejection curves, the forensic-science debate on inconclusive decisions, and the \"not applicable\" category in published security-product evaluations. In all of it, the abstention rate is set by the defender: a designer's coverage threshold, or an examiner's judgement. The contribution here is the adversarial case, where that rate is an attacker's decision variable. We give the analytic result, a numerical table, a worked self-audit of a figure the author previously reported and has withdrawn, and a five-cell reporting form. Falsification criteria are stated in advance."
+type: preprint
+open_access: null
+cited_by: 0
+query: runtime shields uncertainty abstention speech emotion agents
+question: null
+search: SEARCH-b8dd8c19fd
+score: 1.091
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

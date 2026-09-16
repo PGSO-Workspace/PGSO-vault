@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-fdc61807c3
+created: 2026-09-14T16:56:11.382Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.36227/techrxiv.177075184.43798334/v1
+title: "The Synergistic Integration of Access Control Management and Large Language Model Agents: A Survey"
+authors:
+  - Francesco Periti
+  - Soumadeep Saha
+year: 2026
+venue: null
+doi: 10.36227/techrxiv.177075184.43798334/v1
+url: https://doi.org/10.36227/techrxiv.177075184.43798334/v1
+abstract: "Access Control Management (ACM) is a fundamental security measure of information systems, governing which resources a user can access and under what conditions. Typically, effective ACM requires significant manual effort for policy specification, enforcement, and maintenance. To alleviate this burden, prior research has explored automating ACM by integrating machine learning solutions. However, the emergence of Large Language Models (LLMs) and, more recently, LLM agents has opened up many new challenges and opportunities for information systems. Although a plethora of studies currently focus on LLM security, they primarily address adversarial threats, leaving the specific implications for ACM largely underexplored. In this article, we address this gap by surveying the synergistic integration of ACM and LLM agents from a twofold perspective: agents for ACM, where agents assist security administrators in automating the management of access control; and ACM for agents, where access control principles are applied to regulate the behavior, permissions, and security boundaries of the agents themselves. Through these two lenses, we disentangle and define three core ACM tasks, which are receiving increasing attention but are not yet clearly defined in the literature: access control policy generation, decision-making, and enforcement. Furthermore, we conceptualize agents as three core components of standard access-control models: agents as Subjects, Objects, and Actions. To survey existing solutions, we formalize the interaction flow between users and agents and categorize four restriction mechanisms for ACM: user authentication, agent customization, LLM customization, and tools. Building on these mechanisms, we provide a critical analysis of the state-of-the-art, and finally outline open challenges and future research directions to foster stronger cohesion between ACM and LLM agents."
+type: preprint
+open_access: null
+cited_by: 1
+query: A Survey on the Optimization of Large Language Model-based Agents
+question: null
+search: SEARCH-a32d57a17a
+score: 1.218
+score_parts:
+  rank: 0.143
+  citations: 0.075
+  recency: 1
+needs_approval: true
+state: candidate

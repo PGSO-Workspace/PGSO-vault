@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-eab1ef380f
+created: 2026-09-15T01:12:34.662Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-bd4b5272cb
+locator: Publisher bibliographic page and preview inspected; author manuscript arXiv v3 (21 November 2025) targeted sections inspected. Publisher full PDF inaccessible (403); arXiv v3 PDF downloaded and hashed.
+excerpt: "Research paraphrase, not quotation: Separates model, tools and coordinating core-agent. Its action module collaborates with a security module that monitors actions; guardrails may be rule-based or model-based. Validation is explicitly scenario-driven architectural analysis without implementing the proposed combinations. One scenario adds LLMSafeGuard to ToolLLM; another identifies unsafeguarded external API calls. Limits: Conceptual architectural evaluation, not executed runtime efficacy, catalog filtering, or affect-conditioned governance. arXiv v3 text is separately identified; no assertion that it is identical to the journal version."
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-53bdbeb059

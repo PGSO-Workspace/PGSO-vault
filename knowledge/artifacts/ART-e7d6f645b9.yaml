@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-e7d6f645b9
+created: 2026-09-15T02:30:29.011Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/3206f5d/completion-report.md
+paths:
+  - sources/software/pgso-sdk/3206f5d/completion-report.md
+hash: e7d6f645b901854e49d3142a7da2c5fc4624a538ae5f013203df122ac1ed4dcf
+bytes: 1309
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 1309
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T02:30:28.797Z

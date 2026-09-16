@@ -1,0 +1,24 @@
+schema: phdude.source
+version: 1
+id: SRC-7422f5a97d
+created: 2026-09-15T00:59:19.147Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies
+authors:
+  - Jieke Shi
+  - Junda He
+  - Zhou Yang
+  - Đorđe Žikelić
+  - David Lo
+type: article
+artifacts:
+  - ART-e47a3dd8b0
+state: candidate
+year: 2026
+venue: ACM Transactions on Software Engineering and Methodology
+doi: 10.1145/3773034
+url: https://doi.org/10.1145/3773034
+abstract: "Targeted primary text review: arXiv:2410.05641v3, revised 2025-10-23, accepted-author manuscript; 39 pages. Placeholder Vol.1/Article1/January2025 footers are not bibliographic publication dates. Published journal full text not downloaded (ACM 403).. Synthesizes linear fallback controllers through counterexample-guided refinement and chooses a command-deviation switching threshold by Bayesian optimization. Eight control systems are compared with VRL; effectiveness uses 1,000 episodes of 5,000 steps; experiments repeat ten times. Limits: §5.4 requires convex safety regions; §5.5 assumes sufficiently linearizable dynamics. Audio-input systems are future work. Zero observed violations do not prove safety for arbitrary uncertain speech observations. Controller verification and optimized switching must not be conflated."

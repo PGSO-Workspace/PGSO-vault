@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5c2790dc8e
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410236540
+title: "Speech Emotion Recognition: Comparative Analysis of CNN-LSTM and Attention-Enhanced CNN-LSTM Models"
+authors:
+  - Jamsher Bhanbhro
+  - Asif Aziz Memon
+  - Bharat Lal
+  - Shahnawaz Talpur
+  - Madeha Memon
+year: 2025
+venue: Signals
+doi: 10.3390/signals6020022
+url: https://doi.org/10.3390/signals6020022
+abstract: "Speech Emotion Recognition (SER) technology helps computers understand human emotions in speech, which fills a critical niche in advancing human–computer interaction and mental health diagnostics. The primary objective of this study is to enhance SER accuracy and generalization through innovative deep learning models. Despite its importance in various fields like human–computer interaction and mental health diagnosis, accurately identifying emotions from speech can be challenging due to differences in speakers, accents, and background noise. The work proposes two innovative deep learning models to improve SER accuracy: a CNN-LSTM model and an Attention-Enhanced CNN-LSTM model. These models were tested on the Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS), collected between 2015 and 2018, which comprises 1440 audio files of male and female actors expressing eight emotions. Both models achieved impressive accuracy rates of over 96% in classifying emotions into eight categories. By comparing the CNN-LSTM and Attention-Enhanced CNN-LSTM models, this study offers comparative insights into modeling techniques, contributes to the development of more effective emotion recognition systems, and offers practical implications for real-time applications in healthcare and customer service."
+type: article
+open_access: true
+cited_by: 22
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.44
+score_parts:
+  rank: 0.2
+  citations: 0.34
+  recency: 0.9
+needs_approval: false
+state: candidate

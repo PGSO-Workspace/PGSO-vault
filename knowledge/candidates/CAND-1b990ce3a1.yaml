@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1b990ce3a1
+created: 2026-09-15T00:31:18.055Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21437/interspeech.2023-2170
+title: Personalized Adaptation with Pre-trained Speech Encoders for Continuous Emotion Recognition
+authors:
+  - Minh Tran
+  - Yufeng Yin
+  - Mohammad Soleymani
+year: 2023
+venue: INTERSPEECH 2023
+doi: 10.21437/interspeech.2023-2170
+url: https://doi.org/10.21437/interspeech.2023-2170
+abstract: null
+type: article
+open_access: null
+cited_by: 6
+query: '"Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition"'
+question: null
+search: SEARCH-40c323d84c
+score: 0.959
+score_parts:
+  rank: 0.048
+  citations: 0.211
+  recency: 0.7
+needs_approval: false
+state: candidate

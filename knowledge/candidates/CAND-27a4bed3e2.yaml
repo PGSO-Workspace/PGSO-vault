@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-27a4bed3e2
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/s00146-024-02118-4
+title: "Empathy and AI: cognitive empathy or emotional (affective) empathy?"
+authors:
+  - Satinder P. Gill
+year: 2024
+venue: AI &amp; SOCIETY
+doi: 10.1007/s00146-024-02118-4
+url: https://doi.org/10.1007/s00146-024-02118-4
+abstract: null
+type: article
+open_access: null
+cited_by: 13
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.135
+score_parts:
+  rank: 0.048
+  citations: 0.287
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f16ac19243
+created: 2026-09-15T01:06:33.363Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.63345/sjaibt.v1.i4.108
+title: "Enhancing Conversational Agents with Deep Reinforcement Learning: A Novel Approach to Dialogue Management"
+authors:
+  - Ritu Srivastava
+year: 2024
+venue: Scientific Journal of Artificial Intelligence and Blockchain Technologies
+doi: 10.63345/sjaibt.v1.i4.108
+url: https://doi.org/10.63345/sjaibt.v1.i4.108
+abstract: Customer service, virtual assistants, and social media platforms are just a few of the many areas seeing increased use of conversational bots. But many current solutions fail to keep conversations interesting and consistent, which frequently leads to unhappy users. a fresh method for managing conversations that improves agents' conversational skills by using Deep Reinforcement Learning (DRL). Agents can adapt to user preferences and contextual subtleties by learning optimal conversational techniques through interactions with them; this is achieved by framing dialogue management as a reinforcement learning problem. We suggest a DRL design that considers both user input and contextual data so that agents can gradually refine their responses. We run a battery of tests on the architecture to see how well it handles things like user engagement, answer accuracy, and conversation coherence. Maintaining user pleasure and generating meaningful interactions are two areas where DRL-enhanced conversational bots excel, surpassing standard rule-based and supervised learning methods.
+type: article
+open_access: null
+cited_by: 0
+query: affective conversational agents empathy speech dialogue action
+question: null
+search: SEARCH-fdb119aa74
+score: 0.925
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

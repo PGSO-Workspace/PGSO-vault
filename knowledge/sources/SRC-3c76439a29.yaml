@@ -1,0 +1,19 @@
+schema: phdude.source
+version: 1
+id: SRC-3c76439a29
+created: 2026-09-15T19:04:01.529Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: Public-voice B0 development diagnostic, 2026-09-15
+authors:
+  - "{PGSO research workspace}"
+type: report
+artifacts:
+  - ART-0acade2de7
+  - ART-17436b1b14
+state: candidate
+year: 2026
+bibkey: pgso2026b0development
+abstract: Candidate technical development evidence from two B0 runs over three public simulated telecom tasks. The original run retained two scored sessions and one provider-rate infrastructure failure; the generic identity-resolution run retained three scored sessions, two successes, and one wrong-line task failure. No participants, YaVendio data, human utility, pooling, or governance-superiority inference.

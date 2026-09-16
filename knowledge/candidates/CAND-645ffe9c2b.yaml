@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-645ffe9c2b
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.25300/misq/2021/15434.1.7
+title: All Information Systems Theory Is Grounded Theory
+authors:
+  - Natalia Levina
+year: 2021
+venue: MIS Quarterly
+doi: 10.25300/misq/2021/15434.1.7
+url: https://doi.org/10.25300/misq/2021/15434.1.7
+abstract: null
+type: article
+open_access: null
+cited_by: 8
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 0.768
+score_parts:
+  rank: 0.029
+  citations: 0.239
+  recency: 0.5
+needs_approval: false
+state: candidate

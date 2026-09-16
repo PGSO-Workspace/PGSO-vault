@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1b9d837a5f
+created: 2026-09-15T07:48:07.669Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.52843/cassyni.504m8k
+title: "Productivity And Reproducibility: Conflicting Pressures On Scientists?"
+authors:
+  - Dorothy V M Bishop
+year: 2021
+venue: null
+doi: 10.52843/cassyni.504m8k
+url: https://doi.org/10.52843/cassyni.504m8k
+abstract: "I first introduce the idea of quasi-cumulative science: where we think we are building on foundations of prior work, only to find that the earlier work is not solid. There is no single cause for this, but rather an unfortunate combination of factors that, taken together, have a detrimental effect on science. I discuss five of these, together with possible solutions, namely: 1. Publication bias 2. Citation bias. 3. P-hacking 4. Low statistical power 5. Obsession of funders/journals with novelty."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"LDREA-IEEE-Reproducibility" "FULL_SPEC"'
+question: null
+search: SEARCH-e7c8c764f9
+score: 0.556
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 0.5
+needs_approval: true
+state: candidate

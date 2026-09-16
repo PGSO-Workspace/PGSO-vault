@@ -1,0 +1,47 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1627161313
+created: 2026-09-15T06:32:41.203Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416595443
+title: Budget-Aware Tool Use Enables Effective Agent Scaling
+authors:
+  - T. Liu
+  - Zifeng Wang
+  - Miao, Jin
+  - I-Hung Hsu
+  - Jun Yan
+  - J.-C. CHEN
+  - Han, Rujun
+  - Fei Xu
+  - Yanfei Chen
+  - Ke Jiang
+  - Samira Daruki
+  - Yi Liang
+  - William Yang Wang
+  - Tomas Pfister
+  - Chen-Yu Lee
+year: 2025
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2511.17006
+url: https://arxiv.org/abs/2511.17006
+abstract: Scaling test-time computation has been extended from language model reasoning to tool-augmented agents, where scaling involves not only thinking in tokens but also acting via tool calls that directly constrain environmental interaction. However, we found that simply increasing the tool-call budget fails to improve performance, as agents lack "budget awareness" and quickly hit a performance ceiling. We study how to scale such agents effectively under explicit tool-call budgets, focusing on web search agents. We first introduce the Budget Tracker, a lightweight plug-in that provides the agent with continuous budget awareness, enabling simple yet effective scaling. We further develop BATS (Budget-Aware Test-time Scaling), an advanced framework that leverages this awareness to dynamically adapt its planning and verification strategy. To analyze cost-performance scaling in a controlled manner, we formalize a unified cost metric that jointly accounts for token and tool consumption. We provide the first systematic study on budget-constrained agents, showing that budget-aware methods produce more favorable scaling curves and push the cost-performance Pareto frontier. Our work offers empirical insights toward a more transparent and principled understanding of scaling in tool-augmented agents. Our code is available at https://github.com/google-research/budget-aware-agent.
+type: preprint
+open_access: true
+cited_by: 1
+query: tau2 benchmark conversational agents dual control
+question: null
+search: SEARCH-6eb3d17581
+score: 1.475
+score_parts:
+  rank: 0.5
+  citations: 0.075
+  recency: 0.9
+needs_approval: true
+state: candidate

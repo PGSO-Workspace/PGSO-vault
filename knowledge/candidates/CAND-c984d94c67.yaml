@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c984d94c67
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3746274.3760396
+title: Adaptive Multi-Agent Tutoring AI for Multimodal Mathematics Conversational Learning
+authors:
+  - Quy Minh Le
+  - Hoang D. Nguyen
+year: 2025
+venue: Proceedings of the 2nd ACM Workshop in AI-powered Question &amp; Answering Systems
+doi: 10.1145/3746274.3760396
+url: https://doi.org/10.1145/3746274.3760396
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.045
+score_parts:
+  rank: 0.026
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

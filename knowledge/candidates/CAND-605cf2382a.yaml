@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-605cf2382a
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4417063318
+title: "From REST to MCP: An Empirical Study of API Wrapping and Automated Server Generation for LLM Agents"
+authors:
+  - Meriem Mastouri
+  - Emna Ksontini
+  - Barrak, Amine
+  - Wael Kessentini
+year: 2025
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2507.16044
+url: http://arxiv.org/abs/2507.16044
+abstract: The Model Context Protocol (MCP) is emerging as a standard interface through which LLM agents invoke external tools, and a growing ecosystem of MCP servers now mediates access to vendor services. Most of these servers target vendors that already expose REST APIs, yet the relationship between MCP tool interfaces and the underlying API surface has not been empirically characterised. This paper presents the first large-scale study of MCP server construction. We analyse 116 official servers to determine REST reliance and integration strategies (RQ1); examine servers paired with OpenAPI specifications to quantify operation exposure, omission, and mapping patterns (RQ2); evaluate automated generation from 80 real-world OpenAPI contracts (RQ3); and assess specification repair and tool-set transformations to improve correctness and reduce complexity (RQ4). We find that 88.6% of servers are fully or partially REST-backed, with 92% implementing tools as bare API wrappers. MCP servers expose a median of 19% of available operations, following systematic patterns predictable from the specification. Baseline generation succeeds for 76% of sampled tools; automated repair raises this to 94.2%, while filtering and regrouping reduce the median tool count per API by one-third. We release AutoMCP, an end-to-end pipeline integrating specification repair and empirically grounded tool-set transformations.
+type: preprint
+open_access: true
+cited_by: 2
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.519
+score_parts:
+  rank: 0.5
+  citations: 0.119
+  recency: 0.9
+needs_approval: true
+state: candidate

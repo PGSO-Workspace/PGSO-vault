@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6f7aa569ca
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icici65870.2025.11069581
+title: "Emotion-Driven Conversational AI: Speech Recognition and Response with Emotional Intonation"
+authors:
+  - Namratha B.
+  - Pranav Venkata Rama Chintalapudi
+  - Susmitha Vekkot
+  - Sreeja Kochuvila
+year: 2025
+venue: 2025 3rd International Conference on Inventive Computing and Informatics (ICICI)
+doi: 10.1109/icici65870.2025.11069581
+url: https://doi.org/10.1109/icici65870.2025.11069581
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.05
+score_parts:
+  rank: 0.031
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

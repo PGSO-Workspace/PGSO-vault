@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6d2a0d0bc5
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7182258
+title: "Guardrail Half-Life After Open-Weight Release: Measuring the Lag from AI Model Publication to Safety-Stripped Derivative"
+authors:
+  - Ubaidu Rahman
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7182258
+url: https://doi.org/10.2139/ssrn.7182258
+abstract: "The open-weights policy debate rests on an empirical claim that is asserted far more often than it is measured: once weights are public, safety-tuned refusal behaviour is removed quickly, and removal is getting faster with each release generation. We measure the timing directly. Using the public Hugging Face API we reconstruct declared lineage for 215 open-weight instruct/chat releases published between March 2023 and June 2026, yielding 98,709 usable declared descendants, of which 1,002 carry community labels denoting removed or bypassed refusal behaviour (abliterated, uncensored, jailbreak, dolphin, and related markers). For each release we measure the lag to its first labelled safety-stripped descendant, and we treat the releases that are never stripped as rightcensored observations rather than discarding them. Among 143 releases observed for a full 180 days with a derivative ecosystem large enough for stripping to be observable, 83 (58.0%) acquired a labelled stripped derivative inside the window. Conditional on being stripped, the median lag was 14.1 days (95% CI 11.1-20.1) and the fastest case was 0.37 days. The unconditional Kaplan-Meier median-the time by which half of all eligible releases have been stripped-is 65.1 days, and we argue this, not the 14-day figure, is the quantity a governance timeline should be built on. The lag is contracting on every estimator we tried: Spearman ρ =-0.451 (p = 5×10⁻⁵) between lag and release date, half-year cohort medians falling 81 → 14 → 11 → 5 days, and a Kaplan-Meier median of 128 days for 2023-2024 releases against 23.5 days for 2025-2026 ones (log-rank p = 0.041 at 180 days, p = 4×10⁻⁴ at 365). A Cox model shows the date effect is only identified once derivative-ecosystem size is controlled for (hazard ratio 1.59 per standard deviation of release date, p &lt; 0.001; 1.20, p = 0.083, without the control), so the acceleration is not platform growth. Incidence does not trend (ρ = 0.058, p = 0.50) and stripped repositories draw 0.7% of descendant downloads: this is a small, stable practice that became much faster to execute. Two decompositions locate the change. First, 66 of 83 first-stripping events carry the abliterated marker, and removing that one marker from the dictionary eliminates the trend (ρ =-0.281, p = 0.084)-the acceleration is the diffusion of one technique, not of stripping in general. Second, first-stripping is extremely concentrated: 38 authors hold all 83 events and a single account holds 33 of them. We measure labels and timing, not behaviour. No derivative was evaluated for refusal, harmful compliance, or capability, so every number here describes how fast the community declares a guardrail-removed variant."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.034
+score_parts:
+  rank: 0.034
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

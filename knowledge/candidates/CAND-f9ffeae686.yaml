@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f9ffeae686
+created: 2026-09-15T09:46:31.407Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411394609
+title: "Patterns of smartphone dependence and predictive factors in Chinese college freshmen: a latent profile analysis"
+authors:
+  - Liang Chen
+  - Zhanyang Yuan
+  - Minhui Jiang
+year: 2025
+venue: Frontiers in Psychology
+doi: 10.3389/fpsyg.2025.1592875
+url: https://doi.org/10.3389/fpsyg.2025.1592875
+abstract: "Objective: To explore the latent classes of smartphone dependency among college freshmen and analyze the predictive factors of these classes, to provide a basis for the development of targeted intervention strategies. Methods: A total of 4,863 college freshmen from Zhejiang A&F University in 2023 were selected for the questionnaire survey by using the Socio-demographic information, Smartphone Dependency Scale and Psychological Resilience Scale, followed by latent profile analysis and logistic regression for data analysis. Results: oup (10.1%). Negative life events, suicidal ideation, and psychological resilience were significantly associated with the latent classes of smartphone dependency among college freshmen. Conclusion: There is heterogeneity in smartphone dependency among college freshmen, those experiencing suicidal ideation exhibit increased sensitivity to smartphone dependency, those encountering negative life events are more prone to smartphone dependency, while psychological resilience acts as a protective factor against smartphone dependency among college freshmen. These insights not only enhance our understanding of the characteristics of smartphone dependency among college freshmen, but also provide a scientific basis for psychological health education and personalized interventions."
+type: article
+open_access: true
+cited_by: 5
+query: Yue Qi personality cultural variables psychological simulations
+question: null
+search: SEARCH-4cdf3b8231
+score: 1.195
+score_parts:
+  rank: 0.1
+  citations: 0.195
+  recency: 0.9
+needs_approval: false
+state: candidate

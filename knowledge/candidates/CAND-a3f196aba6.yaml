@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a3f196aba6
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404066606
+title: "Speech Emotion Recognition Using Transfer Learning: Integration of Advanced Speaker Embeddings and Image Recognition Models"
+authors:
+  - Maroš Jakubec
+  - Eva Lieskovská
+  - Roman Jarina
+  - Michal Spišiak
+  - Peter Kasák
+year: 2024
+venue: Applied Sciences
+doi: 10.3390/app14219981
+url: https://doi.org/10.3390/app14219981
+abstract: Automatic Speech Emotion Recognition (SER) plays a vital role in making human–computer interactions more natural and effective. A significant challenge in SER development is the limited availability of diverse emotional speech datasets, which hinders the application of advanced deep learning models. Transfer learning is a machine learning technique that helps address this issue by utilizing knowledge from pre-trained models to improve performance on a new task in a target domain, even with limited data. This study investigates the use of transfer learning from various pre-trained networks, including speaker embedding models such as d-vector, x-vector, and r-vector, and image classification models like AlexNet, GoogLeNet, SqueezeNet, ResNet-18, and ResNet-50. We also propose enhanced versions of the x-vector and r-vector models incorporating Multi-Head Attention Pooling and Angular Margin Softmax, alongside other architectural improvements. Additionally, reverberation from the Room Impulse Response datasets was added to the speech utterances to diversify and augment the available data. Notably, the enhanced r-vector model achieved classification accuracies of 74.05% Unweighted Accuracy (UA) and 73.68% Weighted Accuracy (WA) on the IEMOCAP dataset, and 80.25% UA and 79.81% WA on the CREMA-D dataset, outperforming the existing state-of-the-art methods. This study shows that using cross-domain transfer learning is beneficial for low-resource emotion recognition. The enhanced models developed in other domains (for non-emotional tasks) can further improve the accuracy of SER.
+type: article
+open_access: true
+cited_by: 13
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.187
+score_parts:
+  rank: 0.1
+  citations: 0.287
+  recency: 0.8
+needs_approval: false
+state: candidate

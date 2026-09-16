@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a0abbfe4a9
+created: 2026-09-15T01:06:33.363Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-8980437/v1
+title: A Multitask Tamil Speech LLM for ASR, TTS, and Intelligent Conversational Agents
+authors:
+  - Bharathi B
+  - Aruna Devi Shanmugam
+  - Dharunika Sasikumar
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-8980437/v1
+url: https://doi.org/10.21203/rs.3.rs-8980437/v1
+abstract: Abstract Tamil is a morphologically rich and low-resource language characterized by significant regional dialect variation and widespread Tamil–English code-mixing in spoken communication. These linguistic properties pose substantial challenges for developing robust speech-driven artificial intelligence systems. Existing Tamil speech technologies are typically designed as independent modules for Automatic Speech Recognition (ASR), conversational processing, and Text-to-Speech (TTS) synthesis, with limited attention to multidialect robustness and integrated speech-to-speech interaction. This work presents a multitask Tamil Speech Large Language Model framework that integrates multidialect ASR, retrieval-based conversational processing, and neural TTS within a unified operational pipeline. The ASR component is fine-tuned on curated multidialect and code-mixed Tamil speech data to improve robustness across linguistic variations. The conversational module employs hybrid retrieval to generate grounded responses from domain-specific documents, and the TTS system is implemented using a VITS-based (Variational Inference with Adversarial Learning for End-to-End TTS) architecture for natural speech synthesis. Experimental evaluation demonstrates improved transcription reliability across dialects, effective context-aware response generation, and coherent Tamil speech synthesis. The proposed framework advances scalable and inclusive speech technology development for low-resource Tamil.
+type: preprint
+open_access: null
+cited_by: 0
+query: affective conversational agents empathy speech dialogue action
+question: null
+search: SEARCH-fdb119aa74
+score: 1.143
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

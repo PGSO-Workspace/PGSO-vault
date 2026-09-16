@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5797721647
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4400615682
+title: Multimodal Audio-Language Model for Speech Emotion Recognition
+authors:
+  - Jaime Bellver
+  - Iván Martín-Fernández
+  - José Manuel Bravo-Pacheco
+  - Sergio Esteban
+  - Fernando Fernández-Martínez
+  - Luis Fernando D’Haro
+year: 2024
+venue: null
+doi: 10.21437/odyssey.2024-41
+url: https://doi.org/10.21437/odyssey.2024-41
+abstract: In this paper, we present an approach to speech emotion recognition (SER) leveraging advances in machine learning and audio processing, particularly through the integration of large language models (LLMs) with audio capabilities.Our proposed architecture combines an audio encoder, specifically the Whisperlarge-v3 model [1], with LLMs Phi 1.5 [2] and Gemma 2b [3] to create a robust and effective system for categorizing emotions in speech.We compare the performance of our models against existing approaches, achieving outstanding results in speech emotion recognition.Our findings demonstrate the effectiveness of audio-language models (ALMs), with the Whisper-large-V3 and Gemma 2b combination outperforming other alternatives.
+type: other
+open_access: true
+cited_by: 11
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.213
+score_parts:
+  rank: 0.143
+  citations: 0.27
+  recency: 0.8
+needs_approval: false
+state: candidate

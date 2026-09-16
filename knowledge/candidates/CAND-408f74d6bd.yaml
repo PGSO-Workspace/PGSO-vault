@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-408f74d6bd
+created: 2026-09-15T09:45:34.518Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5017731
+title: A Comprehensive Survey on Multi-Modal Conversational Emotion Recognition with Deep Learning
+authors:
+  - Yuntao Shou
+  - Tao Meng
+  - Wei Ai
+  - Nan Yin
+  - Keqin Li
+year: 2024
+venue: null
+doi: 10.2139/ssrn.5017731
+url: https://doi.org/10.2139/ssrn.5017731
+abstract: null
+type: preprint
+open_access: null
+cited_by: 8
+query: '"Dual Learning for Conversational Emotion Recognition and Emotional Response Generation" PDF'
+question: null
+search: SEARCH-370d9309b7
+score: 1.122
+score_parts:
+  rank: 0.083
+  citations: 0.239
+  recency: 0.8
+needs_approval: true
+state: candidate

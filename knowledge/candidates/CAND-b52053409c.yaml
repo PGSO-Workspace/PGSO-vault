@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b52053409c
+created: 2026-09-15T07:49:59.291Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6427100
+title: Quantifying the spatiotemporal mismatch between rooftop PV potential and energy demand in rapidly urbanizing megaregions
+authors:
+  - Hanwei Liang
+  - Chihao Liang
+  - Yilin Li
+  - Jieling Shen
+  - Liang DONG
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6427100
+url: https://doi.org/10.2139/ssrn.6427100
+abstract: "Rapid urbanization in megacity clusters has intensified the structural mismatch between local renewable energy supply potential and end-use electricity demand. Existing assessments of distributed photovoltaic systems largely rely on static snapshots, obscuring the long-term dynamics and spatial decoupling mechanisms between the supply and demand sides of energy systems. To address this gap, this study integrates multi-source geospatial data and convolutional neural networks to develop a building rooftop area estimation model and reconstruct the 23-year (2000–2022) high-resolution (1 km) evolution trajectory of rooftop photovoltaic potential in the Guangdong–Hong Kong–Macao Greater Bay Area (GBA). The results reveal that although the technical potential experienced nearly an order-of-magnitude explosive growth over the 23-year period (reaching 4.92×1011 kWh in 2022), the migration of its spatial center failed to keep pace with the surge in electricity demand within high-density core areas, resulting in pronounced spatiotemporal mismatches between energy supply and load. Based on the absolute physical boundary conditions in 2022, this study employs the K-means clustering algorithm to identify four heterogeneous socio-technical transition pathways: Synergistic Prosumers (e.g., Guangzhou), Metabolic Lock-in Nodes (e.g., Shenzhen), Spatially Constrained Enclaves (e.g., Hong Kong), and Green-power Hinterlands (e.g., Zhaoqing). The findings indicate that merely exploiting physical spatial potential has reached its ceiling, and coordinated decarbonization in megacity clusters must abandon homogenized spatial planning approaches. From a macro-scale perspective, this study reveals the strong coupling relationship between distributed energy systems and the underlying built environment, providing robust quantitative support for differentiated building-integrated photovoltaic (BIPV) strategies and cross-regional green electricity coordination. It further provides guidance for high-density cities to overcome local resource constraints and explore pathways toward the large-scale realization of zero-carbon buildings and net-zero carbon communities."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Chihao Li" PDF'
+question: null
+search: SEARCH-a24394c105
+score: 1.143
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

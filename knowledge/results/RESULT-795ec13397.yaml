@@ -1,0 +1,21 @@
+schema: phdude.result
+version: 1
+id: RESULT-795ec13397
+created: 2026-09-15T00:15:39.375Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: "Synthetic contract suite: 0 PGSO mismatches across 184 labeled steps"
+from: ANALYSIS-1a3562f88b
+values:
+  scenarios: 9
+  steps: 184
+  mismatches: 0
+  all_scenarios: 11
+  all_steps: 454
+state: candidate
+ext:
+  analysis:
+    key: contract
+    run_at: 2026-09-15T00:15:39.375Z

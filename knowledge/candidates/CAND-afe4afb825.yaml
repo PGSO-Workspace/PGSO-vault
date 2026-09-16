@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-afe4afb825
+created: 2026-09-15T09:46:16.656Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icecet65726.2026.11632481
+title: "Behavior-Aware Multi-Modal Trip Planner: Combining GTFS, OSM, and Reinforcement Learning for User-Centric Routing"
+authors:
+  - Indramuthu Sundaram
+  - Marwan Bikdash
+  - Venkatesh Pandey
+year: 2026
+venue: 2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+doi: 10.1109/icecet65726.2026.11632481
+url: https://doi.org/10.1109/icecet65726.2026.11632481
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees" PDF'
+question: null
+search: SEARCH-ab2b977fc5
+score: 1.083
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

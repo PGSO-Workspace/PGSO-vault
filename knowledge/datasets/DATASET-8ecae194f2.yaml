@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-8ecae194f2
+created: 2026-09-15T01:02:45.169Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/execution_validation_v2.rs
+hash: 8ecae194f2a818e12cf04f802dce6e31f7587fed8eda36d3017dbecb1abe8675
+bytes: 9571
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Actual dispatch experiment v2; exact case-set guard and narrowed policy-transition attribution

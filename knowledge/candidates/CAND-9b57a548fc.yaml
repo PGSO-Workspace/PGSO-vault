@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9b57a548fc
+created: 2026-09-15T07:50:14.590Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.54050/prj25240250
+title: Toward cloud-native architectures
+authors:
+  - Josep Torrellas
+year: 2025
+venue: The Project Repository Journal
+doi: 10.54050/prj25240250
+url: https://doi.org/10.54050/prj25240250
+abstract: Toward cloud-native architectures The aim of the ACE Center is to devise novel computing technologies that will substantially improve the performance and the energy efficiency of distributed computing. ACE innovates in processing, storage, communication, and security technologies that address the seismic shifts identified in the Semiconductor Research Corporation (SRC) Decadal Plan for Semiconductors.
+type: article
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Yue Qi" repository'
+question: null
+search: SEARCH-32580e75f5
+score: 1.011
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-328d52e5fc
+created: 2026-09-15T08:30:27.240Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/roaming-withholding-ff8f5ff/README.md
+paths:
+  - sources/software/pgso-sdk/roaming-withholding-ff8f5ff/README.md
+hash: 328d52e5fc345a0f190a308ad7ea3dd7c3bd70a717e7300e29453d73af57af77
+bytes: 7414
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 7410
+  sections: 6
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T08:30:27.037Z
+versions_of: ART-e42e168741
+latest: false

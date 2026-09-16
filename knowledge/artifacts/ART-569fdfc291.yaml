@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-569fdfc291
+created: 2026-09-15T18:03:38.235Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-mvp/research-bootstrap-9fcb654/frontend-build.txt
+paths:
+  - sources/software/pgso-mvp/research-bootstrap-9fcb654/frontend-build.txt
+hash: 569fdfc29190cd108037f7d2b811f0cc5dcbb0b74a281b7c717bf7ed0d093107
+bytes: 393
+mime: text/plain
+kind: txt
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 383
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T18:03:34.546Z

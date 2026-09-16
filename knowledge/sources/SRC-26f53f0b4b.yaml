@@ -1,0 +1,22 @@
+schema: phdude.source
+version: 1
+id: SRC-26f53f0b4b
+created: 2026-09-15T08:40:28.094Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: PGSO trusted-host step-up development check 1a9f60c
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-09a32c2621
+  - ART-4dc5ac1baa
+  - ART-756a74c5f3
+  - ART-fca9b2562e
+state: candidate
+year: 2026
+url: https://github.com/PGSO-Workspace/pgso-sdk/pull/9
+abstract: Eight real-sandbox bridge checks passed using an opt-in step-up adapter of the existing Runtime approval mechanism. A scripted repair can execute under sustained injected signal with exact trusted-host approval; replay and changed arguments are denied. No natural-language consent inference or metered utility comparison was executed, and the four-arm pilot retains its prune default.
+bibkey: pgso202626f53f0b4b

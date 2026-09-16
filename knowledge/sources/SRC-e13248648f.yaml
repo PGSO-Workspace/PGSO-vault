@@ -1,0 +1,25 @@
+schema: phdude.source
+version: 1
+id: SRC-e13248648f
+created: 2026-09-15T09:49:44.705Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: A multimodal approach to support teacher, researcher and AI collaboration in STEM+C learning environments
+authors:
+  - Clayton Cohn
+  - Caitlin Snyder
+  - Joyce Horn Fonteles
+  - Ashwin T. S.
+  - Justin Montenegro
+  - Gautam Biswas
+type: article
+artifacts:
+  - ART-d4b78e47fb
+  - ART-2403477e03
+state: candidate
+year: 2024
+venue: British Journal of Educational Technology
+doi: 10.1111/bjet.13518
+url: https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13518

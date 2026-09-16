@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-82e7cd66aa
+created: 2026-09-15T07:49:59.291Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.55277/researchhub.iy1yde5o
+title: Master the AAMA-CMA Exam with Accurate PDF Study Material
+authors:
+  - loolslus Goldsmith
+year: 2026
+venue: null
+doi: 10.55277/researchhub.iy1yde5o
+url: https://doi.org/10.55277/researchhub.iy1yde5o
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Chihao Li" PDF'
+question: null
+search: SEARCH-a24394c105
+score: 1.071
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

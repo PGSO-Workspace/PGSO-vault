@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-165e8c1ebd
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416948581
+title: Survey on Multi-Agent and Multimodal Architectures for Intelligent Task Automation (AVIA Project)
+authors:
+  - Muskan Shaikh
+year: 2025
+venue: International Journal for Research in Applied Science and Engineering Technology
+doi: 10.22214/ijraset.2025.75758
+url: https://doi.org/10.22214/ijraset.2025.75758
+abstract: The rapid evolution of Large Language Models (LLMs) and multi-agent systems (MAS) has paved the way for advanced Virtual Personal Assistants (VPAs) capable of performing complex, real-world tasks beyond simple, single- query responses. Traditional AI assistants are often limited in scope, lacking the deep integration, persistent memory, and adaptability required for cross-platform workflows, forcing users to rely on multiple tools. This survey examines the architectural and methodological shift toward Intelligent Task Automation, focusing on systems that leverage multimodal and multi-agent frameworks, exemplified by the AVIA (Autonomous Virtual Intelligent Assistant) project. We analyze core components including specialized agents orchestrated by a central planner (like n8n), the integration of LLMs for sophisticated Natural Language Understanding (NLU), and the use of multimodal capabilities (voice/image input, text/audio output). We explore key technical concepts, including the Transformer architecture and Retrieval-Augmented Generation (RAG) for conversational memory. The findings highlight the significant potential of multi- agent and multimodal systems to provide a unified, efficient, and context-aware solution for digital task automation, improving productivity and moving toward a more versatile Agentic AI future.
+type: article
+open_access: true
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 0.967
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

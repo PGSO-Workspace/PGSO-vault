@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-53bdbeb059
+created: 2026-09-15T01:11:33.019Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/llm-agent-umf-v3.pdf
+paths:
+  - sources/literature/llm-agent-umf-v3.pdf
+hash: 53bdbeb0590d11a9899478a2b2abbd7e1a831e0a0e97fb834173b973747af790
+bytes: 1751331
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 179312
+  sections: 39
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:10:54.527Z

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d293341866
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3696630.3728717
+title: Facilitating Trustworthy Human-Agent Collaboration in LLM-based Multi-Agent System oriented Software Engineering
+authors:
+  - Krishna Ronanki
+year: 2025
+venue: Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering
+doi: 10.1145/3696630.3728717
+url: https://doi.org/10.1145/3696630.3728717
+abstract: null
+type: article
+open_access: null
+cited_by: 11
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.198
+score_parts:
+  rank: 0.028
+  citations: 0.27
+  recency: 0.9
+needs_approval: false
+state: candidate

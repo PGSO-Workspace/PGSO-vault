@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e745b4f01d
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icicnct66124.2025.11233133
+title: Speech Emotion Recognition Using Cross-Corpus Domain Adaptive Fusion Framework
+authors:
+  - Rana Veer Samara Sihman Bharattej. R
+  - Ali Alkwzahy
+  - Aruna. M
+  - Rajaram. K
+  - P. Abinaya
+year: 2025
+venue: 2025 International Conference on Intelligent Communication Networks and Computational Techniques (ICICNCT)
+doi: 10.1109/icicnct66124.2025.11233133
+url: https://doi.org/10.1109/icicnct66124.2025.11233133
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 0.931
+score_parts:
+  rank: 0.031
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

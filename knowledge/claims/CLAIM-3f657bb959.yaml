@@ -1,0 +1,21 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-3f657bb959
+created: 2026-09-13T07:00:36.019Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The repository contains a property test over generated signal sequences and rule sets checking that protected tools never receive Prune decisions. Its presence was inspected; passing execution was not independently reproduced.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-1a93d30c1f
+questions: []
+sections:
+  - methods
+  - results
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-2ea288a4cb

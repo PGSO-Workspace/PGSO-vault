@@ -1,0 +1,25 @@
+schema: phdude.source
+version: 1
+id: SRC-65547df21f
+created: 2026-09-14T23:55:19.079Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: "PGSO completion audit: mutation evidence, historical provenance and external comparators"
+authors:
+  - Codex with delegated Sol and Luna reviews
+type: report
+artifacts: []
+state: candidate
+year: 2026
+abstract: |-
+  Technical evidence: SDK follow-up head bf4988d extends 84cfb41 and PR #2. 99 Rust tests pass in debug and release; 512 generated catalog cases have forced adversarial prefixes. cargo-mutants27.1.0 final campaign mutates engine.rs and rules.rs, runs workspace tests and yields 94 total:86 caught,7 unviable,1 survivor. Survivor c>0 to c>=0 is manually classified equivalent because its only additional effect sets an already-zero counter to zero. Initial campaign had21 survivors before explicit boundary tests. Four512-observation traces on x86_64 Linux, two default fresh processes plus FMAenabled/disabled builds, have SHA256530095424a988479b0aead46b3dbfedfcd150cf3bee0d925d3143a588ac7eca6. This is not a cross-architecture result. Durable ledger and source/test hashes: docs/validation/2026-09-14-verification.json. Conditional catalog induction: docs/protected-catalog-argument.md. Runtime confirmations now reject observed clockrollback, share a monotonic clock between trusted host and HTTP, and consume presented tokens on malformedarguments after session validation. Separate independent Luna review and targeted tests; no claim of universal security.
+
+  Historical audit by Sol: no historical scientific analysis executed. At artifact commit1b17c24, .206 and intra-speaker.144 have partial scripts/reports but no required predicted.csv/windows.csv/manifests/audio. Learned .271 is labeled wav2vec2 in the manuscript and wav2small in phase3 README; adapter uses audeering/wav2small. Family mismatch is supported; exact historical model revision remains unknown without original weights/hash, and current model-card2.0 cannot date old runs. Cross-corpus EMOVOME figures include -.02886 and .18830 and floors .34376/.29228, reported in phase3 README; corresponding scripts/outputs/data/splits are absent. Full openSMILE eGeMAPS and the Rust2-feature heuristic must remain separate. 64152 decisions and47/512 prompt outcomes appear in paper but harness/config/rawtrace assets were not found. Manuscript ART-29ad619744 sha25629ad619744fe812d1376c902276250dc87b0ce5f96ba2e8a0b3c51c64704c741. PhDude has zero registered datasets/analyses; empty reprocheck is not successful reproduction. Researcher was asked where original assets live. Missing evidence does not establish fabricated results.
+
+  External comparator research by Sol, with new PhDude searches: SEARCH-2325920ecd, SEARCH-da8e2200c9, SEARCH-b132bc032f, SEARCH-babb92a8ed, SEARCH-ab8e976bec, SEARCH-dd1444607d, SEARCH-b69be67f4a, SEARCH-95d8fe4170. AgentSpec is the closest verified agent/runtime comparator: ICSE2026 DOI10.1145/3744916.3764546, paper https://cposkitt.github.io/files/publications/agentspec_llm_enforcement_icse26.pdf and public repo https://github.com/haoyuwang99/AgentSpec ; event-triggered predicates over toolinputs/state/trajectory and enforcement modes. No explicit repository license was located; public visibility is not a redistribution license. LlamaFirewall official https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall (MIT subdirectory), arXiv2505.03574, is a monitor/blocking comparator; it does not by itself establish role authorization or affective adaptation. RoboGuard https://github.com/KumarRobotics/RoboGuard (MIT), DOI10.1109/LRA.2026.3667488, validates action plans against temporal specifications; its robotics domain and probabilistic specification generation require delimiting adapters. AEGIS https://github.com/soarsmu/AEGIS (MIT), DOI10.1145/3773034, provides neural-policy shield synthesis/replication; methodological reference for intervention/permissiveness tradeoffs, not a voice-agent baseline without substantial adaptation.
+
+  Closest affective antecedents: Neural Empathy-Aware Behavior Trees DOI10.1109/TAFFC.2025.3641641 and Affective Dialogue Manager DOI10.1109/ACCESS.2024.3361750; official implementations not located. Do not substitute an unrelated emotion-detection repo. WeClaw SSRN DOI10.2139/ssrn.7317098 claims an open runtime but no verifiable repo/license was located; not eligible as an executable comparator. No absence of capability is inferred from silence in abstracts. AgentSpec is conference and LlamaFirewall preprint, so neither satisfies the Q1journal bibliography quota. Q1 for TAFFC,Access,TOSEM andRA-L remains unverified in this audit: SCImago profiles/download returned403 and no accessible primary JCR year/category record was found. Preserve these as candidates until ranking evidence is obtained.
+
+  Conclusion: technical reliability evidence strengthened; novelty, scientific superiority and historical numbers remain unconfirmed. Sources and manuscript not rewritten. Do not close submission readiness based on tests, mutation score or an empty PhDude reproduction inventory.

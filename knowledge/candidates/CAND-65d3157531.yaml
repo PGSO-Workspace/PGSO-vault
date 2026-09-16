@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-65d3157531
+created: 2026-09-15T06:32:59.436Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icassp49660.2025.10889444
+title: Developing Instruction-Following Speech Language Model Without Speech Instruction-Tuning Data
+authors:
+  - Ke-Han Lu
+  - Zhehuai Chen
+  - Szu-Wei Fu
+  - Chao-Han Huck Yang
+  - Jagadeesh Balam
+  - Boris Ginsburg
+  - Yu-Chiang Frank Wang
+  - Hung-Yi Lee
+year: 2025
+venue: ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+doi: 10.1109/icassp49660.2025.10889444
+url: https://doi.org/10.1109/icassp49660.2025.10889444
+abstract: null
+type: article
+open_access: null
+cited_by: 15
+query: speech language model evaluation paralinguistic benchmark instruction following
+question: null
+search: SEARCH-463495b5f3
+score: 1.284
+score_parts:
+  rank: 0.083
+  citations: 0.301
+  recency: 0.9
+needs_approval: false
+state: candidate

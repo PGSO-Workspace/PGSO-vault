@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-eccd2b8f00
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.26434/chemrxiv-2025-9pxz7
+title: "Some Meta-Graph Structures: Mixed Graph, DiHyperGraph, Knowledge Graph, Intersection Graph, and Chemical Graph"
+authors:
+  - Takaaki Fujita
+year: 2025
+venue: null
+doi: 10.26434/chemrxiv-2025-9pxz7
+url: https://doi.org/10.26434/chemrxiv-2025-9pxz7
+abstract: "Graph theory studies mathematical structures composed of vertices and edges in order to model relationships and connectivity [1, 2]. A MetaGraph is a higher-level construct in which the vertices are themselves graphs, and the edges represent specified relations among those graphs. An Iterated MetaGraph extends this concept recursively: its vertices are MetaGraphs, producing a hierarchy of graph-of-graphs structures across multiple levels. In this work, we explore the possibility of extending Mixed Graphs, DiHyperGraphs, Knowledge Graphs, Intersection Graphs, and Chemical Graphs within the framework of MetaGraphs and Iterated MetaGraphs."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 1.1
+score_parts:
+  rank: 0.2
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

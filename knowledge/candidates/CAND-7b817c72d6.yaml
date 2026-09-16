@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7b817c72d6
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4406662397
+title: "HyFusER: Hybrid Multimodal Transformer for Emotion Recognition Using Dual Cross Modal Attention"
+authors:
+  - Moung-Ho Yi
+  - Keun-Chang Kwak
+  - Juhyun Shin
+year: 2025
+venue: Applied Sciences
+doi: 10.3390/app15031053
+url: https://doi.org/10.3390/app15031053
+abstract: Emotion recognition is becoming increasingly important for accurately understanding and responding to user emotions, driven by the rapid proliferation of non-face-to-face environments and advancements in conversational AI technologies. Existing studies on multimodal emotion recognition, which utilize text and speech, have aimed to improve performance by integrating the information from both modalities. However, these approaches have faced limitations such as restricted information exchange and the omission of critical cues. To address these challenges, this study proposes a Hybrid Multimodal Transformer, which combines Intermediate Layer Fusion and Last Fusion. Text features are extracted using KoELECTRA, while speech features are extracted using HuBERT. These features are processed through a transformer encoder, and Dual Cross Modal Attention is applied to enhance the interaction between text and speech. Finally, the predicted results from each modality are aggregated using an average ensemble method to recognize the final emotion. The experimental results indicate that the proposed model achieves superior emotion recognition performance compared to existing models, demonstrating significant progress in improving both the accuracy and reliability of emotion recognition. In the future, incorporating additional modalities, such as facial expression recognition, is expected to further strengthen multimodal emotion recognition capabilities and open new possibilities for application across diverse fields.
+type: article
+open_access: true
+cited_by: 24
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.316
+score_parts:
+  rank: 0.067
+  citations: 0.349
+  recency: 0.9
+needs_approval: false
+state: candidate

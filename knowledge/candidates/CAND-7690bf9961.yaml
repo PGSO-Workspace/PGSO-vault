@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7690bf9961
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7167047555
+title: "C-TriLoRA: Cross-Corpus Kazakh SER via Tri-Factor LoRA and CORAL"
+authors:
+  - Bakdaulet Kynabay
+  - Aimoldir Aldabergen
+  - Shirali Kadyrov
+year: 2026
+venue: International Journal of Advanced Computer Science and Applications
+doi: 10.14569/ijacsa.2026.0170675
+url: https://doi.org/10.14569/ijacsa.2026.0170675
+abstract: "Speech Emotion Recognition (SER) in low-resource languages deals with the scarcity of labeled corpora and the instability of learned representations when transferred across diverse recording conditions and speaker demographics. This study introduces Conditional Tri-Factor Low-Rank Adaptation (C-TRILORA), a multi-task architecture that jointly performs automatic speech recognition (ASR) and SER on Kazakh speech while generalizing reliably across corpora. The proposed model extends a pre-trained Whisper encoder–decoder back-bone through three primary innovations: a Tri-LoRA routing module that disentangles lexical, emotional, and speaker latent factors; CORAL domain alignment that matches second-order statistics between source and target domains without target labels; and a gradient reversal layer (GRL) that suppresses speaker-identity information. Experimental evaluations on the KazEmoTTS and ENU KEMO datasets demonstrate that C-TRILORA achieves a competitive in-domain Macro-F1 of 86.09%and significantly outperforms standard baselines in cross-corpus conditions (41.44% Macro-F1 versus 37.34% for the Shared-Head baseline). McNemar and Wilcoxon signed-rank tests confirm that explicit factor disentanglement is essential for cross-corpus robustness. These results show that separating speech components effectively mitigates negative transfer, making C-TRILORA a practical approach for low-resource SER deployment."
+type: article
+open_access: true
+cited_by: 0
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 1.25
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7dbb0e35e2
+created: 2026-09-14T16:51:30.061Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6761960
+title: A Time-Consistent Counterfactual Actuarial Runtime for Autonomous AI Agents
+authors:
+  - Hao-Hsuan Chen
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6761960
+url: https://doi.org/10.2139/ssrn.6761960
+abstract: "We propose a runtime actuarial layer for autonomous AI agents in which every side-effect-bearing action carries a time-consistent, counterfactual risk toll computed against a contractually fixed safe default, inside an explicit underwriting boundary. The framework treats per-action insurance as the primary unit of analysis and replaces post-hoc annual liability cover with a pre-action transaction layer. The draft establishes four foundational results: (i) a well-defined counterfactual toll under a chosen safe-default mapping and continuation policy, with explicit non-uniqueness; (ii) a no-splitting property within an underwriting boundary that telescopes path-decomposed actions into a boundary potential, with a corollary tying gaming-resistance to boundary design; (iii) an irreversible-authority premium, split into a strictly positive action-level component and an if-and-only-if characterisation of the set-level robust capital increase; and (iv) a finite-sample conservative gating bound and a budget-recursion guarantee on the executed-action positive toll, with explicit caveats for online adaptive action selection. Each theorem is accompanied by a proof sketch isolating the assumptions used. A reference implementation in Python verifies the runtime engine end-to-end on a coding-agent database environment, with regression tests for two non-obvious failure modes: a loss-attribution error in which backup operations can mask the apparent loss from dropping a production table, and a gate-bypass error in which a priced action with a negative point estimate could skip the conservative envelope. Both failures are diagnosed in code and prevented by design."
+type: preprint
+open_access: null
+cited_by: 0
+query: runtime shields uncertainty abstention speech emotion agents
+question: null
+search: SEARCH-b8dd8c19fd
+score: 1.143
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

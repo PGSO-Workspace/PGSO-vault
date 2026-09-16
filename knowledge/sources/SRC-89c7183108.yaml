@@ -1,0 +1,17 @@
+schema: phdude.source
+version: 1
+id: SRC-89c7183108
+created: 2026-09-15T07:39:08.668Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: Paper 1 completion workplan — 15 September 2026
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-b1f13e260c
+state: candidate
+year: 2026
+abstract: Active task decomposition toward the final original-structure English academic manuscript. Defines evidence required for bibliography, novelty, independent no-YaVendio validation, formalization, figures and final reproducible output. Records merged public-task integration and explicitly unresolved metered experiment.

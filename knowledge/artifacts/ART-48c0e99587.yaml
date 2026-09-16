@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-48c0e99587
+created: 2026-09-15T17:53:56.325Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-mvp/eebf20e/08_baseline_prompt/trials_raw.json
+paths:
+  - sources/software/pgso-mvp/eebf20e/08_baseline_prompt/trials_raw.json
+hash: 48c0e9958792e2bfb7e3f9014a84583142a4a7debb0ced990481a404c52044e4
+bytes: 374626
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T16:50:41.609Z

@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-49c7d273c4
+created: 2026-09-14T20:36:03.109Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3793671
+title: "Evaluating LLM-based Agents for Multi-turn Conversations: A Survey"
+authors:
+  - Shengyue Guan
+  - Jindong Wang
+  - Jiang Bian
+  - Bin Zhu
+  - Jian-Guang Lou
+  - Haoyi Xiong
+year: 2026
+venue: ACM Transactions on Intelligent Systems and Technology
+doi: 10.1145/3793671
+url: https://doi.org/10.1145/3793671
+abstract: "This survey examines evaluation methods for large language model (LLM)-based agents in multi-turn conversational settings. Using a PRISMA-inspired framework, we systematically reviewed nearly 250 scholarly sources, capturing the state-of-the-art from various venues of publication, and establishing a solid foundation for our analysis. Our study offers a structured approach by developing two interrelated taxonomy systems: one that defines what to evaluate and another that explains how to evaluate . The first taxonomy identifies key components of LLM-based agents for multi-turn conversations and their evaluation dimensions, including task completion, response quality, user experience, memory and context retention, as well as planning and tool integration. These components ensure that the performance of conversational agents is assessed in a holistic and meaningful manner. The second taxonomy system focuses on the evaluation methodologies. It categorizes approaches into annotation-based evaluations, automated metrics, hybrid strategies that combine human assessments with quantitative measures, and self-judging methods utilizing LLMs. This framework not only captures traditional metrics derived from language understanding, such as BLEU and ROUGE scores, but also incorporates advanced techniques that reflect the dynamic, interactive nature of multi-turn dialogues. Together, these frameworks summarize the current status quo, expose limitations in traditional practices, and provide a structured blueprint for improvement. Based on the summarization of existing studies, we identify several challenges and propose future directions, including the development of scalable, real-time evaluation pipelines, enhanced privacy-preserving mechanisms, and robust metrics that capture dynamic multi-turn interactions. Our contributions bridge historical insights with modern practices, paving the way for next-generation, reliably evaluated conversational AI systems and offering a comprehensive guide for researchers and practitioners."
+type: article
+open_access: null
+cited_by: 8
+query: Evaluating LLM-based Agents for Multi-turn Conversations A Survey
+question: null
+search: SEARCH-4f998515e4
+score: 2.239
+score_parts:
+  rank: 1
+  citations: 0.239
+  recency: 1
+needs_approval: false
+state: candidate

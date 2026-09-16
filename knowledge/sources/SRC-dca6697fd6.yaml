@@ -1,0 +1,21 @@
+schema: phdude.source
+version: 1
+id: SRC-dca6697fd6
+created: 2026-09-15T01:10:38.169Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: "Zono-Conformal Prediction: Zonotope-Based Uncertainty Quantification for Regression and Classification Tasks"
+authors:
+  - Laura Lützow
+  - Michael Eichelbeck
+  - Mykel J. Kochenderfer
+  - Matthias Althoff
+type: article
+artifacts:
+  - ART-de75c6a206
+state: candidate
+year: 2025
+venue: Journal of Machine Learning Research
+url: https://jmlr.org/papers/v26/25-1161.html

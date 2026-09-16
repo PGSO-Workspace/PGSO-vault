@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a386c7f559
+created: 2026-09-14T23:47:47.446Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4414894549
+title: Simple Prompt Injection Attacks Can Leak Personal Data Observed by LLM Agents During Task Execution
+authors:
+  - Meysam Alizadeh
+  - Zeynab Samei
+  - Daria Stetsenko
+  - Fabrizio Gilardi
+year: 2025
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2506.01055
+url: http://arxiv.org/abs/2506.01055
+abstract: Previous benchmarks on prompt injection in large language models (LLMs) have primarily focused on generic tasks and attacks, offering limited insights into more complex threats like data exfiltration. This paper examines how prompt injection can cause tool-calling agents to leak personal data observed during task execution. Using a fictitious banking agent, we develop data flow-based attacks and integrate them into AgentDojo, a recent benchmark for agentic security. To enhance its scope, we also create a richer synthetic dataset of human-AI banking conversations. In 16 user tasks from AgentDojo, LLMs show a 15-50 percentage point drop in utility under attack, with average attack success rates (ASR) around 20 percent; some defenses reduce ASR to zero. Most LLMs, even when successfully tricked by the attack, avoid leaking highly sensitive data like passwords, likely due to safety alignments, but they remain vulnerable to disclosing other personal data. The likelihood of password leakage increases when a password is requested along with one or two additional personal details. In an extended evaluation across 48 tasks, the average ASR is around 15 percent, with no built-in AgentDojo defense fully preventing leakage. Tasks involving data extraction or authorization workflows, which closely resemble the structure of exfiltration attacks, exhibit the highest ASRs, highlighting the interaction between task type, agent performance, and defense efficacy.
+type: preprint
+open_access: true
+cited_by: 1
+query: '"AgentDojo" tool agents security'
+question: null
+search: SEARCH-95d8fe4170
+score: 1.142
+score_parts:
+  rank: 0.167
+  citations: 0.075
+  recency: 0.9
+needs_approval: true
+state: candidate

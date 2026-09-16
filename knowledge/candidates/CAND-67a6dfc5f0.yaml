@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-67a6dfc5f0
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/cacml64929.2025.11010984
+title: Evaluation and Prediction of Mixed-Precision Quantization for Edge Model by Graph Transformer
+authors:
+  - Lin Li
+  - Hui Feng
+  - Bo Hu
+year: 2025
+venue: 2025 4th Asia Conference on Algorithms, Computing and Machine Learning (CACML)
+doi: 10.1109/cacml64929.2025.11010984
+url: https://doi.org/10.1109/cacml64929.2025.11010984
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 1.034
+score_parts:
+  rank: 0.059
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

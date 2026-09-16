@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-c1edbc0f35
+created: 2026-09-15T01:13:22.971Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-dca6697fd6
+locator: 'Publisher journal PDF; submitted5/25,revised11/25,published11/25,37pages. Repository DOI not treated as journal DOI.; [{"section": "Scenario assumptions and uncertainty formulation", "pdf_pages": [7, 12]}, {"section": "Guarantee limitations and experimental protocol", "pdf_pages": [17]}, {"section": "Regression coverage/conservatism comparisons", "pdf_pages": [20]}, {"section": "Conclusions and explicit limitations", "pdf_pages": [23]}]'
+excerpt: "Research paraphrase, not quotation: Fits zonotopic uncertainty sets inside a predictor using linear programming; applies to multi-output regression and classification, with outlier removal and scenario-based coverage bounds. Experiments train30 networks and split data75/10/15 percent. Limits: Scenario guarantees assume independent samples from a time-invariant distribution, a nondegenerate convex problem and unique optimum. Calibration costs exceed ordinary conformal calibration; sets are convex and centrally symmetric."
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-de75c6a206

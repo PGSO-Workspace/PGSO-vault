@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a363039eac
+created: 2026-09-14T23:44:46.279Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5258401
+title: "Knowledge Graph as Guardrails: Achieving Conceptually Sound LLM Complaint Classification Without Fine-Tuning"
+authors:
+  - Agus Sudjianto
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5258401
+url: https://doi.org/10.2139/ssrn.5258401
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Safety Guardrails for LLM-Enabled Robots" code GitHub'
+question: null
+search: SEARCH-babb92a8ed
+score: 0.971
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

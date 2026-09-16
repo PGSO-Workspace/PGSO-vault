@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-874cb91d62
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.31234/osf.io/9yfqp_v1
+title: "Impact of an Embodied Conversational Agent on Loneliness and Emotional States in Community Dwelling Older Adults: Initial Quantitative and Qualitative Evidence"
+authors:
+  - Feliciano Villar
+  - Rumen Manolov
+year: 2026
+venue: null
+doi: 10.31234/osf.io/9yfqp_v1
+url: https://doi.org/10.31234/osf.io/9yfqp_v1
+abstract: The current study explores the implementation of an embodied conversational agent called AiMA at home, for community-dwelling older adults and its impact on loneliness and emotional states of older adults. Seventeen community-dwelling older adults (12 women, 5 men) líving alone participated in the study. An embodied conversational agent was implemented in their homes for 15 days. The focus of the study is placed on both qualitative and quantitative aspects. In terms of the quantitative information, the amount of interaction (days, conversations, turns) was summarized, as well as the percentage of joy and sadness. Specifically, it was found that the most frequent transition from the initial to the final emotional state across interactions, for all participants, was from neutral to joy. In qualitative terms, participants answered an open-ended interview in which positive aspects reported of using the device and areas of improvement, were included. Results show that participants engaged and tended to engage with the ECA in an anthropomorphic way, in some cases showing a ‘human’ bond with the device. Despite both emotional and cognitive benefits were mentioned, the emotional positive impact of the interaction with the ECA (reduction of loneliness, elicitation of positive emotions) as the most frequently mentioned one. When mentioning areas of improvement, one of the aspects that participants missed was the lack of proactivity. Findings showed that participants engaged in interactions with the conversational agent, which suggests that it could a useful tool to mitigate loneliness and enhance positive emotions among older adults living alone.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 1.333
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

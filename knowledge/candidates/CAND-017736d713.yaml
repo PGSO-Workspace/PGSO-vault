@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-017736d713
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7276838
+title: Measuring Indirect Prompt Injection in Autonomous Web Agents
+authors:
+  - Sahir Maharaj
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7276838
+url: https://doi.org/10.2139/ssrn.7276838
+abstract: "Autonomous web agents collapse a security boundary that conventional browsers spent decades making explicit. The same model that interprets a user's objective may also parse webpages, search results, advertisements, files, accessibility trees, images, and connector outputs created by parties the user does not control. Indirect prompt injection exploits that collapse by placing adversarial instructions in external content and relying on the agent to confuse data with authority. The resulting risk is not limited to a wrong answer: an injected instruction can redirect a multi-step plan, invoke tools under the user's identity, cross application or origin boundaries, exfiltrate private context, modify persistent state, or conceal the compromise from the user. This paper synthesizes academic benchmarks, browser-security studies, standards, system cards, and public red-team evidence released through 1 August 2026. We introduce WIPI, a deployment-oriented measurement protocol for Web Indirect Prompt Injection that separates exposure, instruction uptake, harmful action, attacker-goal completion, concealment, recovery, benign utility, and overblocking. This separation matters because published results show that measured vulnerability changes materially with task capability, attack budget, adaptivity, modality, and scoring. For example, WASP reports agents beginning adversarial instructions far more often than completing attacker goals, while 2026 adaptive evaluations find substantially higher success when attackers can iterate rather than submit a single fixed payload. We argue that no model-level attack-success rate, including a very low one, is equivalent to a trustworthy web agent. A secure deployment must assume that some untrusted instructions will be processed and occasionally followed, then constrain what follows through provenance, instruction hierarchy, capability separation, information-flow control, browser isolation, least privilege, confirmation for consequential actions, and independent verification. The central conclusion is therefore architectural: the Internet can be a source of evidence for an agent, but it cannot safely be treated as a source of ambient authority."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.038
+score_parts:
+  rank: 0.038
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

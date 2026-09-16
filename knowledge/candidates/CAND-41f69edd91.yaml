@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-41f69edd91
+created: 2026-09-15T06:32:12.812Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412877164
+title: "Evaluation and Benchmarking of LLM Agents: A Survey"
+authors:
+  - Mahmoud Mohammadi
+  - Yipeng Li
+  - Jane C. Lo
+  - Wendy Yip
+year: 2025
+venue: null
+doi: 10.1145/3711896.3736570
+url: https://doi.org/10.1145/3711896.3736570
+abstract: The rise of LLM-based agents has opened new frontiers in AI applications, yet evaluating these agents remains a complex and underdeveloped area.This survey provides an in-depth overview of the emerging field of LLM agent evaluation, introducing a twodimensional taxonomy that organizes existing work along (1) evaluation objectives-what to evaluate, such as agent behavior, capabilities, reliability, and safety-and (2) evaluation process-how to evaluate, including interaction modes, datasets and benchmarks, metric computation methods, and tooling.In addition to taxonomy, we highlight enterprise-specific challenges, such as role-based access to data, the need for reliability guarantees, dynamic and longhorizon interactions, and compliance, which are often overlooked in current research.We also identify the future research directions, including holistic, more realistic, and scalable evaluation.This work aims to bring clarity to the fragmented landscape of agent evaluation and provide a framework for systematic assessment, enabling researchers and practitioners to evaluate LLM agents for real-world deployment.
+type: other
+open_access: true
+cited_by: 57
+query: conversational agents task success evaluation benchmark tool policy reliability
+question: null
+search: SEARCH-b2b151cc68
+score: 1.541
+score_parts:
+  rank: 0.2
+  citations: 0.441
+  recency: 0.9
+needs_approval: false
+state: candidate

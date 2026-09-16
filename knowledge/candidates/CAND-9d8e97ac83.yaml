@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9d8e97ac83
+created: 2026-09-15T09:46:31.407Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4406304579
+title: "Applying the online language learners' characteristics model in connection with various personality traits: A latent profile analysis"
+authors:
+  - Yuan Liang
+  - Ting Ji
+  - Shuying Zhou
+  - Xiaolin Liu
+  - Hao Yan
+year: 2025
+venue: British Educational Research Journal
+doi: 10.1002/berj.4118
+url: https://doi.org/10.1002/berj.4118
+abstract: Abstract Constructing personalised and effective online language learning models based on individual personality differences is crucial in the field of education. However, there is little research on how to apply these models to students in science and engineering who have varying personality profiles. This study aimed to assess the validity of the Online Language Learners' Characteristics Model Questionnaire and investigate how its structure and performance differ among individuals with different personality traits. A total of 1015 college students completed a pen‐and‐paper questionnaire in online classes. The results showed that online characteristics were explained by a five‐factor model consisting of language learning strategy, attitude, motivation, causal attribution, and self‐efficacy. A latent profile analysis was conducted to identify four distinct personality profiles. Measurement invariance and differences in characteristics among the four personality types were examined. Our findings offer initial evidence of the specific connections between personality traits and online language learning characteristics at the individual level.
+type: article
+open_access: true
+cited_by: 1
+query: Yue Qi personality cultural variables psychological simulations
+question: null
+search: SEARCH-4cdf3b8231
+score: 1.225
+score_parts:
+  rank: 0.25
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

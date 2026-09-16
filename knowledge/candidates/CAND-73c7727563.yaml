@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-73c7727563
+created: 2026-09-15T07:38:43.488Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1080/10457097.2025.2580904
+title: Musings on Plato’s Symposium
+authors:
+  - Titus Techera
+year: 2025
+venue: Perspectives on Political Science
+doi: 10.1080/10457097.2025.2580904
+url: https://doi.org/10.1080/10457097.2025.2580904
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"10.1109/ACCESS.2026.3719838" "Date of Publication"'
+question: null
+search: SEARCH-210eb9e969
+score: 0.991
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

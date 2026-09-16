@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-a712e1f38d
+created: 2026-09-15T06:12:39.198Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/operational-7805fb9/measure_operations.py.txt
+paths:
+  - sources/software/pgso-sdk/operational-7805fb9/measure_operations.py.txt
+hash: a712e1f38dd0173e43616a327571e9f299176b4a3e78366f04adec5abf434676
+bytes: 16761
+mime: text/plain
+kind: txt
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 16761
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T06:12:38.776Z

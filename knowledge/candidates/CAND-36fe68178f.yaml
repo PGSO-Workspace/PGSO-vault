@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-36fe68178f
+created: 2026-09-15T06:32:41.203Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.32388/mxllh8
+title: 'Review of: "MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems"'
+authors:
+  - Ivan Sekulić
+year: 2025
+venue: null
+doi: 10.32388/mxllh8
+url: https://doi.org/10.32388/mxllh8
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: tau2 benchmark conversational agents dual control
+question: null
+search: SEARCH-6eb3d17581
+score: 1.067
+score_parts:
+  rank: 0.167
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-47825e40a1
+created: 2026-09-15T01:08:42.099Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-ae3102022e
+locator: Author-hosted 12-page ICSE 2026 PDF; first-page ACM reference names 2026 IEEE/ACM 48th ICSE, April 12–18, and DOI; 2.2–4 motivating example, DSL, semantics and implementation PDF pp.3,4,5,6, 5 evaluation including Tables 3–6 PDF pp.6,7,8,9,10, 6.1–6.3 comparison, expressiveness and limits PDF pp.10,11
+excerpt: "Research paraphrase, not a quotation: External DSL rules combine event triggers, predicates and enforcement (stop, user inspection, predefined actions, LLM self-examination). LangChain hooks intervene before actions, after observations and at completion. Evaluations use RedCode, SafeAgentBench and FixDrive; manual and LLM-generated rules are distinct conditions. Author-defined rules and manual outcome judgments risk overfitting/bias. Enforcement latency excludes variable human/LLM delays. §6.3 states that future unsafe trajectories are not predicted."
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-7553b6c2e7

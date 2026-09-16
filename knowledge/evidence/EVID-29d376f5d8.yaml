@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-29d376f5d8
+created: 2026-09-15T01:08:41.879Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-906f9bb5b6
+locator: Publisher-layout article, Volume 12 (2024), pages 20654–20662; publication 2024-02-02, current version 2024-02-12; DOI verified on first page; I–II introduction and datasets PDF pp.2,3, III-B arousal preparation/models and IV results PDF pp.5,6,7, V demonstrator and VI conclusion PDF pp.7,8
+excerpt: "Research paraphrase, not a quotation: CMU-MOSEI text sentiment model; MSP-Podcast arousal classified into low [1,3], mid (3,5], high (5,7]. Mel-spectrogram windows span five seconds with 50% overlap. A rule-based manager selects predefined sentence bodies and interjections from inferred sentiment/arousal. Real-user assessment and comparison against existing dialogue managers are explicitly future work (VI, p.20661). The demonstrator uses Android TTS; emotional synthesis is future work. No tool authorization, confidence abstention, hysteresis or trusted expiry is demonstrated in the inspected system."
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-3f22800008

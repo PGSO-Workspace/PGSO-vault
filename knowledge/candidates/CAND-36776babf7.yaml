@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-36776babf7
+created: 2026-09-15T07:38:17.538Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7203477920
+title: "@skills: Attention is all you have"
+authors:
+  - Li Yin
+  - Zhi Li
+  - Zhan Shi
+  - Haoran Zhang
+  - Haebin Seong
+  - Zhangyang
+  - Wang
+year: 2026
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2608.12610
+url: https://arxiv.org/abs/2608.12610
+abstract: "There are 56,804 public agent skills today, and teams write many more privately. The dominant delivery model is installation: once installed, a skill's description remains in the system prompt, competing for fewer than 100 reliable trigger slots. This leaves the long tail with no practical path to use and forces teams' own playbooks to compete for the same scarce space. We observe that installation bundles three separable functions: content, persistence, and automatic triggering. Only the last requires prompt residency. We therefore propose @skills, an open protocol that separates them. A path addresses any skill, subtree, or collection, and reading a skill is sufficient to use it, so nothing is installed or made resident. The operation vendors a copy at the same path into a project's Git-tracked tree for adaptation and ownership. The operation adds one .gitignore-style line, the only element that costs prompt residency. A directory is a menu, making bundles ordinary directories rather than all-or-nothing units. The protocol requires no manifest, lockfile, or registration, and SKILL.md remains unchanged. @skills is additive, ships as an installable package, and turns any agent that can read files and run commands into a client through a single instruction file. Its open specification is at https://github.com/SylphAI-Inc/atskills and it is implemented in the AdaL CLI at https://adalagent.ai . Because paths address skills well but cannot find them, the protocol is paired with a free hub at https://atskills.one for corpus-wide search and ranking, repository-free hosting, private and team collections, and one-screen authoring. The hub is optional: gh: and local paths resolve without it, and indexed GitHub skills retain their gh: identities. Install less, use more."
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance" PDF authors'
+question: null
+search: SEARCH-9fb9d5712f
+score: 1.077
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

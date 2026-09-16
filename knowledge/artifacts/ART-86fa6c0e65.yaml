@@ -1,0 +1,26 @@
+schema: phdude.artifact
+version: 1
+id: ART-86fa6c0e65
+created: 2026-09-15T09:52:20.074Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/task-agentspec-62937ad/pilot-tests.log
+paths:
+  - sources/software/pgso-sdk/task-agentspec-62937ad/pilot-tests.log
+hash: 86fa6c0e653ae63a362f02eb58df8153886b4c3416186d1ffb2ecd961d537c70
+bytes: 73664
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T09:52:19.867Z
+versions_of: ART-aea11b9180
+latest: true

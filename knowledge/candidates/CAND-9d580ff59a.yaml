@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9d580ff59a
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4402606299
+title: A multimodal approach to support teacher, researcher and AI collaboration in STEM +C learning environments
+authors:
+  - Clayton Cohn
+  - C. R. Snyder
+  - Joyce Horn Fonteles
+  - T. S. Ashwin
+  - Justin Montenegro
+  - Gautam Biswas
+year: 2024
+venue: British Journal of Educational Technology
+doi: 10.1111/bjet.13518
+url: https://doi.org/10.1111/bjet.13518
+abstract: "Abstract Recent advances in generative artificial intelligence (AI) and multimodal learning analytics (MMLA) have allowed for new and creative ways of leveraging AI to support K12 students' collaborative learning in STEM+C domains. To date, there is little evidence of AI methods supporting students' collaboration in complex, open‐ended environments. AI systems are known to underperform humans in (1) interpreting students' emotions in learning contexts, (2) grasping the nuances of social interactions and (3) understanding domain‐specific information that was not well‐represented in the training data. As such, combined human and AI (ie, hybrid) approaches are needed to overcome the current limitations of AI systems. In this paper, we take a first step towards investigating how a human‐AI collaboration between teachers and researchers using an AI‐generated multimodal timeline can guide and support teachers' feedback while addressing students' STEM+C difficulties as they work collaboratively to build computational models and solve problems. In doing so, we present a framework characterizing the human component of our human‐AI partnership as a collaboration between teachers and researchers. To evaluate our approach, we present our timeline to a high school teacher and discuss the key insights gleaned from our discussions. Our case study analysis reveals the effectiveness of an iterative approach to using human‐AI collaboration to address students' STEM+C challenges: the teacher can use the AI‐generated timeline to guide formative feedback for students, and the researchers can leverage the teacher's feedback to help improve the multimodal timeline. Additionally, we characterize our findings with respect to two events of interest to the teacher: (1) when the students cross a difficulty threshold, and (2) the point of intervention , that is, when the teacher (or system) should intervene to provide effective feedback. It is important to note that the teacher explained that there should be a lag between (1) and (2) to give students a chance to resolve their own difficulties. Typically, such a lag is not implemented in computer‐based learning environments that provide feedback. Practitioner notes What is already known about this topic Collaborative, open‐ended learning environments enhance students' STEM+C conceptual understanding and practice, but they introduce additional complexities when students learn concepts spanning multiple domains. Recent advances in generative AI and MMLA allow for integrating multiple datastreams to derive holistic views of students' states, which can support more informed feedback mechanisms to address students' difficulties in complex STEM+C environments. Hybrid human‐AI approaches can help address collaborating students' STEM+C difficulties by combining the domain knowledge, emotional intelligence and social awareness of human experts with the general knowledge and efficiency of AI. What this paper adds We extend a previous human‐AI collaboration framework using a hybrid intelligence approach to characterize the human component of the partnership as a researcher‐teacher partnership and present our approach as a teacher‐researcher‐AI collaboration. We adapt an AI‐generated multimodal timeline to actualize our human‐AI collaboration by pairing the timeline with videos of students encountering difficulties, engaging in active discussions with a high school teacher while watching the videos to discern the timeline's utility in the classroom. From our discussions with the teacher, we define two types of inflection points to address students' STEM+C difficulties—the difficulty threshold and the intervention point —and discuss how the feedback latency interval separating them can inform educator interventions. We discuss two ways in which our teacher‐researcher‐AI collaboration can help teachers support students encountering STEM+C difficulties: (1) teachers using the multimodal timeline to guide feedback for students, and (2) researchers using teachers' input to iteratively refine the multimodal timeline. Implications for practice and/or policy Our case study suggests that timeline gaps (ie, disengaged behaviour identified by off‐screen students, pauses in discourse and lulls in environment actions) are particularly important for identifying inflection points and formulating formative feedback. Human‐AI collaboration exists on a dynamic spectrum and requires varying degrees of human control and AI automation depending on the context of the learning task and students' work in the environment. Our analysis of this human‐AI collaboration using a multimodal timeline can be extended in the future to support students and teachers in additional ways, for example, designing pedagogical agents that interact directly with students, developing intervention and reflection tools for teachers, helping teachers craft daily lesson plans and aiding teachers and administrators in designing curricula."
+type: article
+open_access: true
+cited_by: 60
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 2.246
+score_parts:
+  rank: 1
+  citations: 0.446
+  recency: 0.8
+needs_approval: false
+state: candidate

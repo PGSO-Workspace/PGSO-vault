@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-96b3f8783e
+created: 2026-09-14T20:36:33.012Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1080/0960085x.2026.2627280
+title: "MEDS: Methodology for Evaluation in Design Science"
+authors:
+  - Richard Baskerville
+  - Jan Pries-Heje
+  - John R. Venable
+year: 2026
+venue: European Journal of Information Systems
+doi: 10.1080/0960085x.2026.2627280
+url: https://doi.org/10.1080/0960085x.2026.2627280
+abstract: null
+type: article
+open_access: null
+cited_by: 3
+query: MEDS Methodology for Evaluation in Design Science
+question: null
+search: SEARCH-43742b177d
+score: 2.151
+score_parts:
+  rank: 1
+  citations: 0.151
+  recency: 1
+needs_approval: false
+state: candidate

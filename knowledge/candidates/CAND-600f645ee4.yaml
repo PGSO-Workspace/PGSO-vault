@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-600f645ee4
+created: 2026-09-15T00:32:12.375Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1063/5.0222987
+title: "Signed-prompt: A new approach to prevent prompt injection attacks against LLM-Integrated applications"
+authors:
+  - Xuchen Suo
+year: 2024
+venue: AIP Conference Proceedings
+doi: 10.1063/5.0222987
+url: https://doi.org/10.1063/5.0222987
+abstract: null
+type: article
+open_access: null
+cited_by: 29
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.195
+score_parts:
+  rank: 0.026
+  citations: 0.369
+  recency: 0.8
+needs_approval: false
+state: candidate

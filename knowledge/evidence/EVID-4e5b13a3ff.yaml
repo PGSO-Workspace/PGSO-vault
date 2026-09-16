@@ -1,0 +1,27 @@
+schema: phdude.evidence
+version: 1
+id: EVID-4e5b13a3ff
+created: 2026-09-13T07:00:37.902Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-4c878e2b5b
+locator: crates/pgso-actuator-mcp/src/lib.rs lines 1–10, commit 1b17c248d3608a7d80cc1147e8aa57acbb715132
+excerpt: |-
+  //! `pgso-actuator-mcp`: an [`Actuator`] that exposes the governed tool catalog
+  //! over the **Model Context Protocol** (MCP) `tools/list` transport.
+  //!
+  //! This crate is the *transport-agnosticism proof* for PGSO (Milestone 5). It
+  //! implements the exact same [`Actuator`] boundary as `pgso-actuator-local`,
+  //! with identical governance semantics (G1/G2/G3), but additionally renders the
+  //! served catalog as an MCP `tools/list` JSON payload and tracks whether a
+  //! `notifications/tools/list_changed` should be emitted. The deterministic
+  //! [`pgso_core`] engine, rules, and pipeline drive it **without any change** —
+  //! the empty `git diff` for `crates/pgso-core` is the headline result.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-8fcc780add

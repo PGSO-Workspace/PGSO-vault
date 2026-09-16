@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e1921e8ad4
+created: 2026-09-15T07:48:07.669Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/msp.2020.3038346
+title: "Explainability in Data Science: Interpretability, Reproducibility, and Replicability"
+authors: []
+year: 2021
+venue: IEEE Signal Processing Magazine
+doi: 10.1109/msp.2020.3038346
+url: https://doi.org/10.1109/msp.2020.3038346
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"LDREA-IEEE-Reproducibility" "FULL_SPEC"'
+question: null
+search: SEARCH-e7c8c764f9
+score: 0.833
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 0.5
+needs_approval: false
+state: candidate

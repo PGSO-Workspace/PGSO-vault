@@ -1,0 +1,17 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-9283eb90b4
+created: 2026-09-15T18:41:28.550Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-gold-preflight-20260915.tar
+hash: 9283eb90b4b4cfee3bd26c22a56668165dd2efe7b3bae2ccd363df3c180c1f60
+bytes: 81920
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate

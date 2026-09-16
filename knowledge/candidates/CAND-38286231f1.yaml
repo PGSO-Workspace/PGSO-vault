@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-38286231f1
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5994135
+title: "Proof-Carrying Verification for Tool-Using LLM Agents: Frozen Records, One-Clock Certificates, and Refinement Ladders"
+authors:
+  - Camilla Josephson
+year: 2026
+venue: null
+doi: 10.2139/ssrn.5994135
+url: https://doi.org/10.2139/ssrn.5994135
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.036
+score_parts:
+  rank: 0.036
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

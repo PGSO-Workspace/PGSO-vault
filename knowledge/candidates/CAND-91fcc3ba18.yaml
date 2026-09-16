@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-91fcc3ba18
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4394780976
+title: Intersectional biases in narratives produced by open-ended prompting of generative language models
+authors:
+  - Evan Shieh
+  - Faye-Marie Vassel
+  - Cassidy R. Sugimoto
+  - Thema Monroe‐White
+year: 2026
+venue: Nature Communications
+doi: 10.1038/s41467-025-68004-9
+url: https://doi.org/10.1038/s41467-025-68004-9
+abstract: The rapid deployment of generative language models has raised concerns about social biases affecting the well-being of diverse consumers. The extant literature on generative language models has primarily examined bias via explicit identity prompting. However, prior research on bias in language-based technology platforms has shown that discrimination can occur even when identity terms are not specified explicitly. Here, we advance studies of generative language model bias by considering a broader set of natural use cases via open-ended prompting, which we refer to as a laissez-faire environment. In this setting, we find that across 500,000 observations, generated outputs from the base models of five publicly available language models (ChatGPT 3.5, ChatGPT 4, Claude 2.0, Llama 2, and PaLM 2) are more likely to omit characters with minoritized race, gender, and/or sexual orientation identities compared to reported levels in the U.S. Census, or relegate them to subordinated roles as opposed to dominant ones. We also document patterns of stereotyping across language model–generated outputs with the potential to disproportionately affect minoritized individuals. Our findings highlight the urgent need for regulations to ensure responsible innovation while protecting consumers from potential harms caused by language models. People use generative language models to inform all aspects of their lives. Here, the authors examine synthetic narratives produced by open-ended prompting of generative language models and identify patterns of omission, subordination, and stereotyping against minoritized intersectional subgroups.
+type: article
+open_access: true
+cited_by: 6
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.27
+score_parts:
+  rank: 0.059
+  citations: 0.211
+  recency: 1
+needs_approval: false
+state: candidate

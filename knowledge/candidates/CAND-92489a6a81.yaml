@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-92489a6a81
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7115947466
+title: "Prompt Injection Attacks on Large Language Models: A Survey of Attack Methods, Root Causes, and Defense Strategies"
+authors:
+  - Tongcheng Geng
+  - Zhiyuan Xu
+  - Yubin Qu
+  - W. Eric Wong
+year: 2025
+venue: Computers, materials & continua/Computers, materials & continua (Print)
+doi: 10.32604/cmc.2025.074081
+url: https://doi.org/10.32604/cmc.2025.074081
+abstract: Large language models (LLMs) have revolutionized AI applications across diverse domains. However, their widespread deployment has introduced critical security vulnerabilities, particularly prompt injection attacks that manipu... | Find, read and cite all the research you need on Tech Science Press
+type: article
+open_access: true
+cited_by: 11
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.313
+score_parts:
+  rank: 0.143
+  citations: 0.27
+  recency: 0.9
+needs_approval: false
+state: candidate

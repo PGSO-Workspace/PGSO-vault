@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-39af18b0a2
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.31235/osf.io/yv8he
+title: The Context Window Fallacy in Large Language Models
+authors:
+  - Inês Hipólito
+year: 2024
+venue: null
+doi: 10.31235/osf.io/yv8he
+url: https://doi.org/10.31235/osf.io/yv8he
+abstract: The integration of Large Language Models (LLMs) into various applications as quasi-search engines raises significant concerns about their impact on misinformation and societal decision-making processes. LLMs are designed to generate text that mimics human speech, often detached from factual reality, which poses risks when used unchecked. Developers and corporations advancing LLM technology argue for enhanced effectiveness through increased context window size and computational power. However, this paper challenges this assertion, arguing that augmenting the context window primarily improves the LLMs' ability to generate human-like narratives rather than enhancing their capacity for real-world decision-making. The paper advocates for a paradigm shift where LLMs move beyond merely sounding human to effectively adjudicating real-world challenges, emphasizing the need for ethical and practical advancements in AI development to mitigate the risks associated with misinformation and naive use of LLMs in critical decision-making processes. Finally, the paper proposes alternative approaches and criteria to address identified limitations; including grounded language models, causal reasoning integration, ethical frameworks, hybrid systems, and interactive learning.
+type: preprint
+open_access: null
+cited_by: 1
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 0.917
+score_parts:
+  rank: 0.042
+  citations: 0.075
+  recency: 0.8
+needs_approval: true
+state: candidate

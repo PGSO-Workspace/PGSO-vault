@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-cc8897e0c9
+created: 2026-09-15T06:32:12.812Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.36227/techrxiv.176964092.28975702/v1
+title: "Trajectory Instability in LLM-Based Agents: Success Does Not Imply Behavioral Reliability"
+authors:
+  - Ved Patel
+year: 2026
+venue: null
+doi: 10.36227/techrxiv.176964092.28975702/v1
+url: https://doi.org/10.36227/techrxiv.176964092.28975702/v1
+abstract: "Large language model (LLM) agents are increasingly deployed in agentic settings where they must execute multi-step plans to achieve goals. While much work has focused on improving task success rates, we argue that trajectory stability, the consistency of action sequences under semantically equivalent conditions, is an overlooked but critical property for reliable deployment. We introduce a systematic framework to measure trajectory stability under controlled perturbations that preserve task semantics: memory reordering, observation paraphrasing, and irrelevant context injection. In experiments across three model families (GPT-4o-mini, Claude-3-haiku, Llama-3-8B) on 30 tasks yielding 1,440 trajectories, we find that all models exhibit substantial trajectory divergence (mean TDR = 0.49-0.61, Cohen's d = 2.17-2.76, all p < 10 −12) despite maintaining comparable success rates. Notably, Llama-3-8B shows the highest instability (TDR = 0.61) while Claude-3-haiku achieves the highest success rate (63.3%). Strikingly, perturbations can improve outcomes: across all models, we observe more cases of baseline failures converting to perturbed successes than the reverse. These findings demonstrate that LLM agents can succeed reliably while behaving unreliably, undermining auditability and safety guarantees in deployed agent systems."
+type: preprint
+open_access: null
+cited_by: 0
+query: conversational agents task success evaluation benchmark tool policy reliability
+question: null
+search: SEARCH-b2b151cc68
+score: 1.067
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

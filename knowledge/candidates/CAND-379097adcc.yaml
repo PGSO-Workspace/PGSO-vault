@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-379097adcc
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410247658
+title: "Research trends and hotspots of cognitive behavioral therapy for tinnitus: a bibliometric analysis"
+authors:
+  - 裕子 有賀
+  - Jiahui Liu
+  - Hongmei Cheng
+  - Hongkun Ye
+  - Chongrui Li
+  - Yahan Gao
+  - Xinyin Xu
+year: 2025
+venue: Frontiers in Neuroscience
+doi: 10.3389/fnins.2025.1536224
+url: https://doi.org/10.3389/fnins.2025.1536224
+abstract: 'Background: Tinnitus, defined as the perception of sound without an external auditory stimulus, affects millions worldwide, significantly diminishing their quality of life. Cognitive behavioral therapy (CBT) is the most evidence-based treatment for tinnitus management, proven effective in reducing tinnitus-related distress and severity. This study aims to evaluate the current status, emerging trends, and research hotspots in CBT for tinnitus using bibliometric methods, offering valuable insights for future studies in this field. Methods: Publications related to CBT for tinnitus were retrieved from the Web of Science Core Collection (WoSCC) database from 1985 to 2024. Bibliometric analysis and visualization were performed using VOSviewer, CiteSpace, and the R package "bibliometrix." Results: A total of 209 publications were included in this study. Research on CBT for tinnitus has shown a steady upward trend. Sweden, the United Kingdom and the United States have made notable contributions to this field. Linköping University and Karolinska Institute are the leading research institutions. Gerhard Andersson is the most prolific author and ranks first in citation frequency. The most prolific journal is the American Journal of Audiology, while Ear and Hearing is the most frequently co-cited journal. The highly cited references primarily encompass clinical trials, systematic reviews, and meta-analyses that focus on cognitive-behavioral therapy interventions. Recent keyword trends highlight topics such as "mindfulness," "acceptance and commitment therapy," and "internet-based interventions." Addressing psychological comorbidities of tinnitus, including depression and anxiety, is identified as a future research focus. Conclusion: This bibliometric analysis provides a comprehensive overview of the research landscape for CBT in tinnitus management. Current research emphasizes various CBT modalities to treat psychological comorbidities associated with tinnitus. Future studies should prioritize high-quality research to confirm the long-term efficacy of CBT in tinnitus management.'
+type: article
+open_access: true
+cited_by: 2
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 1.086
+score_parts:
+  rank: 0.067
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

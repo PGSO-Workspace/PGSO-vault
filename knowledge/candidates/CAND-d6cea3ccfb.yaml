@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d6cea3ccfb
+created: 2026-09-15T01:09:16.222Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.58257/ijprems54397
+title: Shift-Responsive Conformal Ensembling for Reliable Selective Classification Under Distribution Shift
+authors: []
+year: 2026
+venue: International Journal of Progressive Research in Engineering Management and Science
+doi: 10.58257/ijprems54397
+url: https://doi.org/10.58257/ijprems54397
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: selective classification conformal risk control runtime safety
+question: null
+search: SEARCH-54176eb439
+score: 1.125
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

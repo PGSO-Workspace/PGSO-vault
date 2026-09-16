@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-13d4dc927b
+created: 2026-09-15T06:32:12.812Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/swc65939.2025.00076
+title: "GPT-Based Conversational Agents for L2 Speaking Development: A Feedback-Optimized Task Design Framework"
+authors:
+  - Jiyoung Lee
+year: 2025
+venue: 2025 IEEE Smart World Congress (SWC)
+doi: 10.1109/swc65939.2025.00076
+url: https://doi.org/10.1109/swc65939.2025.00076
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: conversational agents task success evaluation benchmark tool policy reliability
+question: null
+search: SEARCH-b2b151cc68
+score: 0.963
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

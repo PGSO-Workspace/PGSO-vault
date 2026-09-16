@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-300c1c6eb0
+created: 2026-09-15T01:07:29.902Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.54254/2755-2721/2026.33965
+title: Research and Analysis of Empathetic Dialogue Generation Method Based on Reinforcement Learning to Improve the Balance Between Emotion and Semantics
+authors:
+  - Zhixuan Li
+year: 2026
+venue: Applied and Computational Engineering
+doi: 10.54254/2755-2721/2026.33965
+url: https://doi.org/10.54254/2755-2721/2026.33965
+abstract: With the advancement of AI, empathetic dialogue systems have made great progress, recognizing user feelings and providing responses that are suitable in different situations, which are becoming increasingly valuable. Nevertheless, there are still difficulties in specific areas, including mental health services and smart customer care. The main current limitations are the insufficient depth of emotional understanding in traditional AI, the inability to precisely detect the differences in the intensity of emotions, the inability to dynamically balance emotional responses to contextual semantics, and the inability to sustain emotional resonance in long-term dialogue. Moreover, the current approaches tend to use a single, fixed-weight reward system, which fails to meet the dynamics of the dialogue context. In the meantime, the vast majority of the models use single-turn responses as their optimization goal and ignore the role of long-term dependencies in the dialogue history in determining empathetic effectiveness. To address these challenges, this project suggests a machine learning-based empathetic dialogue generation framework that uses reinforcement learning. Using the "reward-penalty" mechanism and dynamic adjustment of weights to various goals, the system constructs a variety of reward signals to steer models towards sustained dialogue interactions instead of single-response patterns, adapting to various conversational scenarios and emotional variations.
+type: article
+open_access: null
+cited_by: 0
+query: '"Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation" 11293762'
+question: null
+search: SEARCH-a309ac3231
+score: 1.125
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

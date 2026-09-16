@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-65d61b2a55
+created: 2026-09-13T07:00:36.866Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The repository explicitly identifies root context.md as stale and inconsistent with the shipped SDK; it must not be used as the current implementation specification.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-e87259846c
+questions: []
+sections:
+  - methods
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-17468eb20f

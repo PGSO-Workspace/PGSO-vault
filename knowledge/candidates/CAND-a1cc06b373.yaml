@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a1cc06b373
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1027/1016-9040/a000544
+title: European Questionnaires Assessing Emotion Regulation in Children and 					Adolescents
+authors:
+  - Lucia Gasparovicova
+  - Emily J. Meachon
+  - Alexander Grob
+year: 2025
+venue: European Psychologist
+doi: 10.1027/1016-9040/a000544
+url: https://doi.org/10.1027/1016-9040/a000544
+abstract: "Abstract: Emotion regulation (ER) is connected to relevant outcomes for children and adolescents, such as well-being, educational achievement, and psychopathology. These findings resulted from numerous questionnaires aiming to conceptualize and assess ER in children and adolescents. The vast number of ER questionnaires for children and adolescents and their clinical implications warrant extensive discussion of their development or adaptation. However, limited attention is given to the role of regional differences and the inclusion of ER questionnaires from non-English-speaking countries. Consequently, European researchers and practitioners require effortful searches for regional ER questionnaires and largely rely on subjective judgments to choose which questionnaire they use for early detection of mental health problems in children and adolescents. Therefore, this review aims to comprehensively outline the available ER questionnaires for children and adolescents in Europe and their methodologically driven properties and qualities. We performed literature searches for ER questionnaires for children or adolescents developed or adapted in European countries in a semi-systematic search to include questionnaires in all European languages and literature regarding development or adaptation, specific assessed ER context, validation in clinical or at-risk population, and quality. Questionnaires on ER for children and adolescents represented one third of European countries, predominantly for adaptive and maladaptive ER in negative emotions. Only a fifth of questionnaires were examined in at-risk or clinical populations. The quality of relevant criteria ranged between somewhat satisfactory to unsatisfactory. Suggestions for adaptation studies, information access, and choosing ER questionnaires for children and adolescents are discussed."
+type: article
+open_access: null
+cited_by: 2
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 1.086
+score_parts:
+  rank: 0.067
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

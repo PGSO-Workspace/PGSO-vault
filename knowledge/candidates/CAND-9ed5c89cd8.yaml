@@ -1,0 +1,46 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9ed5c89cd8
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411100445
+title: Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology
+authors:
+  - Dyke Ferber
+  - Omar S. M. El Nahhas
+  - Georg Wölflein
+  - Isabella C. Wiest
+  - Jan Clusmann
+  - Marie-Elisabeth Leßmann
+  - Sebastian Foersch
+  - Jacqueline Lammert
+  - Maximilian Tschochohei
+  - Dirk Jaeger
+  - Manuel Salto‐Tellez
+  - Nikolaus Schultz
+  - Daniel Truhn
+  - Jakob Nikolas Kather
+year: 2025
+venue: Nature Cancer
+doi: 10.1038/s43018-025-00991-6
+url: https://doi.org/10.1038/s43018-025-00991-6
+abstract: Clinical decision-making in oncology is complex, requiring the integration of multimodal data and multidomain expertise. We developed and evaluated an autonomous clinical artificial intelligence (AI) agent leveraging GPT-4 with multimodal precision oncology tools to support personalized clinical decision-making. The system incorporates vision transformers for detecting microsatellite instability and KRAS and BRAF mutations from histopathology slides, MedSAM for radiological image segmentation and web-based search tools such as OncoKB, PubMed and Google. Evaluated on 20 realistic multimodal patient cases, the AI agent autonomously used appropriate tools with 87.5% accuracy, reached correct clinical conclusions in 91.0% of cases and accurately cited relevant oncology guidelines 75.5% of the time. Compared to GPT-4 alone, the integrated AI agent drastically improved decision-making accuracy from 30.3% to 87.2%. These findings demonstrate that integrating language models with precision oncology and search tools substantially enhances clinical accuracy, establishing a robust foundation for deploying AI-driven personalized oncology support systems.
+type: article
+open_access: true
+cited_by: 148
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.496
+score_parts:
+  rank: 0.053
+  citations: 0.543
+  recency: 0.9
+needs_approval: false
+state: candidate

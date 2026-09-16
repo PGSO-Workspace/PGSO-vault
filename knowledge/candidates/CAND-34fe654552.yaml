@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-34fe654552
+created: 2026-09-15T07:38:43.488Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3998/gabii.1.sd1109
+title: Spot Date 1109
+authors: []
+year: 2021
+venue: Gabii Project Reports Database
+doi: 10.3998/gabii.1.sd1109
+url: https://doi.org/10.3998/gabii.1.sd1109
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"10.1109/ACCESS.2026.3719838" "Date of Publication"'
+question: null
+search: SEARCH-210eb9e969
+score: 0.833
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 0.5
+needs_approval: false
+state: candidate

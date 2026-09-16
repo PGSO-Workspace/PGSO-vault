@@ -1,0 +1,135 @@
+schema: phdude.result
+version: 1
+id: RESULT-b2e138dc20
+created: 2026-09-15T16:30:25.491Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: "Public-voice development pilot: 21/21 arm-task sessions produced original live environment-assertion scores; 0 failed and 0 were missing"
+from: ANALYSIS-2368d92858
+values:
+  expected_arm_tasks: 21
+  completed_arm_tasks: 21
+  failed_arm_tasks: 0
+  missing_arm_tasks: 0
+  completion_denominator: 21
+  scored_denominator: 21
+  attempted: 251
+  executed: 251
+  non_executed: 0
+  external_policy_blocked: 0
+  runtime_tool_unavailable: 0
+  acoustic_policy_denied: 0
+  execution_failed: 0
+  arms:
+    - condition: B0
+      expected_tasks: 3
+      completed_tasks: 3
+      failed_tasks: 0
+      missing_tasks: 0
+      scored_denominator: 3
+      original_outcome_sum: 0
+      original_outcome_mean: 0
+      attempted: 41
+      executed: 41
+      non_executed: 0
+      external_policy_blocked: 0
+      runtime_tool_unavailable: 0
+      acoustic_policy_denied: 0
+      execution_failed: 0
+    - condition: B1
+      expected_tasks: 3
+      completed_tasks: 3
+      failed_tasks: 0
+      missing_tasks: 0
+      scored_denominator: 3
+      original_outcome_sum: 0
+      original_outcome_mean: 0
+      attempted: 36
+      executed: 36
+      non_executed: 0
+      external_policy_blocked: 0
+      runtime_tool_unavailable: 0
+      acoustic_policy_denied: 0
+      execution_failed: 0
+    - condition: T
+      expected_tasks: 3
+      completed_tasks: 3
+      failed_tasks: 0
+      missing_tasks: 0
+      scored_denominator: 3
+      original_outcome_sum: 0
+      original_outcome_mean: 0
+      attempted: 37
+      executed: 37
+      non_executed: 0
+      external_policy_blocked: 0
+      runtime_tool_unavailable: 0
+      acoustic_policy_denied: 0
+      execution_failed: 0
+    - condition: P
+      expected_tasks: 3
+      completed_tasks: 3
+      failed_tasks: 0
+      missing_tasks: 0
+      scored_denominator: 3
+      original_outcome_sum: 0
+      original_outcome_mean: 0
+      attempted: 39
+      executed: 39
+      non_executed: 0
+      external_policy_blocked: 0
+      runtime_tool_unavailable: 0
+      acoustic_policy_denied: 0
+      execution_failed: 0
+    - condition: N
+      expected_tasks: 3
+      completed_tasks: 3
+      failed_tasks: 0
+      missing_tasks: 0
+      scored_denominator: 3
+      original_outcome_sum: 0
+      original_outcome_mean: 0
+      attempted: 34
+      executed: 34
+      non_executed: 0
+      external_policy_blocked: 0
+      runtime_tool_unavailable: 0
+      acoustic_policy_denied: 0
+      execution_failed: 0
+    - condition: I
+      expected_tasks: 3
+      completed_tasks: 3
+      failed_tasks: 0
+      missing_tasks: 0
+      scored_denominator: 3
+      original_outcome_sum: 0
+      original_outcome_mean: 0
+      attempted: 30
+      executed: 30
+      non_executed: 0
+      external_policy_blocked: 0
+      runtime_tool_unavailable: 0
+      acoustic_policy_denied: 0
+      execution_failed: 0
+    - condition: S
+      expected_tasks: 3
+      completed_tasks: 3
+      failed_tasks: 0
+      missing_tasks: 0
+      scored_denominator: 3
+      original_outcome_sum: 0
+      original_outcome_mean: 0
+      attempted: 34
+      executed: 34
+      non_executed: 0
+      external_policy_blocked: 0
+      runtime_tool_unavailable: 0
+      acoustic_policy_denied: 0
+      execution_failed: 0
+state: candidate
+ext:
+  analysis:
+    key: public_voice_descriptive
+    run_at: 2026-09-15T16:30:25.491Z

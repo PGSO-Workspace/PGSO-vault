@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-591d7a94be
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4414013482
+title: "Large Language Models in Cybersecurity: A Survey of Applications, Vulnerabilities, and Defense Techniques"
+authors:
+  - Niveen O. Jaffal
+  - Mohammad AlKhanafseh
+  - Aziz Mohaisen
+year: 2025
+venue: AI
+doi: 10.3390/ai6090216
+url: https://doi.org/10.3390/ai6090216
+abstract: "Large Language Models (LLMs) are transforming cybersecurity by enabling intelligent, adaptive, and automated approaches to threat detection, vulnerability assessment, and incident response. With their advanced language understanding and contextual reasoning, LLMs surpass traditional methods in tackling challenges across domains such as the Internet of Things (IoT), blockchain, and hardware security. This survey provides a comprehensive overview of LLM applications in cybersecurity, focusing on two core areas: (1) the integration of LLMs into key cybersecurity domains, and (2) the vulnerabilities of LLMs themselves, along with mitigation strategies. By synthesizing recent advancements and identifying key limitations, this work offers practical insights and strategic recommendations for leveraging LLMs to build secure, scalable, and future-ready cyber defense systems."
+type: article
+open_access: true
+cited_by: 54
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 2.335
+score_parts:
+  rank: 1
+  citations: 0.435
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2561ef25b4
+created: 2026-09-15T00:31:36.231Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.4018/978-1-6684-6303-1.ch077
+title: Towards Semantic Aspect-Based Sentiment Analysis for Arabic Reviews
+authors:
+  - Salima Behdenna
+  - Fatiha Barigou
+  - Ghalem Belalem
+year: 2022
+venue: Research Anthology on Implementing Sentiment Analysis Across Multiple Disciplines
+doi: 10.4018/978-1-6684-6303-1.ch077
+url: https://doi.org/10.4018/978-1-6684-6303-1.ch077
+abstract: Sentiment analysis is a text mining discipline that aims to identify and extract subjective information. This growing field results in the emergence of three levels of granularity (document, sentence, and aspect). However, both the document and sentence levels do not find what exactly the opinion holder likes and dislikes. Furthermore, most research in this field deals with English texts, and very limited researches are undertaken on Arabic language. In this paper, the authors propose a semantic aspect-based sentiment analysis approach for Arabic reviews. This approach utilizes the semantic of description logics and linguistic rules in the identification of opinion targets and their polarity.
+type: chapter
+open_access: null
+cited_by: 0
+query: '"Coupling Sentiment and Arousal Analysis Towards an Affective Dialogue Manager"'
+question: null
+search: SEARCH-7bc8da0319
+score: 0.671
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 0.6
+needs_approval: false
+state: candidate

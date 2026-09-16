@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8951f32c83
+created: 2026-09-14T23:47:47.446Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/compsac69091.2026.00466
+title: "Security Risks in Tool-Enabled AI Agents: A Systematic Analysis of Privileged Execution Environments"
+authors:
+  - Hardik Goel
+year: 2026
+venue: 2026 IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)
+doi: 10.1109/compsac69091.2026.00466
+url: https://doi.org/10.1109/compsac69091.2026.00466
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"AgentDojo" tool agents security'
+question: null
+search: SEARCH-95d8fe4170
+score: 1.067
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

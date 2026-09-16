@@ -1,0 +1,19 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-bb91be8ef6
+created: 2026-09-15T00:13:58.650Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-sdk-60113da.tar
+hash: bb91be8ef6d87cf0952c5d92bcf0a812ac0e49834e76d6b85e6f16b54d9ab89e
+bytes: 2539520
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Frozen SDK source at merged commit 60113da9c0ca354af1536f1690b0ba6e1c644538
+license: MIT

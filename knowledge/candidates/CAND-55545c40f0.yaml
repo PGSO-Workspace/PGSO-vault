@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-55545c40f0
+created: 2026-09-15T01:09:16.222Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/dipca70202.2026.11565935
+title: Risk-Aware Fruit Ripeness Recognition under Synthetic Distribution Shift via Selective Classification and Conformal Prediction Sets
+authors:
+  - Daniel Cevallos V.
+  - Erasmo García
+  - Miguel Torres
+  - Holger Cevallos
+year: 2026
+venue: 2026 3rd International Conference on Digital Image Processing and Computer Applications (DIPCA)
+doi: 10.1109/dipca70202.2026.11565935
+url: https://doi.org/10.1109/dipca70202.2026.11565935
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: selective classification conformal risk control runtime safety
+question: null
+search: SEARCH-54176eb439
+score: 1.25
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8e793e9be5
+created: 2026-09-15T00:31:11.443Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.36227/techrxiv.174743200.06295600/v1
+title: "NeuralCodeFusion: A Self-Adaptive Multimodal AI Framework for Robust Emotion Recognition Across EEG, Facial, Speech, and Text in Real-World Contexts"
+authors:
+  - Tapasvi Panchagnula
+year: 2025
+venue: null
+doi: 10.36227/techrxiv.174743200.06295600/v1
+url: https://doi.org/10.36227/techrxiv.174743200.06295600/v1
+abstract: "NeuralCodeFusion proposes a conceptual multimodal AI framework for emotion recognition, integrating EEG, facial expression, speech, and textual data using Cross-Modal Attention Transformers (CMAT) and Neural-Symbolic Reasoning (NSR). Simulations estimate a 92% F1-score (95% CI: 90.5-93.5%) on the EmoFusion2000 dataset, suggesting potential improvements over baselines like FLAVA (84%) and Gemini (90%) by 8-12%. The framework emphasizes robustness under noisy conditions (e.g., 85% F1-score at SNR 5 dB), interpretability via NSR, and cross-modal reasoning. This theoretical study lacks empirical validation; future work will include reproducible code and real-world experiments. Simulated fairness metrics (0.94 gender parity, 0.92 ethnic fairness) highlight ethical considerations. The framework's innovations-CMAT's sparse attention for efficient fusion, NSR's interpretable reasoning, and TCCM's temporal alignment-enable robust performance in noisy, realworld settings, advancing multimodal emotion recognition."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition"'
+question: null
+search: SEARCH-f9a249d1ae
+score: 1.233
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

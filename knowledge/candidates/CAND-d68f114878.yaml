@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d68f114878
+created: 2026-09-15T08:10:36.723Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W2804008193
+title: "Making Sense of Design Science in Information Systems Research: Insights from a Systematic Literature Review"
+authors:
+  - Alexander Herwix
+  - Christoph Rosenkranz
+year: 2018
+venue: Lecture notes in computer science
+doi: 10.1007/978-3-319-91800-6_4
+url: https://doi.org/10.1007/978-3-319-91800-6_4
+abstract: null
+type: other
+open_access: false
+cited_by: 7
+query: '"Design Science in Information Systems Research"'
+question: null
+search: SEARCH-e78eb7cdff
+score: 0.626
+score_parts:
+  rank: 0.2
+  citations: 0.226
+  recency: 0.2
+needs_approval: false
+state: candidate

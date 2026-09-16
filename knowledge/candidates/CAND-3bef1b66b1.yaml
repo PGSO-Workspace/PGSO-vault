@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3bef1b66b1
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0013526100004619
+title: "Emotion Recognition in Human-Robot Interaction: Multimodal Fusion, Deep Learning, and Ethical Considerations"
+authors:
+  - Yuan Gao
+year: 2024
+venue: Proceedings of the 2nd International Conference on Data Analysis and Machine Learning
+doi: 10.5220/0013526100004619
+url: https://doi.org/10.5220/0013526100004619
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 0.92
+score_parts:
+  rank: 0.045
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

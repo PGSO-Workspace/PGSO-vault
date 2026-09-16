@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d6d226ef0a
+created: 2026-09-15T08:27:35.758Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.62476/ndi102479
+title: "Toward a Methodology of Arabic Typeface Design: Transforming Modern Logotypes into Digital Font"
+authors: []
+year: 2026
+venue: New Design Ideas
+doi: 10.62476/ndi102479
+url: https://doi.org/10.62476/ndi102479
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 10.1080/0960085X.2026.2627280 MEDS Methodology for Evaluation in Design Science
+question: null
+search: SEARCH-6539f3f4d3
+score: 1.083
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

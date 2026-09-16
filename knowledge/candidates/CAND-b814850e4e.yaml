@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b814850e4e
+created: 2026-09-15T07:34:52.996Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-8992050/v1
+title: A Hierarchical Federated CNN Framework with Explainable AI for Multi-Modal Brain Tumor Classification
+authors:
+  - Doaa Mohey Eldin
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-8992050/v1
+url: https://doi.org/10.21203/rs.3.rs-8992050/v1
+abstract: Abstract This paper proposes a new federated neural network based on a hierarchical feature extraction using the convolutional neural network (CNN) and interpret the results with the explainable AI (XAI) tools to classify brain tumors effectively. The proposed model applies to different types of data, like MRI and fMRI images and EEG signals, to find features at different levels of the network—low, mid, and high. Special attention methods improve how well these features are represented, and then the features are combined using a final set of layers to make accurate predictions. Federated learning allows doctors at different hospitals to work together to train the model without sending patient data between them, which keeps everything private. XAI methods such as Grad-CAM, SHAP, and LIME help explain why the model makes its decisions. When tested on a well-known dataset of brain tumor MRI scans, this framework illustrates better accuracy results in classifying tumors while being clear and following privacy rules.
+type: preprint
+open_access: null
+cited_by: 1
+query: Multi-modal hierarchical empathetic framework social robots affective body control
+question: null
+search: SEARCH-35ee737b2d
+score: 1.325
+score_parts:
+  rank: 0.25
+  citations: 0.075
+  recency: 1
+needs_approval: true
+state: candidate

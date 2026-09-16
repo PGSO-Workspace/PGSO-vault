@@ -1,0 +1,57 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1bfb571999
+created: 2026-09-15T09:46:31.407Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4399447387
+title: "Prevalence of subthreshold depression and its related factors in Chinese college students: A cross-sectional study"
+authors:
+  - Pu Ge
+  - Cheng Tan
+  - Jiaxin Liu
+  - Qiong Cai
+  - Siqi Zhao
+  - W. K. Hong
+  - Kun-meng Liu
+  - Jia-le Qi
+  - Chen Hu
+  - Wenli Yu
+  - Yi-miao Li
+  - Yuan You
+  - Jin-han Guo
+  - Ming-yan Hao
+  - Yang Chen
+  - L.-Z. Pan
+  - Diyue Liu
+  - Meng-yao Yan
+  - Jin-zi Zhang
+  - Qi-yu Li
+  - Bo-ya Sun
+  - Xiao Han
+  - Fenghuang Mo
+  - Yibo Wu
+  - Ying Bian
+year: 2024
+venue: Heliyon
+doi: 10.1016/j.heliyon.2024.e32595
+url: https://doi.org/10.1016/j.heliyon.2024.e32595
+abstract: "Objective: To investigate the prevalence of subthreshold depression among Chinese college students and to explore the related factors. Methods: The research subjects were Chinese college students participating in the \"2022 Psychology and Behavior Investigation of Chinese Residents (PBICR-2022)\". Data on respondents' general characteristics, quality of life, perceived pressure, family communication, perceived social support, self-efficacy, and depression status were gathered. To investigate the association between each variable and the risk of subthreshold depression, statistical analyses, including chi-square tests and rank sum tests were conducted. Furthermore, a binary stepwise logistic regression was employed to establish the regression model of the factors related to subthreshold depression among Chinese college students. Results: A prevalence of subthreshold depression of about 39.7 % was found among the 8934 respondents. Logistic regression analysis revealed that respondents who are female, have chronic diseases, are in debt, experience significant impacts from epidemic control policies, have lower self-assessed quality of life, experience challenges in family communication, perceive lower social support, have lower self-efficacy, and feel higher perceived pressure are more likely to develop subthreshold depression compared to the control group. (P < 0.05). Conclusion: The prevalence rate of subthreshold depression among Chinese college students was found to be approximately 40 %. Female college students suffering from chronic diseases, with households in debt, greatly impacted by epidemic control policies, and experiencing high perceived stress, may be at risk for subthreshold depression among Chinese college students. On the other hand, strong family communication, perceived social support, and self-efficacy were identified as potential protective factors. In order to facilitate timely screening, diagnosis, and treatment of subthreshold depression in Chinese college students, it is crucial for the government, local communities, colleges, and families to prioritize the mental health of college students and implement targeted measures accordingly."
+type: article
+open_access: true
+cited_by: 20
+query: Yue Qi personality cultural variables psychological simulations
+question: null
+search: SEARCH-4cdf3b8231
+score: 1.298
+score_parts:
+  rank: 0.167
+  citations: 0.331
+  recency: 0.8
+needs_approval: false
+state: candidate

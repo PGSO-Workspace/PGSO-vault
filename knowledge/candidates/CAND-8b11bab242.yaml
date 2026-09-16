@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8b11bab242
+created: 2026-09-15T00:21:13.389Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7166886473
+title: "ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback"
+authors:
+  - Yutao Mou
+  - Zhangchi Xue
+  - Lijun Li
+  - Peiyang Liu
+  - Shikun Zhang
+  - Wei Ye
+  - Jing Shao
+year: 2026
+venue: null
+doi: 10.18653/v1/2026.findings-acl.1850
+url: https://doi.org/10.18653/v1/2026.findings-acl.1850
+abstract: While LLM-based agents can interact with environments via invoking external tools, their expanded capabilities also amplify security risks.Monitoring step-level tool invocation behaviors in real time and proactively intervening before unsafe execution is critical for agent deployment, yet remains underexplored.In this work, we first construct TS-Bench, a novel benchmark for step-level tool invocation safety detection in LLM agents.We then develop a guardrail model, TS-Guard, using multitask reinforcement learning.The model proactively detects unsafe tool invocation actions before execution by reasoning over the interaction history.It assesses request harmfulness and action-attack correlations, producing interpretable and generalizable safety judgments and feedback.Furthermore, We introduce TS-Flow, a guardrail-feedback-driven reasoning framework for LLM agents, which reduces harmful tool invocations of ReAct-style agents by 65% on average and improves benign task completion by approximately 10% under prompt injection attacks.
+type: other
+open_access: true
+cited_by: 1
+query: LlamaFirewall open source guardrail agentic AI systems
+question: null
+search: SEARCH-70332b9336
+score: 1.2
+score_parts:
+  rank: 0.125
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ac93ff9f89
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.70393/6a696574.343135
+title: A Comparative Empirical Evaluation of Single-Agent and Multi-Agent LLM Prompting Strategies for Automated Formative Feedback in Education
+authors:
+  - Jiawen Lai
+  - Zan Li
+year: 2026
+venue: Journal of Intelligence and Engineering Technology
+doi: 10.70393/6a696574.343135
+url: https://doi.org/10.70393/6a696574.343135
+abstract: "Automated formative feedback has emerged as a focal point in educational technology research, as large language models (LLMs) offer the prospect of providing personalized commentary on student writing at a scale that human instructors alone cannot match. What is less well examined, however, is how the underlying prompting design—particularly the choice between single-agent and multi-agent setups—shapes the pedagogical value of the feedback produced. To examine this question, we conducted a controlled comparison across four prompting configurations on a corpus of 200 undergraduate argumentative essays: a zero-shot single-agent baseline, a chain-of-thought single-agent variant, a dual-role multi-agent pipeline in which one model drafts feedback and another critiques it, and a tri-role multi-agent pipeline that introduces a dedicated revision stage on top of the draft-and-critique loop. Each set of feedback outputs was assessed along a multi-dimensional rubric covering accuracy, specificity, constructiveness, and tone, with three trained raters scoring independently. We also computed automated textual similarity metrics against expert-authored reference feedback to complement the human ratings and provide a more independent check. The tri-role multi-agent configuration produced the highest composite quality scores and, notably, the lowest rates of over-praise and hallucinated claims about essay content. The chain-of-thought single-agent variant, while not topping the rankings, delivered surprisingly close quality at a fraction of the inference cost, making it an attractive option when computational budget or latency matters. We close by discussing what these patterns mean in practice for educators and developers looking to integrate LLM-based feedback agents into higher-education writing workflows at scale."
+type: article
+open_access: null
+cited_by: 0
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.037
+score_parts:
+  rank: 0.037
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

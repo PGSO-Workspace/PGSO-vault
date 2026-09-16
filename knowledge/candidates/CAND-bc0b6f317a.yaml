@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bc0b6f317a
+created: 2026-09-14T16:52:06.356Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2023.3290795
+title: Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition
+authors:
+  - Yuan Gao
+  - Longbiao Wang
+  - Jiaxing Liu
+  - Jianwu Dang
+  - Shogo Okada
+year: 2024
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2023.3290795
+url: https://doi.org/10.1109/taffc.2023.3290795
+abstract: null
+type: article
+open_access: null
+cited_by: 29
+query: Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition
+question: null
+search: SEARCH-b643681c1c
+score: 1.669
+score_parts:
+  rank: 0.5
+  citations: 0.369
+  recency: 0.8
+needs_approval: false
+state: candidate

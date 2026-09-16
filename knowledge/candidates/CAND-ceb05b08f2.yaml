@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ceb05b08f2
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/haxd70072.2026.11620694
+title: "Empathic Communication in Human-AI Interaction: Effects on User Experience with a Task-Oriented Embodied Conversational Agent (ECA)"
+authors:
+  - José Rocha
+  - Iara Margolis
+  - Alexandre Carrança
+  - Diogo Lopes
+  - Nuno Sousa
+  - Luis Magalhães
+year: 2026
+venue: 2026 2nd International Conference on Human-AI Interaction and Experience Design (HAXD)
+doi: 10.1109/haxd70072.2026.11620694
+url: https://doi.org/10.1109/haxd70072.2026.11620694
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 1.25
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

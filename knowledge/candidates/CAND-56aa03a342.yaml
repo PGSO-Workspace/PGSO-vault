@@ -1,0 +1,53 @@
+schema: phdude.candidate
+version: 1
+id: CAND-56aa03a342
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404344563
+title: "Personalization of Large Language Models: A Survey"
+authors:
+  - Zhehao Zhang
+  - Ryan A. Rossi
+  - Branislav Kveton
+  - Yijia Shao
+  - Diyi Yang
+  - Hamed Zamani
+  - Franck Dernoncourt
+  - Joe Barrow
+  - Tong Yu
+  - Sungchul Kim
+  - Ruiyi Zhang
+  - Jiuxiang Gu
+  - Tyler Derr
+  - Hongjie Chen
+  - Junda Wu
+  - Xiang Chen
+  - Zichao Wang
+  - S. Mitra
+  - Nedim Lipka
+  - Nesreen K. Ahmed
+  - Yu Wang
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2411.00027
+url: http://arxiv.org/abs/2411.00027
+abstract: Personalization of Large Language Models (LLMs) has recently become increasingly important with a wide range of applications. Despite the importance and recent progress, most existing works on personalized LLMs have focused either entirely on (a) personalized text generation or (b) leveraging LLMs for personalization-related downstream applications, such as recommendation systems. In this work, we bridge the gap between these two separate main directions for the first time by introducing a taxonomy for personalized LLM usage and summarizing the key differences and challenges. We provide a formalization of the foundations of personalized LLMs that consolidates and expands notions of personalization of LLMs, defining and discussing novel facets of personalization, usage, and desiderata of personalized LLMs. We then unify the literature across these diverse fields and usage scenarios by proposing systematic taxonomies for the granularity of personalization, personalization techniques, datasets, evaluation methods, and applications of personalized LLMs. Finally, we highlight challenges and important open problems that remain to be addressed. By unifying and surveying recent research using the proposed taxonomies, we aim to provide a clear guide to the existing literature and different facets of personalization in LLMs, empowering both researchers and practitioners.
+type: preprint
+open_access: true
+cited_by: 15
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.212
+score_parts:
+  rank: 0.111
+  citations: 0.301
+  recency: 0.8
+needs_approval: true
+state: candidate

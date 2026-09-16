@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3bc7831943
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4317552966
+title: "Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?"
+authors:
+  - John J. Horton
+  - Filippas, Apostolos
+  - Manning, Benjamin S.
+year: 2023
+venue: "RePEc: Research Papers in Economics"
+doi: 10.48550/arxiv.2301.07543
+url: http://arxiv.org/pdf/2301.07543
+abstract: "We argue that newly-developed large language models (LLMs), because of how they are trained and designed, are implicit computational models of humans -- a Homo silicus. LLMs can be used like economists use Homo economicus: they can be given endowments, information, preferences, and so on, and then their behavior can be explored in scenarios via simulation. Experiments using this approach, derived from Charness and Rabin (2002), Kahneman et al. (1986), Samuelson and Zeckhauser (1988), Oprea (2024b), and Horton (2025), show qualitatively similar results to the original, and when they differ, it is often generative for future research. We discuss potential applications, conceptual issues, and why this approach can inform the study of humans."
+type: preprint
+open_access: true
+cited_by: 47
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.453
+score_parts:
+  rank: 0.333
+  citations: 0.42
+  recency: 0.7
+needs_approval: true
+state: candidate

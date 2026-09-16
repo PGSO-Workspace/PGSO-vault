@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bca843f57d
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.52710/cfs.746
+title: Building Secure AI Agents for Autonomous Data Access in Compliance/Regulatory-Critical Environments
+authors:
+  - Naveen Kolli, John Wesly Sajja, Anusha Nerella
+year: 2024
+venue: Computer Fraud and Security
+doi: 10.52710/cfs.746
+url: https://doi.org/10.52710/cfs.746
+abstract: "Artificial intelligence (AI) agents are increasingly being deployed across data-driven industries to automate decision-making, streamline workflows, and enhance operational efficiency. However, their integration into compliance-critical environments such as finance, healthcare, and government raises significant concerns around data privacy, security, auditability, and explainability. Ensuring that autonomous systems can access sensitive data without violating regulatory requirements remains a central challenge. This paper introduces a secure architectural framework for designing and deploying AI agents that operate under strict compliance constraints. The proposed framework emphasizes three pillars: (1) fine-grained access control with contextual awareness, (2) continuous monitoring and auditing mechanisms for regulatory transparency, and (3) interpretable decision-making pathways to support accountability. By aligning agent autonomy with compliance-by-design principles, the framework offers a pathway to safely unlock the benefits of AI in domains where trust, oversight, and risk management are paramount. Preliminary evaluation suggests that the architecture reduces compliance violations while maintaining efficiency, offering a practical blueprint for secure AI deployment in sensitive sectors."
+type: article
+open_access: null
+cited_by: 3
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 0.978
+score_parts:
+  rank: 0.027
+  citations: 0.151
+  recency: 0.8
+needs_approval: false
+state: candidate

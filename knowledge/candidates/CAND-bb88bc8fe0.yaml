@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bb88bc8fe0
+created: 2026-09-15T09:45:55.769Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.47832/conf.cambridge1-12
+title: Individual and Collective Coping Mechanisms for Psychological Trauma Resulting from Loss in the Golan
+authors: []
+year: 2025
+venue: Full Text Book of Conference Cambridge1
+doi: 10.47832/conf.cambridge1-12
+url: https://doi.org/10.47832/conf.cambridge1-12
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Yue Qi" full text'
+question: null
+search: SEARCH-aa21877eb5
+score: 1.025
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

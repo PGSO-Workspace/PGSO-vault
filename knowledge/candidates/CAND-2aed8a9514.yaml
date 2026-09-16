@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2aed8a9514
+created: 2026-09-14T23:47:30.960Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.14722/ndss.2026.240702
+title: "ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data"
+authors:
+  - Reachal Wang
+  - Yuqi Jia
+  - Neil Gong
+year: 2026
+venue: Proceedings 2026 Network and Distributed System Security Symposium
+doi: 10.14722/ndss.2026.240702
+url: https://doi.org/10.14722/ndss.2026.240702
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"Policy-as-Prompt" LLM agents'
+question: null
+search: SEARCH-b69be67f4a
+score: 1.128
+score_parts:
+  rank: 0.053
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

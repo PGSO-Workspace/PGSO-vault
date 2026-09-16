@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-e42e168741
+created: 2026-09-13T06:59:21.830Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/1b17c248d360/README.md
+paths:
+  - sources/software/pgso-sdk/1b17c248d360/README.md
+hash: e42e16874171a04195d9a78d8ee5b938bb6cdf4da11ea2b3b0f39df0df22f24c
+bytes: 14442
+mime: text/markdown
+kind: md
+role: notes
+extracted:
+  status: ok
+  method: text
+  text_chars: 14285
+  sections: 18
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:59:21.629Z
+latest: false

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4cf8fa494c
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3411764.3445708
+title: Understanding Conversational and Expressive Style in a Multimodal Embodied Conversational Agent
+authors:
+  - Deepali Aneja
+  - Rens Hoegen
+  - Daniel McDuff
+  - Mary Czerwinski
+year: 2021
+venue: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems
+doi: 10.1145/3411764.3445708
+url: https://doi.org/10.1145/3411764.3445708
+abstract: null
+type: article
+open_access: null
+cited_by: 39
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 0.96
+score_parts:
+  rank: 0.059
+  citations: 0.401
+  recency: 0.5
+needs_approval: false
+state: candidate

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6bd587b3ea
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.knosys.2023.111039
+title: "SEEC and CHASE: An emotion-cause pair-oriented approach and conversational dataset with heterogeneous emotions for empathetic response generation"
+authors:
+  - Srishti Gupta
+  - Sourav Kumar Dandapat
+year: 2023
+venue: Knowledge-Based Systems
+doi: 10.1016/j.knosys.2023.111039
+url: https://doi.org/10.1016/j.knosys.2023.111039
+abstract: null
+type: article
+open_access: null
+cited_by: 17
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.054
+score_parts:
+  rank: 0.04
+  citations: 0.314
+  recency: 0.7
+needs_approval: false
+state: candidate

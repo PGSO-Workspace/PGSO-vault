@@ -1,0 +1,28 @@
+schema: phdude.source
+version: 1
+id: SRC-b3c0b79562
+created: 2026-09-14T23:02:50.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: "PGSO lifecycle and protected execution: implementation verification bd17ce2"
+authors:
+  - Codex (AI-assisted technical implementation)
+type: report
+artifacts: []
+state: candidate
+year: 2026
+abstract: |-
+  Low-confidence readings previously restored restricted tools, and expired rules could leave restrictions or directives behind. This change reconciles the effective policy from per-axis contributions: abstention holds state, nominal observations retire their axis, and explicit host expiry removes stale contributions. Full state transitions include directive removal; failed actuator commits do not advance the decision engine. Invalid configuration, nonfinite audio/readings and backward observation timestamps are rejected or abstained from.
+
+  The optional HTTP crate adds a single-session execution boundary shared by REST and MCP requests. Dispatch checks current exposure, static host permissions, session identity and the registered JSON Schema. Step-up uses host-issued random confirmations bound to exact arguments, policy revision and expiry; confirmations are single-use even if callbacks fail. Agent routes cannot issue approvals or change permissions. Includes a localhost echo example and integration/migration documentation.
+
+  Validation: 87 distinct passing Rust tests including the doctest, verified in debug and release (86 workspace tests, then the HTTP crate's four tests rerun after adding its fourth regression). Formatting, all-target Clippy and rustdoc pass with warnings denied; locked workspace build passes on Rust 1.83. Dependencies were resolved with the declared MSRV fallback. The original audit's 11 regression contracts now pass, plus cross-axis expiry, directional rules, rollback, audio validation and execution-boundary checks.
+
+  Review notes: custom Actuator implementations need current_state and atomic reconcile; RulePredicate literals need direction. HTTP uses one mutex per session for synchronous dispatch. MCP supports JSON initialize/ping/tools requests, not SSE or server notifications. The trusted host must protect credentials, issue consent independently, provide TLS/rate limits and persist audit data. This is not a claim of protection from a compromised host. Acoustic confidence remains voicing quality, not calibrated emotional certainty. Existing scientific datasets/results were not changed and no superiority or participant study was run. The decision microbenchmark is relabeled as batch-mean cost rather than individual-call tail latency.
+
+
+  Provenance: reviewed upstream 1b17c248d3608a7d80cc1147e8aa57acbb715132; initial abstention fix 1b4ef8b; completed implementation bd17ce2c1daab363959e44b434f27edd6b76bd33, branch fix/governance-lifecycle, draft PR https://github.com/PGSO-Workspace/pgso-sdk/pull/1. Worktree /home/lucio/workspace/pgso-sdk-fix-abstention. Local verification logs /tmp/pgso-final-tests.txt, /tmp/pgso-final-release.txt, /tmp/pgso-runtime-extra.txt, /tmp/pgso-runtime-extra-release.txt, /tmp/pgso-final-clippy.txt, /tmp/pgso-final-doc.txt and /tmp/pgso-msrv-build.txt are ephemeral; committed test sources and lockfile provide the durable reproduction recipe. No raw log artifacts were ingested. This record preserves the observed summary as candidate evidence, not an approved scientific result.
+
+  Follow-up for DEC-cee3bf1c08: select the licensed extractor against speaker-held-out data, calibrate uncertainty separately from voicing quality, preregister the four-condition comparison with common hard permissions, pilot the human behavioral rubric and power/sample assumptions, then run the confirmatory study and populate results. Existing phase-2 row bootstrap and historical governance-grade bands are not a substitute for clustered inference or downstream utility. The new runtime is a technical prerequisite, not completion of that empirical protocol. Original manuscript, source files and historical experiments remain untouched.

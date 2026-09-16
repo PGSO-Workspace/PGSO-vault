@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9a668c6fcf
+created: 2026-09-15T07:38:48.880Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21275/sr21825190409
+title: Privacy Preserving Utility Verification of Data Published
+authors:
+  - Madhushree M
+year: 2021
+venue: International Journal of Science and Research (IJSR)
+doi: 10.21275/sr21825190409
+url: https://doi.org/10.21275/sr21825190409
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"10.1145/3814959" published'
+question: null
+search: SEARCH-76dea7765d
+score: 0.567
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 0.5
+needs_approval: false
+state: candidate

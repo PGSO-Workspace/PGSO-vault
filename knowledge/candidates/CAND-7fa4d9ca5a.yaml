@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7fa4d9ca5a
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icivp66296.2025.00028
+title: Conversational Context-aware Multimodal Emotion Recognition
+authors:
+  - Ming Chen
+  - Guoyong Cai
+  - Peicong Yuan
+  - Xiaolyu Tang
+year: 2025
+venue: 2025 International Conference on Image and Video Processing (ICIVP)
+doi: 10.1109/icivp66296.2025.00028
+url: https://doi.org/10.1109/icivp66296.2025.00028
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 0.937
+score_parts:
+  rank: 0.037
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

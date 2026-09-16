@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8519d128ed
+created: 2026-09-15T07:34:45.095Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4414865824
+title: LLM-based multi-agent system for neuro-ophthalmic diagnosis and personalized treatment planning
+authors:
+  - Wenmiao Wang
+year: 2025
+venue: Frontiers in Neuroscience
+doi: 10.3389/fnins.2025.1688509
+url: https://doi.org/10.3389/fnins.2025.1688509
+abstract: "Introduction: Ophthalmic findings can non-invasively reflect nervous-system status. We present an LLM-based multi-agent framework that preserves diagnostic uncertainty to support neuro-ophthalmic screening and referral. Methods: Heterogeneous inputs (clinical text/PDFs and optional fundus/OCT images) are normalized by an Information Collection Agent. A Diagnosis Agent ensembles multiple LLMs and, when available, a CNN image branch; outputs are aggregated with an uncertainty-aware fusion. Results: Across a curated ophthalmic corpus, the multi-agent framework improves robustness over single-model baselines and produces multi-candidate distributions suitable for downstream triage and monitoring. Discussion: Uncertainty-aware, multi-candidate predictions align with clinical decision-making under ambiguity and suggest future work on calibration and knowledge-layer fusion."
+type: article
+open_access: true
+cited_by: 4
+query: 2024 2025 journal LLM agents runtime monitor policy enforcement tool calls
+question: null
+search: SEARCH-b7942200d3
+score: 1.166
+score_parts:
+  rank: 0.091
+  citations: 0.175
+  recency: 0.9
+needs_approval: false
+state: candidate

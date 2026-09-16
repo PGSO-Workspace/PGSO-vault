@@ -1,0 +1,19 @@
+schema: phdude.result
+version: 1
+id: RESULT-d1007ae414
+created: 2026-09-15T00:53:11.819Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: "Actual loopback HTTP/MCP: 14/14 declared authentication, schema and routing checks passed"
+from: ANALYSIS-3e5b065442
+values:
+  cases: 14
+  passed: 14
+  failed: 0
+state: candidate
+ext:
+  analysis:
+    key: transport
+    run_at: 2026-09-15T00:53:11.819Z

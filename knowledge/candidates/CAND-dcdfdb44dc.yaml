@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dcdfdb44dc
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.patcog.2025.112122
+title: A systematic review of interpretability and explainability for speech emotion features in automatic speech emotion recognition
+authors:
+  - Hiruni Maleesa Jayasinghe
+  - Kok Wai Wong
+  - Anupiya Nugaliyadde
+year: 2026
+venue: Pattern Recognition
+doi: 10.1016/j.patcog.2025.112122
+url: https://doi.org/10.1016/j.patcog.2025.112122
+abstract: null
+type: article
+open_access: null
+cited_by: 9
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.298
+score_parts:
+  rank: 0.048
+  citations: 0.25
+  recency: 1
+needs_approval: false
+state: candidate

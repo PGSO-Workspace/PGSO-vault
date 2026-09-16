@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a64babf165
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4414292108
+title: "“You’ve got the wrong Shorty!”: Further insights into the legal misconceptions that cause transcript injustice in forensic contexts"
+authors:
+  - Helen Fraser
+year: 2025
+venue: Australian Journal of Linguistics
+doi: 10.1080/07268602.2025.2548998
+url: https://doi.org/10.1080/07268602.2025.2548998
+abstract: "Stephen “Shorty” Jamieson is 37 years into a life sentence arising from an alleged confession documented only by an uncorroborated “verbatim record of interview” typed by detectives who arrested him in 1988. The fact that he was convicted on such flimsy evidence is not the most serious problem: this form of injustice was prevalent before mandatory electronic recording of police interviews. Far more serious is ongoing failure by the law to recognize the unfairness of his trial, despite reforms enacted, just a few years later, specifically to redress this kind of injustice. This article describes the confession evidence, and the ineffectual challenges to it in the trial (1990), appeal (1992–1993) and application for inquiry (2001). It then turns to analysis of the record of interview, revealing multiple reasons to question its authenticity. Next it examines the legal misconceptions about transcription that underlie this injustice, and shows how these live on in current times, despite the reforms of the 1990s. Finally, it amplifies calls for the law to recognize that forensic transcription requires scientific expertise – and for linguistic science to recognize that ensuring fair handling of transcripts of spoken language used as evidence requires theoretical innovation within the discipline."
+type: article
+open_access: true
+cited_by: 3
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 1.114
+score_parts:
+  rank: 0.063
+  citations: 0.151
+  recency: 0.9
+needs_approval: false
+state: candidate

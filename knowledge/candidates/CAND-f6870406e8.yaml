@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f6870406e8
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412945298
+title: "Recent Advances in Speech Language Models: A Survey"
+authors:
+  - Wenqian Cui
+  - Dianzhi Yu
+  - Xiaoqi Jiao
+  - Ziqiao Meng
+  - Guangyan Zhang
+  - Qichao Wang
+  - Steven Y. Guo
+  - Irwin King
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.acl-long.682
+url: https://doi.org/10.18653/v1/2025.acl-long.682
+abstract: "Wenqian Cui, Dianzhi Yu, Xiaoqi Jiao, Ziqiao Meng, Guangyan Zhang, Qichao Wang, Steven Y. Guo, Irwin King. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2025."
+type: other
+open_access: true
+cited_by: 34
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.369
+score_parts:
+  rank: 0.083
+  citations: 0.386
+  recency: 0.9
+needs_approval: false
+state: candidate

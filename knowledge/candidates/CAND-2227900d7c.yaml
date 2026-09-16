@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2227900d7c
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4394012278
+title: Therapeutic Chatbots as Cognitive-Affective Artifacts
+authors:
+  - J. P. Grodniewicz
+  - Mateusz Hohol
+year: 2024
+venue: Topoi
+doi: 10.1007/s11245-024-10018-x
+url: https://doi.org/10.1007/s11245-024-10018-x
+abstract: "Abstract Conversational Artificial Intelligence (CAI) systems (also known as AI “chatbots”) are among the most promising examples of the use of technology in mental health care. With already millions of users worldwide, CAI is likely to change the landscape of psychological help. Most researchers agree that existing CAIs are not “digital therapists” and using them is not a substitute for psychotherapy delivered by a human. But if they are not therapists, what are they, and what role can they play in mental health care? To answer these questions, we appeal to two well-established and widely discussed concepts: cognitive and affective artifacts. Cognitive artifacts are artificial devices contributing functionally to the performance of a cognitive task. Affective artifacts are objects which have the capacity to alter subjects’ affective state. We argue that therapeutic CAIs are a kind of cognitive-affective artifacts which contribute to positive therapeutic change by (i) simulating a (quasi-)therapeutic interaction, (ii) supporting the performance of cognitive tasks, and (iii) altering the affective condition of their users. This sheds new light on why virtually all existing mental health CAIs implement principles and techniques of Cognitive Behavioral Therapy — a therapeutic orientation according to which affective change and, ultimately, positive therapeutic change is mediated by cognitive change. Simultaneously, it allows us to conceptualize better the potential and limitations of applying these technologies in therapy."
+type: article
+open_access: true
+cited_by: 32
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.291
+score_parts:
+  rank: 0.111
+  citations: 0.38
+  recency: 0.8
+needs_approval: false
+state: candidate

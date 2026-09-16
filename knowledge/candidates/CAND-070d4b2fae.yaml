@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-070d4b2fae
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.array.2025.100634
+title: Deep functional multiple index models with an application to speech emotion recognition
+authors:
+  - Matthieu Saumard
+  - Abir El Haj
+  - Thibault Napoleon
+year: 2025
+venue: Array
+doi: 10.1016/j.array.2025.100634
+url: https://doi.org/10.1016/j.array.2025.100634
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 0.936
+score_parts:
+  rank: 0.036
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

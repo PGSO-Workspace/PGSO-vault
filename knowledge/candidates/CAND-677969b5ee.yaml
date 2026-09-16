@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-677969b5ee
+created: 2026-09-15T00:24:33.994Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.63317/4dhv236xuery
+title: "Beyond Toxic Positivity: Interpersonal Affect Regulation in LLM-Based Dialogue Agents using Discourse Politeness Theory"
+authors:
+  - Rina Sakagami
+  - Emmanuel Ayedoun
+  - Masataka Tokumaru
+year: 2026
+venue: Proceedings of the Language Resources and Evaluation Conference
+doi: 10.63317/4dhv236xuery
+url: https://doi.org/10.63317/4dhv236xuery
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: voice agents prosody paralinguistic affective dialogue governance evaluation
+question: null
+search: SEARCH-fb4225ca20
+score: 1.077
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

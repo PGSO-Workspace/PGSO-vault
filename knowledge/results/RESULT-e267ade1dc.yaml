@@ -1,0 +1,30 @@
+schema: phdude.result
+version: 1
+id: RESULT-e267ade1dc
+created: 2026-09-15T17:54:58.933Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: Recovered historical Python catalog-enforcement counts agree with committed aggregates; no Rust controller or audio on this path
+from: ANALYSIS-f83112c524
+values:
+  trial_records: 720
+  arms:
+    control:
+      trials: 180
+      close_deal_executed: 180
+    pgso:
+      trials: 180
+      close_deal_executed: 0
+    prompt:natural:
+      trials: 180
+      close_deal_executed: 6
+    prompt:firm:
+      trials: 180
+      close_deal_executed: 3
+state: candidate
+ext:
+  analysis:
+    key: recovered_counts
+    run_at: 2026-09-15T17:54:58.933Z

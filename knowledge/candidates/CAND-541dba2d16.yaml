@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-541dba2d16
+created: 2026-09-15T06:33:44.760Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.jvoice.2026.01.040
+title: World Voice Day 2026
+authors:
+  - Robert T. Sataloff
+year: 2026
+venue: Journal of Voice
+doi: 10.1016/j.jvoice.2026.01.040
+url: https://doi.org/10.1016/j.jvoice.2026.01.040
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: tau Voice Benchmarking Full Duplex Voice Agents Real World Domains
+question: null
+search: SEARCH-b9d3c043db
+score: 1.1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

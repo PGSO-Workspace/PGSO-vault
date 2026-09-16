@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-830414c08e
+created: 2026-09-15T02:30:29.016Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/3206f5d/validation_trace.rs.txt
+paths:
+  - sources/software/pgso-sdk/3206f5d/validation_trace.rs.txt
+hash: 830414c08efb45af6e5d4dc7fa568e9fb3aec2e261f68ff2f20c324c847d081e
+bytes: 9530
+mime: text/plain
+kind: txt
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 9530
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T02:20:40.306Z

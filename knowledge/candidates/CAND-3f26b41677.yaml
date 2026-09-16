@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3f26b41677
+created: 2026-09-15T07:48:07.669Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/e-science62913.2024.10678657
+title: "Mission Reproducibility: An Investigation on Reproducibility Issues in Machine Learning and Information Retrieval Research"
+authors:
+  - Moritz Staudinger
+  - Bettina M. J. Kern
+  - Tomasz Miksa
+  - Lukas Arnhold
+  - Peter Knees
+  - Andreas Rauber
+  - Allan Hanbury
+year: 2024
+venue: 2024 IEEE 20th International Conference on e-Science (e-Science)
+doi: 10.1109/e-science62913.2024.10678657
+url: https://doi.org/10.1109/e-science62913.2024.10678657
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: '"LDREA-IEEE-Reproducibility" "FULL_SPEC"'
+question: null
+search: SEARCH-e7c8c764f9
+score: 1.062
+score_parts:
+  rank: 0.143
+  citations: 0.119
+  recency: 0.8
+needs_approval: false
+state: candidate

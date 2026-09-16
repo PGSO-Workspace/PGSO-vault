@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-af9438386c
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/978-3-032-28316-0_11
+title: "Contextual Orchestration and Reward Shaping Engine (CORSE): Robust Decision-Making in Financial Advising"
+authors:
+  - Ryan Yurosko
+  - Alan Hevner
+  - Wolfgang Jank
+  - Daniel Zantedeschi
+year: 2026
+venue: Lecture Notes in Computer Science
+doi: 10.1007/978-3-032-28316-0_11
+url: https://doi.org/10.1007/978-3-032-28316-0_11
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.026
+score_parts:
+  rank: 0.026
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

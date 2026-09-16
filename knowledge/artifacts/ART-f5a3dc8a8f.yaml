@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-f5a3dc8a8f
+created: 2026-09-15T17:57:43.296Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/mvp-evidence-recovery-2026-09-15.md
+paths:
+  - sources/reports/mvp-evidence-recovery-2026-09-15.md
+hash: f5a3dc8a8f851e6089e9f0bab0699edf358e414803f2d22826b12645443608a5
+bytes: 8262
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 8259
+  sections: 7
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T17:54:50.319Z
+versions_of: ART-445bb9f793
+latest: true

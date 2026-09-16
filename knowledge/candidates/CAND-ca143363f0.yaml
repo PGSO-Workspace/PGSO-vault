@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ca143363f0
+created: 2026-09-15T07:38:43.488Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3390/jpm14111109
+title: Limits in the Perception of Facial Symmetry—A Prospective Study
+authors:
+  - Friederike Lisa Eißing
+  - Dieter Dirksen
+  - Christoph Runte
+  - Susanne Jung
+year: 2024
+venue: Journal of Personalized Medicine
+doi: 10.3390/jpm14111109
+url: https://doi.org/10.3390/jpm14111109
+abstract: "Objectives: It is generally accepted that the symmetry of the face plays a significant role in the visual perception of its attractiveness. Therefore, its objective assessment could be useful for individual therapy planning. However, there is an ongoing debate about whether completely symmetrical faces are less attractive than those with minor deviations. The aim of this study is to find thresholds of symmetry perception among faces with an increased spectrum of asymmetry values. Methods: The faces of 50 persons (25 men, 25 women) were digitized using a 3D scanner based on the fringe projection technique, and asymmetry values were calculated. In order to achieve a larger spectrum of asymmetry values, some of the surfaces were symmetrized or the symmetry was reduced. Afterward, an independent second group of 50 persons (13 medical professionals, 37 laypersons) rated “symmetry”, “attractiveness” and “health” using a visual analog scale (VAS). Results: Symmetry ratings and asymmetry value had a strong and monotonically decreasing association (rho = −0.78, p ˂ 0.001). Manipulated or naturally asymmetrical faces (n = 12) could not be well distinguished with regard to their symmetry (rho = −0.14, p = 0.67). The same applies to very symmetrical or symmetrized faces (n = 10, rho = −0.14, p = 0.67). Medical professionals rated the symmetry (p ˂ 0.001) and attractiveness (p ˂ 0.001) significantly higher than laypersons, while there was no significant difference in the health assessment (p = 0.24). Conclusions: It could be shown that there are indications of threshold values in the perception of facial symmetries, both in the direction of very symmetrical faces and in the direction of asymmetrical faces. There is no evidence that completely symmetrical faces are perceived as less attractive. Thus, in maxillofacial surgery, treatment should aim for the highest symmetry possible, although small deviations are not detrimental."
+type: article
+open_access: null
+cited_by: 1
+query: '"10.1109/ACCESS.2026.3719838" "Date of Publication"'
+question: null
+search: SEARCH-210eb9e969
+score: 0.952
+score_parts:
+  rank: 0.077
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

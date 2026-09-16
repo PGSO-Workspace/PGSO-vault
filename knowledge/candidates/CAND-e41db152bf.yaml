@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e41db152bf
+created: 2026-09-15T01:15:49.547Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1093/oed/9693494938
+title: pone, n.²
+authors: []
+year: 2026
+venue: Oxford English Dictionary
+doi: 10.1093/oed/9693494938
+url: https://doi.org/10.1093/oed/9693494938
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: '"EAC-Agent" "10.1371/journal.pone.0346770"'
+question: null
+search: SEARCH-fa4f4eec19
+score: 1.25
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

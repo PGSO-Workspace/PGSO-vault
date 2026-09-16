@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-212d11365e
+created: 2026-09-15T00:31:18.055Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0011314900003266
+title: Hybrid Time Distributed CNN-transformer for Speech Emotion Recognition
+authors:
+  - Anwer Slimi
+  - Henri Nicolas
+  - Mounir Zrigui
+year: 2022
+venue: Proceedings of the 17th International Conference on Software Technologies
+doi: 10.5220/0011314900003266
+url: https://doi.org/10.5220/0011314900003266
+abstract: null
+type: article
+open_access: null
+cited_by: 10
+query: '"Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition"'
+question: null
+search: SEARCH-40c323d84c
+score: 1.027
+score_parts:
+  rank: 0.167
+  citations: 0.26
+  recency: 0.6
+needs_approval: false
+state: candidate

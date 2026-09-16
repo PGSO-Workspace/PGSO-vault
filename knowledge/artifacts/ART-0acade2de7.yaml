@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-0acade2de7
+created: 2026-09-15T19:03:50.628Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/public-voice-b0-development-diagnostic-20260915.md
+paths:
+  - sources/public-voice-b0-development-diagnostic-20260915.md
+hash: 0acade2de7d3a6c11d190bebbb6be9d22a02ce234181f48577863acb1a59ce09
+bytes: 2603
+mime: text/markdown
+kind: md
+role: report
+extracted:
+  status: ok
+  method: text
+  text_chars: 2603
+  sections: 4
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T19:03:43.518Z
+latest: false

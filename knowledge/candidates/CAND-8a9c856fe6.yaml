@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8a9c856fe6
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.31234/osf.io/4a6wg_v1
+title: "Agent and conversational context modulate perceived empathy in a Human-Voice agent interaction: An fMRI study"
+authors:
+  - Hurshitha Vasudevan
+  - Bhoomika Rastogi Kar
+year: 2026
+venue: null
+doi: 10.31234/osf.io/4a6wg_v1
+url: https://doi.org/10.31234/osf.io/4a6wg_v1
+abstract: We examined perceived empathy in a human-voice agent interaction and hypothesized that empathy shown by the voice-agent and human would be perceived by human participants and the situational context will affect the level of empathy perceived. Participants viewed eight videos while in the fMRI scanner across two contexts (plan-a-trip, visit-to-a-nutritionist) and four empathy conditions, and rated perceived empathy after each video on a 4-point Likert Scale. Results showed comparable perceived empathy from the voice-agent and human actor and greater level of empathy from the human actor while responding to human being empathetic. However, different neural regions supported empathy perceived from human (dorsomedial prefrontal) compared to the voice-agent (left superior temporal gyrus). The ‘trip’ context marked the equivalence in perceived empathy from human and voice-agent whereas higher empathy ratings from the human actor were observed across both contexts. BOLD activations were associated with mentalizing aspects of empathy for the trip context and affective empathy for the nutritionist context. Brain regions coding for cognitive-evaluative and affective empathy supported perceived empathy from the voice-agent whereas regions coding for affective empathy from the human actor in the nutritionist context. This study highlights the potential for a collaborative human-voice agent communication with implications for health-care.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 1.048
+score_parts:
+  rank: 0.048
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

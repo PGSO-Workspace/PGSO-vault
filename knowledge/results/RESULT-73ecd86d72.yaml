@@ -1,0 +1,20 @@
+schema: phdude.result
+version: 1
+id: RESULT-73ecd86d72
+created: 2026-09-15T00:49:18.427Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: "Actual PGSO in-process dispatch: 13/13 declared callback and confirmation checks passed"
+from: ANALYSIS-b51d9fb5ca
+values:
+  checks: 13
+  passed: 13
+  failed: 0
+  fresh_process_replays: 2
+state: candidate
+ext:
+  analysis:
+    key: execution
+    run_at: 2026-09-15T00:49:18.427Z

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7850bac983
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icngn63705.2024.10871391
+title: Innovative Prompting Strategies and Holistic Evaluation of LLM Movie Recommender
+authors:
+  - Yuanjing Zhu
+  - Yunan Liu
+year: 2024
+venue: 2024 International Conference on Intelligent Computing and Next Generation Networks (ICNGN)
+doi: 10.1109/icngn63705.2024.10871391
+url: https://doi.org/10.1109/icngn63705.2024.10871391
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 0.952
+score_parts:
+  rank: 0.033
+  citations: 0.119
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2835975698
+created: 2026-09-15T09:45:55.769Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.4028/b-1n7it5
+title: Conference on Industrial Sciences, Engineering and Technology toward Digital Era (eICISET 2023)
+authors:
+  - Agus Geter Edy Sutjipto
+year: 2024
+venue: Engineering Headway
+doi: 10.4028/b-1n7it5
+url: https://doi.org/10.4028/b-1n7it5
+abstract: null
+type: book
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Yue Qi" full text'
+question: null
+search: SEARCH-aa21877eb5
+score: 0.883
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

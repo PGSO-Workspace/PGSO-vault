@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-07901a9c3e
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7172558132
+title: "FRAMES: Guarded and Dual-Objective Skill Evolution for Agents in Policy-Governed Enterprise Workflows"
+authors:
+  - Xuhui Wang
+  - Ruoqi Shu
+  - Chen Dan
+  - Tianhua Xu
+  - Mengxi Luo
+  - 麦燕明
+  - Bo wan
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2608.01772
+abstract: "LLM agents increasingly run policy-bound enterprise workflows such as document auditing, where they must apply rules consistently, ground every value, and stay auditable. Improving these agents is hard: operational feedback is sparse and unlabeled, edits to one rule can regress unrelated cases, and accuracy must improve without inflating inference cost or losing auditability. We present FRAMES, a closed-loop framework that cold-starts deployable skills from existing assets and then evolves them through consensus-based mutation, Pareto selection over accuracy and cost, and an anti-regression guarantee, all while preserving auditability. Deployed on our internal production system, FRAMES attains the best accuracy-cost trade-off among baselines, with the same gains reproduced on tau-bench."
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.083
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

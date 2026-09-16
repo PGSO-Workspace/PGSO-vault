@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-38d83bfe17
+created: 2026-09-15T07:50:34.676Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7163006761
+title: Do participant-matched LLM personas approximate human survey data?
+authors:
+  - Ana Stojanov
+year: 2026
+venue: Personality and Individual Differences
+doi: 10.1016/j.paid.2026.113915
+url: https://doi.org/10.1016/j.paid.2026.113915
+abstract: "Large language models can be asked to complete a survey as if they were a person. However, it is unclear how well such model implied responses resemble human data, especially when personas are conditioned on participant information. Human participants completed a questionnaire measuring 91 psychological constructs. For each participant ( n = 177) we generated artificial personas using GPT-4o under two conditions: demographics-only versus demographics plus Big Five scores. We assessed correspondence between human and model implied responses across several metrics: construct means and dispersions, within-pair person-level distances, within-person profile similarity across constructs, and construct-wise human–persona correlations across participants. Adding Big Five information produced small improvements in mean alignment and individual-level similarity, large reductions in under-dispersion relative to humans, modest gains in construct-wise human–persona correspondence, and reduced bias, while RMSE and error variability improved mainly after averaging across multiple persona generations. Overall, model implied responses approximate some aggregate mean patterns across constructs but only modestly reproduce individual differences."
+type: article
+open_access: true
+cited_by: 0
+query: '"10.1016/j.chb.2025.108687" manuscript'
+question: null
+search: SEARCH-183055ff3f
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

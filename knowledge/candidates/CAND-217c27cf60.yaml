@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-217c27cf60
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.4103/ijnmr.ijnmr_192_23
+title: "Barriers to Respect Professional Ethics Standards: Insights from Iranian Nurses"
+authors:
+  - Fatemehalsadat Hosseini Baghdadabad
+  - MohammadKazem Rahimi
+  - Roohollah Askari
+  - Hasan Jafari
+  - Hossein Fallahzadeh
+year: 2025
+venue: Iranian Journal of Nursing and Midwifery Research
+doi: 10.4103/ijnmr.ijnmr_192_23
+url: https://doi.org/10.4103/ijnmr.ijnmr_192_23
+abstract: "Abstract Background: The influential role of professional ethics on service provision has been paid attention globally, especially in dealing with healthcare staff. The present study aimed to determine the barriers to respect to the Professional Ethics Standards (PES) in nurses working in educational hospitals of University of Medical Sciences in the province of Yazd, Iran, in 2022. Materials and Methods: This study was quantitative cross-sectional. The participants ( n = 170) were selected based on a stratified sampling policy, and data were collected using a standard questionnaire comprised of three managerial, environmental, and individual caregiving areas. Data were analyzed using independent t-tests and ANOVA. Results: There was a significant relationship between the nurses’ service department and respect to the PES. While there was no significant relationship between nurses’ demographic characteristics and barriers to respect to the PES. Among the identified challenges, environmental factors (72.09%), individual caregiving issues (58.72%), and managerial obstacles (58.38%) ranked highest, respectively. The most important challenges were included in staff shortage under the management category 4.26 (0.96), body physiological changes due to having the night shifts 4.11 (0.98) as an environmental category, and expected basic needs like adequate pay or rest 4.16 (1.01) in the caregiving category. Conclusions: In conclusion, a balance between income and expenses, addressing shortages in personnel, and an efficient way to schedule shifts with minimal possible consequences from biological changes at work during the night shift would be the major implications that policymakers could take into consideration for optimizing the respect to the PES by nurses."
+type: article
+open_access: null
+cited_by: 1
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 1.175
+score_parts:
+  rank: 0.2
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

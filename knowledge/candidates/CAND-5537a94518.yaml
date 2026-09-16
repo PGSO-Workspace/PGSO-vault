@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5537a94518
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7153671700
+title: "Semantic-Emotional Resonance Embedding: A Semi-Supervised Paradigm for Cross-Lingual Speech Emotion Recognition"
+authors:
+  - Ya Hui Zhao
+  - Yinfeng Yu
+  - Liejun Wang
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: http://arxiv.org/abs/2604.07417
+abstract: Cross-lingual Speech Emotion Recognition (CLSER) aims to identify emotional states in unseen languages. However, existing methods heavily rely on the semantic synchrony of complete labels and static feature stability, hindering low-resource languages from reaching high-resource performance. To address this, we propose a semi-supervised framework based on Semantic-Emotional Resonance Embedding (SERE), a cross-lingual dynamic feature paradigm that requires neither target language labels nor translation alignment. Specifically, SERE constructs an emotion-semantic structure using a small number of labeled samples. It learns human emotional experiences through an Instantaneous Resonance Field (IRF), enabling unlabeled samples to self-organize into this structure. This achieves semi-supervised semantic guidance and structural discovery. Additionally, we design a Triple-Resonance Interaction Chain (TRIC) loss to enable the model to reinforce the interaction and embedding capabilities between labeled and unlabeled samples during emotional highlights. Extensive experiments across multiple languages demonstrate the effectiveness of our method, requiring only 5-shot labeling in the source language.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 1.077
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

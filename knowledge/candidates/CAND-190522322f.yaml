@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-190522322f
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4399781580
+title: A Teleological Approach to Information Systems Design
+authors:
+  - Mattia Fumagalli
+  - Roberta Ferrario
+  - Giancarlo Guizzardi
+year: 2024
+venue: Minds and Machines
+doi: 10.1007/s11023-024-09673-1
+url: https://doi.org/10.1007/s11023-024-09673-1
+abstract: "Abstract In recent years, the design and production of information systems have seen significant growth. However, these information artefacts often exhibit characteristics that compromise their reliability. This issue appears to stem from the neglect or underestimation of certain crucial aspects in the application of Information Systems Design (ISD). For example, it is frequently difficult to prove when one of these products does not work properly or works incorrectly (falsifiability), their usage is often left to subjective experience and somewhat arbitrary choices (anecdotes), and their functions are often obscure for users as well as designers (explainability). In this paper, we propose an approach that can be used to support the analysis and re-(design) of information systems grounded on a well-known theory of information, namely, teleosemantics. This approach emphasizes the importance of grounding the design and validation process on dependencies between four core components: the producer (or designer), the produced (or used) information system, the consumer (or user), and the design (or use) purpose. We analyze the ambiguities and problems of considering these components separately. We then present some possible ways in which they can be combined through the teleological approach. Also, we debate guidelines to prevent ISD from failing to address critical issues. Finally, we discuss perspectives on applications over real existing information technologies and some implications for explainable AI and ISD."
+type: article
+open_access: true
+cited_by: 11
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.129
+score_parts:
+  rank: 0.059
+  citations: 0.27
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a8b1cb062a
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7131811562
+title: "SSL-MEPR: A Semi-Supervised Multi-Task Cross-Domain Learning Framework for Multimodal Emotion and Personality Recognition"
+authors:
+  - Elena Ryumina
+  - Alexandr Axyonov
+  - Darya Koryakovskaya
+  - Timur Abdulkadirov
+  - Angelina Egorova
+  - Sergey Fedchin
+  - Alexander Zaburdaev
+  - Dmitry Ryumin
+year: 2026
+venue: Machine Learning and Knowledge Extraction
+doi: 10.3390/make8030056
+url: https://doi.org/10.3390/make8030056
+abstract: "The growing demand for personalized human–computer interaction calls for methods that jointly model emotional states and personality traits. However, large-scale multimodal corpora annotated for both tasks are still lacking. This challenge stems from integrating diverse, task-specific corpora with divergent modality informativeness and domain characteristics. To address it, we propose SSL-MEPR, a semi-supervised multi-task cross-domain learning framework for Multimodal Emotion and Personality Recognition, which enables cross-task knowledge transfer without jointly labeled data. SSL-MEPR employs a three-stage strategy, progressively integrating unimodal single-task, unimodal multi-task, and multimodal multi-task models. Key innovations include Graph Attention Fusion, task-specific query-based cross-attention, predict projectors, and guide banks, which enable robust fusion and effective use of semi-labeled data via a modified GradNorm method. Evaluated on MOSEI (emotion) and FIv2 (personality), SSL-MEPR achieves a mean Weighted Accuracy (mWACC) of 70.26 and a mean Accuracy (mACC) of 92.88 in single-task cross-domain settings, outperforming state-of-the-art methods. Multi-task learning reveals domain-induced misalignment in modality informativeness but still uncovers consistent psychological patterns: sadness correlates with lower personality trait scores, while happiness aligns with higher ones. This work establishes a new paradigm for extracting cross-task psychological knowledge from disjoint multimodal corpora, demonstrating that semi-supervised multi-task cross-domain learning can bridge annotation gaps while preserving theoretically grounded emotion–personality relationships."
+type: article
+open_access: true
+cited_by: 4
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 1.508
+score_parts:
+  rank: 0.333
+  citations: 0.175
+  recency: 1
+needs_approval: false
+state: candidate

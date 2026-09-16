@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6a66737244
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4417089251
+title: "Agentic AI Optimisation (AAIO): what it is, how it works, why it matters, and how to deal with it"
+authors:
+  - Luciano Floridi
+  - Carlotta Buttaboni
+  - Gertler, Nicolas
+  - Hine, Emmie
+  - Morley, Jessica
+  - Novelli, Claudio
+  - T. Schröder
+year: 2025
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2504.12482
+url: https://arxiv.org/abs/2504.12482
+abstract: The emergence of Agentic Artificial Intelligence (AAI) systems capable of independently initiating digital interactions necessitates a new optimisation paradigm designed explicitly for seamless agent-platform interactions. This article introduces Agentic AI Optimisation (AAIO) as an essential methodology for ensuring effective integration between websites and agentic AI systems. Like how Search Engine Optimisation (SEO) has shaped digital content discoverability, AAIO can define interactions between autonomous AI agents and online platforms. By examining the mutual interdependency between website optimisation and agentic AI success, the article highlights the virtuous cycle that AAIO can create. It further explores the governance, ethical, legal, and social implications (GELSI) of AAIO, emphasising the necessity of proactive regulatory frameworks to mitigate potential negative impacts. The article concludes by affirming AAIO's essential role as part of a fundamental digital infrastructure in the era of autonomous digital agents, advocating for equitable and inclusive access to its benefits.
+type: preprint
+open_access: true
+cited_by: 1
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.118
+score_parts:
+  rank: 0.143
+  citations: 0.075
+  recency: 0.9
+needs_approval: true
+state: candidate

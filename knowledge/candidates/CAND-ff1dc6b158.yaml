@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ff1dc6b158
+created: 2026-09-14T23:44:30.144Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.4856935
+title: "The Impact of Generative AI on Collaborative Open-Source Software Development: Evidence from GitHub Copilot&amp;nbsp;"
+authors:
+  - Fangchen Song
+  - Ashish Agarwal
+  - Wen Wen
+year: 2024
+venue: null
+doi: 10.2139/ssrn.4856935
+url: https://doi.org/10.2139/ssrn.4856935
+abstract: "<p></p> <div> <div> <div> <p></p> <div> <div> <div> <p>Generative artificial intelligence (AI) facilitates content production and enhances ideation, with potentially important implications for developer productivity and participation in software development. To explore its impact on collaborative open-source software (OSS) development, we investigate the role of GitHub Copilot, a generative AI pair programmer, in OSS development where multiple distributed developers voluntarily collaborate. Using GitHub's proprietary Copilot usage data, combined with public OSS project data obtained from GitHub, we find that Copilot use increases project-level code contributions by 5.9%. This gain is accompanied by a 3.4% increase in developer coding participation and a 2.1% increase in individual code contributions. However, Copilot use is also associated with an 8% increase in coordination time and more code discussions. This reveals an important tradeoff: While AI expands who can contribute and how much they contribute, it slows coordination in collective development efforts. Despite this tension, the overall effect remains positive, resulting in a net increase in the timely merge of code contributions at the project level. Interestingly, we also find heterogeneous effects across developer roles. Peripheral developers exhibit relatively smaller increases in project-level code contributions and larger increases in coordination time than core developers. Together, our findings highlight the dual effects of AI pair programmers on code contributions and coordination in OSS development and provide implications for how generative AI may reshape the structure of OSS communities over time.</p> </div> </div> </div> </div> </div> </div>"
+type: preprint
+open_access: null
+cited_by: 24
+query: '"WeClaw" "Adaptive Runtime" GitHub open source'
+question: null
+search: SEARCH-b132bc032f
+score: 1.292
+score_parts:
+  rank: 0.143
+  citations: 0.349
+  recency: 0.8
+needs_approval: true
+state: candidate

@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-645a652108
+created: 2026-09-15T07:34:04.334Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7160700413
+title: "LLM agents security duality: a comprehensive survey of self-security and empowered cybersecurity"
+authors:
+  - Yi Xu
+  - Yong Zhuang
+  - Xuanming Liu
+  - T B Zhang
+  - Bowen Xiao
+  - Xiaoyang Xu
+  - Delong Jiang
+  - Yi-Xiang Wang
+  - Hongxin Hu
+year: 2026
+venue: Artificial Intelligence Review
+doi: 10.1007/s10462-026-11563-0
+url: https://doi.org/10.1007/s10462-026-11563-0
+abstract: "Abstract Large language model (LLM) agents are rapidly being integrated into real-world systems. Their autonomy and tool-use capabilities generate substantial value while simultaneously expanding the security attack surface. This survey provides a comprehensive overview of the opportunities and challenges of LLM agents in security, focusing on two core areas: (1) threats to LLM agents themselves and corresponding mitigation strategies (LLM agents self-security), and (2) the role of LLM agents in empowering the cybersecurity lifecycle across offense and defense (LLM agents empowered cybersecurity). We first examine the internal and external attack surfaces of agents, propose a taxonomy organized by threat sources, and analyze associated mitigations and evaluation frameworks. We then investigate how agent capabilities are applied in cybersecurity practice and present, to our knowledge, the first agent-empowerment framework aligned with the full cyber offense–defense lifecycle. By systematically surveying these two areas, we are the first to highlight a positive feedback synergy between LLM agents self-security and empowered cybersecurity, offering new insights for the advancement of both. We further identify current limitations and outline promising directions for future research. The insights provided aim to catalyze the coordinated development of LLM agents self-security and agent empowered cybersecurity, paving the way for more capable and robust agent applications."
+type: article
+open_access: true
+cited_by: 0
+query: 2024 2025 journal LLM agent tool permission authorization runtime enforcement security guardrails
+question: null
+search: SEARCH-b0fa183ef0
+score: 1.071
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

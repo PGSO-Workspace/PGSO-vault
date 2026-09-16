@@ -1,0 +1,19 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-4834a12c40
+created: 2026-09-15T00:31:40.194Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/comparator-preflight-v1.json
+hash: 4834a12c40c0616a37af0e1a80a80935baa1a53701fa5df115c8d2016e3f44d5
+bytes: 1448
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Predeclared finite temporal-policy test grid; no human claims
+latest: false

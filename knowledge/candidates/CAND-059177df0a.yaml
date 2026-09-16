@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-059177df0a
+created: 2026-09-15T06:33:44.760Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6365322
+title: "Personalizing AI Voice Agents: How Voice Agents with Similar Voices Shape Trust, Self-Congruency, and Behavior"
+authors:
+  - Yun Fu
+  - Martin Meißner
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6365322
+url: https://doi.org/10.2139/ssrn.6365322
+abstract: "As voice agents become embedded in products as well as service interactions, firms increasingly seek personalization strategies that strengthen consumers’ acceptance and engagement. This research examines whether voice agents that sound more similar to users’ own voices elicit more favorable behavioral responses. Moreover, we investigate through which psychological mechanisms these effects occur. Across two experiments, we manipulate voice similarity using (1) pretested similar versus dissimilar AI voices and (2) individualized voice cloning that replicates users’ voices. Results consistently show that higher voice similarity increases purchase intention, use intention, and willingness to disclose personal information. Mediation analyses further demonstrate that voice similarity operates via two distinct, parallel mechanisms: self-congruency and trust. Our research advances research on voice agent-consumer relationships and demonstrates that increasing voice similarity is a robust personalization strategy that enhances consumer’s behavioral responses."
+type: preprint
+open_access: null
+cited_by: 0
+query: tau Voice Benchmarking Full Duplex Voice Agents Real World Domains
+question: null
+search: SEARCH-b9d3c043db
+score: 1.143
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

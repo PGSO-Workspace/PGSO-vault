@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-79fba5017d
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4413121726
+title: "Prompt Engineering in Education: A Systematic Review of Approaches and Educational Applications"
+authors:
+  - Yufeng Qian
+year: 2025
+venue: Journal of Educational Computing Research
+doi: 10.1177/07356331251365189
+url: https://doi.org/10.1177/07356331251365189
+abstract: "The effectiveness of generative AI tools in education depends largely on prompt engineering—the practice of designing inputs and interactions that guide AI systems to produce relevant, high-quality outputs. This systematic literature review examines empirical studies published since the release of ChatGPT in late 2022, identifying two broad approaches of prompting strategies: technique-based, which targets specific learning goals, and process-based, which supports cognitive engagement and collaborative thinking with AI. The review identifies key educational applications of prompt engineering, notably in two overarching areas: critical skills development and the automation of educational functions. It also highlights emerging trends, such as the integration of multimodal AI and the growing influence of advanced AI reasoning capabilities. By mapping this evolving landscape, the findings provide a foundational understanding of prompt engineering as both a technical skill and a pedagogical strategy in AI-supported learning environments."
+type: other
+open_access: true
+cited_by: 68
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.527
+score_parts:
+  rank: 0.167
+  citations: 0.46
+  recency: 0.9
+needs_approval: false
+state: candidate

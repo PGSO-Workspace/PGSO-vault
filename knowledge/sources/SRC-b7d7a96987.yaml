@@ -1,0 +1,17 @@
+schema: phdude.source
+version: 1
+id: SRC-b7d7a96987
+created: 2026-09-15T08:25:07.986Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: Paper 1 independent action validity preflight
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-4f6c0623af
+state: candidate
+year: 2026
+abstract: Agent-authored development preflight inspecting the pinned public telecom benchmark and SDK pilot. Separates action permission from warranted intervention, identifies a plausible roaming-repair obstruction, and proposes blinded adjudication and fixed confirmatory outcomes. No utility result or human adjudication has been executed.

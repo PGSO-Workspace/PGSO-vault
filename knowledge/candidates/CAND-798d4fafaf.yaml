@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-798d4fafaf
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.4018/979-8-3373-1419-8.ch001
+title: Advancements in Multi-Agent Large Language Model Systems for Next-Generation AI
+authors:
+  - Rajeshwari Sissodia
+  - Vinay Dwivedi
+  - TaraChand Verma
+year: 2025
+venue: Advances in Computational Intelligence and Robotics
+doi: 10.4018/979-8-3373-1419-8.ch001
+url: https://doi.org/10.4018/979-8-3373-1419-8.ch001
+abstract: The integration of Multi-Agent Systems (MAS) with Large Language Models (LLMs) represents a significant advancement in the field of artificial intelligence, enabling the development of intelligent, autonomous systems capable of solving complex tasks and enhancing decision-making. MAS, composed of multiple interacting agents with autonomous decision-making abilities, and LLMs, which leverage vast amounts of textual data to understand and generate human-like language, can work synergistically to create more robust AI systems. This chapter explores the fundamentals of MAS and LLMs, their individual and combined strengths, and their potential to address complex challenges in various fields, such as robotics, healthcare, and business. We discuss key features of both MAS and LLMs, including agent collaboration, reinforcement learning, and contextual understanding in language models. The chapter also examines the integration of these two domains, highlighting their potential for collaborative problem-solving, decision support, and knowledge extraction.
+type: chapter
+open_access: null
+cited_by: 0
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 0.931
+score_parts:
+  rank: 0.031
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

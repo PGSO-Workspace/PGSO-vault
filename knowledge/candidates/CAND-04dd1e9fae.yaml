@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-04dd1e9fae
+created: 2026-09-15T08:10:36.723Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W602706095
+title: "Information systems : the state of the field"
+authors:
+  - John Leslie King
+  - Kalle Lyytinen
+year: 2006
+venue: Medical Entomology and Zoology
+doi: null
+url: http://ci.nii.ac.jp/ncid/BA76606300
+abstract: "List of Contributors. Foreword-Gordon B. Davis. Series Preface-Rudy Hirschheim. Introduction-John Leslie King and Kalle Lyytinen. Original Papers. 1 Scoping the Discipline of Information Systems-David Avison and Steve Elliot. 2 Desperately Seeking the 'IT' in IT Research: A Call to Theorizing the IT Artifact-Wanda J. Orlikowski and C. Suzanne Iacono. 3 Still Desperately Seeking the IT Artifact-Ron Weber. 4 The Identity Crisis within the IS Discipline: Defining and Communicating the Discipline's Core Properties-Izak Benbasat and Robert W. Zmud. 5 Crisis in the IS Field? A Critical Reflection on the State of the Discipline-Rudy A. Hirschheim and Heinz K. Klein. 6 Change as Crisis or Growth? Toward a Trans-disciplinary View of Information Systems as a Field of Study: A Response to Benbasat and Zmud's Call for Returning to the IT Artifact-Robert D. Galliers. 7 The Social Life of Information Systems Research: A Response to Benbasat and Zmud's Call for Returning to the IT Artifact-Gerardine DeSanctis. 8 Identity, Legitimacy and the Dominant Research Paradigm: An Alternative Prescription for the IS Discipline-Daniel Robey. 9 Design Science in Information Systems Research-Alan R. Hevner, Salvatore T. March, Jinsoo Park and Sudha Ram. 10 Nothing at the Center?: Academic Legitimacy in the Information Systems Field-Kalle Lyytinen and John Leslie King. 11 Reach and Grasp-John Leslie King and Kalle Lyytinen. Commentaries. 12 The Artifact Redux: Further Reflections on the 'IT' in IT Research-Wanda J. Orlikowski and C. Suzanne Iacono. 13 Like Ships Passing in the Night: The Debate on the Core of the Information Systems Discipline-Ron Weber. 14 Further Reflections on the Identity Crisis-Izak Benbasat and Robert W. Zmud. 15 Further Reflections on the IS Discipline: Climbing the Tower of Babel-Heinz K. Klein and Rudy A. Hirschheim. 16 'Don't Worry, be Happy ... ' A Post-Modernist Perspective on the Information Systems Domain-Robert D. Galliers. 17 Cleaning the Mirror: Desperately Seeking Identity in the Information Systems Field-Daniel Robey. 18 Designing Design Science-Salvatore T. March. 19 The Future of the IS Field: Drawing Directions from Multiple Maps-John Leslie King and Kalle Lyytinen. Index."
+type: book
+open_access: false
+cited_by: 137
+query: '"Design Science in Information Systems Research"'
+question: null
+search: SEARCH-e78eb7cdff
+score: 0.702
+score_parts:
+  rank: 0.167
+  citations: 0.535
+  recency: 0
+needs_approval: false
+state: candidate

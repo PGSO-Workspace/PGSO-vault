@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-879978da24
+created: 2026-09-15T07:51:13.215Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3701716.3716888
+title: "PlotGen: Multi-Agent LLM-based Scientific Data Visualization via Multimodal Retrieval Feedback"
+authors:
+  - Kanika Goswami
+  - Puneet Mathur
+  - Ryan Rossi
+  - Franck Dernoncourt
+year: 2025
+venue: Companion Proceedings of the ACM on Web Conference 2025
+doi: 10.1145/3701716.3716888
+url: https://doi.org/10.1145/3701716.3716888
+abstract: null
+type: article
+open_access: null
+cited_by: 16
+query: '"dynamic tool retrieval LLM agent journal 2024 2025'
+question: null
+search: SEARCH-da10c5ec54
+score: 1.234
+score_parts:
+  rank: 0.026
+  citations: 0.308
+  recency: 0.9
+needs_approval: false
+state: candidate

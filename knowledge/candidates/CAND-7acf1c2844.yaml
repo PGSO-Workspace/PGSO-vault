@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7acf1c2844
+created: 2026-09-14T23:46:57.333Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7199341
+title: "Signed but Unsafe: Securing Runtime Tool Selection in LLM Agents under Adversarial Metadata Injection"
+authors:
+  - Basit Ali
+  - Muhammad Raheel Anwar
+  - Tehreem Minhas
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7199341
+url: https://doi.org/10.2139/ssrn.7199341
+abstract: "LLM agents increasingly select external tools by ranking natural-language metadata against user intent. Existing supply-chain controls authenticate implementation bytes but not the semantic selection step: adversarial marketplace metadata induces 81-95% attacker-controlled tool selection on frontier LLMs without touching code. We introduce the Capability Manifest Framework (CMF), a structural defence built on one principle: the text a planner uses to discover a tool must differ from the text an attacker can author. We formalise this as metadata-steering resistance (MSR) and prove, under EUF-CMA, that discovery-channel separation is necessary and sufficient for (negl(λ), poly(λ))-MSR, and that CMF composes with postselection defences because it constrains an orthogonal preselection channel. CMF combines four controls: Ed25519/Sigstoresigned capability manifests, SHA-256 artifact binding, a plannervisible signed safe_summary field, and a deterministic non-LLM invocation verifier. In a controlled harness, CMF eliminates metadata steering (100%→0%) at 2.97 ms P95 overhead. Across Claude Sonnet 4.6, LLaMA-3.3-70B, and GPT-4o (n=30 per cell), CMF achieves 0% targeted ASR in every non-adaptive scenario (95% CI upper bound 11.4%; tightened to 3.6% at n=100 on a 50-tool catalogue), reproduced across email, file-operation, and database-query domains (p&lt;10-4). AgentDojo multi-turn evaluation eliminates description-injection attacks (96%→0%) while raising benign utility under attack from 32% to 86%, and a 64-cell ablation shows that no control is redundant. For the distinct case of a compromised signing key, vocabulary linting reduces residual ASR from 73% to 13% (95% CI [5, 29]); transparency-log-based key governance remains the necessary long-term control."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"AgentSpec" runtime enforcement LLM agents'
+question: null
+search: SEARCH-ab8e976bec
+score: 1.059
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

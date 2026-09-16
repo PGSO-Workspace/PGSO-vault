@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a7ce95e0f3
+created: 2026-09-14T16:52:23.116Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3773034
+title: Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies
+authors:
+  - Jieke Shi
+  - Junda He
+  - Zhou Yang
+  - Đorđe Žikelić
+  - David Lo
+year: 2026
+venue: ACM Transactions on Software Engineering and Methodology
+doi: 10.1145/3773034
+url: https://doi.org/10.1145/3773034
+abstract: With the increasing use of neural policies in control systems, ensuring their safety and reliability has become a critical software engineering task. One prevalent approach to ensuring the safety of neural policies is to deploy programmatic runtime shields alongside them to correct their unsafe commands. However, the programmatic runtime shields synthesized by existing methods are either computationally expensive or insufficiently permissive, resulting in high overhead and unnecessary interventions on the system. To address these challenges, we propose Aegis , a novel framework that synthesizes lightweight and permissive programmatic runtime shields for neural policies. Aegis achieves this by formulating the seeking of a runtime shield as a sketch-based program synthesis problem and proposing a novel method that leverages counterexample-guided inductive synthesis and Bayesian optimization to solve it. To evaluate Aegis and its synthesized shields, we use eight representative control systems and compare Aegis with the current state-of-the-art. Our results show that the programmatic runtime shields synthesized by Aegis can correct all unsafe commands from neural policies, ensuring that the systems do not violate any desired safety properties at all times. Compared to the current state-of-the-art, Aegis ’s shields exhibit a 2.2 \(\times\) reduction in time overhead and a 3.9 \(\times\) reduction in memory usage, suggesting that they are much more lightweight. Moreover, Aegis ’s shields incur an average of 1.5 \(\times\) fewer interventions than other shields, showing better permissiveness.
+type: article
+open_access: null
+cited_by: 1
+query: Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies
+question: null
+search: SEARCH-0f3f5d4051
+score: 2.075
+score_parts:
+  rank: 1
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

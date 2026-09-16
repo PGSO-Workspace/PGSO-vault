@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9fd47de126
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7161914870
+title: Securing LLM Agents Need Intent-to-Execution Integrity
+authors:
+  - Wenjie Qu
+  - Ming Xu
+  - Peiran Wang
+  - Shengfang Zhai
+  - Jiaheng Zhang
+  - Dawn Song
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2605.16976
+abstract: "This position paper argues that securing LLM agents requires first defining an end-to-end correctness property that specifies when an agent's execution faithfully reflects the user's intent. Modern LLM agents operate over an \\emph{intent-to-execution pipeline}, where natural-language instructions are translated into concrete system operations such as tool calls, API requests, and code execution. While recent defenses have made progress in constraining how agents construct tool calls, most existing formulations implicitly assume that tools are trusted. The emergence of systems such as OpenClaw, with open ecosystems of third-party skills and direct access to user environments, breaks this assumption and exposes new failure modes, including malicious or over-privileged components in the execution pipeline. Despite rapid progress in defense mechanisms, there is no adequate correctness property that defines what ``secure'' means for LLM agents, nor a principled way to evaluate the coverage of existing defenses. We observe that LLM agents are structurally analogous to compilers, where security violations correspond to mis-executions that do not preserve user intent. Drawing on this analogy, we identify two fundamental problem sources -- untrusted data ingestion and untrusted tool execution -- and derive four integrity properties that must hold simultaneously: \\emph{Tool Integrity}, \\emph{Instruction Integrity}, \\emph{Judgment Integrity}, and \\emph{Data Flow Integrity}. We call their conjunction \\emph{intent-to-execution integrity}. Analyzing existing agentic defenses against these properties reveals that current systems provide only partial and non-compositional coverage, leaving fundamental gaps in securing modern LLM agents."
+type: preprint
+open_access: true
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.067
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

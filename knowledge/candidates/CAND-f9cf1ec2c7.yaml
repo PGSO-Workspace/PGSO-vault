@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f9cf1ec2c7
+created: 2026-09-14T20:37:00.456Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1057/ejis.2014.36
+title: "FEDS: a Framework for Evaluation in Design Science Research"
+authors:
+  - John Venable
+  - Jan Pries-Heje
+  - Richard Baskerville
+year: 2016
+venue: European Journal of Information Systems
+doi: 10.1057/ejis.2014.36
+url: https://doi.org/10.1057/ejis.2014.36
+abstract: null
+type: article
+open_access: null
+cited_by: 847
+query: FEDS a Framework for Evaluation in Design Science Research
+question: null
+search: SEARCH-ada5118369
+score: 1.732
+score_parts:
+  rank: 1
+  citations: 0.732
+  recency: 0
+needs_approval: false
+state: candidate

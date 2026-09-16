@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-43019d0e42
+created: 2026-09-15T07:34:04.334Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7155244781
+title: "SoK: Security of Autonomous LLM Agents in Agentic Commerce"
+authors:
+  - Qian'ang Mao
+  - Jiaxin Wang
+  - Ya Liu
+  - Li Zhu
+  - Cong Ma
+  - Jiaqi Yan
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2604.15367
+abstract: "Autonomous large language model (LLM) agents such as OpenClaw are pushing agentic commerce from human-supervised assistance toward machine actors that can negotiate, purchase services, manage digital assets, and execute transactions across on-chain and off-chain environments. Protocols such as the Trustless Agents standard (ERC-8004), Agent Payments Protocol (AP2), OKX Agent Payments Protocol (APP), the HTTP 402-based payment protocol (x402), Agent Commerce Protocol (ACP), the Agentic Commerce standard (ERC-8183), and Machine Payments Protocol (MPP) enable this transition, but they also create an attack surface that existing security frameworks do not capture well. This Systematization of Knowledge (SoK) develops a unified security framework for autonomous LLM agents in commerce and finance. We organize threats along five dimensions: agent integrity, transaction authorization, inter-agent trust, market manipulation, and regulatory compliance. From a systematically curated public corpus of academic papers, protocol documents, industry reports, and incident evidence, we derive 12 cross-layer attack vectors and show how failures propagate from reasoning and tooling layers into custody, settlement, market harm, and compliance exposure. We then propose a layered defense architecture addressing authorization gaps left by current agent-payment protocols. Overall, our analysis shows that securing agentic commerce is inherently a cross-layer problem that requires coordinated controls across LLM safety, protocol design, identity, market structure, and regulation. We conclude with a research roadmap and a benchmark agenda for secure autonomous commerce."
+type: preprint
+open_access: true
+cited_by: 0
+query: 2024 2025 journal LLM agent tool permission authorization runtime enforcement security guardrails
+question: null
+search: SEARCH-b0fa183ef0
+score: 1.1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

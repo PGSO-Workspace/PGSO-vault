@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-9330b0cf93
+created: 2026-09-15T00:47:11.468Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-phase1-extract-linux-x86_64
+hash: 9330b0cf932f317b7651a2d0aee5eb50d3a0db5bcb48a6fe3df44c1ccf45f20b
+bytes: 728624
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: CREMA-D real-voice diagnostic input/build artifact; provenance and license inside corpus bundle and build manifest

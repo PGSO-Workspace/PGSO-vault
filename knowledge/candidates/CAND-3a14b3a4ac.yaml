@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3a14b3a4ac
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4402621153
+title: "EAV: EEG-Audio-Video Dataset for Emotion Recognition in Conversational Contexts"
+authors:
+  - Min-Ho Lee
+  - Adai Shomanov
+  - Balgyn Begim
+  - Zhuldyz Kabidenova
+  - Aruna Nyssanbay
+  - Adnan Yazıcı
+  - Seong–Whan Lee
+year: 2024
+venue: Scientific Data
+doi: 10.1038/s41597-024-03838-4
+url: https://doi.org/10.1038/s41597-024-03838-4
+abstract: "Understanding emotional states is pivotal for the development of next-generation human-machine interfaces. Human behaviors in social interactions have resulted in psycho-physiological processes influenced by perceptual inputs. Therefore, efforts to comprehend brain functions and human behavior could potentially catalyze the development of AI models with human-like attributes. In this study, we introduce a multimodal emotion dataset comprising data from 30-channel electroencephalography (EEG), audio, and video recordings from 42 participants. Each participant engaged in a cue-based conversation scenario, eliciting five distinct emotions: neutral, anger, happiness, sadness, and calmness. Throughout the experiment, each participant contributed 200 interactions, which encompassed both listening and speaking. This resulted in a cumulative total of 8,400 interactions across all participants. We evaluated the baseline performance of emotion recognition for each modality using established deep neural network (DNN) methods. The Emotion in EEG-Audio-Visual (EAV) dataset represents the first public dataset to incorporate three primary modalities for emotion recognition within a conversational context. We anticipate that this dataset will make significant contributions to the modeling of the human emotional process, encompassing both fundamental neuroscience and machine learning viewpoints."
+type: other
+open_access: true
+cited_by: 28
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1.333
+score_parts:
+  rank: 0.167
+  citations: 0.366
+  recency: 0.8
+needs_approval: false
+state: candidate

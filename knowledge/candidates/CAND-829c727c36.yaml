@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-829c727c36
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.52202/085713-1316
+title: Selective Omniprediction and Fair Abstention
+authors:
+  - Sílvia Casacuberta
+  - Varun Kanade
+year: 2025
+venue: Advances in Neural Information Processing Systems 38
+doi: 10.52202/085713-1316
+url: https://doi.org/10.52202/085713-1316
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 1.005
+score_parts:
+  rank: 0.03
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

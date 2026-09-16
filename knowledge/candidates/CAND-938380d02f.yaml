@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-938380d02f
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5063888
+title: "EmoGPT: An Emotion-Aware Chatbot with Cause Modeling for Contextual Response Generation"
+authors:
+  - Suganya R
+  - Pradhyumn Nair
+  - Akilesh S
+  - Tualsiraman R
+  - Girish Subramanian
+year: 2024
+venue: null
+doi: 10.2139/ssrn.5063888
+url: https://doi.org/10.2139/ssrn.5063888
+abstract: EmoGPT is an innovative and emotion-aware chatbot that leverages emotion cause pair modeling to predict emotions and their underlying causes in user input. By incorporating the GPT-2 AI model, EmoGPT excels in generating personalized, open-ended, and human-like responses. Through this hybrid approach, the chatbot offers users a unique and engaging conversational experience, fostering more natural and dynamic interactions. EmoGPT's ability to comprehend emotions and contexts enables it to deliver responses that resonate with users, leading to enhanced user satisfaction and an enriched dialogue. In this paper, we present the architecture, design, and evaluation of EmoGPT, showcasing its effectiveness in providing open-ended and contextually relevant responses in various real-world conversational scenarios.
+type: preprint
+open_access: null
+cited_by: 2
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 0.962
+score_parts:
+  rank: 0.043
+  citations: 0.119
+  recency: 0.8
+needs_approval: true
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3d693631bc
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.36227/techrxiv.175295877.72690509/v1
+title: "Cognitive-Mimetic Adversarial Prompting: Corrupting LLM Reasoning with Human Cognitive Failures"
+authors:
+  - Panhapiseth Lim
+year: 2025
+venue: null
+doi: 10.36227/techrxiv.175295877.72690509/v1
+url: https://doi.org/10.36227/techrxiv.175295877.72690509/v1
+abstract: Large Language Models (LLMs) show remarkable skill in complex reasoning tasks, aided by advanced techniques like Chain-of-Thought (CoT) prompting. However, existing research on adversarial attacks focuses mainly on syntactic and structural vulnerabilities, leaving a critical gap in understanding semantic attacks that target the reasoning process itself. This paper introduces Cognitive-Mimetic Adversarial Prompting (CMAP), a novel class of attacks that exploits documented human cognitive biases and logical fallacies to corrupt LLM reasoning chains. We present a taxonomy of CMAP attacks, propose new metrics to evaluate reasoning corruption, and introduce Fallacy-Bench, a benchmark for assessing LLM robustness against logical manipulation. Our work reveals fundamental vulnerabilities in current reasoning techniques and provides a foundation for developing more robust AI systems through logical inoculation.
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 0.936
+score_parts:
+  rank: 0.036
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

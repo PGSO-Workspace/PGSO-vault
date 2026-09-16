@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0c1e8f5c56
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7132138
+title: "VeriQuant: Measuring Numerical Reliability of LLM Agents in Quantitative Derivatives Pricing via Verified Tool-Grounding and Ambiguity Benchmarking"
+authors:
+  - Tarun Yadav
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7132138
+url: https://doi.org/10.2139/ssrn.7132138
+abstract: "We introduce VeriQuant, an oracle-grounded benchmark and evaluation framework for measuring and characterising LLM reliability on quantitative finance tasks. Using an independently deterministic Black-Scholes pricing engine as ground truth, we evaluate Claude Sonnet 4.6 across four complementary tiers: numeric precision (Tier 1, n=40), conceptual reasoning (Tier 2, n=30), ambiguity recognition (Tier 3, n=23), and a second-pass auditor agent (Tier 4, 63 audit calls over existing Tier 1 and Tier 3 responses). Without tool access, the model achieves 75% accuracy on numeric computations and 100% / 96.7% direction and reasoning accuracy on conceptual questions, but exhibits a systematic 0% failure rate on vega—consistently omitting the ÷100 unit-conversion step required by market convention despite explaining this convention correctly in the conceptual tier. Tool-grounding raises numeric accuracy to 100% (+25 pp), confirming that execution errors—not conceptual gaps—drive failure. On the ambiguity tier, tool access improves handling scores from 39.1% to 50.0% (+10.9 pp), primarily by enabling explicit clarification requests. A key negative finding emerges: making the dividend-yield parameter q \"required\" in the tool schema failed to trigger the intended AMBIGUOUS_INPUT error because the model infers reasonable defaults rather than omitting the field—demonstrating that JSON schema enforcement is insufficient to surface ambiguity with current LLMs. Finally, we test whether a second, tool-free LLM call reviewing the solver's own response can catch these errors: the auditor catches only 1 of 10 unit-convention self-contradictions and 5 of 18 silently-assumed ambiguities, and—independently verified against a from-scratch reimplementation of Black-Scholes—its own proposed corrections are themselves wrong in both cases where it incorrectly flagged a correct solver answer. Taken together, VeriQuant separates four distinct failure classes (arithmetic, unit-convention, ambiguity specification, and unreliable self-review), provides a reusable taxonomy and benchmark, and yields actionable design lessons for practitioners deploying LLM agents in quantitative financial workflows."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.033
+score_parts:
+  rank: 0.033
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

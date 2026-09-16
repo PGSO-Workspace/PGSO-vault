@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-11a789b0ba
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416408545
+title: "User personas, ideation and large language models: A post-hoc study"
+authors:
+  - Stefano De Paoli
+year: 2025
+venue: International Journal of Human-Computer Studies
+doi: 10.1016/j.ijhcs.2025.103690
+url: https://doi.org/10.1016/j.ijhcs.2025.103690
+abstract: "• LLMs in User-Centered Design and Personas: The paper shows how Large Language Models (LLMs) can support early design stages by generating user personas from qualitative interview data. • Scenario Development and Functionalities: It highlights how personas created by LLMs can be expanded into scenarios and associated functionalities for digital platforms, simulating the ideation phase of a user-centered design. • Comparable Outcomes: An evaluation shows that the functionalities derived using LLMs align with those produced by human researchers separately, showing the validity of the approach. . Covering the full ideation of design with Large Language Models (LLMs) and user interview data remains an underexplored area in the current scholarship. This paper begins to address this gap and investigates the integration of LLMs in a user-centered design process, creating user personas based on qualitative interview data. This work further explores using these personas for deriving scenarios, and functionality requirements, also with LLMs. First, LLMs are used to identify key themes of users from interviews, subsequently synthesising these into personas. Second, personas are expanded into scenarios and associated functionalities for a digital platform, simulating the ideation phase of a design process. The findings illustrate how LLMs can potentially streamline these early design stages. An evaluation shows that the process discovers a list of functionalities which are, to a reasonable extent, comparable to those that human researchers have produced separately. The study proposes a practical procedure for integrating LLMs into qualitative design ideation workflows. The dataset used comprises 26 Open Access interviews from a previous Horizon project, from which eight personas and related scenarios are derived. To support further experimentation and practical applications, several computational resources used in performing analysis and generating LLM-based personas are shared. This enables reproducibility and encourages broader exploration of LLM-assisted design ideation."
+type: article
+open_access: true
+cited_by: 10
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.285
+score_parts:
+  rank: 0.125
+  citations: 0.26
+  recency: 0.9
+needs_approval: false
+state: candidate

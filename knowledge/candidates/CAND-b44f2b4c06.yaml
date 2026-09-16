@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b44f2b4c06
+created: 2026-09-15T07:38:12.403Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5211843
+title: Extending the Model Context Protocol (MCP) for Telco Networks
+authors:
+  - Sebastian Barros
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5211843
+url: https://doi.org/10.2139/ssrn.5211843
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance" arXiv'
+question: null
+search: SEARCH-a96b00e8a8
+score: 0.943
+score_parts:
+  rank: 0.043
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-1c51389fce
+created: 2026-09-15T00:35:07.190Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/nemo_adapter.py
+hash: 1c51389fceff1885c2fad285f7dc3a489255c3b6af7847c72ed2715c42a98d4f
+bytes: 4560
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Actual NeMo Colang matchedpolicy adapter; Python formatsrawobservations only; noLLM

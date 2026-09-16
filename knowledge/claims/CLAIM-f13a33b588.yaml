@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-f13a33b588
+created: 2026-09-13T07:00:37.277Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The Phase 3 repository README identifies the learned comparator with rho 0.27055 as wav2small, while the paper describes its learned comparator as wav2vec2. Comparator identity needs reconciliation before citation.
+kind: empirical
+state: candidate
+supported_by:
+  - EVID-8caca13489
+questions: []
+sections:
+  - results
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-f9a76ffa05

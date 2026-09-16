@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b62ba735fd
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/wacv61041.2025.00650
+title: "MLLM-Tool: A Multimodal Large Language Model for Tool Agent Learning"
+authors:
+  - Chenyu Wang
+  - Weixin Luo
+  - Sixun Dong
+  - Xiaohua Xuan
+  - Zhengxin Li
+  - Lin Ma
+  - Shenghua Gao
+year: 2025
+venue: 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+doi: 10.1109/wacv61041.2025.00650
+url: https://doi.org/10.1109/wacv61041.2025.00650
+abstract: null
+type: article
+open_access: null
+cited_by: 15
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 1.235
+score_parts:
+  rank: 0.034
+  citations: 0.301
+  recency: 0.9
+needs_approval: false
+state: candidate

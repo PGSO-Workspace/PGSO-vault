@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b25ae11d7d
+created: 2026-09-15T07:48:45.534Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3390/electronics15112462
+title: Runtime Privacy-Aware Control for Operational Enforcement in Data-Intensive Systems
+authors:
+  - Maryam Almarwani
+  - Reem Almarwani
+year: 2026
+venue: Electronics
+doi: 10.3390/electronics15112462
+url: https://doi.org/10.3390/electronics15112462
+abstract: "Privacy enforcement in networked systems is commonly based on static data classification (e.g., personal vs. non-personal). However, in modern data-intensive systems, operational data such as telemetry and derived features can become privacy-sensitive depending on usage context. Inference exposure, temporal linkability, and data reuse can introduce runtime privacy risks even when the underlying data is initially considered non-sensitive. This paper proposes a runtime network management decision framework that makes this shift actionable. The framework defines four observable triggers: (i) inference exposure, (ii) temporal linkability, (iii) context sensitivity, and (iv) scope expansion. These triggers are mapped to discrete enforcement states with proportional actions and structured audit-ready decision records. The framework is evaluated using real NetFlow datasets and further validated on the large-scale CSE-CIC-IDS2018 benchmark. The empirical evaluation primarily focuses on inference exposure and temporal linkability as representative runtime triggers, while context sensitivity and scope expansion are illustrated through operational decision scenarios. The extended validation uses eight daily traffic files, resulting in 1,837,144 cleaned flow records and 70 numerical features after preprocessing. The results indicate that trigger-based enforcement maintains near-baseline detection utility while avoiding the larger utility degradation observed under continuously active enforcement strategies. The evaluation additionally includes threshold sensitivity analysis, random activation baselines, and runtime stability measurements. These findings suggest that runtime-triggered enforcement supports selective and stability-aware control with limited utility degradation. The evaluation focuses on decision-level behavior rather than full system deployment, demonstrating how runtime signals can support selective and auditable enforcement decisions. Overall, the proposed framework enables selective and interpretable runtime enforcement based on observable operational evidence rather than continuously applied fixed protections."
+type: article
+open_access: null
+cited_by: 0
+query: '"Gamma G-0" "L-DREA" runtime enforcement'
+question: null
+search: SEARCH-16d800e312
+score: 1.059
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

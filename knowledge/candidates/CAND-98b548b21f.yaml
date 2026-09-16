@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-98b548b21f
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7212081179
+title: "Uncertainty Quantification for LLM Agents: A Taxonomy, an Evaluation Protocol, and an Empirical Study"
+authors:
+  - Moule Lin
+  - Qizhen Lan
+  - Shuhao Guan
+  - Weipeng Jing
+  - Jiexin Fan
+  - David Gregg
+  - Goetz Botterweck
+year: 2026
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2609.07395
+url: https://arxiv.org/abs/2609.07395
+abstract: Large language models (LLMs) are no longer deployed only for single-turn conversation but increasingly act as agents that plan, call tools, retrieve evidence, maintain memory, and interact over long horizons, often together with other agents through multi-turn conversations. Therefore, knowing when to trust the agentic system is a prerequisite for safe deployment. However, existing work on quantifying uncertainty for LLMs was built almost entirely for single-turn question answering. This paper argues that errors and uncertainty arise from multi-turn conversations, environments, and tools rather than from a single-turn question answering setting. It comes late, however, and is compounded in a single score that is too coarse to represent the unreliability. We organize the literature with a three-axis taxonomy, (1) what the uncertainty is, (2) how it is estimated, and (3) where uncertainty arises during an agent pipeline. We investigate step-level and trajectory-level calibration and show with a simple counterexample that the first does not imply the second. Experiments on real agent traces across four models and up to a 50-step budget show that the proposed metric and reporting protocol (Trajectory-Checkpoint Expected Calibration Error, TC-ECE) can be computed and that step errors are coupled along a trajectory. We find that confidence estimates from the agent's own responses do not consistently outperform a simple baseline. The experiments also show that averaging all trajectories together can hide overconfidence at later stages, which becomes visible when results are analyzed across different horizons. In simpler terms, this paper identifies where the uncertainty comes from in the agentic system pipeline, how to teach agents to know when they are wrong, and why one confidence number is not enough.
+type: preprint
+open_access: true
+cited_by: 0
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 1.05
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

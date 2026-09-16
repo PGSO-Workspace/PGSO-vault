@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a12dfb8b8e
+created: 2026-09-15T06:35:31.594Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7204579166
+title: "SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning"
+authors:
+  - Jiajun Fan
+  - Yu Liu
+  - Prashanth Gurunath Shivakumar
+  - Jia-Hong Huang
+  - Qi Luo
+  - M. Maruf
+  - Ivan Bulyko
+  - Ge Liu
+  - Roger Ren
+year: 2026
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2608.26432
+url: https://arxiv.org/abs/2608.26432
+abstract: "Voice agents must call tools and hold multi-turn dialogue entirely through speech, yet the dominant paradigm trains them in text. Existing frameworks either cascade TTS and ASR around a proprietary voice API, where gradients cannot flow and per-call cost makes on-policy reinforcement learning prohibitive, or stay in text: they measure voice agents but cannot improve them. We present SpeechGym, an audio-native agentic environment in which two omni-modal models converse in native audio, with no external ASR or TTS and no API boundary, over the unmodified tasks, tools and success check of an established text agentic benchmark, so that the interaction modality is the only variable and the loop stays local and trainable end to end. Audio agentic capability does not follow from audio understanding. The failures speech introduces are perceptual rather than reasoning deficits: the agent picks the right tool and the right argument slot but fills it with a value misheard from the waveform, and that single error cascades into a failed call, a retry of the same call, and a wasted step budget. A second failure is behavioural: under an insistent caller the agent performs an unauthorised write and ends the episode believing it helped. Both are trainable, because the environment labels them for free: a call with a misheard argument fails against the database while a correct one succeeds. The obstacle is sparsity, not signal. Outcome-only GRPO is gradient-starved here, since almost every rollout group fails identically, while a per-turn process reward crediting each successful tool call restores variance to nearly every group. Trained this way, the agent transfers with no further tuning to an independently implemented voice benchmark, more than doubling task success and carrying an open-weights model from last place to second on that leaderboard, while using fewer turns and tokens than before training."
+type: preprint
+open_access: true
+cited_by: 0
+query: "2603.13686"
+question: null
+search: SEARCH-58818ee636
+score: 2
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

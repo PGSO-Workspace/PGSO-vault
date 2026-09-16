@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-be2f89e451
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3733799.3762968
+title: "CyberLLMInstruct: A Pseudo-Malicious Dataset Revealing Safety-Performance Trade-offs in Cyber Security LLM Fine-tuning"
+authors:
+  - Adel ElZemity
+  - Budi Arief
+  - Shujun Li
+year: 2025
+venue: Proceedings of the 18th ACM Workshop on Artificial Intelligence and Security
+doi: 10.1145/3733799.3762968
+url: https://doi.org/10.1145/3733799.3762968
+abstract: null
+type: article
+open_access: null
+cited_by: 3
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.094
+score_parts:
+  rank: 0.043
+  citations: 0.151
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c4781c61ff
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7131129304
+title: "State-of-the-art Multimodal Emotion Recognition: A comprehensive survey and taxonomy"
+authors:
+  - Adnan YAZICI
+  - Tayfun Küçükyılmaz
+  - Tansel Dökeroğlu
+  - Aidana Sharipbay
+  - Min-Ho Lee
+  - Benjamin Tyler
+year: 2026
+venue: Intelligent Systems with Applications
+doi: 10.1016/j.iswa.2026.200642
+url: https://doi.org/10.1016/j.iswa.2026.200642
+abstract: "Multimodal Emotion Recognition (MER) is an advanced field of AI and affective computing that empowers machines to interpret human emotions by analyzing and integrating multiple behavioral and physiological signals. Unlike unimodal systems, MER captures emotional complexity through cross-modal synergy, significantly improving recognition in real-world settings. Advances in deep learning, particularly deep learning-based architectures, have propelled MER research, excelling at modeling long-range dependencies and aligning diverse modalities. However, challenges remain, including effective fusion design, handling missing modalities, ensuring generalization across users, and addressing the scarcity of balanced multimodal datasets. This study reviews MER research from 2020 to 2025, highlighting innovations in the methods of MER, emotion theories, taxonomies, preprocessing, feature extraction and selection, recent state-of-the-art learning methods, MER datasets of the last decade, fusion and representation techniques, recent state-of-the-art MER methods, application areas, and discussions on challenges and open research issues. Recent multimodal datasets, including newly released EEG–audio–video resources from 2024, are also discussed in terms of their modalities, annotation schemes, and relevance to MER benchmarking. By consolidating insights across methodological, architectural, and practical dimensions, this review provides a unified reference for understanding the state of the art and highlights key challenges and research directions needed to achieve robust, scalable, and real-world MER systems. • MER integrates multiple signals to capture complex human emotions. • Transformer models advance MER by handling long-range dependencies. • Fusion strategies are key for robust multimodal emotion recognition. • Key challenges: missing data, imbalance, and user generalization. • We review MER research (2020–2025) and introduce a new EEG–AV dataset."
+type: article
+open_access: true
+cited_by: 1
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.138
+score_parts:
+  rank: 0.063
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4810a2ccc7
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412072325
+title: Framework for bias evaluation in large language models in healthcare settings
+authors:
+  - Tara Templin
+  - Sophia Fort
+  - Prasanna Padmanabham
+  - Pratyush Seshadri
+  - Ram Rimal
+  - Junier B. Oliva
+  - Kristin Hassmiller Lich
+  - Sean Sylvia
+  - Nasa Sinnott-Armstrong
+year: 2025
+venue: npj Digital Medicine
+doi: 10.1038/s41746-025-01786-w
+url: https://doi.org/10.1038/s41746-025-01786-w
+abstract: A critical gap in the adoption of large language models for AI-assisted clinical decisions is the lack of a standardized audit framework to evaluate models for accuracy and bias. Our framework introduces a five-step framework that guides practitioners through stakeholder engagement, model calibration to specific patient populations, and rigorous testing through clinically relevant scenarios. We provide open-access tools for stakeholder engagement and an example of an audit. As the regulation of models becomes more critical, we believe adoption of an audit framework that tests model outputs, rather than regulating specific hyperparameters or inputs, will encourage the responsible use of AI in clinical settings.
+type: article
+open_access: true
+cited_by: 44
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 1.456
+score_parts:
+  rank: 0.143
+  citations: 0.413
+  recency: 0.9
+needs_approval: false
+state: candidate

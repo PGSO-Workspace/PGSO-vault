@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-aabc06f01f
+created: 2026-09-15T01:10:33.788Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1080/10447318.2023.2170002
+title: Correction
+authors: []
+year: 2023
+venue: International Journal of Human–Computer Interaction
+doi: 10.1080/10447318.2023.2170002
+url: https://doi.org/10.1080/10447318.2023.2170002
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: SCImago 2024 International Journal of Human-Computer Interaction ISSN 10447318 SJR quartile category
+question: null
+search: SEARCH-5d85bf2102
+score: 0.867
+score_parts:
+  rank: 0.167
+  citations: 0
+  recency: 0.7
+needs_approval: false
+state: candidate

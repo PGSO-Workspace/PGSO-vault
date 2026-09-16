@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-09e525bdbd
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4414770445
+title: "Implementing Affective Sovereignty: Formal Foundations, Design Architecture, and Computational Governance"
+authors:
+  - Ryan sangbaek Kim
+year: 2025
+venue: Research Square
+doi: 10.21203/rs.3.rs-7765449/v1
+url: https://doi.org/10.21203/rs.3.rs-7765449/v1
+abstract: null
+type: preprint
+open_access: true
+cited_by: 1
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.038
+score_parts:
+  rank: 0.063
+  citations: 0.075
+  recency: 0.9
+needs_approval: true
+state: candidate

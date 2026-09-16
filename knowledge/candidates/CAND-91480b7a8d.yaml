@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-91480b7a8d
+created: 2026-09-15T09:15:44.244Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.12677/csa.2023.1312256
+title: "Optimization of Document Segmentation Method in LangChain Framework: Methods and Applications"
+authors:
+  - 运生 蔡
+year: 2023
+venue: Computer Science and Application
+doi: 10.12677/csa.2023.1312256
+url: https://doi.org/10.12677/csa.2023.1312256
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: AgentSpec GitHub haoyuwang99 official implementation license requirements LangChain 0.3.13
+question: null
+search: SEARCH-92b23a6f19
+score: 0.866
+score_parts:
+  rank: 0.091
+  citations: 0.075
+  recency: 0.7
+needs_approval: false
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d42a356d01
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416179662
+title: "Tracing the Evolution of Artificial Intelligence: A Review of Tools, Frameworks, and Technologies (1950–2025)"
+authors:
+  - Gurpreet Singh
+  - Trina Banerjee
+  - Nishaa Ghosh
+year: 2025
+venue: null
+doi: 10.31224/5802
+url: https://doi.org/10.31224/5802
+abstract: "Artificial Intelligence (AI) has evolved remarkably over the past seven decades, transforming from simple rule-based systems into complex multimodal and generative frameworks capable of reasoning, creativity, and perception. This review traces the chronological development of AI tools, highlighting key milestones that shaped the field-from the early symbolic programs like Logic Theorist and ELIZA to the emergence of modern large-scale models such as GPT-4, Gemini, and Claude. The study explores the progression across distinct eras: the foundational period of symbolic reasoning (1940s-1970s), the rise of machine learning and statistical modeling (1980s-2000s), the deep learning revolution (2010s), and the recent explosion of generative and multimodal systems (2020-2025). Each phase reflects a major shift in how intelligence is defined, represented, and implemented-from handcrafted logic to data-driven learning and now to context-aware multimodal understanding. By reviewing over fifty significant AI tools and frameworks, this paper provides a comprehensive overview of how incremental innovations in computation, data availability, and model architecture have collectively enabled the current state of AI. The work concludes with insights on how this evolution paves the way for the next generation of agentic and real-time AI systems capable of seamless interaction across text, image, audio, and video modalities."
+type: preprint
+open_access: true
+cited_by: 1
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.034
+score_parts:
+  rank: 0.059
+  citations: 0.075
+  recency: 0.9
+needs_approval: true
+state: candidate

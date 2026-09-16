@@ -1,0 +1,21 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-dbe0f1da54
+created: 2026-09-13T07:00:34.763Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The repository frames PGSO around uncertain perception feeding deterministic tool-catalog governance; this matches the researcher’s stated emphasis on the artifact rather than a strong emotion-recognition signal.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-5f4e2d1ceb
+questions: []
+sections:
+  - introduction
+  - discussion
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-e42e168741

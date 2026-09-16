@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-cff09f9fa0
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415056148
+title: "Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem"
+authors:
+  - Shuli Zhao
+  - Qinsheng Hou
+  - Zihan Zhan
+  - Yanhao Wang
+  - Yuchong Xie
+  - Yu Guo
+  - Libo Chen
+  - Shenghong Li
+  - Zhi Xue
+year: 2026
+venue: null
+doi: 10.1109/sp63933.2026.00154
+url: https://doi.org/10.1109/sp63933.2026.00154
+abstract: Large language models(LLMs) are increasingly integrated with external systems through the Model Context Protocol(MCP),which standardizes tool invocation and has rapidly become a backbone for LLM-powered applications. While this paradigm enhances functionality,it also introduces a fundamental security shift:LLMs transition from passive information processors to autonomous orchestrators of task-oriented toolchains,expanding the attack surface,elevating adversarial goals from manipulating single outputs to hijacking entire execution flows. In this paper,we identify and characterize a systematic privacy-leakage attack pattern,termed Parasitic Toolchain Attacks,instantiated as MCP Unintended Privacy Disclosure(MCP-UPD). These attacks require no direct victim interaction;instead,adversaries embed malicious instructions into external data sources that LLMs access during legitimate tasks. Unlike traditional prompt injection and tool poisoning attacks,our attack targets the interconnected toolchain itself,assembling multiple legitimate tools into a coordinated workflow whose combined behavior accomplishes malicious objectives. In MCP-UPD,the malicious logic infiltrates the toolchain and unfolds in three phases:Parasitic Ingestion,Privacy Collection,and Privacy Disclosure,culminating in stealthy exfiltration of private data. Our root cause analysis reveals that MCP lacks both context-tool isolation and least-privilege enforcement,enabling adversarial instructions to propagate unchecked into sensitive tool invocations. To assess the severity,we design MCP-SEC and conduct the first large-scale security census of the MCP ecosystem,analyzing 12230 tools across 1360 servers. Our findings show that the MCP ecosystem is rife with real-world exploitable gadgets and diverse attack methods,underscoring systemic risks in MCP platforms and the urgent need for defense mechanisms in LLM-integrated environments.
+type: other
+open_access: true
+cited_by: 1
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.175
+score_parts:
+  rank: 0.1
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

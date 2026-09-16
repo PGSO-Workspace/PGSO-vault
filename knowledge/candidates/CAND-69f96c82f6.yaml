@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-69f96c82f6
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4408167800
+title: "Generative AI and LLMs for Critical Infrastructure Protection: Evaluation Benchmarks, Agentic AI, Challenges, and Opportunities"
+authors:
+  - Yagmur Yigit
+  - Mohamed Amine Ferrag
+  - Mohamed Chahine Ghanem
+  - Iqbal H. Sarker
+  - Λέανδρος Μαγλαράς
+  - Christos Chrysoulas
+  - Naghmeh Moradpoor
+  - Norbert Tihanyi
+  - Helge Janicke
+year: 2025
+venue: Sensors
+doi: 10.3390/s25061666
+url: https://doi.org/10.3390/s25061666
+abstract: Critical National Infrastructures (CNIs)-including energy grids, water systems, transportation networks, and communication frameworks-are essential to modern society yet face escalating cybersecurity threats. This review paper comprehensively analyzes AI-driven approaches for Critical Infrastructure Protection (CIP). We begin by examining the reliability of CNIs and introduce established benchmarks for evaluating Large Language Models (LLMs) within cybersecurity contexts. Next, we explore core cybersecurity issues, focusing on trust, privacy, resilience, and securability in these vital systems. Building on this foundation, we assess the role of Generative AI and LLMs in enhancing CIP and present insights on applying Agentic AI for proactive defense mechanisms. Finally, we outline future directions to guide the integration of advanced AI methodologies into protecting critical infrastructures. Our paper provides a strategic roadmap for researchers and practitioners committed to fortifying national infrastructures against emerging cyber threats through this synthesis of current challenges, benchmarking strategies, and innovative AI applications.
+type: article
+open_access: true
+cited_by: 61
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.548
+score_parts:
+  rank: 0.2
+  citations: 0.448
+  recency: 0.9
+needs_approval: false
+state: candidate

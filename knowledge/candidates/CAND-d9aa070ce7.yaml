@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d9aa070ce7
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4413265776
+title: An Intelligent Method for C++ Test Case Synthesis Based on a Q-Learning Agent
+authors:
+  - Serhii Semenov
+  - Олексій Коломійцев
+  - Mykhailo Hulevych
+  - Patryk Mazurek
+  - Olena Chernykh
+year: 2025
+venue: Applied Sciences
+doi: 10.3390/app15158596
+url: https://doi.org/10.3390/app15158596
+abstract: Ensuring software quality during development requires effective regression testing. However, test suites in open-source libraries often grow large, redundant, and difficult to maintain. Most traditional test suite optimization methods treat test cases as atomic units, without analyzing the utility of individual instructions. This paper presents an intelligent method for test case synthesis using a Q-learning agent. The agent learns to construct compact test cases by interacting with an execution environment and receives rewards based on branch coverage improvements and simultaneous reductions in test case length. The training process includes a pretraining phase that transfers knowledge from the original test suite, followed by adaptive learning episodes on individual test cases. As a result, the method requires no formal documentation or API specifications and uses only execution traces of the original test cases. An explicit synthesis algorithm constructs new test cases by selecting API calls from a learned policy encoded in a Q-table. Experiments were conducted on two open-source C++ libraries of differing API complexity and original test suite size. The results show that the proposed method can reach up to 67% test suite reduction while preserving branch coverage, confirming its effectiveness for regression test suite minimization in resource-constrained or specification-limited environments.
+type: article
+open_access: true
+cited_by: 11
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.27
+score_parts:
+  rank: 0.1
+  citations: 0.27
+  recency: 0.9
+needs_approval: false
+state: candidate

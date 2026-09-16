@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-714b23ac13
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7155164204
+title: Evaluating Privilege Usage of Agents with Real-World Tools
+authors:
+  - Quan Zhang
+  - Lianhang Fu
+  - Lvsi Lian
+  - Gwihwan Go
+  - Yujue Wang
+  - Chijin Zhou
+  - Jiang Yu
+  - Geguang Pu
+year: 2026
+venue: null
+doi: 10.1145/3803437.3805554
+url: https://doi.org/10.1145/3803437.3805554
+abstract: Equipping LLM agents with real-world tools can substantially improve productivity. However, granting agents autonomy over tool use also transfers the associated privileges to both the agent and the underlying LLM. Improper privilege usage may lead to serious consequences, including information leakage and infrastructure damage. While several benchmarks have been built to study agents' security, they often rely on pre-coded tools and restricted interaction patterns. Such crafted environments differ substantially from the real-world, making it hard to assess agents' security capabilities in critical privilege control and usage. Therefore, we propose GrantBox, a security evaluation sandbox for analyzing agent privilege usage. GrantBox automatically integrates real-world tools and allows LLM agents to invoke genuine privileges, enabling the evaluation of privilege usage under prompt injection attacks. Our results indicate that while LLMs exhibit basic security awareness and can block some direct attacks, they remain vulnerable to more sophisticated attacks, resulting in an average attack success rate of 84.80% in carefully crafted scenarios.
+type: other
+open_access: true
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.083
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

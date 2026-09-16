@@ -1,0 +1,14 @@
+schema: phdude.fact
+version: 1
+id: FACT-f3b0aec68a
+created: 2026-09-13T07:00:39.141Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+key: pgso_sdk_context_revision
+value: 1b17c248d3608a7d80cc1147e8aa57acbb715132
+from:
+  artifact: ART-9f1943f99f
+  locator: commit; selected files and sha256; tracked_repository_paths
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5e570b173a
+created: 2026-09-14T23:44:46.279Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18535/ijecs.v15i07.5576
+title: "LLM Safety as a Quality Gate: Integrating Bias,  Fairness, and Robustness Evaluation into CI/CD  via GitHub Apps"
+authors:
+  - Kavita Jadhav
+year: 2026
+venue: International Journal of Engineering and Computer Science
+doi: 10.18535/ijecs.v15i07.5576
+url: https://doi.org/10.18535/ijecs.v15i07.5576
+abstract: "This paper presents **LLM Eval Agent**, a production-deployable GitHub App for automating bias, fairness, and robustness evaluation of large language models (LLMs) within the pull request review workflow. Extending the shift-left principle from DevSecOps to LLM safety, the system processes pull request events through GitHub webhooks, executes a configurable five-test evaluation harness using LangTest across multiple model architectures, and reports the results as GitHub Check Runs. When predefined safety thresholds are not satisfied, the system prevents unsafe changes from being merged. The proposed system is evaluated using three SST-2 fine-tuned transformer models: DistilBERT, BERT-base, and RoBERTa. The evaluation covers five test categories related to bias, fairness, and robustness. Experimental results show that all three models achieve strong bias consistency and robustness scores; however, each model fails the fairness gate, with a 0% gender F1 pass rate. This result highlights a systemic limitation in the SST-2 training data that is automatically detected during the pull request workflow. The system further supports confidence scoring, append-only audit logging, longitudinal trend analysis through an API, adversarial red-teaming, and scheduled drift detection. End-to-end validation on a live Railway deployment using PR #4 in the demonstration repository confirmed a 21-second evaluation latency and verified correct block-merge enforcement under both normal and timeout conditions. **Source code:** https://github.com/K11-Software-Solutions/llm-eval-agent-app **Demo repository:** https://github.com/kavitaj11/llm-eval-demo"
+type: article
+open_access: null
+cited_by: 0
+query: '"Safety Guardrails for LLM-Enabled Robots" code GitHub'
+question: null
+search: SEARCH-babb92a8ed
+score: 1.053
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

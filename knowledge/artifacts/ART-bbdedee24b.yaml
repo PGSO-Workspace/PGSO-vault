@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-bbdedee24b
+created: 2026-09-15T06:12:39.193Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/operational-7805fb9/execution.json
+paths:
+  - sources/software/pgso-sdk/operational-7805fb9/execution.json
+hash: bbdedee24b8c73b84002967d617eef398e32bb61ae25dac98e6be461e1b5acd1
+bytes: 7044
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T06:12:38.776Z

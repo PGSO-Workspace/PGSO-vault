@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-84b024f32b
+created: 2026-09-15T01:07:29.902Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/ictai56018.2022.00211
+title: Implicit and Explicit Emotion Enhanced Empathetic Dialogue Generation
+authors:
+  - Qingmeng Zhu
+  - Chen Li
+  - Hao He
+  - Hetian Song
+  - Ziyin Gu
+  - Wenjing Ying
+year: 2022
+venue: 2022 IEEE 34th International Conference on Tools with Artificial Intelligence (ICTAI)
+doi: 10.1109/ictai56018.2022.00211
+url: https://doi.org/10.1109/ictai56018.2022.00211
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation" 11293762'
+question: null
+search: SEARCH-a309ac3231
+score: 0.742
+score_parts:
+  rank: 0.067
+  citations: 0.075
+  recency: 0.6
+needs_approval: false
+state: candidate

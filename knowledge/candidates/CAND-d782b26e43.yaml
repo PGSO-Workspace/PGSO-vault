@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d782b26e43
+created: 2026-09-15T00:21:11.462Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0014692300004018
+title: Safeguarding Big Data Question-Answering Systems with a Two-Layer Input Guardrails
+authors:
+  - Leonardo Moraes
+  - Enzo Onofre
+  - Cristina Aguiar
+year: 2026
+venue: Proceedings of the 28th International Conference on Enterprise Information Systems
+doi: 10.5220/0014692300004018
+url: https://doi.org/10.5220/0014692300004018
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: NeMo Guardrails programmable guardrails conversational systems
+question: null
+search: SEARCH-75810a0056
+score: 1.333
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

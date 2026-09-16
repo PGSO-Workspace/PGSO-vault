@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-05936df931
+created: 2026-09-15T09:15:44.244Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3571852
+title: Open Source License Inconsistencies on GitHub
+authors:
+  - Thomas Wolter
+  - Ann Barcomb
+  - Dirk Riehle
+  - Nikolay Harutyunyan
+year: 2023
+venue: ACM Transactions on Software Engineering and Methodology
+doi: 10.1145/3571852
+url: https://doi.org/10.1145/3571852
+abstract: Almost all software, open or closed, builds on open source software and therefore needs to comply with the license obligations of the open source code. Not knowing which licenses to comply with poses a legal danger to anyone using open source software. This article investigates the extent of inconsistencies between licenses declared by an open source project at the top level of the repository and the licenses found in the code. We analyzed a sample of 1,000 open source GitHub repositories. We find that about half of the repositories did not fully declare all licenses found in the code. Of these, approximately 10% represented a permissive vs. copyleft license mismatch. Furthermore, existing tools cannot fully identify licences. We conclude that users of open source code should not just look at the declared licenses of the open source code they intend to use, but rather examine the software to understand its actual licenses.
+type: article
+open_access: null
+cited_by: 18
+query: AgentSpec GitHub haoyuwang99 official implementation license requirements LangChain 0.3.13
+question: null
+search: SEARCH-92b23a6f19
+score: 1.079
+score_parts:
+  rank: 0.059
+  citations: 0.32
+  recency: 0.7
+needs_approval: false
+state: candidate

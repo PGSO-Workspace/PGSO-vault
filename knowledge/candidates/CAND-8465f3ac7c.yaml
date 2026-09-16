@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8465f3ac7c
+created: 2026-09-15T01:09:16.222Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7177038
+title: Observation-Centered Runtime Safety for Foundation-Model Agents:&amp;nbsp;A Model-Agnostic Geometry–Risk–Control Architecture
+authors:
+  - Tomohiko Nakamura
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7177038
+url: https://doi.org/10.2139/ssrn.7177038
+abstract: "Alignment research for large language models has focused primarily on model-centric interventions-fine-tuning, preference optimization, and decoding-time filters. These methods improve average behavior, yet they do not continuously observe or constrain the runtime trajectory of an agent as it acts in a tool-using environment. We present an observationcentered runtime safety architecture that treats semantic state as a measurable trajectory and separates safety into five strictly layered concerns: Observation, Geometry, Risk, Control, and (future) Execution. The architecture is realized as the SensOS Runtime Safety Layer through a staged experimental program. Heterogeneous agent events are normalized into an Observation Object and projected to a trajectory; a model-agnostic geometry engine estimates curvature, boundary distance, density, stability, and basin membership; a risk engine converts those descriptors into a continuous risk valuation with hysteresis and early warning; and a control engine maps risk to a graduated L0-L7 decision under an approval interlock. Execution against a live agent is intentionally excluded: control outputs are decisions only, pending a separate safety review. On a real Claude Code session (n = 489 events), end-to-end observation pipeline latency was 0.094 ms mean per event (alert-only; zero alerts at threshold 0.5). Geometry, risk, and control packages exhibit production-grade software engineering quality-full statement and branch test coverage (95/151/107 tests)-with measured sub-millisecond risk and control latencies (0.0067/0.0039 ms mean). These figures characterize software quality and microbenchmarks, not validated operational safety. We do not claim live intervention efficacy; we claim a coherent, measured, and architecturally honest decision spine for runtime safety without modifying foundation models."
+type: preprint
+open_access: null
+cited_by: 0
+query: selective classification conformal risk control runtime safety
+question: null
+search: SEARCH-54176eb439
+score: 2
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

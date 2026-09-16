@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-963d1dfd5a
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4401480470
+title: "Humanlike service robots: A systematic literature review and research agenda"
+authors:
+  - Wenzhen Zhang
+  - Emma Slade
+  - Eleonora Pantano
+year: 2024
+venue: Psychology and Marketing
+doi: 10.1002/mar.22099
+url: https://doi.org/10.1002/mar.22099
+abstract: Abstract Humanlike robots are increasingly employed to provide frontline services. They are frequently designed with stereotypically feminine or masculine humanlike features which affect or bias consumer behavior in service encounters. This systematic review of 118 peer‐reviewed journal papers aims to comprehensively capture the current status of the field and identify important research gaps requiring further investigation. Following Preferred Reporting Items for Systematic Reviews and Meta‐Analyses protocol, a comprehensive framework is developed to conceptualize the process of customer interactions with humanlike service robots, depicting how humanlike service robots influence consumer behavior. Specifically, we identify interaction antecedents, consumer processing factors, outcomes of the interactions, and strengthening/attenuating factors. Based on the framework, the review concludes by identifying issues that future research should seek to solve to contribute to the field. This paper provides a deep understanding of service robot anthropomorphism in marketing and consumer research and proposes a future research agenda to advance knowledge of the field.
+type: other
+open_access: true
+cited_by: 31
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.216
+score_parts:
+  rank: 0.04
+  citations: 0.376
+  recency: 0.8
+needs_approval: false
+state: candidate

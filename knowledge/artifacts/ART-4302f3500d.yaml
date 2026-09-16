@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-4302f3500d
+created: 2026-09-15T07:38:07.850Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/literature/mhe-gao-taffc-2024.pdf
+paths:
+  - sources/literature/mhe-gao-taffc-2024.pdf
+hash: 4302f3500d277a54ba5ac2f79fd4453caec994fd1578bfb3b793736f3355d7ab
+bytes: 3766144
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 94032
+  sections: 13
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T07:38:07.507Z

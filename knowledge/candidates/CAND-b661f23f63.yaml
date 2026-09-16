@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b661f23f63
+created: 2026-09-14T23:47:47.446Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.33445/psssj.2026.7.1.3
+title: Agents of Influence as an Important Tool in Promoting State’s National Interests
+authors:
+  - Oleh Korobeinyk
+  - Denys Pantitov
+  - Heorgii Samarets
+year: 2026
+venue: Political Science and Security Studies Journal
+doi: 10.33445/psssj.2026.7.1.3
+url: https://doi.org/10.33445/psssj.2026.7.1.3
+abstract: This study examines the concept, functions, and strategic significance of agents of influence as an instrument of promoting state national interests within the framework of contemporary influence operations. Based on a combination of historical-comparative analysis and review of existing scholarly approaches, the paper systematizes the definitional interpretations of “agent of influence” and identifies their role in the intelligence activities of leading states. The research demonstrates that agents of influence differ from traditional intelligence assets by operating predominantly within legal frameworks and targeting decision-making processes and public opinion rather than acquiring classified information. Particular attention is paid to professional categories most susceptible to recruitment, including political elites, media representatives, academics, and public figures. Empirical evidence from historical cases (World Wars, post-colonial Africa) and contemporary examples illustrates the dual nature of influence agents, whose activities may either stabilize or destabilize political systems depending on strategic objectives. The study highlights the extensive use of such agents by the Russian Federation as part of hybrid warfare against Ukraine, including pre-2014 infiltration into political, economic, and security institutions. The findings confirm that agents of influence constitute a critical element of modern influence operations, enabling adversaries to shape narratives, undermine institutional resilience, and facilitate strategic objectives without direct military engagement. The paper concludes that countering such threats requires not only intelligence measures but also institutional resilience, regulatory adaptation, and societal awareness.
+type: article
+open_access: null
+cited_by: 0
+query: '"AgentDojo" tool agents security'
+question: null
+search: SEARCH-95d8fe4170
+score: 1.059
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

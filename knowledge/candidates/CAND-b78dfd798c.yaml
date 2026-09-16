@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b78dfd798c
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404826297
+title: "Prompting AI Art: An Investigation into the Creative Skill of Prompt Engineering"
+authors:
+  - Jonas Oppenlaender
+  - Rhema Linder
+  - Johanna Silvennoinen
+year: 2024
+venue: International Journal of Human-Computer Interaction
+doi: 10.1080/10447318.2024.2431761
+url: https://doi.org/10.1080/10447318.2024.2431761
+abstract: We are witnessing a novel era of creativity where anyone can create digital content via prompt-based learning (known as prompt engineering). This article investigates prompt engineering as a novel creative skill for creating AI art with text-to-image generation. In three consecutive studies, we explore whether crowdsourced participants can (1) discern prompt quality, (2) write prompts, and (3) refine prompts. We find that participants could evaluate prompt quality and crafted descriptive prompts, but they lacked style-specific vocabulary necessary for effective prompting. This is in line with our hypothesis that prompt engineering is a new type of skill that is non-intuitive and must first be acquired (e.g., through means of practice and learning) before it can be used at a level of high quality. Our studies deepen our understanding of prompt engineering and chart future research directions. We conclude by envisioning four potential futures for prompt engineering.
+type: article
+open_access: true
+cited_by: 189
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.703
+score_parts:
+  rank: 0.333
+  citations: 0.57
+  recency: 0.8
+needs_approval: false
+state: candidate

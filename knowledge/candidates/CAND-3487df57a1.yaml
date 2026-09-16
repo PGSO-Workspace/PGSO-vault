@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3487df57a1
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/access.2026.3707193
+title: "TrustDTI: Trustworthy Drug–Target Interaction Prediction via Evidential Deep Learning and Selective Abstention"
+authors:
+  - Kyungmin Jeon
+  - Seongyun Park
+  - Daesik Jeong
+year: 2026
+venue: IEEE Access
+doi: 10.1109/access.2026.3707193
+url: https://doi.org/10.1109/access.2026.3707193
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 1.104
+score_parts:
+  rank: 0.029
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8eff6659f4
+created: 2026-09-15T07:48:07.669Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/pvsc48317.2022.9938721
+title: Reproducibility and Photostability of High-Efficiency Perovskite Solar Cells in Scalable Manufacturing
+authors:
+  - Rohit Prasanna
+year: 2022
+venue: 2022 IEEE 49th Photovoltaics Specialists Conference (PVSC)
+doi: 10.1109/pvsc48317.2022.9938721
+url: https://doi.org/10.1109/pvsc48317.2022.9938721
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"LDREA-IEEE-Reproducibility" "FULL_SPEC"'
+question: null
+search: SEARCH-e7c8c764f9
+score: 0.683
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 0.6
+needs_approval: false
+state: candidate

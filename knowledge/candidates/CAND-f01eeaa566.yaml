@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f01eeaa566
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2024.inlg-main.38
+title: Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding
+authors:
+  - Bram Willemsen
+  - Gabriel Skantze
+year: 2024
+venue: Proceedings of the 17th International Natural Language Generation Conference
+doi: 10.18653/v1/2024.inlg-main.38
+url: https://doi.org/10.18653/v1/2024.inlg-main.38
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 0.826
+score_parts:
+  rank: 0.026
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

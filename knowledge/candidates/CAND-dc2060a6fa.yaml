@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dc2060a6fa
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.14722/ndss.2026.240394
+title: Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs
+authors:
+  - Yinan Zhong
+  - Qianhao Miao
+  - Yanjiao Chen
+  - Jiangyi Deng
+  - Yushi Cheng
+  - Wenyuan Xu
+  - Yanjiao Chen
+year: 2026
+venue: Proceedings 2026 Network and Distributed System Security Symposium
+doi: 10.14722/ndss.2026.240394
+url: https://doi.org/10.14722/ndss.2026.240394
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.037
+score_parts:
+  rank: 0.037
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

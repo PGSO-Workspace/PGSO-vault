@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-034fdc1287
+created: 2026-09-14T23:47:30.960Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.31234/osf.io/jqx7n_v1
+title: "AIScreening: A Structured-Output Pipeline and Prompt-Policy Benchmark for LLM-Assisted Title and Abstract Screening"
+authors:
+  - Yongzhang Ji
+  - Yubo Xu
+year: 2026
+venue: null
+doi: 10.31234/osf.io/jqx7n_v1
+url: https://doi.org/10.31234/osf.io/jqx7n_v1
+abstract: "Title and abstract screening is a major bottleneck in systematic review and meta-analytic workflows. Although large language models may support early-stage screening, false negatives are costly because they can remove potentially eligible studies before full-text review. This study introduces AIScreening, a local structured-output pipeline for AI-assisted literature screening, and evaluates how prompt design affects LLM screening decisions.Using 207 title/abstract records from an educational expectations/aspirations meta-analysis, we compared six prompt conditions: zero-shot, inclusion-only, exclusion-only, full-criteria, few-shot, and criteria-decomposition prompting. All conditions used the same model, input fields, output schema, and parsing pipeline. Model outputs were evaluated against corrected human reference labels using recall, precision, F1 score, Cohen’s kappa, Over-Inclusion Rate, and exploratory error-structure analysis.Zero-shot prompting achieved perfect recall but produced substantial over-inclusion of human-excluded records. Full-criteria prompting showed the best overall performance, producing the highest F1 score, Cohen’s kappa, and precision while maintaining low over-inclusion. Few-shot and criteria-decomposition prompting did not improve performance beyond full criteria and increased false negatives. These results suggest that prompt design controls the trade-off between semantic overgeneralization and eligibility constraint, rather than improving screening performance linearly with added information. AIScreening provides a reusable framework for prompt-policy benchmarking in AI-assisted systematic review screening."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Policy-as-Prompt" LLM agents'
+question: null
+search: SEARCH-b69be67f4a
+score: 1.059
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

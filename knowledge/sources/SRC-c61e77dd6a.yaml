@@ -1,0 +1,23 @@
+schema: phdude.source
+version: 1
+id: SRC-c61e77dd6a
+created: 2026-09-15T07:39:55.235Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: Multi-Modal Hierarchical Empathetic Framework for Social Robots With Affective Body Control
+authors:
+  - Yue Gao
+  - Yangqing Fu
+  - Ming Sun
+  - Feng Gao
+type: article
+artifacts:
+  - ART-4302f3500d
+state: candidate
+year: 2024
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/TAFFC.2024.3356511
+url: https://gaoyue.sjtu.edu.cn/paperlist/MHE.html
+abstract: "Research review summary, not the original abstract: MHE combines multimodal perception, dialogue generation and physical expression on Pepper. Targeted publisher-layout PDF reading covers pp.1621,1626-1628,1630-1631. Perception benchmarks, blinded response ratings and eye-tracking comparisons support different constructs. This is a direct affect-to-behavior precedent, not tool permission enforcement. The HRI sample description inconsistently mentions 16 and 6 participants on p.1630; do not reuse a quantitative HRI claim without resolving that discrepancy. TAFFC qualifies under the already verified UEFISCDI AIS/JCR2024 CS-AI Q1 classification; this is not a new ranking verification."

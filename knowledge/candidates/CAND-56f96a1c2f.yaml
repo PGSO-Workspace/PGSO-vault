@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-56f96a1c2f
+created: 2026-09-14T23:46:57.333Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3744916.3764546
+title: "AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents"
+authors:
+  - Haoyu Wang
+  - Christopher M. Poskitt
+  - Jun Sun
+year: 2026
+venue: Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering
+doi: 10.1145/3744916.3764546
+url: https://doi.org/10.1145/3744916.3764546
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"AgentSpec" runtime enforcement LLM agents'
+question: null
+search: SEARCH-ab8e976bec
+score: 1.091
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

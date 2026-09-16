@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a874cf056f
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4391514872
+title: "Autoencoders and their applications in machine learning: a survey"
+authors:
+  - Kamal Berahmand
+  - Fatemeh Daneshfar
+  - Elaheh Sadat Salehi
+  - Yuefeng Li
+  - Yue Xu
+year: 2024
+venue: Artificial Intelligence Review
+doi: 10.1007/s10462-023-10662-6
+url: https://doi.org/10.1007/s10462-023-10662-6
+abstract: Abstract Autoencoders have become a hot researched topic in unsupervised learning due to their ability to learn data features and act as a dimensionality reduction method. With rapid evolution of autoencoder methods, there has yet to be a complete study that provides a full autoencoders roadmap for both stimulating technical improvements and orienting research newbies to autoencoders. In this paper, we present a comprehensive survey of autoencoders, starting with an explanation of the principle of conventional autoencoder and their primary development process. We then provide a taxonomy of autoencoders based on their structures and principles and thoroughly analyze and discuss the related models. Furthermore, we review the applications of autoencoders in various fields, including machine vision, natural language processing, complex network, recommender system, speech process, anomaly detection, and others. Lastly, we summarize the limitations of current autoencoder algorithms and discuss the future directions of the field.
+type: article
+open_access: true
+cited_by: 580
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 1.991
+score_parts:
+  rank: 0.5
+  citations: 0.691
+  recency: 0.8
+needs_approval: false
+state: candidate

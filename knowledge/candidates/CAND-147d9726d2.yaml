@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-147d9726d2
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/aciiw63320.2024.00059
+title: Inaccurate Empathy is Worse than Minimal Empathy in Affective Human-Robot Interaction
+authors:
+  - Keith Rebello
+  - Stacy Marsella
+  - Timothy Bickmore
+year: 2024
+venue: 2024 12th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)
+doi: 10.1109/aciiw63320.2024.00059
+url: https://doi.org/10.1109/aciiw63320.2024.00059
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 0.925
+score_parts:
+  rank: 0.05
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

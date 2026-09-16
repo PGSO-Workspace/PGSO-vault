@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d57716d22f
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3708477
+title: "Editorial: TOSEM Journal in 2025 and Beyond"
+authors:
+  - Abhik Roychoudhury
+year: 2024
+venue: ACM Transactions on Software Engineering and Methodology
+doi: 10.1145/3708477
+url: https://doi.org/10.1145/3708477
+abstract: TOSEM is ACM’s flagship journal for publishing software engineering (SE) research. TOSEM stays true to the foundations of the discipline while meaningfully engaging with the wave of disruptive innovations in the field. In this light, we discuss the plans for TOSEM in 2025. We discuss how we plan to continue to engage broadly with authors as well as the community as a whole.
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 0.845
+score_parts:
+  rank: 0.045
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

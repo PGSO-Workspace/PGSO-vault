@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-af8ec36944
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/978-3-032-15606-8_14
+title: Open Source, Community-Driven Best Practices
+authors:
+  - Swara Dave
+year: 2026
+venue: Trustworthy AI Systems
+doi: 10.1007/978-3-032-15606-8_14
+url: https://doi.org/10.1007/978-3-032-15606-8_14
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.031
+score_parts:
+  rank: 0.031
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

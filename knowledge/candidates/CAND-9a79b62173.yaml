@@ -1,0 +1,47 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9a79b62173
+created: 2026-09-15T01:08:12.216Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+  - openalex
+external_id: 10.31234/osf.io/j7fwb_v1
+title: "“Chat-GPT on the Couch”: Assessing and Alleviating  State Anxiety in Large Language Models"
+authors:
+  - Ziv Ben-Zion
+  - Kristin Witte
+  - Akshay Kumar Jagadish
+  - Or Duek
+  - Ilan Harpaz-Rotem
+  - Marie-Christine Khorsandian
+  - Achim Burrer
+  - Erich Seifritz
+  - Philipp Homan
+  - Eric Schulz
+  - Tobias Raphael Spiller
+year: 2024
+venue: null
+doi: 10.31234/osf.io/j7fwb_v1
+url: https://doi.org/10.31234/osf.io/j7fwb_v1
+abstract: The use of Large Language Models (LLMs) in mental health highlights the need to understand their responses to emotional content. Previous research shows that emotion-inducing prompts can elevate “anxiety” in LLMs, affecting behavior and amplifying biases. Here, we found that traumatic narratives increased Chat-GPT-4’s reported anxiety while mindfulness-based exercises reduced it, though not to baseline. These findings suggest managing LLMs’ “emotional states” can foster safer and more ethical human-AI interactions.
+type: preprint
+open_access: true
+cited_by: 0
+query: Assessing and alleviating state anxiety in large language models
+question: null
+search: SEARCH-428eaf6906
+score: 1.3
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 0.8
+needs_approval: true
+state: candidate
+ext:
+  ids:
+    openalex: W4398133648

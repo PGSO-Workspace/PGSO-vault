@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-1ab018a44d
+created: 2026-09-15T18:03:38.237Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-mvp/research-bootstrap-9fcb654/live-integration.json
+paths:
+  - sources/software/pgso-mvp/research-bootstrap-9fcb654/live-integration.json
+hash: 1ab018a44db6a8eade097e55b83f1d047e77a2ee815bbd9b5a3d02f51cca177e
+bytes: 7957
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T18:03:34.566Z

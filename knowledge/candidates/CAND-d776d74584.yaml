@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d776d74584
+created: 2026-09-15T07:34:52.996Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icacr68388.2025.11360071
+title: Real-Time Multi-Modal Risk Assessment Framework with Temporal Prediction for Intelligent Vehicle Control
+authors:
+  - Irene Korkor Nyengor Agbenu
+  - Junwei Tian
+  - Qin Wang
+  - Zhen Zhang
+  - Xingang Wang
+  - Dalitso Ngalati
+year: 2025
+venue: 2025 9th International Conference on Automation, Control and Robots (ICACR)
+doi: 10.1109/icacr68388.2025.11360071
+url: https://doi.org/10.1109/icacr68388.2025.11360071
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: Multi-modal hierarchical empathetic framework social robots affective body control
+question: null
+search: SEARCH-35ee737b2d
+score: 1.1
+score_parts:
+  rank: 0.2
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

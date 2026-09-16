@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7bf8693fc3
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392192575
+title: Data Sovereignty in Information Systems
+authors:
+  - Franziska von Scherenberg
+  - Malte Hellmeier
+  - Boris Otto
+year: 2024
+venue: Electronic Markets
+doi: 10.1007/s12525-024-00693-4
+url: https://doi.org/10.1007/s12525-024-00693-4
+abstract: Abstract Data has become a strategic asset for societal prosperity and economic competitiveness. There has long been an academic consensus that the value of data unfolds during its use. Consequently, many stakeholders have called for expanding the use and reuse of data, including the public and open variety, as well as that from private data providers. However, citizens and organizations want self-determination over their data use, that is, data sovereignty. This fundamentals paper applies a literature review to conceptualize the term in Information Systems (IS) research by summarizing current findings and definitions to add further structure to the field. It contributes to the current research streams by introducing a core conceptual model consisting of seven interacting core aspects, involving trust between data providers and consumers for data assets, supported by data infrastructure and contractual agreements on all data lifecycle stages. We evaluate and discuss this conceptual model through recent field examples and provide an overview of future research opportunities.
+type: article
+open_access: true
+cited_by: 83
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 2.281
+score_parts:
+  rank: 1
+  citations: 0.481
+  recency: 0.8
+needs_approval: false
+state: candidate

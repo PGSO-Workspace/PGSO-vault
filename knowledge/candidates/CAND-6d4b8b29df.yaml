@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6d4b8b29df
+created: 2026-09-15T00:24:33.994Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5441054
+title: Evaluation Framework for Hallucination and Factual Consistency in Arabic Voice Agents
+authors:
+  - Mahmoud Safia
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5441054
+url: https://doi.org/10.2139/ssrn.5441054
+abstract: Arabic voice agents powered by LLMs have demonstrated remarkable fluency across various dialects, but factual consistency remains a critical issue in domains like education, health, and digital services. This paper proposes a structured evaluation framework for recording hallucinations and factual inconsistency in Arabic-speaking AI agents, with a special focus on Saudi and Gulf dialects. Using recent advances in synthetic data generation, LoRA and prompt tuning as fine-tuning methods, with SauDial and SARD as benchmark datasets, we examine the behavior of different configurations of LLMs, including AraBERT, GPT-3.5, and Whisper, in hallucination-prone tasks. The framework uses semantic alignment scores, dialectal robustness scores, and source-grounding checks to assess factuality. Experiments demonstrate that models fine-tuned on synthetically expanded dialectal corpora achieve far fewer hallucinations than baselines that work in a zero-shot or in-context manner. More importantly, synthetic datasets derived from back-translation and paraphrased corpora appear to enhance both classification accuracy and dialect handling. Our findings firmly suggest that hallucination reduction in Arabic LLMs comes from targeted fine-tuning, controlled data augmentation, and a multilayered evaluation framework. The framework can act as a scalable basis for real-life applications requiring trustworthy dialectal voice agents.
+type: preprint
+open_access: null
+cited_by: 0
+query: voice agents prosody paralinguistic affective dialogue governance evaluation
+question: null
+search: SEARCH-fb4225ca20
+score: 0.967
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

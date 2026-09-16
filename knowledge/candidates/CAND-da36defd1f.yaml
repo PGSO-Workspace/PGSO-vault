@@ -1,0 +1,42 @@
+schema: phdude.candidate
+version: 1
+id: CAND-da36defd1f
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416045829
+title: "WiseMind: a knowledge-guided multi-agent framework for accurate and empathetic psychiatric diagnosis"
+authors:
+  - Yucheng Wu
+  - Guoyang Wan
+  - Jingjing Li
+  - Shengming Zhao
+  - Lingfeng Ma
+  - Tianyi Ye
+  - Mike Zhang
+  - Ion Pop
+  - Yanbo Zhang
+  - Jie Chen
+year: 2026
+venue: npj Digital Medicine
+doi: 10.1038/s41746-026-02559-9
+url: https://doi.org/10.1038/s41746-026-02559-9
+abstract: Large Language Models (LLMs) offer promising opportunities to support mental healthcare workflows, yet they often lack the structured clinical reasoning needed for reliable diagnosis and may struggle to provide the emotionally attuned communication essential for patient trust. Here, we introduce WiseMind, a novel multi-agent framework inspired by the theory of Dialectical Behavior Therapy designed to facilitate psychiatric assessment. By integrating a "Reasonable Mind" Agent for evidence-based logic and an "Emotional Mind" Agent for empathetic communication, WiseMind effectively bridges the gap between instrumental accuracy and humanistic care. Our framework utilizes a Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5)-guided Structured Knowledge Graph to steer diagnostic inquiries, significantly reducing hallucinations compared to standard prompting methods. Using a combination of virtual standard patients, simulated interactions, and real human interaction datasets, we evaluate WiseMind across three common psychiatric conditions. WiseMind outperforms state-of-the-art LLM methods in both identifying critical diagnostic nodes and establishing accurate differential diagnoses. Across 1206 simulated conversations and 180 real user sessions, the system achieves 85.6% top-1 diagnostic accuracy, approaching reported diagnostic performance ranges of board-certified psychiatrists and surpassing knowledge-enhanced single-agent baselines by 15-54 percentage points. Expert review by psychiatrists further validates that WiseMind generates responses that are not only clinically sound but also psychologically supportive, demonstrating the feasibility of empathetic, reliable AI agents to conduct psychiatric assessments under appropriate human oversight.
+type: article
+open_access: true
+cited_by: 1
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.152
+score_parts:
+  rank: 0.077
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

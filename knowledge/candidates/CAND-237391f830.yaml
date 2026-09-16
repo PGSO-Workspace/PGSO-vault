@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-237391f830
+created: 2026-09-15T00:31:14.448Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5365372
+title: Spatio-Temporal  Learning with Symmetric Adaptive Attention for Speech Emotion Recognition
+authors:
+  - Ping Lin
+  - Can Bu
+  - Yongsheng Ma
+  - Peiyu Fan
+  - Yongming Huang
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5365372
+url: https://doi.org/10.2139/ssrn.5365372
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets"'
+question: null
+search: SEARCH-023614a12f
+score: 0.95
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-575f5c14b9
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1177/0958305x241276835
+title: "Development and comprehensive analyses of a hybrid solar–geothermal driven polygeneration system: Thermodynamic, exergoeconomic, and emergoenvironmental aspects"
+authors:
+  - Maryam Fallahzadeh
+  - Mohammad Hasan Khoshgoftar Manesh
+  - Amir Ghasemi
+year: 2024
+venue: Energy &amp; Environment
+doi: 10.1177/0958305x241276835
+url: https://doi.org/10.1177/0958305x241276835
+abstract: The present research proposed an innovative polygeneration system that uses solar, geothermal, and natural gas energy to produce power, heat, steam, and freshwater. The system consists of a proton exchange membrane fuel cell, an organic Rankine cycle, and a multi-effect thermal desalination system. The study included thermodynamic, exergy, exergoeconomic, exergoenvironmental, emergy-based exergoeconomic, and emergy-based exergoenvironmental factors in its comprehensive evaluation of the system. Results underscored the financial aspect of the organic Rankine cycle and cogeneration system, incurring costs of 0.4518 $/s and 1.054 $/s respectively, while also highlighting the system's capability to produce 6 kg/s of freshwater. The environmental impact rates were quantified for the organic Rankine cycle and cogeneration system at 0.1417 and 0.4814 pts/s respectively, situating the system within its ecological context. Further, the study detailed the total efficiency and net power output of the organic Rankine cycle and cogeneration system, ranging between 32.45–33.51% and 43.25–45.83% for efficiency, and 56956–56322 kW and 50174–51898 kW for net power output r e spectively, showcasing the system's operational capacity. A parametric analysis was also integral to the study, examining the impact of key parameters on the functionality of the proposed system, thereby providing a nuanced understanding of the system's performance under varying operational scenarios.
+type: article
+open_access: null
+cited_by: 3
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 1.118
+score_parts:
+  rank: 0.167
+  citations: 0.151
+  recency: 0.8
+needs_approval: false
+state: candidate

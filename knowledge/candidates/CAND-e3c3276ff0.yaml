@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e3c3276ff0
+created: 2026-09-14T23:44:30.144Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.4684662
+title: "The Impact of Large Language Models on Open-source Innovation: Evidence from GitHub Copilot"
+authors:
+  - Doron Yeverechyahu
+  - Raveesh Mayya
+  - Gal Oestreicher-Singer
+year: 2024
+venue: null
+doi: 10.2139/ssrn.4684662
+url: https://doi.org/10.2139/ssrn.4684662
+abstract: "<p><span>Large Language Models (LLMs) are reshaping knowledge work, yet their impact on voluntary, self-guided open innovation forums (settings where contributors choose their own tasks without managerial direction) may differ fundamentally from effects observed in organizational settings. We study this question in open-source software development, where individuals’ contributions collectively drive innovation at a community level. Unlike product innovation, where typologies for classifying innovation are well established, knowledge work in open-source settings calls for a distinction grounded in the cognitive demand a task places on the contributor. Burgeoning literature distinguishes&nbsp;</span><i><span>substantive</span></i><span>&nbsp;contributions, which require creative problem formulation to introduce new functionality, from&nbsp;</span><i><span>incremental</span></i><span>&nbsp;contributions, which draw on comprehension of existing code to maintain and refine it. We exploit a natural experiment around GitHub Copilot’s launch in October 2021, where Copilot supported languages like Python while not supporting R for business reasons, creating an exogenous partition between otherwise comparable ecosystems. Using three complementary and independent identification strategies and two classification approaches, we find that Copilot availability increases the volume of open-source contributions by 28 to 40 percent. The increase in incremental contributions is significantly larger than the increase in substantive contributions across all specifications. This disparity is more pronounced in projects with higher activity levels and widens following a model upgrade: LLMs function more effectively when existing context (prior code, documentation, issue discussions) helps define the problem and constrain solutions, tilting collaborative innovation toward the exploitation of established codebases rather than the exploration of new functionality. This paper provides one of the rare instances of causal field evidence on LLM effects, given the speed at which Generative AI has exploded across the knowledge economy. Our findings highlight the need for open-source platforms and organizations that encourage open-source contributions to introduce deliberate incentives for substantive feature development.</span></p><span></span>"
+type: preprint
+open_access: null
+cited_by: 15
+query: '"WeClaw" "Adaptive Runtime" GitHub open source'
+question: null
+search: SEARCH-b132bc032f
+score: 1.301
+score_parts:
+  rank: 0.2
+  citations: 0.301
+  recency: 0.8
+needs_approval: true
+state: candidate

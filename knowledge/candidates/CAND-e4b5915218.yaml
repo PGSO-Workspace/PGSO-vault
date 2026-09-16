@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e4b5915218
+created: 2026-09-14T23:46:57.333Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7161916413
+title: "Position: A Three-Layer Probabilistic Assume-Guarantee Architecture Is Structurally Required for Safe LLM Agent Deployment"
+authors:
+  - S. Bensalem
+  - Y. Dong
+  - M. Fränzle
+  - X. T. Huang
+  - J. Kroger
+  - D. Nickovic
+  - A. Nouri
+  - R. Roy
+  - C. Wu
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2605.18672
+abstract: "This position paper argues that enforcing LLM agent safety within a single abstraction layer is not merely suboptimal but categorically insufficient for deployed LLM agents -- a structural consequence of how agent execution works, not a contingent limitation of current systems. The three dimensions that jointly constitute safe operation -- semantic intent and policy compliance, environmental validity, and dynamical feasibility -- each depend on a strictly distinct set of information that becomes available at different stages of execution. No single guardrail can certify all three. We argue that the community must respond with a contract-based architecture in which each safety dimension is enforced by an independently certified layer whose probabilistic guarantee satisfies the next layer's assumption. We sketch such an architecture and derive the compositional system-level safety bounds it admits via the chain rule of probability. Three open problems stand between this and a deployable standard: bound estimation from non-i.i.d.\\ traces, graceful degradation of contracts under deployment drift, and extension to multi-agent settings -- the most important unfinished business in LLM agent runtime assurance."
+type: preprint
+open_access: true
+cited_by: 0
+query: '"AgentSpec" runtime enforcement LLM agents'
+question: null
+search: SEARCH-ab8e976bec
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

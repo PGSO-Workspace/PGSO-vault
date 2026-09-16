@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-854bc062cb
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2025.insights-1.14
+title: "Self Knowledge-Tracing for Tool Use (SKT-Tool): Helping LLM Agents Understand Their Capabilities in Tool Use"
+authors:
+  - Joshua Vigel
+  - Renpei Cai
+  - Eleanor Chen
+  - Anish Neema
+  - Austen Liao
+  - Kevin Zhu
+  - Sean O’brien
+year: 2025
+venue: The Sixth Workshop on Insights from Negative Results in NLP
+doi: 10.18653/v1/2025.insights-1.14
+url: https://doi.org/10.18653/v1/2025.insights-1.14
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 0.928
+score_parts:
+  rank: 0.028
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

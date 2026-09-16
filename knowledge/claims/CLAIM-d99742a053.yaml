@@ -1,0 +1,21 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-d99742a053
+created: 2026-09-13T07:00:36.443Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The repository Phase 1 report classifies the tested two-feature arousal mapping as weak on the available acted-speech subset (Spearman rho 0.206; n=377) and reports no meaningful improvement from the evaluated label-free recalibration. This is scoped reported evidence, not proof that every possible paralinguistic signal is weak.
+kind: empirical
+state: candidate
+supported_by:
+  - EVID-c0b5f67685
+questions: []
+sections:
+  - results
+  - discussion
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-65cfa5cfd2

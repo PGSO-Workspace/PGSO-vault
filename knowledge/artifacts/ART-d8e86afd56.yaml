@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-d8e86afd56
+created: 2026-09-15T18:03:38.238Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-mvp/research-bootstrap-9fcb654/pytest.txt
+paths:
+  - sources/software/pgso-mvp/research-bootstrap-9fcb654/pytest.txt
+hash: d8e86afd560789dfe84fd0db12dd5165d71b61db2a519cc9aa2bf0a5a872c435
+bytes: 627
+mime: text/plain
+kind: txt
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 627
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T18:03:34.546Z

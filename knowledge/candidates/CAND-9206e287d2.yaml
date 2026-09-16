@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9206e287d2
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.34118/jskp.v6i1.4551
+title: Artificial Intelligence or Cultural Intelligence?  Investigating the Efficiency of Large Language Models (LLMs) in Idiom Creative Translation Tasks
+authors:
+  - Asma Aloui
+year: 2026
+venue: Journal of Science and Knowledge Horizons
+doi: 10.34118/jskp.v6i1.4551
+url: https://doi.org/10.34118/jskp.v6i1.4551
+abstract: The translation of idioms has always been a challenging task for translators due to their culture-bound references and level of creativity. With the rise of Artificial Intelligence technologies, translators and language instructors are using AI to assist them in different language-related tasks; however, the main concern is whether these AI technologies are efficient in creative translation tasks like rendering cultural subtleties and nuances in idioms. The present paper, which falls into the scope of AI-based translation, aims at investigating the efficiency of Large Language Models in translating idioms from Arabic into English. To attain this aim, two AI models ChatGPT and Microsoft Copilot are tested in the English translation of five commonly-used Standard Arabic idioms. After receiving the same prompts, each model’s output is analyzed to verify correctness and accuracy within Venuti’s foreignization and domestication framework. The findings validate the efficiency of both ChatGPT and Microsoft Copilot in rendering idioms with the former opting for foreignization approach and the latter for a combination of foreignization and domestication approaches. The findings also pinpoint the potential of AI in creative translation instruction.
+type: article
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 1.029
+score_parts:
+  rank: 0.029
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

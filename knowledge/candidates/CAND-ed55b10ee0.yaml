@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ed55b10ee0
+created: 2026-09-14T23:44:46.279Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/s10994-026-07060-8
+title: "Survey on LLM Safety: Attacks, Defenses, Alignment, Metrics, and Guardrails"
+authors:
+  - Pratik Jalan
+  - Vadivel Abishethvarman
+  - Bhavik Chandna
+  - Usman Naseem
+year: 2026
+venue: Machine Learning
+doi: 10.1007/s10994-026-07060-8
+url: https://doi.org/10.1007/s10994-026-07060-8
+abstract: "Abstract Large Language Models (LLM) have demonstrated remarkable capabilities across various applications, but their deployment raises critical safety concerns as potential misuse poses significant societal risks. This survey reviews the end-to-end security and safety pipeline of LLMs, focusing on the interaction between users and model responses. We categorize the system into five key components: attacks, defenses, safety alignment, metrics and guarding mechanisms. Attacks involve crafting adversarial inputs to exploit model vulnerabilities. Defenses act as countermeasures, aiming to detect and prevent such inputs before processing. Safety alignment ensures that, even when attacks reach the model, its responses remain consistent with ethical and policy-aligned behavior. Guarding mechanisms operate post-response to flag, filter, or block unsafe outputs. Each of these stages is subject to rigorous evaluation metrics to assess their effectiveness, robustness, and limitations. As LLMs evolve toward more general-purpose intelligence, these safety considerations become increasingly critical for the development of robust and trustworthy AI systems. Finally, we highlight open challenges and future research directions to advance the security and alignment of LLMs."
+type: article
+open_access: null
+cited_by: 4
+query: '"Safety Guardrails for LLM-Enabled Robots" code GitHub'
+question: null
+search: SEARCH-babb92a8ed
+score: 1.266
+score_parts:
+  rank: 0.091
+  citations: 0.175
+  recency: 1
+needs_approval: false
+state: candidate

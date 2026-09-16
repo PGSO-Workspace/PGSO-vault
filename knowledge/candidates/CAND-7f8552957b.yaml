@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7f8552957b
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5500899
+title: "LLM-Driven Automated Test Case Generation: A Multi-Modal Context-Aware Framework with Formal Quality Guarantees"
+authors:
+  - Piyushkumar Patel
+  - Rakeshkumar Patel
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5500899
+url: https://doi.org/10.2139/ssrn.5500899
+abstract: "The integration of Large Language Models (LLMs) into software testing represents a paradigm shift in automated quality assurance. This paper presents TESTFORGE, a novel multimodal context-aware framework that leverages the code understanding capabilities of LLMs to generate comprehensive test cases with formal quality guarantees. Our methodology combines static code analysis, dynamic execution profiling, and LLM-powered semantic understanding through a mathematically grounded attention mechanism to produce contextually relevant test scenarios. We introduce novel algorithms for test completeness analysis and provide theoretical bounds on coverage guarantees. Our comprehensive evaluation on 847 opensource projects across five programming languages demonstrates statistically significant improvements: 47.3% increase in branch coverage (p ¡ 0.001, Cohen's d = 1.42), 52.1% improvement in mutation score (p ¡ 0.001, Cohen's d = 1.67), and 39.7% reduction in manual testing effort compared to stateof-the-art automated testing tools. The framework successfully identifies 73.2% more critical defects than baseline approaches, with generated tests exhibiting superior maintainability scores (average cyclomatic complexity of 2.3 vs. 4.7 for human-written tests). Our reproducible experimental artifacts and formal proofs are available for community validation."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 0.926
+score_parts:
+  rank: 0.026
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

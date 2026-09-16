@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7f3e54d3e2
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.17979/spu.23.c41
+title: Open-source Secure NFC-based Physical Access Control System using EV2 Mutual Authentication
+authors: []
+year: 2026
+venue: Proceedings XoveTIC 2025
+doi: 10.17979/spu.23.c41
+url: https://doi.org/10.17979/spu.23.c41
+abstract: Currently, physical access control is dominated by private and proprietary solutions that are closed, inflexible and often insecure. To address these shortcomings, this work presents an open-source, modular NFC-based access control system. The system consists of two modules. First, a hardware module, capable of reading NFC NTAG424 cards and unlocking a magnetic lock has been assembled. Second, a centralized management server, with an administration panel. The system supports Enhanced Version 2 mutual authentication protocol, time-based and role-based policies, allowing administrators to protect multiple zones within the same facility from a centralized management server. This open solution provides a secure and cost-effective alternative that seeks greater transparency and control.
+type: chapter
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.036
+score_parts:
+  rank: 0.036
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

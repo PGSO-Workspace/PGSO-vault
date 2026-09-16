@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-651d54a23e
+created: 2026-09-14T23:44:12.626Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1002/9781394319787.ch1
+title: |-
+  Get Started with
+              <scp>GitHub</scp>
+              Copilot
+authors: []
+year: 2024
+venue: Programming with GitHub Copilot
+doi: 10.1002/9781394319787.ch1
+url: https://doi.org/10.1002/9781394319787.ch1
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"Coupling Sentiment and Arousal Analysis Towards an Affective Dialogue Manager" code GitHub'
+question: null
+search: SEARCH-da8e2200c9
+score: 0.925
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

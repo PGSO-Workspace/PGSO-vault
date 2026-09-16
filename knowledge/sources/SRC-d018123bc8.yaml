@@ -1,0 +1,20 @@
+schema: phdude.source
+version: 1
+id: SRC-d018123bc8
+created: 2026-09-15T01:12:35.084Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: "Toward accurate psychological simulations: Investigating LLMs’ responses to personality and cultural variables"
+authors:
+  - Chihao Li
+  - Yue Qi
+type: article
+artifacts: []
+state: candidate
+year: 2025
+venue: Computers in Human Behavior
+doi: 10.1016/j.chb.2025.108687
+url: https://doi.org/10.1016/j.chb.2025.108687
+abstract: "Research review summary: Publisher abstract/highlights and introduction preview inspected; full text not retrieved (publisher open returned 403; indexed publisher preview accessible). Abstract-level findings only. Questionnaire and cultural-simulation setting, not tool-use control, affect sensing, or PGSO runtime validation."

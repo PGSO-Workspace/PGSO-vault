@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6cb66bd89e
+created: 2026-09-15T00:31:11.443Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0010912500003123
+title: A Subset of Acoustic Features for Machine Learning-based and Statistical Approaches in Speech Emotion Recognition
+authors:
+  - Giovanni Costantini
+  - Valerio Cesarini
+  - Daniele Casali
+year: 2022
+venue: Proceedings of the 15th International Joint Conference on Biomedical Engineering Systems and Technologies
+doi: 10.5220/0010912500003123
+url: https://doi.org/10.5220/0010912500003123
+abstract: null
+type: article
+open_access: null
+cited_by: 3
+query: '"Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition"'
+question: null
+search: SEARCH-f9a249d1ae
+score: 0.851
+score_parts:
+  rank: 0.1
+  citations: 0.151
+  recency: 0.6
+needs_approval: false
+state: candidate

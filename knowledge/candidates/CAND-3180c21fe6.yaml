@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3180c21fe6
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/aict67988.2025.11268654
+title: "Multimodal LLMs for Emotion-Aware Human–Robot Interaction: Design and Implementation"
+authors:
+  - Amna Abdulla Alneyadi
+  - Mariam Othman Alamoodi
+  - Khawla Saeed Alneyadi
+  - Bushra Naeem
+  - Omar Mubin
+  - Fady Alnajjar
+year: 2025
+venue: 2025 IEEE 19th International Conference on Application of Information and Communication Technologies (AICT)
+doi: 10.1109/aict67988.2025.11268654
+url: https://doi.org/10.1109/aict67988.2025.11268654
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 0.93
+score_parts:
+  rank: 0.03
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

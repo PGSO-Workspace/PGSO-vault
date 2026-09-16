@@ -1,0 +1,45 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0cf4e47e85
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4403632201
+title: "From Food Industry 4.0 to Food Industry 5.0: Identifying technological enablers and potential future applications in the food sector"
+authors:
+  - Abdo Hassoun
+  - Sandeep Jagtap
+  - Hana Trollman
+  - Guillermo Garcia‐Garcia
+  - Linh Duong
+  - Prateek Saxena
+  - Yamine Bouzembrak
+  - Horst Treiblmaier
+  - Carlos Para‐López
+  - Carmen Carmona‐Torres
+  - Kapal Dev
+  - David Mhlanga
+  - Abderrahmane Aït‐Kaddour
+year: 2024
+venue: Comprehensive Reviews in Food Science and Food Safety
+doi: 10.1111/1541-4337.70040
+url: https://doi.org/10.1111/1541-4337.70040
+abstract: Although several food-related fields have yet to fully grasp the speed and breadth of the fourth industrial revolution (also known as Industry 4.0), growing literature from other sectors shows that Industry 5.0 (referring to the fifth industrial revolution) is already underway. Food Industry 4.0 has been characterized by the fusion of physical, digital, and biological advances in food science and technology, whereas future Food Industry 5.0 could be seen as a more holistic, multidisciplinary, and multidimensional approach. This review will focus on identifying potential enabling technologies of Industry 5.0 that could be harnessed to shape the future of food in the coming years. We will review the state-of-the-art studies on the use of innovative technologies in various food and agriculture applications over the last 5 years. In addition, opportunities and challenges will be highlighted, and future directions and conclusions will be drawn. Preliminary evidence suggests that Industry 5.0 is the outcome of an evolutionary process and not of a revolution, as is often claimed. Our results show that regenerative and/or conversational artificial intelligence, the Internet of Everything, miniaturized and nanosensors, 4D printing and beyond, cobots and advanced drones, edge computing, redactable blockchain, metaverse and immersive techniques, cyber-physical systems, digital twins, and sixth-generation wireless and beyond are likely to be among the main driving technologies of Food Industry 5.0. Although the framework, vision, and value of Industry 5.0 are becoming popular research topics in various academic and industrial fields, the agri-food sector has just started to embrace some aspects and dimensions of Industry 5.0.
+type: article
+open_access: true
+cited_by: 128
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.395
+score_parts:
+  rank: 0.067
+  citations: 0.528
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-df49fa9093
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.62311/nesx/rb-978-81-998585-8-9
+title: "Dual-Use Risk Governance for AI-Enabled Bioinformatics: Access Control, Publication Norms, and Responsible Capability Release"
+authors:
+  - Murali Krishna Pasupuleti
+year: 2026
+venue: null
+doi: 10.62311/nesx/rb-978-81-998585-8-9
+url: https://doi.org/10.62311/nesx/rb-978-81-998585-8-9
+abstract: "Abstract: AI-enabled bioinformatics accelerates discovery by improving sequence analysis, protein modeling, and biological data integration, yet the same capabilities can be dual-use: they may lower barriers to harmful applications, amplify misuse through automation, or enable unintended escalation via rapid dissemination. This manuscript develops a publisher-ready governance framework for managing dual-use risk without disabling legitimate research. The central argument is that dual-use governance must be treated as an evidence-based lifecycle discipline—spanning research design under uncertainty, statistical explanation and causal reasoning about risk pathways, trustworthy prediction for monitoring and access decisions, and reproducible engineering practices that support audit and accountability. Across five chapters, the book formalizes risk decomposition (capability, access, intent, and context), proposes publication and release norms that preserve scientific integrity while controlling hazard-relevant details, and designs operational architectures for access control, logging, and incident response. The framework yields concrete outputs: assumption registries for risk claims, sensitivity and robustness protocols for governance decisions, monitoring covenants for capability drift, and policy instruments for cross-border coordination. Examples are globally grounded, adapting to institutional capacity differences across South Asia, Europe, Africa, and the Americas while maintaining a consistent standard: responsible capability release requires traceable evidence, proportional controls, and revisable commitments. Keywords dual-use governance, AI bioinformatics, responsible disclosure, access control, capability release, publication norms, model cards, auditability, risk assessment, uncertainty quantification, sensitivity analysis, robustness testing, monitoring covenants, insider risk, misuse prevention, data governance, reproducibility, policy coordination, safety-by-design, accountability"
+type: other
+open_access: null
+cited_by: 0
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 1.043
+score_parts:
+  rank: 0.043
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

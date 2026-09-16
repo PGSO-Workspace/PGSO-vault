@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-afadc628ed
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4405338751
+title: "Five-factor personality traits and functional somatic disorder: A systematic review and meta-analysis"
+authors:
+  - Thomas Tandrup Lamm
+  - Victoria von Schrottenberg
+  - Anneline Rauch
+  - Bo Bach
+  - Heidi Frølund Pedersen
+  - Mette Trøllund Rask
+  - Eva Ørnbøl
+  - Kaare Bro Wellnitz
+  - Lisbeth Frostholm
+year: 2024
+venue: Clinical Psychology Review
+doi: 10.1016/j.cpr.2024.102529
+url: https://doi.org/10.1016/j.cpr.2024.102529
+abstract: "INTRODUCTION: Functional Somatic Disorders (FSD) is an umbrella term for various conditions characterized by persistent and troublesome physical symptoms, that are not better explained by other psychiatric or somatic conditions. Personality traits may play a crucial role in FSD, but the link is not fully understood. This study presents a systematic review and meta-analysis examines the relationship between the Five-Factor Model (FFM) of personality traits and FSD. METHODS: The review was based on the PRISMA statement, and drew data from systematic searches in PsycInfo, PubMed, and Embase. To be eligible for inclusion, studies had to include eligible FSD groups and control groups and to assess FFM traits. Data were analyzed using random effects models. Sub-group and sensitivity analyses as well as meta-regression were used to explore the heterogeneity and robustness of findings. RESULTS: In total 6841 records were screened and 52 included. FSD cases scored higher on neuroticism (k = 46, Hedge's g = 0.72, [95 % CI, 0.61: 0.83]) and lower on extraversion (k = 31, g = -0.41, [-0.55:-0.28]) and agreeableness (k = 15, g = -0.22, [-0.36:-0.09]) than healthy/unspecified controls. FSD cases scored higher on neuroticism (k = 9, g = 0.26 [0.08:0.44]) and agreeableness (k = 4, g = 0.43 [0.28:0.59]) than somatic controls, but did not differ on extraversion (k = 6, g = -0.17 [-0.45:0.11]). No significant differences were found for conscientiousness and openness. For psychiatric controls, meta-analysis was only possible for neuroticism (k = 3,= -0.61, [-1.98:0.77]). Findings displayed significant heterogeneity but no publication bias. CONCLUSIONS: This review reveals significant associations between FFM traits and FSD, providing insight into the etiology, classification, and management of FSD."
+type: other
+open_access: true
+cited_by: 5
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 1.138
+score_parts:
+  rank: 0.143
+  citations: 0.195
+  recency: 0.8
+needs_approval: false
+state: candidate

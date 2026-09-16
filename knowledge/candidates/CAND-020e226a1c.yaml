@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-020e226a1c
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/iccci50826.2021.9402337
+title: An Empathetic Conversational Agent with Attentional Mechanism
+authors:
+  - Raman Goel
+  - Sachin Vashisht
+  - Armaan Dhanda
+  - Seba Susan
+year: 2021
+venue: 2021 International Conference on Computer Communication and Informatics (ICCCI)
+doi: 10.1109/iccci50826.2021.9402337
+url: https://doi.org/10.1109/iccci50826.2021.9402337
+abstract: null
+type: article
+open_access: null
+cited_by: 18
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 0.846
+score_parts:
+  rank: 0.026
+  citations: 0.32
+  recency: 0.5
+needs_approval: false
+state: candidate

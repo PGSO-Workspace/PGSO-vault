@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ff04bddc57
+created: 2026-09-15T09:15:44.244Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/actce65085.2024.00053
+title: Design and Implementation of LangChain-based Chatbot
+authors:
+  - Huaxiao Zhang
+  - Zhigang Li
+  - Fang Liu
+  - Yilan He
+  - Zhichen Cao
+  - Yunbo Zheng
+year: 2024
+venue: 2024 International Seminar on Artificial Intelligence, Computer Technology and Control Engineering (ACTCE)
+doi: 10.1109/actce65085.2024.00053
+url: https://doi.org/10.1109/actce65085.2024.00053
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: AgentSpec GitHub haoyuwang99 official implementation license requirements LangChain 0.3.13
+question: null
+search: SEARCH-92b23a6f19
+score: 0.85
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

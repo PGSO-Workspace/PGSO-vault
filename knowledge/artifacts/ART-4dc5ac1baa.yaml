@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-4dc5ac1baa
+created: 2026-09-15T08:40:16.403Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/step-up-1a9f60c/test_bridge.py.txt
+paths:
+  - sources/software/pgso-sdk/step-up-1a9f60c/test_bridge.py.txt
+hash: 4dc5ac1baab964e9e8c53ab319ef244c52ff5f1f9a935276f83efaabbf4248ff
+bytes: 12350
+mime: text/plain
+kind: txt
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 12350
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T08:40:16.190Z
+versions_of: ART-2ac4c12dce
+latest: true

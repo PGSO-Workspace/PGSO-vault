@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-729112e901
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/irac63143.2024.10871329
+title: Prompting LLM for Embodied Tasks with Expert Instruction and Dimension Separation
+authors:
+  - Guoqing Zhao
+  - Tong Xu
+  - Sirui Zhao
+year: 2024
+venue: 2024 International Conference on Intelligent Robotics and Automatic Control (IRAC)
+doi: 10.1109/irac63143.2024.10871329
+url: https://doi.org/10.1109/irac63143.2024.10871329
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 0.904
+score_parts:
+  rank: 0.029
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

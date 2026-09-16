@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-37e41725c8
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4409349992
+title: "Speech emotion recognition in conversations using artificial intelligence: a systematic review and meta-analysis"
+authors:
+  - Ghada Alhussein
+  - Ioannis Ziogas
+  - Shiza Saleem
+  - Leontios J. Hadjileontiadis
+year: 2025
+venue: Artificial Intelligence Review
+doi: 10.1007/s10462-025-11197-8
+url: https://doi.org/10.1007/s10462-025-11197-8
+abstract: "Manifestations of emotion in social conversational interactions stand at a focal point in the rapidly growing affective computing area, with applications in healthcare, education and human-computer interaction. Artificial intelligence (AI) holds great potential in modeling the challenging dynamic nature of affect in speech conversation. In this paper, we analyze and criticize latest trends and open problems through a systematic review and multi-subgroup meta-analysis of AI approaches for emotion recognition in conversation (ERC). We adopt the PRISMA-DTA guidelines toward analysis of AI-driven speech ERC. A comprehensive database search through predefined query strings and selection criteria allowed for data extraction of essential diagnostic performance parameters. We analyze salient patterns related to methodological quality and risk of bias. Univariate random-effects models are then designed with a multi-subgroup perspective, centered around affective annotations models, while encompassing the ERC parameters of modalities, feature extraction and conversation style. 51 studies were systematically reviewed for qualitative analysis, whereas 27 articles were included in the meta-analysis. Diagnostic test performance manifested with high heterogeneity, with intriguing insights regarding affective state annotation, input modality, feature extraction methods, and dataset conversation style. Our analysis raised concerns regarding bias, reporting quality and inter-rater reliability in annotations. Our research contributes fine-grained insights as recommendations that tackle open-problems in ERC. While providing valuable information on diagnostic performance of AI in speech ERC, we underscore the imperative need for further advancements in annotations and models capable of handling diverse emotional expressions. Trial Registration: PROSPERO identifier - CRD42023416879."
+type: other
+open_access: true
+cited_by: 30
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1.398
+score_parts:
+  rank: 0.125
+  citations: 0.373
+  recency: 0.9
+needs_approval: false
+state: candidate

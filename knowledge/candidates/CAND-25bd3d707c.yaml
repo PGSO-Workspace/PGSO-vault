@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-25bd3d707c
+created: 2026-09-14T23:47:47.446Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.14722/ndss.2026.240577
+title: "Les Dissonances: Cross-Tool Harvesting and Polluting in Pool-of-Tools Empowered LLM Agents"
+authors:
+  - Zichuan Li
+  - Jian Cui
+  - Xiaojing Liao
+  - Luyi Xing
+  - Luyi Xing
+  - Zichuan Li
+year: 2026
+venue: Proceedings 2026 Network and Distributed System Security Symposium
+doi: 10.14722/ndss.2026.240577
+url: https://doi.org/10.14722/ndss.2026.240577
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"AgentDojo" tool agents security'
+question: null
+search: SEARCH-95d8fe4170
+score: 1.056
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

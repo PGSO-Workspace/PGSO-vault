@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-44ebc94d4d
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1039/d4sc03921a/v2/response1
+title: Author response for "A Review of Large Language Models and Autonomous Agents in Chemistry"
+authors:
+  - Mayk Caldas Ramos
+  - Christopher Collison
+  - Andrew D. White
+year: 2024
+venue: null
+doi: 10.1039/d4sc03921a/v2/response1
+url: https://doi.org/10.1039/d4sc03921a/v2/response1
+abstract: null
+type: other
+open_access: null
+cited_by: 2
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 0.961
+score_parts:
+  rank: 0.042
+  citations: 0.119
+  recency: 0.8
+needs_approval: false
+state: candidate

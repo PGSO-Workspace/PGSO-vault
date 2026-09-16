@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-97bfa5283b
+created: 2026-09-14T16:51:30.061Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21437/interspeech.2024-977
+title: Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition
+authors:
+  - Oliver Schrüfer
+  - Manuel Milling
+  - Felix Burkhardt
+  - Florian Eyben
+  - Björn Schuller
+year: 2024
+venue: Interspeech 2024
+doi: 10.21437/interspeech.2024-977
+url: https://doi.org/10.21437/interspeech.2024-977
+abstract: null
+type: article
+open_access: null
+cited_by: 8
+query: runtime shields uncertainty abstention speech emotion agents
+question: null
+search: SEARCH-b8dd8c19fd
+score: 1.239
+score_parts:
+  rank: 0.2
+  citations: 0.239
+  recency: 0.8
+needs_approval: false
+state: candidate

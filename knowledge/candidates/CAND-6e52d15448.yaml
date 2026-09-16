@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6e52d15448
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4414514537
+title: Human advantages and psychological transformations in the era of artificial intelligence
+authors:
+  - Michael Wu
+  - Kaiping Peng
+year: 2025
+venue: Acta Psychologica Sinica
+doi: 10.3724/sp.j.1041.2025.1879
+url: https://doi.org/10.3724/sp.j.1041.2025.1879
+abstract: 摘要： 随着智能时代的来临, 人、机边界变得模糊, 如何重新认识和发展人类的独特优势变得更加凸显和紧迫; 同时, 随着技术进步以及心理学理论、范式的不断转型, 一个涵盖人、动物和机器心智与行为的广义心理学正在形成。研究者从人工智能影响、新型人机关系、人工智能方法和学科交叉赋能等角度, 开展了一系列人工智能心理与治理研究。未来的心理研究者要立足人类社会和未来发展, 反思人工智能冲击下的人类地位与人性尊严, 特别是人类长期进化而来的审美感、创造力、同理心等独特优势以及不断延伸的人类本质和身份边界; 真正掌握和利用人工智能技术赋能心理学发展, 让人类意识黑箱和复杂社会行为的研究更加精确和高效, 并推动人工智能在心智计算、决策与干预等领域的应用; 尤其要思考心理学如何赋能人工智能, 发挥前者在研究人性、价值观、社会关系等领域的优势, 研究智能认知及其与人和动物的异同, 促进人工智能的合理使用与人机共生社会的良善治理。
+type: article
+open_access: true
+cited_by: 2
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 1.519
+score_parts:
+  rank: 0.5
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

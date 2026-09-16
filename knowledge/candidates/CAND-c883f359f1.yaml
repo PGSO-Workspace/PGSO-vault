@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c883f359f1
+created: 2026-09-15T01:15:49.547Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.kine.2023.01.013
+title: Pone nous souffle sa SLA
+authors:
+  - Guilhem « Pone » Gallart
+  - Michel Gedda
+year: 2023
+venue: Kinésithérapie, la Revue
+doi: 10.1016/j.kine.2023.01.013
+url: https://doi.org/10.1016/j.kine.2023.01.013
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"EAC-Agent" "10.1371/journal.pone.0346770"'
+question: null
+search: SEARCH-fa4f4eec19
+score: 0.791
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 0.7
+needs_approval: false
+state: candidate

@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-55ae9322ca
+created: 2026-09-15T01:08:41.656Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-f633e01b19
+locator: arXiv:2411.09349v1, submitted 2024-11-14; 17-page preprint; journal version not independently compared; III-A framework PDF pp.3,4, III-D metrics and IV experimental setup PDF pp.7,8, V-A benchmark results, Tables IV-V PDF pp.8,9, V-B/V-C cross-corpus analysis PDF pp.11, V-D/E/F and VI conclusion PDF pp.12,13
+excerpt: "Research paraphrase, not a quotation: Shared acoustic-model/projection/Transformer/classifier pipeline; 14 foundation models plus eGeMAPS and ComParE baselines; 10 datasets, 13 tasks. IEMOCAP uses sessions 1–4 for training and session 5 for testing. Section V-C evaluates transfer among IEMOCAP, MELD and MSP-Podcast after filtering incompatible labels. Cross-corpus evaluation covers three emotion corpora with label filtering; it is not an evaluation of downstream tool policies or confidence-aware interventions. Multilingual evaluation remains future work (VI)."
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-633f269e73

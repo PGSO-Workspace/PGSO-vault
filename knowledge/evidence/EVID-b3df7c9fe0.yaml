@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-b3df7c9fe0
+created: 2026-09-15T08:28:39.115Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-b93e2595eb
+locator: Author-hosted journal article, printed pages 54–56, DSRM activities 1–6; https://scholar.cgu.edu/samir-chatterjee/wp-content/uploads/sites/6/2013/07/jmis-article.pdf
+excerpt: "Paraphrase: DSRM separates problem definition, objectives, artifact construction, demonstration, evaluation, and communication. Evaluation compares observed artifact behavior with solution objectives and can motivate another design iteration; demonstration alone does not complete that comparison."
+strength: strong
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-3b0eee0e13

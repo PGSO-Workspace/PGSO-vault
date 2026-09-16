@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c06ee4df38
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.crbeha.2025.100168
+title: Semantic analysis of test items through large language model embeddings predicts a-priori factorial structure of personality tests
+authors:
+  - Nicola Milano
+  - Maria Luongo
+  - Michela Ponticorvo
+  - Davide Marocco
+year: 2025
+venue: Current Research in Behavioral Sciences
+doi: 10.1016/j.crbeha.2025.100168
+url: https://doi.org/10.1016/j.crbeha.2025.100168
+abstract: null
+type: article
+open_access: null
+cited_by: 12
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.212
+score_parts:
+  rank: 0.034
+  citations: 0.278
+  recency: 0.9
+needs_approval: false
+state: candidate

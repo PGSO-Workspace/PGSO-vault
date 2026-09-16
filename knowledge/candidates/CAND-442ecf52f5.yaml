@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-442ecf52f5
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404518491
+title: "Trusting Your AI Agent Emotionally and Cognitively: Development and Validation of a Semantic Differential Scale for AI Trust"
+authors:
+  - Ruoxi Shang
+  - Gary Hsieh
+  - Chirag Shah
+year: 2024
+venue: Proceedings of the AAAI/ACM Conference on AI Ethics and Society
+doi: 10.1609/aies.v7i1.31728
+url: https://doi.org/10.1609/aies.v7i1.31728
+abstract: Trust is not just a cognitive issue but also an emotional one, yet the research in human-AI interactions has primarily focused on the cognitive route of trust development. Recent work has highlighted the importance of studying affective trust towards AI, especially in the context of emerging human-like LLM-powered conversational agents. However, there is a lack of validated and generalizable measures for the two-dimensional construct of trust in AI agents. To address this gap, we developed and validated a set of 27-item semantic differential scales for affective and cognitive trust through a scenario-based survey study. We then further validated and applied the scale through an experiment study. Our empirical findings showed how the emotional and cognitive aspects of trust interact with each other and collectively shape a person's overall trust in AI agents. Our study methodology and findings also provide insights into the capability of the state-of-art LLMs to foster trust through different routes.
+type: other
+open_access: true
+cited_by: 25
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.225
+score_parts:
+  rank: 0.071
+  citations: 0.354
+  recency: 0.8
+needs_approval: false
+state: candidate

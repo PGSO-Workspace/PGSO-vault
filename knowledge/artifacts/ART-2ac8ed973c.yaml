@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-2ac8ed973c
+created: 2026-09-15T09:06:09.098Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/task-comparators-151b6b4/test_pilot.py
+paths:
+  - sources/software/pgso-sdk/task-comparators-151b6b4/test_pilot.py
+hash: 2ac8ed973ca10738c68b05d73b4ab882eab66cb0484cb271a057974aac5ab5fd
+bytes: 10910
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T08:59:03.097Z
+latest: false

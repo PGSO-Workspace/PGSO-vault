@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-0c731df331
+created: 2026-09-13T06:59:21.834Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/1b17c248d360/crates/pgso-actuator-local/src/lib.rs.txt
+paths:
+  - sources/software/pgso-sdk/1b17c248d360/crates/pgso-actuator-local/src/lib.rs.txt
+hash: 0c731df331c31a4e5ea0ad26c615dad4ece64f67b7b96a1cec8157ef6c7bb71a
+bytes: 7090
+mime: text/plain
+kind: txt
+role: notes
+extracted:
+  status: ok
+  method: text
+  text_chars: 7082
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:59:21.631Z
+versions_of: ART-db3f9dd6b5
+latest: false

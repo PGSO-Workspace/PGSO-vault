@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-786466a7e4
+created: 2026-09-14T23:44:46.279Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416295444
+title: "A survey of foundation models for IoT: taxonomy and criteria-based analysis"
+authors:
+  - Hui Wei
+  - Dong Yoon Lee
+  - Shubham Rohal
+  - Zhizhang Hu
+  - Ryan A. Rossi
+  - Shiwei Fang
+  - Shijia Pan
+year: 2025
+venue: CCF Transactions on Pervasive Computing and Interaction
+doi: 10.1007/s42486-025-00208-w
+url: https://doi.org/10.1007/s42486-025-00208-w
+abstract: "Abstract Foundation models have gained growing interest in the IoT domain due to their reduced reliance on labeled data and strong generalizability across tasks, which address key limitations of traditional machine learning approaches. However, most existing foundation model based methods are developed for specific IoT tasks, making it difficult to compare approaches across IoT domains and limiting guidance for applying them to new tasks. This survey aims to bridge this gap by providing a comprehensive overview of current methodologies and organizing them around four shared performance objectives by different domains: efficiency , context-awareness , safety , and security & privacy . For each objective, we review representative works, summarize commonly-used techniques and evaluation metrics. This objective-centric organization enables meaningful cross-domain comparisons and offers practical insights for selecting and designing foundation model based solutions for new IoT tasks. We conclude with key directions for future research to guide both practitioners and researchers in advancing the use of foundation models in IoT applications."
+type: article
+open_access: true
+cited_by: 3
+query: '"Safety Guardrails for LLM-Enabled Robots" code GitHub'
+question: null
+search: SEARCH-babb92a8ed
+score: 2.051
+score_parts:
+  rank: 1
+  citations: 0.151
+  recency: 0.9
+needs_approval: false
+state: candidate

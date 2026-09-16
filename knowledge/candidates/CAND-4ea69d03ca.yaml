@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4ea69d03ca
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392538467
+title: A Comprehensive Survey on Process-Oriented Automatic Text Summarization with Exploration of LLM-Based Methods
+authors:
+  - Yang Zhang
+  - Hanlei Jin
+  - Dan Meng
+  - Jun Wang
+  - Jinghua Tan
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2403.02901
+url: http://arxiv.org/abs/2403.02901
+abstract: Automatic Text Summarization (ATS), utilizing Natural Language Processing (NLP) algorithms, aims to create concise and accurate summaries, thereby significantly reducing the human effort required in processing large volumes of text. ATS has drawn considerable interest in both academic and industrial circles. Many studies have been conducted in the past to survey ATS methods; however, they generally lack practicality for real-world implementations, as they often categorize previous methods from a theoretical standpoint. Moreover, the advent of Large Language Models (LLMs) has altered conventional ATS methods. In this survey, we aim to 1) provide a comprehensive overview of ATS from a ``Process-Oriented Schema'' perspective, which is best aligned with real-world implementations; 2) comprehensively review the latest LLM-based ATS works; and 3) deliver an up-to-date survey of ATS, bridging the two-year gap in the literature. To the best of our knowledge, this is the first survey to specifically investigate LLM-based ATS methods.
+type: preprint
+open_access: true
+cited_by: 34
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.257
+score_parts:
+  rank: 0.071
+  citations: 0.386
+  recency: 0.8
+needs_approval: true
+state: candidate

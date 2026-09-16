@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9f713e5c89
+created: 2026-09-15T08:10:36.723Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.26686/wgtn.13088591
+title: Design Science as Design of Social Systems – Implications for Information Systems Research
+authors:
+  - Andreas Drechsler
+year: 2020
+venue: null
+doi: 10.26686/wgtn.13088591
+url: https://doi.org/10.26686/wgtn.13088591
+abstract: No description supplied
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Design Science in Information Systems Research"'
+question: null
+search: SEARCH-e78eb7cdff
+score: 0.491
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 0.4
+needs_approval: true
+state: candidate

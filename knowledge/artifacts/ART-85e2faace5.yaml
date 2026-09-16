@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-85e2faace5
+created: 2026-09-15T07:56:43.699Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/reports/paper1-bibliography-placement-2026-09-15.md
+paths:
+  - sources/reports/paper1-bibliography-placement-2026-09-15.md
+hash: 85e2faace5f0f30056fb85a9f43bbc500cdc382be288542042da74226a222f81
+bytes: 8500
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 8376
+  sections: 10
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T07:56:43.503Z

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e536c6268d
+created: 2026-09-15T07:50:14.590Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3724/sp.j.1042.2024.02124
+title: Human-AI mutual trust in the era of artificial general intelligence
+authors:
+  - Yue QI
+  - Junting CHEN
+  - Shaotian QIN
+  - Feng DU
+year: 2024
+venue: Advances in Psychological Science
+doi: 10.3724/sp.j.1042.2024.02124
+url: https://doi.org/10.3724/sp.j.1042.2024.02124
+abstract: null
+type: article
+open_access: null
+cited_by: 7
+query: '"Toward accurate psychological simulations" "Yue Qi" repository'
+question: null
+search: SEARCH-32580e75f5
+score: 1.169
+score_parts:
+  rank: 0.143
+  citations: 0.226
+  recency: 0.8
+needs_approval: false
+state: candidate

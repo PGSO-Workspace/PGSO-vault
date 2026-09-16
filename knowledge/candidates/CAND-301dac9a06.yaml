@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-301dac9a06
+created: 2026-09-14T23:47:13.887Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3731217.3731231
+title: Runtime Verification and Runtime Enforcement
+authors: []
+year: 2025
+venue: Biomedical Embedded Systems
+doi: 10.1145/3731217.3731231
+url: https://doi.org/10.1145/3731217.3731231
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall" runtime security framework'
+question: null
+search: SEARCH-dd1444607d
+score: 0.983
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,22 @@
+schema: phdude.evidence
+version: 1
+id: EVID-96c2c8bfa2
+created: 2026-09-13T07:00:37.479Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-4c878e2b5b
+locator: experiments/phase3-governance-curve/README.md lines 35–39, commit 1b17c248d3608a7d80cc1147e8aa57acbb715132
+excerpt: |-
+  1. Only the aggregate ρ (and its CI) is stored for each candidate — there is no
+     on-disk per-utterance prediction file for `wav2small`.
+  2. The two runs are not on the same utterance set: `egemaps2` abstains on 19
+     utterances (n = 377) while `wav2small` scores all 396 (n = 396), so the rows
+     are not paired even in principle without re-deriving an aligned subset.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-f9a76ffa05

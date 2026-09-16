@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3de8fdd1c5
+created: 2026-09-14T16:55:49.787Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1017/s000711452400309x
+title: BJN volume 132 issue 10 Cover and Front matter
+authors: []
+year: 2024
+venue: British Journal of Nutrition
+doi: 10.1017/s000711452400309x
+url: https://doi.org/10.1017/s000711452400309x
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 10.1145/3789261 10.1038/s42256-025-01115-6 10.1016/j.inffus.2025.103599 10.1109/TASLP.2024.3389631
+question: null
+search: SEARCH-7146fb4e7f
+score: 1.05
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

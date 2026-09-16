@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-498db04e79
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392946041
+title: "Use of automated conversational agents in improving young population mental health: a scoping review"
+authors:
+  - Raluca Balan
+  - Anca Dobrean
+  - Costina-Ruxandra Poetar
+year: 2024
+venue: npj Digital Medicine
+doi: 10.1038/s41746-024-01072-1
+url: https://doi.org/10.1038/s41746-024-01072-1
+abstract: Automated conversational agents (CAs) emerged as a promising solution in mental health interventions among young people. Therefore, the objective of this scoping review is to examine the current state of research into fully automated CAs mediated interventions for the emotional component of mental health among young people. Selected databases were searched in March 2023. Included studies were primary research, reporting on development, feasibility/usability, or evaluation of fully automated CAs as a tool to improve the emotional component of mental health among young population. Twenty-five studies were included (N = 1707). Most automated CAs applications were standalone preventions targeting anxiety and depression. Automated CAs were predominantly AI-based chatbots, using text as the main communication channel. Overall, the results of the current scoping review showed that automated CAs mediated interventions for emotional problems are acceptable, engaging and with high usability. However, the results for clinical efficacy are far less conclusive, since almost half of evaluation studies reported no significant effect on emotional mental health outcomes. Based on these findings, it can be concluded that there is a pressing need to improve the existing automated CAs applications to increase their efficacy as well as conducting more rigorous methodological research in this area.
+type: article
+open_access: true
+cited_by: 49
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.325
+score_parts:
+  rank: 0.1
+  citations: 0.425
+  recency: 0.8
+needs_approval: false
+state: candidate

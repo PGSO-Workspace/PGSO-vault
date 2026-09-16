@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-99adc9577f
+created: 2026-09-15T07:38:17.538Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7172452947
+title: MCP Registry Drift Panel v1
+authors:
+  - Gautam Bharti
+year: 2026
+venue: arXiv (Cornell University)
+doi: 10.5281/zenodo.21798111
+url: https://arxiv.org/abs/2608.00997
+abstract: "A longitudinal panel of the official Model Context Protocol (MCP) registry: 120 observations spanning 2026-04-30 to 2026-07-28 (88.6 days), covering the registry as it grew from 3,510 to 18,966 active servers. Each observation records, per server, whether its published descriptor and description changed since the prior observation. Server names and content hashes are pseudonymized with change-preserving HMAC-SHA256 tokens; every temporal finding reproduces from this file. This is the dataset behind the measurement paper \"Registry Descriptions Go Stale Unevenly: An 89-Day Measurement of Model Context Protocol Drift, and Why Drift-Ranked Re-Auditing Under-Covers It\" (preprint concept DOI: 10.5281/zenodo.21728369) Version 2 adds figures_addenda.json (five results computable from the panel but unreported in v1: the description-level autocorrelation conditional, a tie-break diagnosis of the targeting curve, the ranking rule, the conditional's base composition, and a bound on the name-reappearance channel) and ships the analysis code (paper_figures.py, paper_figures_addenda.py, make_paper_figure.py) so every figure regenerates from the deposited panel with no dependencies beyond the Python standard library.v3: analysis scripts now run directly against this package; reproducibility claims scoped (see Expected differences in DATASET_CARD.md). Data files are byte-identical to v2. v4 corrects five measurement defects found by re-reviewing the paper against this artifact, and ships the numbers those corrections rest on. The moving-block bootstrap block length is now derived from the cohort-start series rather than the observation series (block_bootstrap_profile ships the interval at ten block lengths); revalidation_load measures the content-binding control's cost as events on the live catalogue rather than converting a cohort survival share; A9_exposure_normalised_newborn_share shows that ranking by cumulative change count confounds hazard with exposure; A10_fixed_cohort_age_hazard identifies the age gradient on a fixed arrival cohort; A11_rate_ranked_targeting evaluates the exposure-normalised ranking as a policy arm; and A8_change_count_histogram, tool_counts.magnitude and survival_robustness_30d.overlapping_range_pct make previously reported-only numbers regenerable. The dataset card gains a fourth expected-difference class (tie-break-filled budget slots) and corrects its statement of what _pin.panel_sha256 digests. Data files are byte-identical to v1."
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance" PDF authors'
+question: null
+search: SEARCH-9fb9d5712f
+score: 1.125
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

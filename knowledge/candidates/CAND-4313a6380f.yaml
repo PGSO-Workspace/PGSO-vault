@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4313a6380f
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2025.3526592
+title: Multitask Transformer for Cross-Corpus Speech Emotion Recognition
+authors:
+  - Chung-Soo Ahn
+  - Rajib Rana
+  - Carlos Busso
+  - Jagath C. Rajapakse
+year: 2025
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2025.3526592
+url: https://doi.org/10.1109/taffc.2025.3526592
+abstract: null
+type: article
+open_access: null
+cited_by: 18
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 1.265
+score_parts:
+  rank: 0.045
+  citations: 0.32
+  recency: 0.9
+needs_approval: false
+state: candidate

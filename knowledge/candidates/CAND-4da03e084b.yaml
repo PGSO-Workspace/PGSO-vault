@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4da03e084b
+created: 2026-09-15T00:31:14.448Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/acii55700.2022.9953816
+title: Label Uncertainty Modeling and Prediction for Speech Emotion Recognition using t-Distributions
+authors:
+  - Navin Raj Prabhu
+  - Nale Lehmann- Willenbrock
+  - Timo Gerkmann
+year: 2022
+venue: 2022 10th International Conference on Affective Computing and Intelligent Interaction (ACII)
+doi: 10.1109/acii55700.2022.9953816
+url: https://doi.org/10.1109/acii55700.2022.9953816
+abstract: null
+type: article
+open_access: null
+cited_by: 4
+query: '"Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets"'
+question: null
+search: SEARCH-023614a12f
+score: 0.918
+score_parts:
+  rank: 0.143
+  citations: 0.175
+  recency: 0.6
+needs_approval: false
+state: candidate

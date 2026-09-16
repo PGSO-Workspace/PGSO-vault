@@ -1,0 +1,22 @@
+schema: phdude.result
+version: 1
+id: RESULT-0e7da9778f
+created: 2026-09-15T00:37:06.907Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: "First relevance-screening batch: 20 works, 12 priority and 8 reserve; none yet cleared through the full Q1 and full-text gate"
+from: ANALYSIS-e26a794548
+values:
+  journal: 12
+  conference: 7
+  preprint: 1
+  total: 20
+  priority: 12
+  reserve: 8
+state: candidate
+ext:
+  analysis:
+    key: screening
+    run_at: 2026-09-15T00:37:06.907Z

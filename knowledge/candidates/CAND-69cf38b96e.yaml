@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-69cf38b96e
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.33383/2025-068
+title: Indoor Lighting Intelligent Control Using Context-Aware-Based LLM Agent and Domain Knowledge Base
+authors:
+  - Yang Wang
+  - Fukang Sun
+  - Qiansheng Fang
+year: 2026
+venue: Light &amp; Engineering
+doi: 10.33383/2025-068
+url: https://doi.org/10.33383/2025-068
+abstract: Aiming to realize the demand of healthy, comfortable, biorhythms, personalized and adaptive lighting environments, human-centric lighting has become hot-spots issue. Fortunately, Large Language Model (LLM) technology have already presented its prominent advantages and great application prospect in many fields. This paper proposes a novel indoor lighting control framework with context-aware-based LLM and domain knowledge base. The multi-source information perception, fusion and decision-making mechanism is established, which collects occupant behaviour and environment parameter, and enable dynamic modelling of lighting environment and indoor lighting intelligent control. The domain knowledge base is constructed by integrating national standard files in the field of lighting, and also Building Information Model (BIM). The context-aware prompting strategy is developed to achieve indoor lighting dynamic control with domain knowledge base. An experiment was implemented in an office scenario, which employed to validate the feasibility and effectiveness of the proposed ideas. This research can provide new ideas to improve human-centric lighting system.
+type: article
+open_access: null
+cited_by: 0
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.033
+score_parts:
+  rank: 0.033
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

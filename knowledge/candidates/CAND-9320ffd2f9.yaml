@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9320ffd2f9
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6596058
+title: "Operational AI Fabric: A Unified Runtime Architecture for Governed Enterprise AI Execution"
+authors:
+  - Matteo Piazza
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6596058
+url: https://doi.org/10.2139/ssrn.6596058
+abstract: "<p>Recent advances in artificial intelligence have significantly improved model capabilities, yet enterprise adoption remains constrained by system architecture rather than model performance. In most deployments, AI, automation, data processing, and governance are implemented as separate components, resulting in fragmented systems that are difficult to scale, govern, and maintain.</p> <p>This paper argues that these limitations stem from a common architectural assumption: AI systems are designed as pipelines, where reasoning, execution, and validation occur as sequential and loosely coupled steps.</p> <p>We introduce the concept of an Operational AI Fabric, a unified runtime architecture in which AI is treated as an executable workload within a distributed system. In this model, orchestration, execution, and governance are integrated into a continuous control loop, enabling real-time evaluation, adaptive behavior, and policy-driven execution.</p> <p>The architecture combines a composable orchestration layer, a distributed worker fabric, a dynamic control plane, and an embedded governance loop. Through anonymized enterprise deployments across banking, financial services, and global operations contexts, we report case-based operational evidence of improvements in implementation speed, operational efficiency, and runtime reliability.</p> <p>The findings suggest that the primary barrier to scalable enterprise AI is not model capability, but system design. The Operational AI Fabric represents a shift from AI as a function to AI as an operational system, enabling organizations to build and govern executable intelligence at scale.</p> <p>This shift has direct implications for enterprise adoption, particularly in regulated environments where auditability, execution control, and policy enforcement are critical. By integrating governance into the execution layer, organizations can reduce operational risk while maintaining system adaptability.</p> <p>The empirical observations presented are derived from anonymized production deployments subject to confidentiality constraints and should therefore be interpreted as practice-based evidence supporting the architectural argument, rather than as results from a controlled comparative study.</p>"
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.048
+score_parts:
+  rank: 0.048
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

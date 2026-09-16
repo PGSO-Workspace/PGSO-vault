@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-eb6f30f656
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-10287292/v1
+title: "EAMF: Evidence-Aware Multimodal Fusion for Conversational Emotion Recognition"
+authors:
+  - Haoran Ma
+  - Liejun Wang
+  - Yinfeng Yu
+  - Xiaoming Tao
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-10287292/v1
+url: https://doi.org/10.21203/rs.3.rs-10287292/v1
+abstract: Abstract Multimodal conversational emotion recognition aims to identify utterance-level emotions by integrating textual, acoustic, and visual affective signals. Existing methods have improved contextual modeling and multimodal fusion, but they mainly focus on global representation aggregation and pay insufficient attention to ambiguous local decisions between closely competing emotions. To address this issue, we propose Evidence-Aware Multimodal Fusion (EAMF), a decision-oriented framework for multimodal conversational emotion recognition. EAMF obtains a base multimodal prediction and constructs complementary evidence from dialogue-state retrieval, cross-modal conflict comparison, prototype-based boundary modeling, and trigger-aware temporal cues. Rather than revising all emotion classes uniformly, EAMF focuses on the two most competitive emotion classes. State and conflict evidence are used for pair-wise margin calibration, while boundary and trigger evidence provide auxiliary boundary supervision and contextual state modulation. This design preserves non-competitive classes and supports evidence-aware local decision modeling for difficult samples. Experiments on IEMOCAP and MELD show that EAMF achieves improved overall performance on IEMOCAP and competitive results on MELD, especially for several challenging minority categories. Further analyses support the effectiveness and complementarity of the proposed evidence-aware modeling strategy.
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.038
+score_parts:
+  rank: 0.038
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

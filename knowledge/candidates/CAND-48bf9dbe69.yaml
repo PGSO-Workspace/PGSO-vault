@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-48bf9dbe69
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392230385
+title: Will virtual influencers overcome the uncanny valley? The moderating role of social cues
+authors:
+  - Rada Gutuleac
+  - Gabriele Baima
+  - Cristian Rizzo
+  - Stefano Bresciani
+year: 2024
+venue: Psychology and Marketing
+doi: 10.1002/mar.21989
+url: https://doi.org/10.1002/mar.21989
+abstract: Abstract Companies are increasingly collaborating with virtual influencers (VIs) as endorsers for their social media campaigns, yet they often lack awareness of the risks and opportunities involved. VIs are AI‐generated, and visually presented as an interactive, real‐time animated entity in a digital environment. Grounding on the uncanny valley theory, this study investigates how the anthropomorphism of VIs influences consumer behavior. Through two experimental studies, we investigate the effect of a VI's level of anthropomorphism on consumer intentions, revealing the mediating role of uncanniness. Specifically, we find that highly anthropomorphized VIs may elicit a greater sense of uncanniness among consumers. Interestingly, the second study unveils that, in the presence of social cues, the influence of anthropomorphism on uncanniness is attenuated. From a theoretical perspective, these findings contribute to the existing literature on the uncanny valley theory and reveal the role of social cues in mitigating consumers' sense of uncanniness. Alongside this, it offers practical insights for practitioners navigating the complexities of managing VIs in digital marketing endeavors.
+type: article
+open_access: true
+cited_by: 121
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.364
+score_parts:
+  rank: 0.042
+  citations: 0.522
+  recency: 0.8
+needs_approval: false
+state: candidate

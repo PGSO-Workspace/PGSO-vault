@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f6b2ab3592
+created: 2026-09-15T00:24:33.994Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412931371
+title: "Multimodal Sensing-Enabled Large Language Models for Automated Emotional Regulation: A Review of Current Technologies, Opportunities, and Challenges"
+authors:
+  - Liangyue Yu
+  - Yao Ge
+  - Shuja Ansari
+  - Muhammad Ali Imran
+  - Wasim Ahmad
+year: 2025
+venue: Sensors
+doi: 10.3390/s25154763
+url: https://doi.org/10.3390/s25154763
+abstract: Emotion regulation is essential for mental health. However, many people ignore their own emotional regulation or are deterred by the high cost of psychological counseling, which poses significant challenges to making effective support widely available. This review systematically examines the convergence of multimodal sensing technologies and large language models (LLMs) for the development of Automated Emotional Regulation (AER) systems. The review draws upon a comprehensive analysis of the existing literature, encompassing research papers, technical reports, and relevant theoretical frameworks. Key findings indicate that multimodal sensing offers the potential for rich, contextualized data pertaining to emotional states, while LLMs provide improved capabilities for interpreting these inputs and generating nuanced, empathetic, and actionable regulatory responses. The integration of these technologies, including physiological sensors, behavioral tracking, and advanced LLM architectures, presents the improvement of application, moving AER beyond simpler, rule-based systems towards more adaptive, context-aware, and human-like interventions. Opportunities for personalized interventions, real-time support, and novel applications in mental healthcare and other domains are considerable. However, these prospects are counterbalanced by significant challenges and limitations. In summary, this review synthesizes current technological advancements, identifies substantial opportunities for innovation and application, and critically analyzes the multifaceted technical, ethical, and practical challenges inherent in this domain. It also concludes that while the integration of multimodal sensing and LLMs holds significant potential for AER, the field is nascent and requires concerted research efforts to realize its full capacity to enhance human well-being.
+type: article
+open_access: true
+cited_by: 18
+query: voice agents prosody paralinguistic affective dialogue governance evaluation
+question: null
+search: SEARCH-fb4225ca20
+score: 1.553
+score_parts:
+  rank: 0.333
+  citations: 0.32
+  recency: 0.9
+needs_approval: false
+state: candidate

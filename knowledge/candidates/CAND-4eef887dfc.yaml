@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4eef887dfc
+created: 2026-09-15T01:07:13.133Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1080/10447318.2023.2270665
+title: "Understanding the Empathetic Reactivity of Conversational Agents: Measure Development and Validation"
+authors:
+  - Bumho Lee
+  - Mun Yong Yi
+year: 2023
+venue: International Journal of Human–Computer Interaction
+doi: 10.1080/10447318.2023.2270665
+url: https://doi.org/10.1080/10447318.2023.2270665
+abstract: null
+type: article
+open_access: null
+cited_by: 11
+query: '"Empathetic Conversational Agents" "10.1080/10447318.2025.2540500" arXiv 2501.08393'
+question: null
+search: SEARCH-3dc085d3d3
+score: 1.061
+score_parts:
+  rank: 0.091
+  citations: 0.27
+  recency: 0.7
+needs_approval: false
+state: candidate

@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-30b975db0e
+created: 2026-09-15T01:09:31.212Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/noise.pdf
+paths:
+  - sources/literature/noise.pdf
+hash: 30b975db0e07d16aafb147b559a647141fd214841ff8b1d9ca6b6b630ef560c5
+bytes: 2857384
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 125077
+  sections: 14
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:06:17.198Z

@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a43e2c47fc
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4403964476
+title: Finding Safety Violations of AI-Enabled Control Systems through the Lens of Synthesized Proxy Programs
+authors:
+  - Jieke Shi
+  - Zhou Yang
+  - Junda He
+  - Bowen Xu
+  - Dongsun Kim
+  - Han, DongGyun
+  - David Lo
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2410.04986
+url: http://arxiv.org/abs/2410.04986
+abstract: "Given the increasing adoption of modern AI-enabled control systems, ensuring their safety and reliability has become a critical task in software testing. One prevalent approach to testing control systems is falsification, which aims to find an input signal that causes the control system to violate a formal safety specification using optimization algorithms. However, applying falsification to AI-enabled control systems poses two significant challenges: (1)~it requires the system to execute numerous candidate test inputs, which can be time-consuming, particularly for systems with AI models that have many parameters, and (2)~multiple safety requirements are typically defined as a conjunctive specification, which is difficult for existing falsification approaches to comprehensively cover. This paper introduces Synthify, a falsification framework tailored for AI-enabled control systems. Our approach performs falsification in a two-phase process. At the start, Synthify synthesizes a program that implements one or a few linear controllers to serve as a proxy for the AI controller. This proxy program mimics the AI controller's functionality but is computationally more efficient. Then, Synthify employs the $ε$-greedy strategy to sample a promising sub-specification from the conjunctive safety specification. It then uses a Simulated Annealing-based falsification algorithm to find violations of the sampled sub-specification for the control system. To evaluate Synthify, we compare it to PSY-TaLiRo, a state-of-the-art and industrial-strength falsification tool, on 8 publicly available control systems. On average, Synthify achieves a 83.5% higher success rate in falsification compared to PSY-TaLiRo with the same budget of falsification trials. The safety violations found by Synthify are also more diverse than those found by PSY-TaLiRo, covering 137.7% more sub-specifications."
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 1.133
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 0.8
+needs_approval: true
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-fc3f373752
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4401974878
+title: A Survey on the Use of Large Language Models (LLMs) in Fake News
+authors:
+  - Eleftheria Papageorgiou
+  - Christos Chronis
+  - Iraklis Varlamis
+  - Yassine Himeur
+year: 2024
+venue: Future Internet
+doi: 10.3390/fi16080298
+url: https://doi.org/10.3390/fi16080298
+abstract: The proliferation of fake news and fake profiles on social media platforms poses significant threats to information integrity and societal trust. Traditional detection methods, including rule-based approaches, metadata analysis, and human fact-checking, have been employed to combat disinformation, but these methods often fall short in the face of increasingly sophisticated fake content. This review article explores the emerging role of Large Language Models (LLMs) in enhancing the detection of fake news and fake profiles. We provide a comprehensive overview of the nature and spread of disinformation, followed by an examination of existing detection methodologies. The article delves into the capabilities of LLMs in generating both fake news and fake profiles, highlighting their dual role as both a tool for disinformation and a powerful means of detection. We discuss the various applications of LLMs in text classification, fact-checking, verification, and contextual analysis, demonstrating how these models surpass traditional methods in accuracy and efficiency. Additionally, the article covers LLM-based detection of fake profiles through profile attribute analysis, network analysis, and behavior pattern recognition. Through comparative analysis, we showcase the advantages of LLMs over conventional techniques and present case studies that illustrate practical applications. Despite their potential, LLMs face challenges such as computational demands and ethical concerns, which we discuss in more detail. The review concludes with future directions for research and development in LLM-based fake news and fake profile detection, underscoring the importance of continued innovation to safeguard the authenticity of online information.
+type: article
+open_access: true
+cited_by: 60
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.309
+score_parts:
+  rank: 0.063
+  citations: 0.446
+  recency: 0.8
+needs_approval: false
+state: candidate

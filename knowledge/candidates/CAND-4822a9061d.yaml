@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4822a9061d
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2026.acl-long.1573
+title: "ToolScope: Enhancing LLM Agent Tool Use through Tool Merging and Context-Aware Filtering"
+authors:
+  - Marianne Menglin Liu
+  - Daniel Garcia
+  - Fjona Parllaku
+  - Vikas Upadhyay
+  - Fahad Shah
+  - Dan Roth
+year: 2026
+venue: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+doi: 10.18653/v1/2026.acl-long.1573
+url: https://doi.org/10.18653/v1/2026.acl-long.1573
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.162
+score_parts:
+  rank: 0.043
+  citations: 0.119
+  recency: 1
+needs_approval: false
+state: candidate

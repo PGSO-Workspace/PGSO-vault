@@ -1,0 +1,47 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ce9fc476cc
+created: 2026-09-15T01:08:12.216Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+  - openalex
+external_id: 10.1038/s41746-025-01512-6
+title: Assessing and alleviating state anxiety in large language models
+authors:
+  - Ziv Ben-Zion
+  - Kristin Witte
+  - Akshay K. Jagadish
+  - Or Duek
+  - Ilan Harpaz-Rotem
+  - Marie-Christine Khorsandian
+  - Achim Burrer
+  - Erich Seifritz
+  - Philipp Homan
+  - Eric Schulz
+  - Tobias R. Spiller
+year: 2025
+venue: npj Digital Medicine
+doi: 10.1038/s41746-025-01512-6
+url: https://doi.org/10.1038/s41746-025-01512-6
+abstract: The use of Large Language Models (LLMs) in mental health highlights the need to understand their responses to emotional content. Previous research shows that emotion-inducing prompts can elevate "anxiety" in LLMs, affecting behavior and amplifying biases. Here, we found that traumatic narratives increased Chat-GPT-4's reported anxiety while mindfulness-based exercises reduced it, though not to baseline. These findings suggest managing LLMs' "emotional states" can foster safer and more ethical human-AI interactions.
+type: article
+open_access: true
+cited_by: 33
+query: Assessing and alleviating state anxiety in large language models
+question: null
+search: SEARCH-428eaf6906
+score: 2.283
+score_parts:
+  rank: 1
+  citations: 0.383
+  recency: 0.9
+needs_approval: false
+state: candidate
+ext:
+  ids:
+    openalex: W4408119808

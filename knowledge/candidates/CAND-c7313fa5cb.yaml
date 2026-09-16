@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c7313fa5cb
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4288902969
+title: Exploring the use of self-sovereign identity for event ticketing systems
+authors:
+  - Simon Feulner
+  - Johannes Sedlmeir
+  - Vincent Schlatt
+  - Nils Urbach
+year: 2022
+venue: Electronic Markets
+doi: 10.1007/s12525-022-00573-9
+url: https://doi.org/10.1007/s12525-022-00573-9
+abstract: Ticket fraud and ticket scalping activities often cause high costs as well as trust concerns for fans buying event tickets, especially in the secondary ticketing market. To address these issues, several publications and projects have proposed using blockchain technology to enable digital trust and ticket verifiability and thus to improve event ticketing systems. However, these approaches exhibit considerable privacy challenges and fall short concerning reliable, efficient visitor identification, which is necessary for controlling secondary market transactions. We demonstrate how a novel paradigm for end-user digital identity management, called self-sovereign identity (SSI), can be utilized to gain secondary market control. To do so, we follow a rigorous design science research approach to build and evaluate an SSI-based event ticketing framework. Our findings demonstrate that SSI-based event ticketing can enable efficient secondary market control by facilitating a practical implementation of the centralized exchange model. To generalize our results, we derive design principles for the efficient, reliable, and privacy-oriented ticket and identity verification and the use of revocation registries.
+type: article
+open_access: true
+cited_by: 49
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.088
+score_parts:
+  rank: 0.063
+  citations: 0.425
+  recency: 0.6
+needs_approval: false
+state: candidate

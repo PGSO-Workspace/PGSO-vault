@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5190af0735
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412695056
+title: A FAIR Resource Recommender System for Smart Open Scientific Inquiries
+authors:
+  - Syed N. Sakib
+  - Sajratul Y. Rubaiat
+  - Kallol Naha
+  - Hasan H. Rahman
+  - Hasan M. Jamil
+year: 2025
+venue: Applied Sciences
+doi: 10.3390/app15158334
+url: https://doi.org/10.3390/app15158334
+abstract: A vast proportion of scientific data remains locked behind dynamic web interfaces, often called the deep web—inaccessible to conventional search engines and standard crawlers. This gap between data availability and machine usability hampers the goals of open science and automation. While registries like FAIRsharing offer structured metadata describing data standards, repositories, and policies aligned with the FAIR (Findable, Accessible, Interoperable, and Reusable) principles, they do not enable seamless, programmatic access to the underlying datasets. We present FAIRFind, a system designed to bridge this accessibility gap. FAIRFind autonomously discovers, interprets, and operationalizes access paths to biological databases on the deep web, regardless of their FAIR compliance. Central to our approach is the Deep Web Communication Protocol (DWCP), a resource description language that represents web forms, HyperText Markup Language (HTML) tables, and file-based data interfaces in a machine-actionable format. Leveraging large language models (LLMs), FAIRFind combines a specialized deep web crawler and web-form comprehension engine to transform passive web metadata into executable workflows. By indexing and embedding these workflows, FAIRFind enables natural language querying over diverse biological data sources and returns structured, source-resolved results. Evaluation across multiple open-source LLMs and database types demonstrates over 90% success in structured data extraction and high semantic retrieval accuracy. FAIRFind advances existing registries by turning linked resources from static references into actionable endpoints, laying a foundation for intelligent, autonomous data discovery across scientific domains.
+type: article
+open_access: true
+cited_by: 1
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.066
+score_parts:
+  rank: 0.091
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

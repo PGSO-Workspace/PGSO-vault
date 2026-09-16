@@ -1,0 +1,44 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f0b15ca861
+created: 2026-09-14T16:52:29.753Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2026.3678489
+title: The MSP-Podcast Corpus
+authors:
+  - Carlos Busso
+  - Reza Lotfian
+  - Kusha Sridhar
+  - Ali N. Salman
+  - Wei-Cheng Lin
+  - Lucas Goncalves
+  - Srinivas Parthasarathy
+  - Abinay Reddy Naini
+  - Seong-Gyun Leem
+  - Luz Martinez-Lucas
+  - Huang-Cheng Chou
+  - Pravin Mote
+year: 2026
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2026.3678489
+url: https://doi.org/10.1109/taffc.2026.3678489
+abstract: null
+type: article
+open_access: null
+cited_by: 6
+query: The MSP-Podcast Corpus
+question: null
+search: SEARCH-75b0eff667
+score: 2.211
+score_parts:
+  rank: 1
+  citations: 0.211
+  recency: 1
+needs_approval: false
+state: candidate

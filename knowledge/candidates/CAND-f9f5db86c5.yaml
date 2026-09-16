@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f9f5db86c5
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4391361874
+title: "Enhancing Work Productivity through Generative Artificial Intelligence: A Comprehensive Literature Review"
+authors:
+  - Humaid Al Naqbi
+  - Zied Bahroun
+  - Vian Ahmed
+year: 2024
+venue: Sustainability
+doi: 10.3390/su16031166
+url: https://doi.org/10.3390/su16031166
+abstract: In this review, utilizing the PRISMA methodology, a comprehensive analysis of the use of Generative Artificial Intelligence (GAI) across diverse professional sectors is presented, drawing from 159 selected research publications. This study provides an insightful overview of the impact of GAI on enhancing institutional performance and work productivity, with a specific focus on sectors including academia, research, technology, communications, agriculture, government, and business. It highlights the critical role of GAI in navigating AI challenges, ethical considerations, and the importance of analytical thinking in these domains. The research conducts a detailed content analysis, uncovering significant trends and gaps in current GAI applications and projecting future prospects. A key aspect of this study is the bibliometric analysis, which identifies dominant tools like Chatbots and Conversational Agents, notably ChatGPT, as central to GAI’s evolution. The findings indicate a robust and accelerating trend in GAI research, expected to continue through 2024 and beyond. Additionally, this study points to potential future research directions, emphasizing the need for improved GAI design and strategic long-term planning, particularly in assessing its impact on user experience across various professional fields.
+type: article
+open_access: true
+cited_by: 291
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.583
+score_parts:
+  rank: 0.167
+  citations: 0.616
+  recency: 0.8
+needs_approval: false
+state: candidate

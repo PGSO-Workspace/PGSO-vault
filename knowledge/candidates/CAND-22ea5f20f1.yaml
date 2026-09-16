@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-22ea5f20f1
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.31224/5562
+title: Emotion-Conditioned Chiptune Music Generation Using a Hybrid PatchTST-LSTM Model
+authors:
+  - Jing Yuan Sun
+  - Roy Ma
+year: 2025
+venue: null
+doi: 10.31224/5562
+url: https://doi.org/10.31224/5562
+abstract: We propose and evaluate a hybrid deep learning model that combines Patch Time Series Transformers (PatchTST) with Long Short-Term Memory (LSTM) networks for symbolic music generation conditioned on emotional states. Using the YM2413-MDB dataset of annotated chiptune music, we map emotions into Russell’s circumplex model (valence-arousal space) and assess the ability of three models—vanilla PatchTST, vanilla LSTM, and our hybrid architecture—to generate emotion-aligned music. Evaluation metrics include melodic coherence, rhythmic stability, harmonic richness, structural complexity, and a custom Emotion Alignment Score. Experimental results show that while the hybrid PatchTST-LSTM model achieved competitive performance, the vanilla LSTM slightly outperformed it in both validation loss and emotional alignment. The findings suggest that recurrent models remain highly effective for short symbolic music sequences, while Transformer-based approaches may require more complex datasets or longer compositions to demonstrate advantages. We discuss limitations of emotion encoding, evaluation methods, and dataset size, and outline directions for future research. Code is available at https://github.com/qwirty123/PatchTST-LSTM.
+type: preprint
+open_access: null
+cited_by: 0
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 0.937
+score_parts:
+  rank: 0.037
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

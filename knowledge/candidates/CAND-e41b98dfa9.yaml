@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e41b98dfa9
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1186/s13636-022-00264-5
+title: Cross-corpus speech emotion recognition using subspace learning and domain adaption
+authors:
+  - Xuan Cao
+  - Maoshen Jia
+  - Jiawei Ru
+  - Tun-wen Pai
+year: 2022
+venue: EURASIP Journal on Audio, Speech, and Music Processing
+doi: 10.1186/s13636-022-00264-5
+url: https://doi.org/10.1186/s13636-022-00264-5
+abstract: Abstract Speech emotion recognition (SER) is a hot topic in speech signal processing. When the training data and the test data come from different corpus, their feature distributions are different, which leads to the degradation of the recognition performance. Therefore, in order to solve this problem, a cross-corpus speech emotion recognition method is proposed based on subspace learning and domain adaptation in this paper. Specifically, training set data and the test set data are used to form the source domain and target domain, respectively. Then, the Hessian matrix is introduced to obtain the subspace for the extracted features in both source and target domains. In addition, an information entropy-based domain adaption method is introduced to construct the common space. In the common space, the difference between the feature distributions in the source domain and target domain is reduced as much as possible. To evaluate the performance of the proposed method, extensive experiments are conducted on cross-corpus speech emotion recognition. Experimental results show that the proposed method achieves better performance compared with some existing subspace learning and domain adaptation methods.
+type: article
+open_access: null
+cited_by: 7
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 0.86
+score_parts:
+  rank: 0.034
+  citations: 0.226
+  recency: 0.6
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0580fde8b2
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410119939
+title: "International Congress on Academic Medicine: 2025 medical education abstracts"
+authors:
+  - Ola Ayoub
+year: 2025
+venue: Canadian Medical Education Journal
+doi: 10.36834/cmej.81481
+url: https://doi.org/10.36834/cmej.81481
+abstract: "The International Congress on Academic Medicine (ICAM) 2025, held from April 3-6 in Halifax, Nova Scotia, united a diverse global community engaged in academic medicine.Organized by the Association of Faculties of Medicine of Canada (AFMC), the congress aimed to foster collaboration, innovation, and progress in medical education, health research and social accountability.It provided a platform for over 1,500 delegates, including medical students, residents, graduate students, faculty, researchers, and patient partners-to meet, network, and develop new relationships and collaborations with colleagues globally.ICAM featured innovative keynotes and accredited sessions tackling global themes in academic medicine, including advocacy, artificial intelligence, social entrepreneurship, and more.Additionally, ICAM hosted international presentations and symposiums, such as the Gairdner Symposium, workshops, and oral and poster presentations.ICAM 2025 was recognized for its commitment to inclusivity, achieving \"Patient Included Status,\" ensuring that the experiences of patients as experts in living with their conditions were incorporated into all aspects of the congress.This year, ICAM also achieved gold status as a certified sustainable event through Dalhousie University's Sustainable Events program. Congress objectives• Recognize the importance of strong connections between research, education, clinical care, and patient experiences on outcomes in medicine.• Actively integrate innovations and best practices in all facets of medical education.• Include the patient voice in all aspects of academic medicine to better meet community needs.• Engage in dialogue to promote collaboration within the international academic medicine community.Keynote: Gairdner Award Lecture: maternal and child health in the global contextThe world has made significant progress improving maternal and child health and wellbeing over the last thirty years.This year's Gairdner lecture featured recipients Zulfiqar Bhutta and José Belizan.Despite notable improvements, key challenges remain, with global progress in reducing the deaths of pregnant women, mothers, and babies having flatlined since 2015 due to decreasing investments in maternal and newborn health.With the continued need to decrease health inequities, this panel discussed current perspectives on maternal and child health in the global context, while reflecting on the pathway forward.At the end of the session, participants were able to:• Summarize key advances within the maternal and child health global health space.• Outline current challenges in maternal and child health that prevent health equity from being achieved.• Describe two health policy avenues for advancing maternal and child health."
+type: article
+open_access: true
+cited_by: 2
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 2.019
+score_parts:
+  rank: 1
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

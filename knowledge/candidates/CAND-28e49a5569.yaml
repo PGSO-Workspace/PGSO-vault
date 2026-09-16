@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-28e49a5569
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.22541/au.167043076.61971339/v1
+title: Cross-corpus bimodal speech emotion recognition
+authors:
+  - Liu Yunxiang
+  - Zhang Kexin
+year: 2022
+venue: null
+doi: 10.22541/au.167043076.61971339/v1
+url: https://doi.org/10.22541/au.167043076.61971339/v1
+abstract: Despite speech emotion recognition(SER) makes a significant contribution to artificial intelligence, there exists a heterogeneity gap between different modalities. Moreover, most cross-corpus SER only use audio modality. There are few studies on cross-corpus bimodal SER. Motivated by these problems, in this work, we address these issues at the same time. We design YouTube dataset as a source data and interactive emotional dyadic motion capture database (IEMOCAP) as a target data. In both source data and target data, we use CNN and bidirectional long short term memory network (Bi-LSTM) to extract speech features and use Bidirectional Encoder Representation from Transformers (BERT)+ Bi-LSTM to extract text features , then we design modality-invariance loss to form a common representation space of two modalities. To deal with the problem of cross-corpus SER, we learn a common subspace of source data and target data by optimizing Linear Discriminant analysis(LDA), Maximum Mean Discrepancy (MMD) and Graph Embedding (GE) jointly. To preserve emotion-discriminative features, we add emotion-aware center loss .We use SVM classifier as final emotion classification.The experiment results on IEMOCAP demonstrate that our method is superior to other state-of-art cross-corpus and bimodal SER.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 0.663
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 0.6
+needs_approval: true
+state: candidate

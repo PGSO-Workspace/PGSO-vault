@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-95e94da42d
+created: 2026-09-15T00:31:14.448Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21437/interspeech.2022-10408
+title: Unsupervised Uncertainty Measures of Automatic Speech Recognition for Non-intrusive Speech Intelligibility Prediction
+authors:
+  - Zehai Tu
+  - Ning Ma
+  - Jon Barker
+year: 2022
+venue: Interspeech 2022
+doi: 10.21437/interspeech.2022-10408
+url: https://doi.org/10.21437/interspeech.2022-10408
+abstract: null
+type: article
+open_access: null
+cited_by: 7
+query: '"Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets"'
+question: null
+search: SEARCH-023614a12f
+score: 0.897
+score_parts:
+  rank: 0.071
+  citations: 0.226
+  recency: 0.6
+needs_approval: false
+state: candidate

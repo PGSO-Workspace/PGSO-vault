@@ -1,0 +1,26 @@
+schema: phdude.result
+version: 1
+id: RESULT-b28c82a352
+created: 2026-09-15T00:53:50.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: Post-hoc bounded sensitivity keeps the two abstaining speaker triplets visible; bounds assume only heuristic output in [0,1]
+from: ANALYSIS-762c466961
+values:
+  total_speakers: 91
+  missing_triplets: 2
+  abstentions_by_level:
+    LO: 2
+    MD: 0
+    HI: 0
+  positive_fraction_lower_bound: 0.9560439560439561
+  positive_fraction_upper_bound: 0.978021978021978
+  median_all_speakers_lower_bound: 0.42318755999999996
+  median_all_speakers_upper_bound: 0.43881569000000004
+state: candidate
+ext:
+  analysis:
+    key: abstention_sensitivity
+    run_at: 2026-09-15T00:53:50.791Z

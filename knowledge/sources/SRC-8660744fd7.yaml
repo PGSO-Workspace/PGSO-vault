@@ -1,0 +1,17 @@
+schema: phdude.source
+version: 1
+id: SRC-8660744fd7
+created: 2026-09-15T01:08:02.061Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: "PGSO comparative validation protocol v2: offline paired preference and actual dispatch"
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-6e797fc0e0
+state: candidate
+year: 2026
+abstract: "Prospective independent-review revision: precise offline assignment, ties estimand, crossed rater/speaker/task clustering, non-vacuous finite engineering suites and power simulations. Practical effect threshold and pilot nuisance parameters remain unfixed. No human-study results."

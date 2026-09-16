@@ -1,0 +1,43 @@
+schema: phdude.candidate
+version: 1
+id: CAND-14bf71cff9
+created: 2026-09-15T09:46:31.407Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404346614
+title: "Social Science Meets LLMs: How Reliable Are Large Language Models in Social Simulations?"
+authors:
+  - Yue Huang
+  - Zhengqing Yuan
+  - Yujun Zhou
+  - Kehan Guo
+  - Xiangqi Wang
+  - Haomin Zhuang
+  - Weixiang Sun
+  - Lichao Sun
+  - Jindong Wang
+  - Yan‐Fang Ye
+  - Xiangliang Zhang
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2410.23426
+url: http://arxiv.org/abs/2410.23426
+abstract: Large Language Models (LLMs) are increasingly employed for simulations, enabling applications in role-playing agents and Computational Social Science (CSS). However, the reliability of these simulations is under-explored, which raises concerns about the trustworthiness of LLMs in these applications. In this paper, we aim to answer ``How reliable is LLM-based simulation?'' To address this, we introduce TrustSim, an evaluation dataset covering 10 CSS-related topics, to systematically investigate the reliability of the LLM simulation. We conducted experiments on 14 LLMs and found that inconsistencies persist in the LLM-based simulated roles. In addition, the consistency level of LLMs does not strongly correlate with their general performance. To enhance the reliability of LLMs in simulation, we proposed Adaptive Learning Rate Based ORPO (AdaORPO), a reinforcement learning-based algorithm to improve the reliability in simulation across 7 LLMs. Our research provides a foundation for future studies to explore more robust and trustworthy LLM-based simulations.
+type: preprint
+open_access: true
+cited_by: 1
+query: Yue Qi personality cultural variables psychological simulations
+question: null
+search: SEARCH-4cdf3b8231
+score: 1.075
+score_parts:
+  rank: 0.2
+  citations: 0.075
+  recency: 0.8
+needs_approval: true
+state: candidate

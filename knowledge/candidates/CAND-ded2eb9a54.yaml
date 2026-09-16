@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ded2eb9a54
+created: 2026-09-15T06:33:03.695Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/s43678-026-01284-2
+title: "From benchmark success to clinical utility: interpreting large language model performance in emergency department triage"
+authors:
+  - Güney Sarıoğlu
+year: 2026
+venue: Canadian Journal of Emergency Medicine
+doi: 10.1007/s43678-026-01284-2
+url: https://doi.org/10.1007/s43678-026-01284-2
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: large language model agent evaluation benchmark reliability task success journal
+question: null
+search: SEARCH-b435e17ef6
+score: 1.071
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

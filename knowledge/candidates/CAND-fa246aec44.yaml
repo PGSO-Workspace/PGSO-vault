@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-fa246aec44
+created: 2026-09-15T07:37:52.267Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5381/jot.2024.23.2.a4
+title: "VSMoN: Runtime Monitoring Based Data-driven Remote Vital Sign Monitoring System."
+authors:
+  - Rahul Bharadwaj Pendyala
+  - Abhinandan Panda
+  - Srinivas Pinisetty
+year: 2024
+venue: The Journal of Object Technology
+doi: 10.5381/jot.2024.23.2.a4
+url: https://doi.org/10.5381/jot.2024.23.2.a4
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement" "Abhinandan Gill-Lakhowal"'
+question: null
+search: SEARCH-9d6de85957
+score: 0.871
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

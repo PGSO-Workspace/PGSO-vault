@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0cee0dd5d8
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4312126039
+title: A nascent design theory for explainable intelligent systems
+authors:
+  - Lukas-Valentin Herm
+  - Theresa A. Steinbach
+  - Jonas Wanner
+  - Christian Janiesch
+year: 2022
+venue: Electronic Markets
+doi: 10.1007/s12525-022-00606-3
+url: https://doi.org/10.1007/s12525-022-00606-3
+abstract: Abstract Due to computational advances in the past decades, so-called intelligent systems can learn from increasingly complex data, analyze situations, and support users in their decision-making to address them. However, in practice, the complexity of these intelligent systems renders the user hardly able to comprehend the inherent decision logic of the underlying machine learning model. As a result, the adoption of this technology, especially for high-stake scenarios, is hampered. In this context, explainable artificial intelligence offers numerous starting points for making the inherent logic explainable to people. While research manifests the necessity for incorporating explainable artificial intelligence into intelligent systems, there is still a lack of knowledge about how to socio-technically design these systems to address acceptance barriers among different user groups. In response, we have derived and evaluated a nascent design theory for explainable intelligent systems based on a structured literature review, two qualitative expert studies, a real-world use case application, and quantitative research. Our design theory includes design requirements, design principles, and design features covering the topics of global explainability, local explainability, personalized interface design, as well as psychological/emotional factors.
+type: article
+open_access: true
+cited_by: 27
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.039
+score_parts:
+  rank: 0.077
+  citations: 0.362
+  recency: 0.6
+needs_approval: false
+state: candidate

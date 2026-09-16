@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a13fc3e7f9
+created: 2026-09-15T07:38:48.880Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.ohx.2021.e00235
+title: Erratum regarding previously published articles
+authors: []
+year: 2021
+venue: HardwareX
+doi: 10.1016/j.ohx.2021.e00235
+url: https://doi.org/10.1016/j.ohx.2021.e00235
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"10.1145/3814959" published'
+question: null
+search: SEARCH-76dea7765d
+score: 0.583
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 0.5
+needs_approval: false
+state: candidate

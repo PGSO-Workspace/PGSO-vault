@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dca43eea8c
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-7675043/v1
+title: "SAFi: A Self-Alignment Framework for Verifiable Runtime Governance of Large Language Models"
+authors:
+  - Nelson Amaya
+year: 2025
+venue: null
+doi: 10.21203/rs.3.rs-7675043/v1
+url: https://doi.org/10.21203/rs.3.rs-7675043/v1
+abstract: "Abstract The deployment of powerful Large Language Models (LLMs) in high-stakes domains presents a critical challenge: ensuring reliable adherence to behavioral constraints at runtime. Existing alignment techniques, primarily focused on pre-deployment training, often fail to prevent model drift or rule violations in live, interactive environments. This paper introduces SAFi (Self-Alignment Framework Interface), a novel, closed-loop framework for the runtime governance of LLMs. SAFi is structured around four distinct faculties, Intellect, Will, Conscience , and Spirit , that separate content generation from rule validation, enabling a continuous cycle of generation, verification, auditing, and adaptation. The framework's key innovation is a stateful, adaptive memory, managed by the mathematical Spirit faculty, which allows the system to be aware of its own performance and correct for behavioral drift over time. We present the results of two empirical benchmark studies comparing a SAFi-governed LLM against a standalone baseline in the high-stakes domains of finance and healthcare. The results demonstrate that SAFi achieves almost 100% adherence to its configured safety rules, whereas the baseline model exhibits catastrophic failures. We conclude that runtime governance frameworks like SAFi are an essential component for building demonstrably safe and reliable AI agents."
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 0.945
+score_parts:
+  rank: 0.045
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

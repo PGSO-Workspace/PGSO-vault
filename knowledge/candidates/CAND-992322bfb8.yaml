@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-992322bfb8
+created: 2026-09-15T06:33:44.760Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412888357
+title: Does Your Voice Assistant Remember? Analyzing Conversational Context Recall and Utilization in Voice Interaction Models
+authors:
+  - Heeseung Kim
+  - Che Hyun Lee
+  - Sangkwon Park
+  - Jiheum Yeom
+  - Nohil Park
+  - Shyr-Shen Yu
+  - Sungroh Yoon
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.findings-acl.470
+url: https://doi.org/10.18653/v1/2025.findings-acl.470
+abstract: Recent advancements in multi-turn voice interaction models have improved user-model communication.However, while closed-source models effectively retain and recall past utterances, whether open-source models share this ability remains unexplored.To fill this gap, we systematically evaluate how well open-source interaction models utilize past utterances using ContextDialog, a benchmark we proposed for this purpose.Our findings show that speechbased models have more difficulty than textbased ones, especially when recalling information conveyed in speech, and even with retrieval-augmented generation, models still struggle with questions about past utterances.These insights highlight key limitations in opensource models and suggest ways to improve memory retention and retrieval robustness.
+type: other
+open_access: true
+cited_by: 1
+query: tau Voice Benchmarking Full Duplex Voice Agents Real World Domains
+question: null
+search: SEARCH-b9d3c043db
+score: 1.975
+score_parts:
+  rank: 1
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dc1f72b243
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/iccbdc67784.2025.00009
+title: "Enforcing Privacy-By-Design: A Policy-Guided Synthetic Data Generator for GenAI Workflows"
+authors:
+  - Dorababu Nadella
+  - Satyanarayana Raju
+  - Supraja Chinthala
+year: 2025
+venue: 2025 9th International Conference on Cloud and Big Data Computing (ICCBDC)
+doi: 10.1109/iccbdc67784.2025.00009
+url: https://doi.org/10.1109/iccbdc67784.2025.00009
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 0.94
+score_parts:
+  rank: 0.04
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

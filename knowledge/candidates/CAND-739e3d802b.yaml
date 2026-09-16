@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-739e3d802b
+created: 2026-09-15T01:06:33.363Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6402038
+title: "Empathy through the Lens of Conversational Agents: A Systematic Review"
+authors:
+  - Supriya Khadka
+  - Smit Desai
+year: 2026
+venue: Proceedings of the 8th ACM Conference on Conversational User Interfaces
+doi: 10.2139/ssrn.6402038
+url: https://doi.org/10.2139/ssrn.6402038
+abstract: The advent of Large Language Models has accelerated interest in empathetic conversational agents. Despite a surge in empirical research, artificial empathy remains deeply fragmented, often serving as a catch-all term for diverse interactional phenomena. Addressing this conceptual gap, we systematically review 86 empirical studies to map how human-machine empathy is operationalized. Our synthesis reveals that empathy is highly situated and driven by functional goals, like health and well-being, transactional service, social interaction, and learning support. Within these contexts, we classify affective responsiveness by its directional flow, detailing how agents project, elicit, or mediate empathy. We structure the literature into a cohesive framework spanning linguistic, paralinguistic, identity, and architectural strategies. Furthermore, our methodological evaluation reveals a reliance on adapted clinical metrics, a scarcity of longitudinal studies, and a disproportionate focus on text-based over voice-based interfaces. Ultimately, this review equips researchers and practitioners with an actionable foundation for designing, measuring, and implementing contextually appropriate and empathetic agents.
+type: preprint
+open_access: null
+cited_by: 0
+query: affective conversational agents empathy speech dialogue action
+question: null
+search: SEARCH-fdb119aa74
+score: 2
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3bc7b2826c
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411236296
+title: Simulating Human Opinions with Large Language Models
+authors:
+  - Carolin Kaiser
+  - Jakob Kaiser
+  - Vladimir Manewitsch
+  - Lea Rau
+  - Rene Schallner
+year: 2025
+venue: null
+doi: 10.1145/3708319.3733685
+url: https://doi.org/10.1145/3708319.3733685
+abstract: Public and private organizations rely on opinion surveys to inform business and policy decisions. Yet, empirical surveys are costly and time-consuming. Recent advances in large language models (LLMs) have sparked interest in generating synthetic survey data, i.e., simulated answers based on target demographics, as an alternative to real human data. But how well can LLMs replicate human opinions? In this ongoing project, we develop and critically evaluate methods for synthetic survey sampling. As an empirical benchmark, we collected responses from a representative U.S. sample (n = 461) on preferences for a common consumer good (soft drinks). Then, we developed ASPIRE (Automated Synthetic Persona Interview and Response Engine), a tool that pairs each human participant with a “digital twin” based on their demographic profile and generates synthetic responses via LLM technology. Synthetic data achieved better-than-chance accuracy in matching human responses and approximated aggregate subjective rankings for both binary and Likert-scale items. However, LLM-simulated data overestimated humans’ tendencies to provide positive ratings and exhibited substantially reduced variance compared to real data. The match of synthetic and real data was not systematically related to participants’ age, gender, or ethnicity, indicating no demographic bias. Overall, while synthetic sampling shows promise for modeling aggregate opinion trends, it currently falls short in replicating the variability and complexity of real human opinions. We discuss insights of our ongoing project for accurate and responsible user opinion modeling via LLMs.
+type: other
+open_access: true
+cited_by: 11
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.27
+score_parts:
+  rank: 0.1
+  citations: 0.27
+  recency: 0.9
+needs_approval: false
+state: candidate

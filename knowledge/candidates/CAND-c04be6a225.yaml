@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c04be6a225
+created: 2026-09-15T00:30:50.983Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2026.bionlp-1.23
+title: "MAX-EVAL-11: A Large Scale Benchmark for Evaluating Large Language Models on Full-Spectrum ICD-11 Medical Coding"
+authors:
+  - Ujjwal Singh
+  - Sarthak Deshwal
+  - Nitish Dube
+  - Arjun Sharma
+year: 2026
+venue: BioNLP 2026
+doi: 10.18653/v1/2026.bionlp-1.23
+url: https://doi.org/10.18653/v1/2026.bionlp-1.23
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"'
+question: null
+search: SEARCH-40ed8087e2
+score: 1.048
+score_parts:
+  rank: 0.048
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

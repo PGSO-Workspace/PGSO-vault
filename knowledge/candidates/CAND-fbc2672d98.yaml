@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-fbc2672d98
+created: 2026-09-15T01:08:13.465Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4402671727
+title: Quantifying the Persona Effect in LLM Simulations
+authors:
+  - Tiancheng Hu
+  - Nigel Collier
+year: 2024
+venue: null
+doi: 10.18653/v1/2024.acl-long.554
+url: https://doi.org/10.18653/v1/2024.acl-long.554
+abstract: "Large language models (LLMs) have shown remarkable promise in simulating human language and behavior.This study investigates how integrating persona variables-demographic, social, and behavioral factors-impacts LLMs' ability to simulate diverse perspectives.We find that persona variables account for <10% variance in annotations in existing subjective NLP datasets.Nonetheless, incorporating persona variables via prompting in LLMs provides modest but statistically significant improvements.Persona prompting is most effective in samples where many annotators disagree, but their disagreements are relatively minor.Notably, we find a linear relationship in our setting: the stronger the correlation between persona variables and human annotations, the more accurate the LLM predictions are using persona prompting.In a zero-shot setting, a powerful 70b model with persona prompting captures 81% of the annotation variance achievable by linear regression trained on ground truth annotations.However, for most subjective NLP datasets, where persona variables have limited explanatory power, the benefits of persona prompting are limited.1"
+type: other
+open_access: true
+cited_by: 36
+query: Toward accurate psychological simulations Investigating LLMs responses to personality and cultural variables
+question: null
+search: SEARCH-1466de93a8
+score: 1.442
+score_parts:
+  rank: 0.25
+  citations: 0.392
+  recency: 0.8
+needs_approval: false
+state: candidate

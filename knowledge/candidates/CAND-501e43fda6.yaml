@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-501e43fda6
+created: 2026-09-14T23:46:57.333Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7166867193
+title: "Safety Sidecar: Reflection-Driven Runtime Control for Safer Agents"
+authors:
+  - Wang Bin
+  - Quan Jiazheng
+  - Xingrui Yu
+  - Hansen Hu
+  - Yu Hao
+  - Anjun Gao
+  - Zhenglin Wan
+  - Hui Li
+  - Ivor Tsang
+year: 2026
+venue: null
+doi: 10.18653/v1/2026.findings-acl.1542
+url: https://doi.org/10.18653/v1/2026.findings-acl.1542
+abstract: "Autonomous LLM agents are increasingly deployed in complex environments as tool-using systems.However, their safety remains fragile, as minor reasoning or retrieval errors can be amplified into hazardous actions within the agentic workflow.Existing defenses, often limited to static prompts or post-hoc guardrails, fail to provide runtime intervention or cross-architecture portability.In this paper, we propose Safety Sidecar, a model-agnostic, plug-and-play module designed to provide standardized runtime safety control and auditability for arbitrary agent workflows.Safety Sidecar operationalizes reflection as a closed-loop controller: it dynamically monitors decision traces, retrieves evidence-based repair exemplars from a reflective memory, and enforces risk-mitigating revisions before execution.Crucially, it employs external verifiers to gate both action release and memory updates, producing a transparent, auditable trail of retrieved evidence and applied constraints.We instantiate and systematically evaluate Safety Sidecar in secure code generation-a high-stakes domain with objective vulnerability signals.Experimental results across eight CWE scenarios and four representative LLMs demonstrate that Safety Sidecar consistently improves the secure-solution rate by 2.9-11.2percentage points while maintaining competitive functional correctness.Efficiency analysis shows the framework is practical for deployment, with reflection adding only 3.2s to end-to-end latency and a negligible average cost of 5.37 × 10 -4 per scenario.Our findings position Safety Sidecar as a portable and efficient control layer for enhancing the safety, compliance, and auditability of LLM-based agents."
+type: other
+open_access: true
+cited_by: 0
+query: '"AgentSpec" runtime enforcement LLM agents'
+question: null
+search: SEARCH-ab8e976bec
+score: 1.143
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6739748389
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.ijhcs.2021.102771
+title: "“I felt her company”: A qualitative study on factors affecting closeness and emotional support seeking with an embodied conversational agent"
+authors:
+  - Kate Loveys
+  - Catherine Hiko
+  - Mark Sagar
+  - Xueyuan Zhang
+  - Elizabeth Broadbent
+year: 2022
+venue: International Journal of Human-Computer Studies
+doi: 10.1016/j.ijhcs.2021.102771
+url: https://doi.org/10.1016/j.ijhcs.2021.102771
+abstract: null
+type: article
+open_access: null
+cited_by: 63
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 1.105
+score_parts:
+  rank: 0.053
+  citations: 0.452
+  recency: 0.6
+needs_approval: false
+state: candidate

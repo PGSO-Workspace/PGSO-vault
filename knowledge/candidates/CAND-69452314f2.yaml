@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-69452314f2
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412945594
+title: "LocAgent: Graph-Guided LLM Agents for Code Localization"
+authors:
+  - Zhaoling Chen
+  - Robert L. Tang
+  - Gangda Deng
+  - Fang Wu
+  - Jialong Wu
+  - Zhiwei Jiang
+  - Viktor Prasanna
+  - Arman Cohan
+  - Xingyao Wang
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.acl-long.426
+url: https://doi.org/10.18653/v1/2025.acl-long.426
+abstract: "Zhaoling Chen, Robert Tang, Gangda Deng, Fang Wu, Jialong Wu, Zhiwei Jiang, Viktor Prasanna, Arman Cohan, Xingyao Wang. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2025."
+type: other
+open_access: true
+cited_by: 11
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 1.22
+score_parts:
+  rank: 0.05
+  citations: 0.27
+  recency: 0.9
+needs_approval: false
+state: candidate

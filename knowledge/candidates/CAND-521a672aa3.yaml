@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-521a672aa3
+created: 2026-09-14T23:44:09.730Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/iccsc71566.2026.11650070
+title: Emotion-Aware Retrieval-Augmented Generation via Affective Knowledge Graphs for Personalised ASD Content Recommendation
+authors:
+  - Nisrine El Ayat
+  - Yasmine Lebbadi
+  - Chaimae Ouazri
+year: 2026
+venue: 2026 International Conference on Circuit, Systems and Communication (ICCSC)
+doi: 10.1109/iccsc71566.2026.11650070
+url: https://doi.org/10.1109/iccsc71566.2026.11650070
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees With Knowledge Graphs for Affective Human-AI Teaming" code GitHub'
+question: null
+search: SEARCH-2325920ecd
+score: 1.056
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

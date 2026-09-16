@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-940530c5a9
+created: 2026-09-15T00:31:11.443Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1002/9781394479771.ch14
+title: Real‐Time Face Emotion Detection using Mobilenetv1 and Speech Emotion Recognition using Multimodal Analysis
+authors:
+  - Budhaditya BHATTACHARYYA
+year: 2026
+venue: AI Innovations in Human Emotion Detection and Sentiment Analysis
+doi: 10.1002/9781394479771.ch14
+url: https://doi.org/10.1002/9781394479771.ch14
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition"'
+question: null
+search: SEARCH-f9a249d1ae
+score: 1.071
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

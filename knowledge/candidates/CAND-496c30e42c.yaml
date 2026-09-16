@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-496c30e42c
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/coins65080.2025.11125785
+title: Uncertainty-Aware LiDAR-Camera Autonomy via Conformal Prediction and Principled Abstention
+authors:
+  - Divake Kumar
+  - Sina Tayebati
+  - Nastaran Darabi
+  - Vita Pi-Ho Hu
+  - Amit Ranjan Trivedi
+year: 2025
+venue: 2025 IEEE International Conference on Omni-layer Intelligent Systems (COINS)
+doi: 10.1109/coins65080.2025.11125785
+url: https://doi.org/10.1109/coins65080.2025.11125785
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 1.015
+score_parts:
+  rank: 0.04
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

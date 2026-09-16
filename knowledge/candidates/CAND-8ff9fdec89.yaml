@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8ff9fdec89
+created: 2026-09-15T09:45:34.518Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1002/9781394389896.ch7
+title: Emotion AI
+authors:
+  - A. Prabhu Chakkaravarthy
+  - J. Dhanalakshmi
+  - D. Praveena Anjelin
+year: 2026
+venue: Emotional Intelligence‐Driven Engineering
+doi: 10.1002/9781394389896.ch7
+url: https://doi.org/10.1002/9781394389896.ch7
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"Dual Learning for Conversational Emotion Recognition and Emotional Response Generation" PDF'
+question: null
+search: SEARCH-370d9309b7
+score: 1.067
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

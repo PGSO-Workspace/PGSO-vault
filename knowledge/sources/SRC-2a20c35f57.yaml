@@ -1,0 +1,16 @@
+schema: phdude.source
+version: 1
+id: SRC-2a20c35f57
+created: 2026-09-15T00:22:10.329Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: NVIDIA NeMo Guardrails — comparator screening 2026-09-15
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts: []
+state: candidate
+year: 2026
+abstract: "Mechanism comparator: dialog and execution rails; matched policies and observations required. Official source inspected: https://docs.nvidia.com/nemo/guardrails/about-nemo-guardrails-library/rail-types"

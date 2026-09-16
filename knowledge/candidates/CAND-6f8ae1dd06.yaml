@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6f8ae1dd06
+created: 2026-09-15T01:08:13.465Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.52202/080513-0617
+title: "EXPLORING REACTIONS TO WOOD DEFECTS: AN INITIAL STUDY INVESTIGATING PSYCHOLOGICAL/ PHYSIOLOGICAL RESPONSES AND CULTURAL DIFFERENCES TO KNOTS IN WOOD"
+authors:
+  - Aayusha Chapagain
+  - Paul Crovella
+year: 2025
+venue: World Conference on Timber Engineering 2025
+doi: 10.52202/080513-0617
+url: https://doi.org/10.52202/080513-0617
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: Toward accurate psychological simulations Investigating LLMs responses to personality and cultural variables
+question: null
+search: SEARCH-1466de93a8
+score: 1.233
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

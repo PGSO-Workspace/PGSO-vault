@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-05754facb3
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4394866494
+title: Generative transformations and patterns in LLM-native approaches for software verification and falsification
+authors:
+  - Vı́ctor Braberman
+  - Flavia Bonomo
+  - Yiannis Charalambous
+  - Juan G. Colonna
+  - Lucas C. Cordeiro
+  - Rosiane de Freitas
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2404.09384
+url: http://arxiv.org/abs/2404.09384
+abstract: The emergence of prompting as the dominant paradigm for leveraging Large Language Models (LLMs) has led to a proliferation of LLM-native software, where application behavior arises from complex, stochastic data transformations. However, the engineering of such systems remains largely exploratory and ad-hoc, hampered by the absence of conceptual frameworks, ex-ante methodologies, design guidelines, and specialized benchmarks. We argue that a foundational step towards a more disciplined engineering practice is a systematic understanding of the core functional units--generative transformations--and their compositional patterns within LLM-native applications. Focusing on the rich domain of software verification and falsification, we conduct a secondary study of over 100 research proposals to address this gap. We first present a fine-grained taxonomy of generative transformations, abstracting prompt-based interactions into conceptual signatures. This taxonomy serves as a scaffolding to identify recurrent transformation relationship patterns--analogous to software design patterns--that characterize solution approaches in the literature. Our analysis not only validates the utility of the taxonomy but also surfaces strategic gaps and cross-dimensional relationships, offering a structured foundation for future research in modular and compositional LLM application design, benchmarking, and the development of reliable LLM-native systems.
+type: preprint
+open_access: true
+cited_by: 0
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 0.877
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 0.8
+needs_approval: true
+state: candidate

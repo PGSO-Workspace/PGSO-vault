@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dccf1a3c4e
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21275/sr25513013837
+title: "AI - Powered Document Intelligence in Insurance: Building Vendor - Free, Open - Source OCR Systems to Eliminate Operational Bottlenecks"
+authors:
+  - Archana Subramanian
+year: 2025
+venue: International Journal of Science and Research (IJSR)
+doi: 10.21275/sr25513013837
+url: https://doi.org/10.21275/sr25513013837
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 0.932
+score_parts:
+  rank: 0.032
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,24 @@
+schema: phdude.source
+version: 1
+id: SRC-4388c83c6a
+created: 2026-09-15T01:13:39.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: Effects of interaction modalities and emotional states on user’s perceived empathy with an LLM-based embodied conversational agent
+authors:
+  - Yang Gao
+  - Yangbin Dai
+  - Guangtao Zhang
+  - Honglei Guo
+  - Aimin Hao
+  - Shuai Li
+type: article
+artifacts: []
+state: candidate
+year: 2025
+venue: International Journal of Human-Computer Studies
+doi: 10.1016/j.ijhcs.2025.103585
+url: https://doi.org/10.1016/j.ijhcs.2025.103585
+abstract: "Research summary (not original abstract): Within-subjects 3×3 experiment with 36 participants, comparing text, voice/avatar modalities and happy/neutral/sad initial states. Reports perceived empathy and subsequent emotional-state outcomes for the MetaChatBot ECA. Limits: ['Only abstract/highlights inspected; method and results details beyond publisher abstract are not full-text verified.', 'No software artifact located in this bounded search.']"

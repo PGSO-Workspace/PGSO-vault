@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9772406b58
+created: 2026-09-15T01:07:29.902Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taslpro.2025.3642537
+title: Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation
+authors:
+  - Hanqing Zhang
+  - Si Sun
+  - Dawei Song
+year: 2026
+venue: IEEE Transactions on Audio, Speech and Language Processing
+doi: 10.1109/taslpro.2025.3642537
+url: https://doi.org/10.1109/taslpro.2025.3642537
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation" 11293762'
+question: null
+search: SEARCH-a309ac3231
+score: 2
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

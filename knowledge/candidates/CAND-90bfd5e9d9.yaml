@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-90bfd5e9d9
+created: 2026-09-15T07:38:43.488Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1136/bmjgh-2026-024444
+title: "Open access, unequal access: why publication fee waivers still exclude many researchers"
+authors:
+  - Hawkar Ibrahim
+  - Frank Neuner
+year: 2026
+venue: BMJ Global Health
+doi: 10.1136/bmjgh-2026-024444
+url: https://doi.org/10.1136/bmjgh-2026-024444
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"10.1109/ACCESS.2026.3719838" "Date of Publication"'
+question: null
+search: SEARCH-210eb9e969
+score: 1.1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

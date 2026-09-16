@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-847b29c6be
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4401183950
+title: Conversational and generative artificial intelligence and human–chatbot interaction in education and research
+authors:
+  - Ikpe Justice Akpan
+  - Yawo Mamoua Kobara
+  - Josiah Owolabi
+  - Asuama A. Akpan
+  - O. Felix Offodile
+year: 2024
+venue: International Transactions in Operational Research
+doi: 10.1111/itor.13522
+url: https://doi.org/10.1111/itor.13522
+abstract: Abstract Artificial intelligence (AI) as a disruptive technology is not new. However, its recent evolution, engineered by technological transformation, big data analytics, and quantum computing, produces conversational and generative AI (CGAI/GenAI) and human‐like chatbots that disrupt conventional operations and methods in different fields. This study investigates the scientific landscape of CGAI and human–chatbot interaction/collaboration and evaluates use cases, benefits, challenges, and policy implications for multidisciplinary education and allied industry operations. The publications trend showed that just 4% ( n = 75) occurred during 2006–2018, while 2019–2023 experienced astronomical growth ( n = 1763 or 96%). The prominent use cases of CGAI (e.g., ChatGPT) for teaching, learning, and research activities occurred in computer science (multidisciplinary and AI; 32%), medical/healthcare (17%), engineering (7%), and business fields (6%). The intellectual structure shows strong collaboration among eminent multidisciplinary sources in business, information systems, and other areas. The thematic structure highlights prominent CGAI use cases, including improved user experience in human–computer interaction, computer programs/code generation, and systems creation. Widespread CGAI usefulness for teachers, researchers, and learners includes syllabi/course content generation, testing aids, and academic writing. The concerns about abuse and misuse (plagiarism, academic integrity, privacy violations) and issues about misinformation, danger of self‐diagnoses, and patient privacy in medical/healthcare applications are prominent. Formulating strategies and policies to address potential CGAI challenges in teaching/learning and practice are priorities. Developing discipline‐based automatic detection of GenAI contents to check abuse is proposed. In operational/operations research areas, proper CGAI/GenAI integration with modeling and decision support systems requires further studies.
+type: article
+open_access: true
+cited_by: 132
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 2.331
+score_parts:
+  rank: 1
+  citations: 0.531
+  recency: 0.8
+needs_approval: false
+state: candidate

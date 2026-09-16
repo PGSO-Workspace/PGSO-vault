@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-26cfee885b
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412945659
+title: "SCALE: Towards Collaborative Content Analysis in Social Science with Large Language Model Agents and Human Intervention"
+authors:
+  - Chengshuai Zhao
+  - Zhen Tan
+  - Chau-Wai Wong
+  - Xinyan Zhao
+  - Tianlong Chen
+  - Huan Liu
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.acl-long.416
+url: https://doi.org/10.18653/v1/2025.acl-long.416
+abstract: "Content analysis breaks down complex and unstructured texts into theory-informed numerical categories.Particularly, in social science, this process usually relies on multiple rounds of manual annotation, domain expert discussion, and rule-based refinement.In this paper, we introduce SCALE, 1 a novel multi-agent framework that effectively Simulates Content Analysis via Large language model agEnts.SCALE imitates key phases of content analysis, including text coding, 2 collaborative discussion, and dynamic codebook evolution, capturing the reflective depth and adaptive discussions of human researchers.Furthermore, by integrating diverse modes of human intervention, SCALE is augmented with expert input to further enhance its performance.Extensive evaluations on real-world datasets demonstrate that SCALE achieves human-approximated performance across various complex content analysis tasks, offering an innovative potential for future social science research.* Example: \"I love this company's new policy!It's so beneficial for everyone.\"* Example: \"Great job on the recent project!Keep up the good work.\"-Neutral: Neutral sentiment of users toward the issue/company.* Example: \"The company announced a new policy today.\"* Example: \"I heard about the recent changes, but I don't have an opinion yet.\""
+type: other
+open_access: true
+cited_by: 3
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 1.218
+score_parts:
+  rank: 0.167
+  citations: 0.151
+  recency: 0.9
+needs_approval: false
+state: candidate

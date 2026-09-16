@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1b024f7814
+created: 2026-09-15T07:51:13.215Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7116783479
+title: "Agentic LLMs in the supply chain: towards autonomous multi-agent consensus-seeking"
+authors:
+  - Valeria Jannelli
+  - Stefan Schöpf
+  - Matthias Bickel
+  - Torbjørn H. Netland
+  - Alexandra Brintrup
+year: 2025
+venue: International Journal of Production Research
+doi: 10.1080/00207543.2025.2604311
+url: https://doi.org/10.1080/00207543.2025.2604311
+abstract: Supply Chain Management relies on human consensus in decision-making to avoid emergent problems like the bullwhip effect. Some routine consensus processes, especially those that are time-intensive, can be automated. Previously proposed supply chain automation solutions for consensus-seeking and coordination faced computational challenges, resulting in high entry barriers. Recent advances in Generative AI, particularly Large Language Model agents (LLM agents), could overcome these barriers. This paper explores how LLM agents can automate consensus-seeking in supply chains. We introduce a series of novel, supply chain-specific consensus-seeking frameworks and validate the effectiveness of our approach through a case study in inventory management, where agents that represent companies in a supply chain are able to balance selfish goals with systemic outcomes through conversation. Our results show that introducing LLM-based consensus-seeking frameworks reduces bullwhip effects. When equipped with appropriate tools, LLM agents can minimise bullwhip better than restocking policies and centralised demand approaches. Additionally, when LLM agents are handled within a negotiation framework, their behaviour converges to best practices in the supply chain literature on how to lessen the bullwhip effect. To provide a foundation for further advancements in LLM-based autonomous supply chain solutions, we open-source our code.
+type: article
+open_access: true
+cited_by: 32
+query: '"dynamic tool retrieval LLM agent journal 2024 2025'
+question: null
+search: SEARCH-da10c5ec54
+score: 1.339
+score_parts:
+  rank: 0.059
+  citations: 0.38
+  recency: 0.9
+needs_approval: false
+state: candidate

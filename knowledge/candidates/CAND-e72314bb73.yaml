@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e72314bb73
+created: 2026-09-14T23:44:46.279Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/apsipaasc65261.2025.11249402
+title: "Foundation Models as Guardrails: LLM-and VLM-Based Approaches to Safety and Alignment"
+authors:
+  - Huy H. Nguyen
+  - Pride Kavumba
+  - Tomoya Kurosawa
+  - Koki Wataoka
+year: 2025
+venue: 2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)
+doi: 10.1109/apsipaasc65261.2025.11249402
+url: https://doi.org/10.1109/apsipaasc65261.2025.11249402
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Safety Guardrails for LLM-Enabled Robots" code GitHub'
+question: null
+search: SEARCH-babb92a8ed
+score: 0.956
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

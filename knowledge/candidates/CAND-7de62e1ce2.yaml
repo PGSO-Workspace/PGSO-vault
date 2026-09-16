@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7de62e1ce2
+created: 2026-09-15T07:38:12.403Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7184619
+title: Securing Federated Model Context Protocol (MCP) and Multi-Agent Supply Chains
+authors:
+  - Ashish Vishwakarma
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7184619
+url: https://doi.org/10.2139/ssrn.7184619
+abstract: The rapid proliferation of agentic artificial intelligence (AI) has necessitated standardized protocols for tool invocation and contextual state management. The Model Context Protocol (MCP) has recently emerged as a foundational architecture, bridging the non-deterministic reasoning capabilities of large language models (LLMs) with external data sources, isolated execution environments, and discrete algorithmic tools. However, the federated nature of the MCP ecosystem introduces profound and systemic security vulnerabilities, most notably transitive privilege escalation, indirect prompt injection, and catastrophic multi-agent supply chain compromises. This comprehensive research report presents an exhaustive formal and empirical analysis of MCP security vulnerabilities, contextualizing the threat landscape through the adaptation of classical cryptographic attacker models. By formalizing the agent skill ecosystem under the domain-specific DY-Skill attacker model, this research mathematically defines the vectors of supply chain exploitation. Furthermore, the report rigorously evaluates deterministic mitigation strategies, contrasting traditional probabilistic heuristic defenses with structural implementations such as Information-Flow Control (IFC), Permissive Information-Flow Analysis (PIFA), and decentralized cryptographic Object-Capabilities (O-Caps) utilizing chained Hash-based Message Authentication Code (HMAC) Macaroons. Through a containerized laboratory evaluation integrating Z3 Satisfiability Modulo Theories (SMT) solvers and live orchestrator telemetry, this research demonstrates both the active exploitation of a Confused Deputy vulnerability via semantic laundering and the mathematical efficacy of cryptographic session validation. The synthesized findings provide a definitive, multi-layered blueprint for securing the next generation of federated AI architectures against complex adversarial manipulation.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance" arXiv'
+question: null
+search: SEARCH-a96b00e8a8
+score: 1.037
+score_parts:
+  rank: 0.037
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

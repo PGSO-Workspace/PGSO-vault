@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3befb1096c
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/iccams65118.2025.11234648
+title: Long Short Term Memory Model based Graph Convolution Network towards Deep Scale Fusion in Multimodal Emotion Recognition
+authors:
+  - V. Balamurugan
+  - K. Sivasankari
+year: 2025
+venue: 2025 2nd International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS)
+doi: 10.1109/iccams65118.2025.11234648
+url: https://doi.org/10.1109/iccams65118.2025.11234648
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 1.038
+score_parts:
+  rank: 0.063
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

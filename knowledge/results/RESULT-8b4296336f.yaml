@@ -1,0 +1,40 @@
+schema: phdude.result
+version: 1
+id: RESULT-8b4296336f
+created: 2026-09-15T01:02:28.781Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: 80 candidate works screened; 3 meet verified English, current journal Q1 and targeted fulltext criteria in this frozen batch
+from: ANALYSIS-9d124d6220
+values:
+  total_unique_candidates: 80
+  unique_dois: 75
+  without_doi: 5
+  by_corrected_publication_type:
+    conference: 28
+    journal: 36
+    book-chapter: 2
+    preprint: 13
+    conference-or-other: 1
+  by_registry_year:
+    "2024": 24
+    "2025": 23
+    "2026": 33
+  by_screening_disposition:
+    include-screening: 30
+    reserve: 50
+  fulltext_targeted_reviews: 4
+  q1_journal_year_qualified: 10
+  english_verified_q1_journal_targeted_reviews: 3
+  q1_journal_language_fulltext_pending: 7
+  journal_quartile_unverified: 26
+  nonjournals_not_eligible_for_journal_quota: 44
+  quotas_fulfilled: 0
+  quotas_pending: 5
+state: candidate
+ext:
+  analysis:
+    key: screen80
+    run_at: 2026-09-15T01:02:28.781Z

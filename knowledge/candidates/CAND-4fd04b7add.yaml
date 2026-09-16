@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4fd04b7add
+created: 2026-09-15T00:21:11.462Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411119289
+title: "AEGIS2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment of LLM Guardrails"
+authors:
+  - Shaona Ghosh
+  - Prasoon Varshney
+  - Makesh Narsimhan Sreedhar
+  - Aishwarya Padmakumar
+  - Traian Rebedea
+  - Jibin Rajan Varghese
+  - Christopher Parisien
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.naacl-long.306
+url: https://doi.org/10.18653/v1/2025.naacl-long.306
+abstract: "Shaona Ghosh, Prasoon Varshney, Makesh Narsimhan Sreedhar, Aishwarya Padmakumar, Traian Rebedea, Jibin Rajan Varghese, Christopher Parisien. Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers). 2025."
+type: other
+open_access: true
+cited_by: 12
+query: NeMo Guardrails programmable guardrails conversational systems
+question: null
+search: SEARCH-75810a0056
+score: 1.303
+score_parts:
+  rank: 0.125
+  citations: 0.278
+  recency: 0.9
+needs_approval: false
+state: candidate

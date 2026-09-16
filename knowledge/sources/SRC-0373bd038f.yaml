@@ -1,0 +1,30 @@
+schema: phdude.source
+version: 1
+id: SRC-0373bd038f
+created: 2026-09-15T01:12:35.496Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: Assessing and alleviating state anxiety in large language models
+authors:
+  - Ziv Ben-Zion
+  - Kristin Witte
+  - Akshay K. Jagadish
+  - Or Duek
+  - Ilan Harpaz-Rotem
+  - Marie-Christine Khorsandian
+  - Achim Burrer
+  - Erich Seifritz
+  - Philipp Homan
+  - Eric Schulz
+  - Tobias R. Spiller
+type: article
+artifacts:
+  - ART-fcaff9cc78
+state: candidate
+year: 2025
+venue: npj Digital Medicine
+doi: 10.1038/s41746-025-01512-6
+url: https://doi.org/10.1038/s41746-025-01512-6
+abstract: "Research review summary: Author-lab hosted publisher PDF inspected, targeted pp.2–4 (results, limitations, methods); publisher webpage itself failed to fetch; author-lab PDF downloaded and hashed. No audio/paralinguistic signal, tool catalog, authorization, downstream safety test or evidence of experienced human anxiety. Do not count as direct tool-governance evidence."

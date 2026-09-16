@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-806d759e51
+created: 2026-09-14T23:47:47.446Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411119880
+title: Adaptive Attacks Break Defenses Against Indirect Prompt Injection Attacks on LLM Agents
+authors:
+  - Qiusi Zhan
+  - Richard Fang
+  - Henil Shalin Panchal
+  - Daniel Kang
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.findings-naacl.395
+url: https://doi.org/10.18653/v1/2025.findings-naacl.395
+abstract: Large Language Model (LLM) agents exhibit remarkable performance across diverse applications by using external tools to interact with environments.However, integrating external tools introduces security risks, such as indirect prompt injection (IPI) attacks.Despite defenses designed for IPI attacks, their robustness remains questionable due to insufficient testing against adaptive attacks.In this paper, we evaluate eight different defenses and bypass all of them using adaptive attacks, consistently achieving an attack success rate of over 50%.This reveals critical vulnerabilities in current defenses.Our research underscores the need for adaptive attack evaluation when designing defenses to ensure robustness and reliability.
+type: other
+open_access: true
+cited_by: 17
+query: '"AgentDojo" tool agents security'
+question: null
+search: SEARCH-95d8fe4170
+score: 1.464
+score_parts:
+  rank: 0.25
+  citations: 0.314
+  recency: 0.9
+needs_approval: false
+state: candidate

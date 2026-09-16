@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-3bd625ffb2
+created: 2026-09-15T18:44:24.527Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-da06f686a0
+locator: Descriptive findings; DATASET-4179f680d6, ANALYSIS-2368d92858, RESULT-b2e138dc20
+excerpt: All 21 sessions produced scored result files; no infrastructure failure files were produced. All sessions terminated at max_steps (30). Every arm obtained 0/3 original environment-assertion task successes. This is a floor effect, not evidence of equivalence or superiority.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-2b30ef5efd

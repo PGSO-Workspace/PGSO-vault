@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-d2b027525f
+created: 2026-09-15T08:30:27.249Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/roaming-withholding-ff8f5ff/test-run.log
+paths:
+  - sources/software/pgso-sdk/roaming-withholding-ff8f5ff/test-run.log
+hash: d2b027525f0fb41243f2ee32e55ae5bce245522bdebb1fd1ce3b8d6a79822ac1
+bytes: 1289
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T08:30:27.038Z
+latest: false

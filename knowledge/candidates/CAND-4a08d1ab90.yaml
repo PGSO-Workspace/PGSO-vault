@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4a08d1ab90
+created: 2026-09-15T00:24:33.994Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/ietc64455.2025.11039385
+title: Classification of Right Hemisphere Damage Using MFCC Paralinguistic Voice Features
+authors:
+  - Visar Rraci
+  - Landrum Anderson
+  - Subhajit Chakrabarty
+year: 2025
+venue: 2025 Intermountain Engineering, Technology and Computing (IETC)
+doi: 10.1109/ietc64455.2025.11039385
+url: https://doi.org/10.1109/ietc64455.2025.11039385
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: voice agents prosody paralinguistic affective dialogue governance evaluation
+question: null
+search: SEARCH-fb4225ca20
+score: 0.963
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

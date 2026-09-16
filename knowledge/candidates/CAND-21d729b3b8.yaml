@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-21d729b3b8
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2024.3357656
+title: "CFDA-CSF: A Multi-Modal Domain Adaptation Method for Cross-Subject Emotion Recognition"
+authors:
+  - Magdiel Jiménez-Guarneros
+  - Gibran Fuentes-Pineda
+year: 2024
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2024.3357656
+url: https://doi.org/10.1109/taffc.2024.3357656
+abstract: null
+type: article
+open_access: null
+cited_by: 42
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.253
+score_parts:
+  rank: 0.045
+  citations: 0.408
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a802a4a5bd
+created: 2026-09-14T23:44:09.730Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7334481
+title: Trust-Aware Hierarchical Decision-Making for AI-Enabled Crewed -Uncrewed Combat Aircraft Teaming
+authors:
+  - Emrah Ekrem Karabag
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7334481
+url: https://doi.org/10.2139/ssrn.7334481
+abstract: The integration of artificial intelligence-enabled unmanned aerial vehicles with crewed combat aircraft is transforming the pilot's role from direct platform operator to mission-level commander of a distributed human-autonomy team. However, effective crewed-uncrewed teaming requires more than autonomous flight or independent tactical behavior. It requires a coordinated decisionmaking mechanism capable of combining human intent, machine-speed analysis, distributed sensing, adaptive task allocation, operational constraints, and runtime safety assurance. This paper proposes a Trust-Aware Hierarchical Decision Architecture (TA-HDA) for artificial intelligence-enabled crewed-uncrewed combat aircraft teaming. The architecture separates mission command, cooperative task allocation, platform-level autonomy, and deterministic safety assurance into distinct authority layers. It introduces a dynamic authority-allocation mechanism that adjusts the operational freedom of each uncrewed aircraft according to model confidence, communication quality, environmental validity, mission criticality, pilot workload, and runtime safety status. Hard safety, legal, and mission constraints are enforced independently from the learning-enabled decision policies. The proposed framework combines partially observable multi-agent decision modeling, multi-agent reinforcement learning, model-predictive evaluation, explainable artificial intelligence, calibrated human trust, and runtime assurance. A structured validation methodology is presented using simulation, hardware-in-the-loop testing, human-in-the-loop experimentation, live-virtual-constructive environments, and progressive flight testing. The paper argues that operationally credible crewed-uncrewed teaming should not maximize machine autonomy as an isolated objective. Instead, it should optimize team-level mission effectiveness while preserving human command authority, predictable system behavior, transparent decision support, and verified fallback capability.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees With Knowledge Graphs for Affective Human-AI Teaming" code GitHub'
+question: null
+search: SEARCH-2325920ecd
+score: 1.125
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

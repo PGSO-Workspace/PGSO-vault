@@ -1,0 +1,44 @@
+schema: phdude.candidate
+version: 1
+id: CAND-745f4624e9
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4407041715
+title: "Artificial intelligence conversational agents in mental health: Patients see potential, but prefer humans in the loop"
+authors:
+  - Hye Sun Lee
+  - Colton Wright
+  - Julia Ferranto
+  - Jessica Buttimer
+  - Clare E. Palmer
+  - Andrew E. Welchman
+  - Kathleen M. Mazor
+  - Kimberly A. Fisher
+  - David Smelson
+  - Laurel O’Connor
+  - Nisha Fahey
+  - Apurv Soni
+year: 2025
+venue: Frontiers in Psychiatry
+doi: 10.3389/fpsyt.2024.1505024
+url: https://doi.org/10.3389/fpsyt.2024.1505024
+abstract: "Background: Digital mental health interventions, such as artificial intelligence (AI) conversational agents, hold promise for improving access to care by innovating therapy and supporting delivery. However, little research exists on patient perspectives regarding AI conversational agents, which is crucial for their successful implementation. This study aimed to fill the gap by exploring patients' perceptions and acceptability of AI conversational agents in mental healthcare. Methods: Adults with self-reported mild to moderate anxiety were recruited from the UMass Memorial Health system. Participants engaged in semi-structured interviews to discuss their experiences, perceptions, and acceptability of AI conversational agents in mental healthcare. Anxiety levels were assessed using the Generalized Anxiety Disorder scale. Data were collected from December 2022 to February 2023, and three researchers conducted rapid qualitative analysis to identify and synthesize themes. Results: The sample included 29 adults (ages 19-66), predominantly under age 35, non-Hispanic, White, and female. Participants reported a range of positive and negative experiences with AI conversational agents. Most held positive attitudes towards AI conversational agents, appreciating their utility and potential to increase access to care, yet some also expressed cautious optimism. About half endorsed negative opinions, citing AI's lack of empathy, technical limitations in addressing complex mental health situations, and data privacy concerns. Most participants desired some human involvement in AI-driven therapy and expressed concern about the risk of AI conversational agents being seen as replacements for therapy. A subgroup preferred AI conversational agents for administrative tasks rather than care provision. Conclusions: AI conversational agents were perceived as useful and beneficial for increasing access to care, but concerns about AI's empathy, capabilities, safety, and human involvement in mental healthcare were prevalent. Future implementation and integration of AI conversational agents should consider patient perspectives to enhance their acceptability and effectiveness."
+type: article
+open_access: true
+cited_by: 52
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.831
+score_parts:
+  rank: 0.5
+  citations: 0.431
+  recency: 0.9
+needs_approval: false
+state: candidate

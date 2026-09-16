@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-615480476e
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3390/app16157662
+title: "Balancing Security and Performance in LLM Agents: Spotlight-Guard, a Layered Defense Against Indirect Prompt Injection"
+authors:
+  - Doygun Demirol
+  - Murat Aydogan
+year: 2026
+venue: Applied Sciences
+doi: 10.3390/app16157662
+url: https://doi.org/10.3390/app16157662
+abstract: "Large Language Model (LLM)-based agents automate complex tasks by integrating external tools such as web browsers, e-mail clients, file readers, and APIs, but this same integration exposes them to indirect prompt injection (IPI) attacks, in which malicious instructions hidden in tool content hijack the agent. A central but often overlooked question is how defending against such attacks affects the LLM and its own task performance and computational efficiency. In this study, we design a comprehensive testbed and a layered defense, Spotlight-Guard, that combines spotlighting-based input isolation, an LLM detection-and-quarantine pipeline, and instruction integrity based on a Hash-based Message Authentication Code (HMAC) into a single framework, and we evaluate it jointly along two axes: security and LLM performance. Experiments on locally hosted 7B-class open-weight models (Qwen-2.5-7B, Mistral-7B, and DeepSeek-Coder) use Attack Success Rate (ASR) for security and benign-task success rate together with confusion-matrix-based metrics (precision, recall, and F1) for task performance, all with bootstrap 95% confidence intervals. Across a stratified, fixed-seed benchmark of 250 adversarial and 250 benign cases per configuration, the full system reduces the ASR from 36.0% to 17.2% while preserving a 97.2% benign-task success rate and raising the detection F1 from 0.749 to 0.892, demonstrating that strong protection need not degrade the model’s task performance. A component ablation isolates each layer’s contribution, an adaptive-attack evaluation confirms a low ASR (6.7%) under attacks crafted to target the pipeline, and an analysis of computational cost (model invocations per request) quantifies the efficiency overhead, characterizing the security–performance trade-off of layered defenses on open-weight LLMs."
+type: article
+open_access: null
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.043
+score_parts:
+  rank: 0.043
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

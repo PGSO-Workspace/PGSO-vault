@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-ceb49ad4cc
+created: 2026-09-16T05:40:55.781Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/public-voice-api-preflight-2026-09-15.json
+paths:
+  - sources/reports/public-voice-api-preflight-2026-09-15.json
+hash: ceb49ad4cc09d7db74320e263523e6c5632234f9ced75792799472e35811b956
+bytes: 612
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T16:31:49.757Z

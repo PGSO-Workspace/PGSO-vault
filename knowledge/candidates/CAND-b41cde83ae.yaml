@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b41cde83ae
+created: 2026-09-15T07:34:04.334Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0011797200003405
+title: "RPCDroid: Runtime Identification of Permission Usage Contexts in Android Applications"
+authors:
+  - Michele Guerra
+  - Roberto Milanese
+  - Rocco Oliveto
+  - Fausto Fasano
+year: 2023
+venue: Proceedings of the 9th International Conference on Information Systems Security and Privacy
+doi: 10.5220/0011797200003405
+url: https://doi.org/10.5220/0011797200003405
+abstract: null
+type: article
+open_access: null
+cited_by: 4
+query: 2024 2025 journal LLM agent tool permission authorization runtime enforcement security guardrails
+question: null
+search: SEARCH-b0fa183ef0
+score: 0.904
+score_parts:
+  rank: 0.029
+  citations: 0.175
+  recency: 0.7
+needs_approval: false
+state: candidate

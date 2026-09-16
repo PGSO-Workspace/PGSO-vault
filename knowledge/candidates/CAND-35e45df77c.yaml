@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-35e45df77c
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0012728500003711
+title: Uncertainty Estimation in Multi-Agent Distributed Learning for AI-Enabled Edge Devices
+authors:
+  - Gleb Radchenko
+  - Victoria Fill
+year: 2024
+venue: Proceedings of the 14th International Conference on Cloud Computing and Services Science
+doi: 10.5220/0012728500003711
+url: https://doi.org/10.5220/0012728500003711
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 0.911
+score_parts:
+  rank: 0.036
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0750d4c2df
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.22541/au.177403077.70686468/v1
+title: Emergent Cooperative Dynamics and Causal Treatment Effects in Large Language Model Multi-Agent Ecosystems
+authors:
+  - Vikas Ramachandra
+year: 2026
+venue: null
+doi: 10.22541/au.177403077.70686468/v1
+url: https://doi.org/10.22541/au.177403077.70686468/v1
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.028
+score_parts:
+  rank: 0.028
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

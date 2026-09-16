@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bef03f5635
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7310918
+title: "Who Governs Autonomous AI Execution? Execution Governance AI (EGA) V9: A Deterministic Runtime Governance Framework for Trustworthy Autonomous Workflows"
+authors:
+  - DaeJung Byun
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7310918
+url: https://doi.org/10.2139/ssrn.7310918
+abstract: As autonomous AI systems transition from language-generation tools to execution-driven agents, maintaining trustworthy runtime execution without sacrificing performance, operational cost, deployment simplicity, or security has become a fundamental engineering challenge. How can autonomous AI systems satisfy these requirements simultaneously without modifying existing AI applications or foundation models? Execution Governance AI (EGA) V9 addresses this challenge through a deterministic runtime-governance framework that combines deterministic replay, provenance-aware verification, trust-state evaluation, and fail-closed containment as a unified executiongovernance layer.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.25
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

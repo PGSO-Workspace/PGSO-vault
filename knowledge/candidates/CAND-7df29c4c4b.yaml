@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7df29c4c4b
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416307771
+title: "From Privacy Chains to ChainShield: Structured Privacy Risks and Defense in Vision-Language Models"
+authors:
+  - Minxing Liu
+  - Minh‐Ha Le
+  - Niklas Carlsson
+year: 2025
+venue: null
+doi: 10.1145/3733802.3764048
+url: https://doi.org/10.1145/3733802.3764048
+abstract: "Vision-Language Models (VLMs) are increasingly deployed in applications that interpret and generate information from visual and textual inputs. While powerful, these models pose emerging privacy risks. In this paper, we introduce the concept of privacy chains: structured narratives that emerge when adversaries aggregate outputs from VLMs across multiple images, often exposing sensitive information even when the individual outputs are seemingly innocuous. Using LangChain, an open-source orchestration framework, we show how identity-linked data extracted via both benign and targeted prompts can be compiled into detailed timelines of private behavior, significantly amplifying privacy threats. To systematically assess this risk, we develop a privacy leakage pipeline within the Visual Question Answering (VQA) framework and evaluate six open-source VLMs across three tailored datasets: Celebrity, Car, and Tattoo. Our analysis reveals substantial and model-dependent privacy leakage, even from general-purpose queries. To mitigate this threat, we propose ChainShield, a white-box adversarial defense that applies targeted, imperceptible perturbations to images. ChainShield reduces privacy-relevant outputs by redirecting VLM responses toward benign alternatives, while preserving image realism. Our experiments show that ChainShield substantially lowers privacy leakage across models and datasets, effectively disrupting the formation of privacy chains."
+type: other
+open_access: true
+cited_by: 1
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 1.034
+score_parts:
+  rank: 0.059
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

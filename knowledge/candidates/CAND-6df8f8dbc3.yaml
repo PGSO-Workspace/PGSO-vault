@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6df8f8dbc3
+created: 2026-09-15T00:31:11.443Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.36227/techrxiv.21252693.v1
+title: End-to-End Label Uncertainty Modeling in Speech Emotion Recognition using Bayesian Neural Networks and Label Distribution Learning
+authors:
+  - Navin Raj Prabhu
+  - Nale Lehmann-Willenbrock
+  - Timo Gerkmann
+year: 2022
+venue: null
+doi: 10.36227/techrxiv.21252693.v1
+url: https://doi.org/10.36227/techrxiv.21252693.v1
+abstract: To train machine learning algorithms to predict emotional expressions in terms of arousal and valence, annotated datasets are needed. However, as different people perceive others’ emotional expressions differently, their annotations are per se subjective. For this, annotations are typically collected from multiple annotators and averaged to obtain ground-truth labels. However, when exclusively trained on this averaged ground-truth, the trained network is agnostic to the inherent subjectivity in emotional expressions. In this work, we therefore propose an end-to-end Bayesian neural network capable of being trained on a distribution of labels to also capture the subjectivity-based label uncertainty. Instead of a Gaussian, we model the label distribution using Student’s t -distribution, which also accounts for the number of annotations. We derive the corresponding Kullback-Leibler divergence loss and use it to train an estimator for the distribution of labels, from which the mean and uncertainty can be inferred. We validate the proposed method using two in-the-wild datasets. We show that the proposed t -distribution based approach achieves state-of-the-art uncertainty modeling results in speech emotion recognition, and also consistent results in cross-corpora evaluations. Furthermore, analyses reveal that the advantage of a t -distribution over a Gaussian grows with increasing inter-annotator correlation and a decreasing number of annotators.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition"'
+question: null
+search: SEARCH-f9a249d1ae
+score: 0.656
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 0.6
+needs_approval: true
+state: candidate

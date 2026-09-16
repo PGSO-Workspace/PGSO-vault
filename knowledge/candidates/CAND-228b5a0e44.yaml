@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-228b5a0e44
+created: 2026-09-15T00:31:11.443Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.specom.2023.102974
+title: "Speech emotion recognition approaches: A systematic review"
+authors:
+  - Ahlam Hashem
+  - Muhammad Arif
+  - Manal Alghamdi
+year: 2023
+venue: Speech Communication
+doi: 10.1016/j.specom.2023.102974
+url: https://doi.org/10.1016/j.specom.2023.102974
+abstract: null
+type: article
+open_access: null
+cited_by: 87
+query: '"Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition"'
+question: null
+search: SEARCH-f9a249d1ae
+score: 1.436
+score_parts:
+  rank: 0.25
+  citations: 0.486
+  recency: 0.7
+needs_approval: false
+state: candidate

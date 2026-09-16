@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f890566896
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/978-981-96-1313-7_8
+title: Multimodal Adaptive Behavior Generation During Human–Agent Interaction
+authors:
+  - Jieyeon Woo
+  - Catherine Achard
+  - Catherine Pelachaud
+year: 2025
+venue: Multimodal Interaction Technologies for Training Affective Social Skills
+doi: 10.1007/978-981-96-1313-7_8
+url: https://doi.org/10.1007/978-981-96-1313-7_8
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 0.94
+score_parts:
+  rank: 0.04
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-7228b1dd4b
+created: 2026-09-15T09:02:03.782Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/permission-packets-7a3f504/test_export_permission_packets.py
+paths:
+  - sources/software/pgso-sdk/permission-packets-7a3f504/test_export_permission_packets.py
+hash: 7228b1dd4bd7874ae627522c0296330aa5810c8ec85e46ec1bae54b171567604
+bytes: 5564
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T08:54:46.443Z

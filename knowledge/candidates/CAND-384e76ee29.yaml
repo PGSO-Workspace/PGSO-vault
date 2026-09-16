@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-384e76ee29
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-7665724/v1
+title: "Empirical Examination of Large Language Models in Regional Psychological Structures Simulation: Personality and Well-being"
+authors:
+  - Xing Zhou
+  - Jiahong Zheng
+year: 2025
+venue: null
+doi: 10.21203/rs.3.rs-7665724/v1
+url: https://doi.org/10.21203/rs.3.rs-7665724/v1
+abstract: Abstract The rapid advancement of large language models (LLMs) had opened new avenues for simulating psychological structures at the population level. This study compared the performance of Kimi-Chat v1.5 (a China-trained model) and GPT-4 (a globally trained model) in reproducing regional psychological profiles in China, focusing on the Big-Five personality traits and subjective well-being. By using the 2018 China Family Panel Studies (CFPS 2018) as the benchmark for real human data, we assessed the fidelity of both LLMs in capturing regional variations across seven major Chinese regions. Results indicated that Kimi-Chat v1.5 more accurately replicated human responses, particularly in regions with distinct cultural characteristics, while GPT-4 showed significant discrepancies, particularly in well-being and openness. Our findings emphasized the importance of training-corpus lineage and suggested that culturally adapted LLMs could be a useful tool in regional psychological research. We discussed the implications of these findings for future applications and highlighted the limitations of current LLM capabilities in simulating human psychological complexity.
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 0.931
+score_parts:
+  rank: 0.031
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

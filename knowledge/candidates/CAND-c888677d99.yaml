@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c888677d99
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3390/app15084256
+title: The Development of an Emotional Embodied Conversational Agent and the Evaluation of the Effect of Response Delay on User Impression
+authors:
+  - Simon Christophe Jolibois
+  - Akinori Ito
+  - Takashi Nose
+year: 2025
+venue: Applied Sciences
+doi: 10.3390/app15084256
+url: https://doi.org/10.3390/app15084256
+abstract: Embodied conversational agents (ECAs) are autonomous interaction interfaces designed to communicate with humans. This study investigates the impact of response delays and emotional facial expressions of ECAs on user perception and engagement. The motivation for this study stems from the growing integration of ECAs in various sectors, where their ability to mimic human-like interactions significantly enhances user experience. To this end, we developed an ECA with multimodal emotion recognition, both with voice and facial feature recognition and emotional facial expressions of the agent avatar. The system generates answers in real time based on media content. The development was supported by a case study of artwork images with the agent playing the role of a museum curator, where the user asks the agent for information on the artwork. We evaluated the developed system in two aspects. First, we investigated how the delay in an agent’s responses influences user satisfaction and perception. Secondly, we explored the role of emotion in an ECA’s face in shaping the user’s perception of responsiveness. The results showed that the longer response delay negatively impacted the user’s perception of responsiveness when the ECA did not express emotion, while the emotional expression improved the responsiveness perception.
+type: article
+open_access: null
+cited_by: 9
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 1.233
+score_parts:
+  rank: 0.083
+  citations: 0.25
+  recency: 0.9
+needs_approval: false
+state: candidate

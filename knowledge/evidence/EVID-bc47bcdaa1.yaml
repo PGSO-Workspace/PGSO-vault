@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-bc47bcdaa1
+created: 2026-09-15T01:18:10.534Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-35dda711a9
+locator: "Publisher PDF: abstract, methodology, multimodal feature extraction and fusion, emotion embeddings, response generation, datasets, results and ablation, conclusion"
+excerpt: "Research paraphrase, not quotation: An end-to-end learned path extracts text/audio/video features, fuses them with self/cross attention, produces emotion embeddings, and conditions a Transformer decoder to generate an emotionally aware response. This is a direct multimodal perception-to-response comparator. Limits: ['Benchmark-trained generator evaluated on IEMOCAP and MELD; this does not establish online conversational deployment.', 'No confidence abstention, speaker baseline, hysteresis/recovery, tool permissions, protected actions, dispatch enforcement or audit.', 'Much of the novelty and evaluation combines emotion extraction and text generation, so compare only the perception-to-response path, not PGSO governance claims.', 'Publisher page states user satisfaction/session-duration conclusions, but the inspected methods/results focus on benchmark metrics; treat real-user utility as insufficiently substantiated unless its study design is independently located.']"
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-7b2cea75bc

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-14996955a8
+created: 2026-09-15T08:27:35.758Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7202265572
+title: "Designing System Cognition Intelligent Scaffolding: Guiding Practitioners' Cognitive Processing in System Tasks"
+authors:
+  - Shuyao He
+  - Juanqiong Gou
+  - Jiandong Lu
+  - Zuopeng Zhang
+  - Yuhang Xu
+year: 2026
+venue: Systems Research and Behavioral Science
+doi: 10.1002/sres.70133
+url: https://doi.org/10.1002/sres.70133
+abstract: ABSTRACT Many outputs of knowledge transfer and system project learning remain ‘messages in bottles’ because practitioners lack system cognition, which enables information to be acquired, processed and applied within specific system contexts. This has led to increased attention to routines and tools that support practitioners' cognitive processing in system tasks, particularly as artificial intelligence has advanced. However, most existing approaches provide either fragmented cues or solution‐oriented outputs and still lack process‐oriented, structured guidance for system cognitive processing. This study investigates how to design intelligent tools that provide structured guidance for practitioners' system cognitive processing. Employing the design science research (DSR) approach, the study draws on the concept of scaffolding from the education domain and combines it with cognition‐inspired modelling to propose an intelligent scaffolding design method for system cognitive processing. The approach comprises a system scaffolding structure model and an intelligent scaffolding enactment process. Based on this design knowledge, expert cognitive modelling outputs are used as prompts in large language models to build AI agents, which are then embedded in a prototype system to realize agent‐based scaffolding. The evaluation in a software implementation firm provided preliminary evidence of structured system cognitive processing, complete and professional task outputs and favourable efficiency ratings during intelligent scaffolding use. This study deepens our understanding of how intelligent tools can guide cognitive processing in system tasks by applying scaffolding concepts. It contributes design knowledge to structurally guide system cognitive processing and offers organizations a systematic approach to embedding intelligent scaffolding into system task routines.
+type: article
+open_access: true
+cited_by: 0
+query: 10.1080/0960085X.2026.2627280 MEDS Methodology for Evaluation in Design Science
+question: null
+search: SEARCH-6539f3f4d3
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

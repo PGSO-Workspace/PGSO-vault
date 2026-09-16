@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-76a245f44a
+created: 2026-09-15T00:31:14.448Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icassp55912.2026.11464043
+title: Prior-Calibrated Long-Tailed Recognition via Perturbed Disentangled Logit Adjustment and Adaptive Mixup
+authors:
+  - Jingxin Han
+  - Zhixin Zhuang
+  - Ke Wang
+  - Weilong Liu
+  - Chengfan Li
+year: 2026
+venue: ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+doi: 10.1109/icassp55912.2026.11464043
+url: https://doi.org/10.1109/icassp55912.2026.11464043
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets"'
+question: null
+search: SEARCH-023614a12f
+score: 1.091
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9edacdf5d8
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7122474383
+title: "Foundation Models in Software Engineering: A Taxonomy, Systematic Review, and In-Depth Analysis of Testing Support"
+authors:
+  - Shadi Banitaan
+  - Mohammad Daoud
+  - Hebah Alquran
+  - Mohammad A. Akour
+year: 2026
+venue: Information
+doi: 10.3390/info17010073
+url: https://doi.org/10.3390/info17010073
+abstract: Foundation models are increasingly influencing software engineering research and practice, yet their adoption across the software development life cycle remains uneven and insufficiently characterized. This paper presents a systematic review of 224 recent studies investigating the application of foundation models to software engineering tasks. We introduce a two-dimensional taxonomy that systematically links software engineering life cycle phases with the foundation model capabilities employed, offering a unified view of current research practices. Our analysis reveals that existing work is heavily concentrated on implementation and testing activities, while earlier phases such as requirements engineering and architectural design, and process-oriented tasks, receive comparatively limited attention. Focusing on testing and quality assurance, we synthesize evidence across eight task categories, highlighting both demonstrated benefits and recurring challenges. This review is limited to peer-reviewed studies published between 2023 and 2025 and does not introduce new empirical models, focusing instead on synthesizing existing evidence. Overall, this review clarifies the current landscape of foundation model usage in software engineering and outlines actionable directions for future research and responsible adoption.
+type: other
+open_access: true
+cited_by: 2
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.172
+score_parts:
+  rank: 0.053
+  citations: 0.119
+  recency: 1
+needs_approval: false
+state: candidate

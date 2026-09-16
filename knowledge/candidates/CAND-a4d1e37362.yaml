@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a4d1e37362
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2022.3205919
+title: The Acoustically Emotion-Aware Conversational Agent With Speech Emotion Recognition and Empathetic Responses
+authors:
+  - Jiaxiong Hu
+  - Yun Huang
+  - Xiaozhu Hu
+  - Yingqing Xu
+year: 2023
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2022.3205919
+url: https://doi.org/10.1109/taffc.2022.3205919
+abstract: null
+type: article
+open_access: null
+cited_by: 55
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.174
+score_parts:
+  rank: 0.037
+  citations: 0.437
+  recency: 0.7
+needs_approval: false
+state: candidate

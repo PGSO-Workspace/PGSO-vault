@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-137b22cbac
+created: 2026-09-15T01:09:16.222Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6172999
+title: "Taming Tail Risk in Financial Markets: Conformal Risk Control for Nonstationary Portfolio VaR"
+authors:
+  - Marc Schmitt
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6172999
+url: https://doi.org/10.2139/ssrn.6172999
+abstract: Risk forecasts drive trading constraints and capital allocation, yet losses are nonstationary and regime-dependent. This paper studies sequential one-sided VaR control via conformal calibration. I propose regime-weighted conformal risk control (RWC), which calibrates a safety buffer from past forecast errors using exponential time decay and regime-similarity weights from regime features. RWC is model-agnostic and wraps any conditional quantile forecaster to target a desired exceedance rate. Finite-sample coverage is established under weighted exchangeability, and approximation bounds are derived under smoothly drifting regimes. On the CRSP U.S. equity portfolio, time-weighted conformal calibration is a strong default under drift, while regime weighting can improve regime-conditional stability in some settings with modest conservativeness changes.
+type: preprint
+open_access: null
+cited_by: 1
+query: selective classification conformal risk control runtime safety
+question: null
+search: SEARCH-54176eb439
+score: 1.242
+score_parts:
+  rank: 0.167
+  citations: 0.075
+  recency: 1
+needs_approval: true
+state: candidate

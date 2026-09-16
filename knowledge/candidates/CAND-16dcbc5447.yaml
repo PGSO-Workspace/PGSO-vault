@@ -1,0 +1,43 @@
+schema: phdude.candidate
+version: 1
+id: CAND-16dcbc5447
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7151473412
+title: "Foundation Models for Autonomous Driving Systems: An Initial Roadmap"
+authors:
+  - Xiongfei Wu
+  - Mingfei Cheng
+  - Xiaoning Ren
+  - Qiang Hu
+  - Jianlang Chen
+  - Yuheng Huang
+  - Maxime Cordy
+  - Yao Zhang
+  - Xiaofei Xie
+  - Lei Ma
+  - Yves Le Traon
+year: 2026
+venue: ACM Transactions on Software Engineering and Methodology
+doi: 10.1145/3807455
+url: https://doi.org/10.1145/3807455
+abstract: "Recent advances in foundation models (FMs), including large language models (LLMs), vision-language models (VLMs), and world models, have opened new opportunities for autonomous driving systems (ADSs) in perception, reasoning, decision-making, and interaction. However, ADSs are safety-critical cyber-physical systems, and integrating FMs into them raises substantial software engineering challenges in data curation, system design, deployment, evaluation, and assurance. To clarify this rapidly evolving landscape, we present an initial roadmap, grounded in a structured literature review, for integrating FMs into autonomous driving across three dimensions: FM infrastructure, in-vehicle integration, and practical deployment. For each dimension, we summarize the state of the art, identify key challenges, and highlight open research opportunities. Based on this analysis, we outline research directions for building reliable, safe, and trustworthy FM-enabled ADSs."
+type: article
+open_access: true
+cited_by: 1
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.166
+score_parts:
+  rank: 0.091
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

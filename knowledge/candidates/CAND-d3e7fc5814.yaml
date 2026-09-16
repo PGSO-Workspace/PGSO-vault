@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d3e7fc5814
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18502/cbj.v4i1.16221
+title: Mid-term results of percutaneous transmitral commissurotomy (PTMC) in central iran
+authors:
+  - Abbas Andishmand
+  - Hossein Montazer Ghaem
+  - Somayeh Fallahzadeh
+  - Mojtaba Andishmand
+  - Hasan Haghaninejad
+  - Faezeh Dehghani-Tafti
+  - Mahdiah Namayandah
+  - Hossein Nough
+year: 2024
+venue: Cardiovascular Biomedicine Journal
+doi: 10.18502/cbj.v4i1.16221
+url: https://doi.org/10.18502/cbj.v4i1.16221
+abstract: "Objectives: Percutaneous Trans-Mitral Commissurotomy (PTMC) is an effective non-surgical treatment in patients with severe rheumatic mitral valve stenosis. This study aimed to evaluate the mid-term results of this procedure in central Iran. Methods: This retrospective study was performed on 101 patients with severe mitral valve stenosis who underwent successful PTMC from March 2011 to September 2018 in Afshar Hospital in Yazd. At follow-up, all patients underwent clinical examination, two-dimensional and color Doppler echocardiography, and events were recorded. Data were analyzed using SPSS software version 19. Results: The mean age of the patients was 44.79± 11.72 years, and 83.3% were female. The mean follow-up time was 38.98 23.33 months (6-94 months).25.8% had AF rhythm, and 12% had previous PTMC or OMVC or CMVC. After percutaneous Trans-Mitral Commissurotomy, 97% of patients were in NYHA functional class I, II and the mitral valve area (MVA) increased from 0.92 ± 0.18 to 1.66± 0.29 cm2 (p<0.0001). Pulmonary artery systolic pressure decreased from 46.96± 18.56 mmHg to 38.43±14.02 mmHg (p<0.0001). The Mean mitral valve gradient decreased from 12.37± 3.99 mmHg to 4.79± 2.38 mmHg (p<0.0001). Restenosis rate and severe mitral regurgitation resulting in mitral valve replacement (MVR) were 10.9% and 2%, respectively. Two patients died because of intracranial hemorrhage (ICH). During the follow-up event, free survival was 82.2%. Multivariable analysis revealed that the predictors of shorter event-free survival were AF rhythm (HR; 4.5, 95%CI;1.59-12.9, P=0.005) and post PTMC higher NYHA functional class (HR;2.2, CI;1-4.8,p=0.049). Conclusions: Mid-term results of percutaneous transmitral commissurotomy (PTMC) in central Iran are the same as in other parts of the world. This procedure is an effective and low-risk treatment for severe mitral valve stenosis."
+type: article
+open_access: null
+cited_by: 0
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 1.133
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

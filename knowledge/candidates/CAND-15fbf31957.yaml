@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-15fbf31957
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1002/9781394430925.ch3
+title: The Authority‐Centered Enforcement Framework
+authors: []
+year: 2026
+venue: The Insider You Built
+doi: 10.1002/9781394430925.ch3
+url: https://doi.org/10.1002/9781394430925.ch3
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.125
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

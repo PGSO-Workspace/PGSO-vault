@@ -1,0 +1,44 @@
+schema: phdude.candidate
+version: 1
+id: CAND-60892ae9c4
+created: 2026-09-15T07:51:13.215Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411119608
+title: Simulating Classroom Education with LLM-Empowered Agents
+authors:
+  - Zheyuan Zhang
+  - Daniel Zhang-Li
+  - Jifan Yu
+  - Linlu Gong
+  - Jinchang Zhou
+  - Zhanxin Hao
+  - Jianxiao Jiang
+  - Jie Cao
+  - Huiqin Liu
+  - Zhiyuan Liu
+  - Lei Hou
+  - Juanzi Li
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.naacl-long.520
+url: https://doi.org/10.18653/v1/2025.naacl-long.520
+abstract: "Zheyuan Zhang, Daniel Zhang-Li, Jifan Yu, Linlu Gong, Jinchang Zhou, Zhanxin Hao, Jianxiao Jiang, Jie Cao, Huiqin Liu, Zhiyuan Liu, Lei Hou, Juanzi Li. Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers). 2025."
+type: other
+open_access: true
+cited_by: 44
+query: '"dynamic tool retrieval LLM agent journal 2024 2025'
+question: null
+search: SEARCH-da10c5ec54
+score: 1.413
+score_parts:
+  rank: 0.1
+  citations: 0.413
+  recency: 0.9
+needs_approval: false
+state: candidate

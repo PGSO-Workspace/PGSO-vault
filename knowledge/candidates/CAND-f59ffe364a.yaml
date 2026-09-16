@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f59ffe364a
+created: 2026-09-14T23:44:46.279Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0014699200004070
+title: Designing Guardrails to Align LLM-Generated Social Scenarios with the Needs of Autistic Learners
+authors:
+  - Mahmoud Elbattah
+  - Federica Cilia
+year: 2026
+venue: Proceedings of the 19th International Joint Conference on Biomedical Engineering Systems and Technologies
+doi: 10.5220/0014699200004070
+url: https://doi.org/10.5220/0014699200004070
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Safety Guardrails for LLM-Enabled Robots" code GitHub'
+question: null
+search: SEARCH-babb92a8ed
+score: 1.063
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

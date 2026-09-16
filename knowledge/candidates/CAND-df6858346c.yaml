@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-df6858346c
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410049808
+title: "'It was 80% me, 20% AI': Seeking Authenticity in Co-Writing with Large Language Models"
+authors:
+  - Angel Hsing‐Chi Hwang
+  - Q. Vera Liao
+  - Su Lin Blodgett
+  - Alexandra Olteanu
+  - Adam Trischler
+year: 2025
+venue: Proceedings of the ACM on Human-Computer Interaction
+doi: 10.1145/3711020
+url: https://doi.org/10.1145/3711020
+abstract: Given the rising proliferation and diversity of AI writing assistance tools, especially those powered by large language models (LLMs), both writers and readers may have concerns about the impact of these tools on the authenticity of writing work. We examine whether and how writers want to preserve their authentic voice when co-writing with AI tools and whether personalization of AI writing support could help achieve this goal. We conducted semi-structured interviews with 19 professional writers, during which they co-wrote with both personalized and non-personalized AI writing-support tools. We supplemented writers' perspectives with opinions from 30 avid readers about the written work co-produced with AI collected through an online survey. Our findings illuminate conceptions of authenticity in human-AI co-creation, which focus more on the process and experience of constructing creators' authentic selves. While writers reacted positively to personalized AI writing tools, they believed the form of personalization needs to target writers' growth and go beyond the phase of text production. Overall, readers' responses showed less concern about human-AI co-writing. Readers could not distinguish AI-assisted work, personalized or not, from writers' solo-written work and showed positive attitudes toward writers experimenting with new technology for creative writing.
+type: article
+open_access: true
+cited_by: 34
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.429
+score_parts:
+  rank: 0.143
+  citations: 0.386
+  recency: 0.9
+needs_approval: false
+state: candidate

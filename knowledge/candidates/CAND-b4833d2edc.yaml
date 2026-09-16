@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b4833d2edc
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.23919/ccc64809.2025.11179498
+title: "Driver-Guide: A Multimodal Large Language Model-Based Agent for Driving Scene Understanding"
+authors:
+  - Yabing Ran
+  - Bingzhao Gao
+  - Qiankun Yu
+year: 2025
+venue: 2025 44th Chinese Control Conference (CCC)
+doi: 10.23919/ccc64809.2025.11179498
+url: https://doi.org/10.23919/ccc64809.2025.11179498
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 1.007
+score_parts:
+  rank: 0.032
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6995b98017
+created: 2026-09-15T00:31:18.055Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.51483/ijaiml.6.9s.2026.1383-1396
+title: "Leakage-Aware Multimodal Speech Emotion Recognition For Indian English: Sentence-Level Shortcuts Sarcasm and Uncertainty-Aware Fusion"
+authors:
+  - Rajashree M Byalal
+  - Dr. Sunanda Das
+  - Dr. M Kumaresan
+year: 2026
+venue: International Journal of Artificial Intelligence and Machine Learning
+doi: 10.51483/ijaiml.6.9s.2026.1383-1396
+url: https://doi.org/10.51483/ijaiml.6.9s.2026.1383-1396
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition"'
+question: null
+search: SEARCH-40c323d84c
+score: 1.067
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

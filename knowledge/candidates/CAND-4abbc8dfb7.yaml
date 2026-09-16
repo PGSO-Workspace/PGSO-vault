@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4abbc8dfb7
+created: 2026-09-14T16:52:07.462Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2025.3629970
+title: "Describe Where You Are: Improving Noise-Robustness for Speech Emotion Recognition With Text Description of the Environment"
+authors:
+  - Seong-Gyun Leem
+  - Daniel Fulford
+  - Jukka-Pekka Onnela
+  - David Gard
+  - Carlos Busso
+year: 2026
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2025.3629970
+url: https://doi.org/10.1109/taffc.2025.3629970
+abstract: null
+type: article
+open_access: null
+cited_by: 3
+query: "Describe Where You Are: Improving Noise-Robustness for Speech Emotion Recognition"
+question: null
+search: SEARCH-424f281e90
+score: 2.151
+score_parts:
+  rank: 1
+  citations: 0.151
+  recency: 1
+needs_approval: false
+state: candidate

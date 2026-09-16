@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bdf1f23f46
+created: 2026-09-15T01:07:48.528Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4406879616
+title: Unmasking conversational bias in AI multiagent systems
+authors:
+  - Erica Coppolillo
+  - Giuseppe Manco
+  - Luca Maria Aiello
+year: 2026
+venue: PLoS ONE
+doi: 10.1371/journal.pone.0355458
+url: https://doi.org/10.1371/journal.pone.0355458
+abstract: Detecting biases in the outputs produced by generative models is essential to reduce the potential risks associated with their application in critical settings. However, the majority of existing methodologies for identifying biases in generated text consider the models in isolation, overlooking the contextual dynamics of multi-agent systems. In particular, biases emerging from interactions among conversational agents remain largely unexplored. To address this gap, we present a framework designed to quantify biases within multi-agent systems of conversational Large Language Models (LLMs). Our approach involves simulating small echo chambers, where pairs of LLMs, initialized with aligned perspectives on a polarizing topic, engage in discussions. Contrary to expectations, we observe significant shifts in the stance expressed in the generated messages, particularly within echo chambers where all agents initially express conservative viewpoints, in line with the well-documented political bias of many LLMs toward liberal positions. Crucially, the bias observed in the echo-chamber experiment remains undetected by current state-of-the-art bias detection methods that rely on questionnaires. This highlights a critical need for the development of a more sophisticated toolkit for bias detection and mitigation for AI multi-agent systems.
+type: article
+open_access: true
+cited_by: 2
+query: 10.1038/s42256-025-01115-6
+question: null
+search: SEARCH-770fd28165
+score: 1.286
+score_parts:
+  rank: 0.167
+  citations: 0.119
+  recency: 1
+needs_approval: false
+state: candidate

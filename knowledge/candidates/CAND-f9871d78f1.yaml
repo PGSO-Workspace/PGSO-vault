@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f9871d78f1
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.neunet.2025.108252
+title: "MEGE: A mixed emotion graph model for empathetic dialogue generation"
+authors:
+  - Deji Zhao
+  - Donghong Han
+  - Ye Yuan
+  - Bo Ning
+  - Yongxiang Li
+  - Zhongjiang He
+  - Chao Wang
+  - Shuangyong Song
+year: 2026
+venue: Neural Networks
+doi: 10.1016/j.neunet.2025.108252
+url: https://doi.org/10.1016/j.neunet.2025.108252
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 1.575
+score_parts:
+  rank: 0.5
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

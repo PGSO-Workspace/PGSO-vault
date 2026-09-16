@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f6760dc610
+created: 2026-09-15T07:48:25.542Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.32614/cran.package.zendown
+title: "zendown: Access Files from 'Zenodo' Deposits"
+authors:
+  - Raphael Saldanha
+year: 2024
+venue: "CRAN: Contributed Packages"
+doi: 10.32614/cran.package.zendown
+url: https://doi.org/10.32614/cran.package.zendown
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"zenodo.22296644" L-DREA'
+question: null
+search: SEARCH-78cd1e9416
+score: 0.925
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

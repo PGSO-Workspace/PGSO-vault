@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-631361a58a
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410069109
+title: "Ikigai and Career Choices in Hospitality and Tourism: A Study of Student Motivations Amidst Industry Disruptions"
+authors:
+  - Paula Tavares de Carvalho
+  - Ricardo Raimundo
+year: 2025
+venue: Tourism and Hospitality
+doi: 10.3390/tourhosp6020074
+url: https://doi.org/10.3390/tourhosp6020074
+abstract: This study explores the motivations of students pursuing a university degree in hospitality and tourism and their intention to build a career in the sector. The research focused on students and recent graduates (up to two years post-graduation) from two universities in Portugal’s largest cities, Lisbon and Oporto, offering Hotel/Tourism Management programs. A quantitative study was carried out, and out of 610 questionnaires distributed, 346 valid responses were analysed using the structural equation modelling technique. Findings indicate that personal motivations, as well as macro and micro perspectives, influence the decision to pursue a degree in hospitality and tourism. Younger individuals with no prior industry experience tend to have a more optimistic outlook compared to older students or those with work experience. A key challenge is sustaining this optimism throughout their careers, which can enhance job satisfaction and improve retention in a sector known for high turnover rates. Unlike previous studies, this research links students’ motivations to their “Ikigai”—the pursuit of purpose and fulfilment. The desire to create meaningful experiences for others adds another dimension to understanding students’ motivations, particularly when considering differences in age and work experience.
+type: article
+open_access: true
+cited_by: 6
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 1.361
+score_parts:
+  rank: 0.25
+  citations: 0.211
+  recency: 0.9
+needs_approval: false
+state: candidate

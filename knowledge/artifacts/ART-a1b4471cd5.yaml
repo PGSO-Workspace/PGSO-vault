@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-a1b4471cd5
+created: 2026-09-15T09:57:53.748Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/live-composite-19b5c58/regression-tests.log
+paths:
+  - sources/software/pgso-sdk/live-composite-19b5c58/regression-tests.log
+hash: a1b4471cd52380f62993833ae9f40cd60edb28296d2e602b0aeb3bcec212dc32
+bytes: 1410
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T09:57:53.533Z

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2a80660c6d
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icdsns65743.2025.11168669
+title: Online Learning Platform of Modern Chinese Course Based on Multimodal Emotion-Aware Adaptive Learning
+authors:
+  - Chengyan Yang
+year: 2025
+venue: 2025 3rd International Conference on Data Science and Network Security (ICDSNS)
+doi: 10.1109/icdsns65743.2025.11168669
+url: https://doi.org/10.1109/icdsns65743.2025.11168669
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 0.929
+score_parts:
+  rank: 0.029
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

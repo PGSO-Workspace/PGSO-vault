@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e135c73493
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392633894
+title: A Taxonomy of Robot Autonomy for Human-Robot Interaction
+authors:
+  - Suzie Kim
+  - Jacy Reese Anthis
+  - Sarah Sebo
+year: 2024
+venue: null
+doi: 10.1145/3610977.3634993
+url: https://doi.org/10.1145/3610977.3634993
+abstract: 'Robot autonomy is an influential and ubiquitous factor in human-robot interaction (HRI), but it is rarely discussed beyond a one-dimensional measure of the degree to which a robot operates without human intervention. As robots become more sophisticated, this simple view of autonomy could be expanded to capture the variety of autonomous behaviors robots can exhibit and to match the rich literature on human autonomy in philosophy, psychology, and other fields. In this paper, we conduct a systematic literature review of robot autonomy in HRI and integrate this with the broader literature into a taxonomy of six distinct forms of autonomy: those based on robot and human involvement at runtime (operational autonomy, intentional autonomy, shared autonomy), human involvement before runtime (non-deterministic autonomy), and expressions of autonomy at runtime (cognitive autonomy, physical autonomy). We discuss future considerations for autonomy in HRI that emerge from this study, including moral consequences, the idealization of "full" robot autonomy, and connections to agency and free will.'
+type: other
+open_access: true
+cited_by: 24
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.316
+score_parts:
+  rank: 0.167
+  citations: 0.349
+  recency: 0.8
+needs_approval: false
+state: candidate

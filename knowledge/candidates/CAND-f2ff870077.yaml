@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f2ff870077
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/iccect60629.2024.10545805
+title: Research on Development and Application of AI Agent for Travel Recommendation Driven by Large Language Model
+authors:
+  - Meirong Lin
+year: 2024
+venue: 2024 IEEE 2nd International Conference on Control, Electronics and Computer Technology (ICCECT)
+doi: 10.1109/iccect60629.2024.10545805
+url: https://doi.org/10.1109/iccect60629.2024.10545805
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 0.945
+score_parts:
+  rank: 0.026
+  citations: 0.119
+  recency: 0.8
+needs_approval: false
+state: candidate

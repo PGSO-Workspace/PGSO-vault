@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-287c494c67
+created: 2026-09-15T19:04:12.115Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-3c76439a29
+locator: Recorded outcomes; RESULT-67f69e86a3; DATASET-a22ff049d1; DATASET-0c7ae4f0fe
+excerpt: The original B0 development run retained two scored sessions (one success, one task failure) and one provider-rate infrastructure failure. The generic identity-resolution run retained three scored sessions (two successes, one task failure); its remaining failure included one wrong-line mutation. Descriptive development counts only.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-0acade2de7

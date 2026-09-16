@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-314bab63c2
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6315058
+title: "Default-No: Contract-Gated Execution as Structural Governance for Autonomous AI Agents"
+authors:
+  - Rob Stillwell
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6315058
+url: https://doi.org/10.2139/ssrn.6315058
+abstract: "Autonomous AI agents are being deployed in domains where their decisions carry legal, financial, and operational consequences. Every major deployment framework for these agents shares a structural deficiency: the system operates on a default-yes permission model. The agent decides, then acts, then logs. Guardrails intercept after the decision has been made. Audit trails reside in storage systems that the executing agent or its operators can modify. Knowledge access is filtered from results after the model has processed unauthorized content. When the system that produces a decision also controls the record of how that decision was made, trust is architecturally impossible regardless of the sophistication of the constraints applied. This paper presents contract-gated execution, a deterministic governance architecture in which no tool, API call, or external interaction can execute until all preconditions are independently verified against live system state. The architecture implements a default-no permission model: non-execution is the default state, and authorization must be explicitly constructed, registered, and satisfied at execution time against state managers that the execution engine cannot influence. Governance rules are implemented as frozen data structures that the runtime physically prevents from modification. Knowledge access operates through pre-restriction rather than postfiltering, ensuring that information outside an agent's authorized scope is never returned by the database, not merely hidden from the response. Audit records are written to append-only stores architecturally separated from execution authority. We present evidence from a production system operating 12,780 tools under contract governance across 10 autonomous agents organized into 3 organizational boards, with 352 venture profiles activated through the contract-gated pipeline. Promotion from staging to active status requires 100 or more executions, a 95% success rate, and 99% contract satisfaction. We argue that deterministic governance around probabilistic models is not a contradiction but an architectural necessity: the model suggests, the contract decides. This pattern is domain-agnostic and provides a structural foundation for compliance with the NIST AI Risk Management Framework, the EU AI Act, and IEEE P2863."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.067
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2586406704
+created: 2026-09-14T16:52:27.131Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1002/9781394367023.ch06
+title: "Main Elements of Large‐scale Foundation Models: Theoretical Backgrounds"
+authors: []
+year: 2025
+venue: Prognostics and Health Management in Energy and Power Systems
+doi: 10.1002/9781394367023.ch06
+url: https://doi.org/10.1002/9781394367023.ch06
+abstract: null
+type: other
+open_access: null
+cited_by: 1
+query: A Large-Scale Evaluation of Speech Foundation Models
+question: null
+search: SEARCH-eb79d13f98
+score: 1.475
+score_parts:
+  rank: 0.5
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ea66b6bec2
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7203762321
+title: "Silicon Samples: A Review and Outlook on Large Language Models Simulating Human Respondents"
+authors:
+  - Yuyi Zhang
+year: 2026
+venue: Journal of Artificial Intelligence Practice
+doi: 10.23977/jaip.2026.090119
+url: https://doi.org/10.23977/jaip.2026.090119
+abstract: "The use of large language models (LLMs) to simulate human respondents (silicon samples), as an emerging research topic, is attracting growing scholarly attention. By reviewing 25 representative studies from both domestic and international literature, this paper offers a definition of LLM-based simulation of human samples and examines its foundations, characteristics, and purposes. It summarizes the applications of this method across four major domains—psychometrics and machine psychology, consumer and market research, experimental simulation and digital twin construction, and the simulation of political opinion and social sentiment. It further reviews the existing evidence regarding the method's validity, along with the attendant debates, along three dimensions: psychometric validity, group fidelity and context dependence, and ethical and epistemic justice risks. Finally, the paper synthesizes a research framework for LLM-based simulation of human samples and discusses future research directions, with the aim of providing a reference for research and applied practice in this field."
+type: article
+open_access: true
+cited_by: 0
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 1.2
+score_parts:
+  rank: 0.2
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

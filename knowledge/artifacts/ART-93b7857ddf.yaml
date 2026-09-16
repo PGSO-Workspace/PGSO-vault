@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-93b7857ddf
+created: 2026-09-13T06:59:21.849Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/1b17c248d360/crates/pgso-signal-egemaps/src/lib.rs.txt
+paths:
+  - sources/software/pgso-sdk/1b17c248d360/crates/pgso-signal-egemaps/src/lib.rs.txt
+hash: 93b7857ddf6c3edbec2730e589f6acefe472860a982e9f83cb145312dd3e1f69
+bytes: 12040
+mime: text/plain
+kind: txt
+role: notes
+extracted:
+  status: ok
+  method: text
+  text_chars: 12031
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:59:21.632Z
+versions_of: ART-db3f9dd6b5
+latest: true

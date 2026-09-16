@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9d2fdc4611
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410188253
+title: "Large Language Models in Medicine: Clinical Applications, Technical Challenges, and Ethical Considerations"
+authors:
+  - Kyu-Hwan Jung
+year: 2025
+venue: Healthcare Informatics Research
+doi: 10.4258/hir.2025.31.2.114
+url: https://doi.org/10.4258/hir.2025.31.2.114
+abstract: "OBJECTIVES: This study presents a comprehensive review of the clinical applications, technical challenges, and ethical considerations associated with using large language models (LLMs) in medicine. METHODS: A literature survey of peer-reviewed articles, technical reports, and expert commentary from relevant medical and artificial intelligence journals was conducted. Key clinical application areas, technical limitations (e.g., accuracy, validation, transparency), and ethical issues (e.g., bias, safety, accountability, privacy) were identified and analyzed. RESULTS: LLMs have potential in clinical documentation assistance, decision support, patient communication, and workflow optimization. The level of supporting evidence varies; documentation support applications are relatively mature, whereas autonomous diagnostics continue to face notable limitations regarding accuracy and validation. Key technical challenges include model hallucination, lack of robust clinical validation, integration issues, and limited transparency. Ethical concerns involve algorithmic bias risking health inequities, threats to patient safety from inaccuracies, unclear accountability, data privacy, and impacts on clinician-patient interactions. CONCLUSIONS: LLMs possess transformative potential for clinical medicine, particularly by augmenting clinician capabilities. However, substantial technical and ethical hurdles necessitate rigorous research, validation, clearly defined guidelines, and human oversight. Existing evidence supports an assistive rather than autonomous role, mandating careful, evidence-based integration that prioritizes patient safety and equity."
+type: article
+open_access: true
+cited_by: 60
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 1.457
+score_parts:
+  rank: 0.111
+  citations: 0.446
+  recency: 0.9
+needs_approval: false
+state: candidate

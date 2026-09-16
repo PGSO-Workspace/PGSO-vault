@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5256d93733
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6512098
+title: Pre-Execution Control Planes for AI and Software Supply Chains A Deterministic Approach to Admissibility Enforcement
+authors:
+  - Skip Middleton
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6512098
+url: https://doi.org/10.2139/ssrn.6512098
+abstract: "Modern systems increasingly convert external input into execution. Large language models generate actions, software supply chains deliver code, and automation frameworks translate both into system changes. Current defenses focus on detection, trust models, and post-execution containment. These approaches do not address the core failure mode: execution is granted implicitly. This paper presents a control-plane architecture that enforces admissibility before execution. Using IVD-ACP (Invariant Vector Defense, Admissibility Control Plane) as a reference implementation, it demonstrates how all inputs, including AI-generated actions and software dependencies, can be intercepted, evaluated, and assigned bounded authority prior to execution. A validation using a live agent environment is presented, along with direct application to recent supply chain security events including the Axios npm compromise."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

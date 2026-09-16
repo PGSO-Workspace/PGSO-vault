@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e8b9c76350
+created: 2026-09-15T07:38:48.880Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.66709/news-263956
+title: 10 notable books on conservation and the environment published in 2022
+authors:
+  - John Cannon
+year: 2022
+venue: null
+doi: 10.66709/news-263956
+url: https://doi.org/10.66709/news-263956
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"10.1145/3814959" published'
+question: null
+search: SEARCH-76dea7765d
+score: 0.663
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 0.6
+needs_approval: true
+state: candidate

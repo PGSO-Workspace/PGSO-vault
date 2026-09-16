@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4af943e9a4
+created: 2026-09-14T23:47:47.446Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/asens69964.2026.11605180
+title: Localized Diffusion Repair for Reliable Tool-Using LLM Agents
+authors:
+  - Xinfang Wang
+  - Fangzheng Wei
+  - Siqi Yang
+  - Yili Li
+  - Jin Wu
+  - Jia Chen
+year: 2026
+venue: 2026 3rd International Conference on Algorithms, Software Engineering and Network Security (ASENS)
+doi: 10.1109/asens69964.2026.11605180
+url: https://doi.org/10.1109/asens69964.2026.11605180
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"AgentDojo" tool agents security'
+question: null
+search: SEARCH-95d8fe4170
+score: 1.053
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

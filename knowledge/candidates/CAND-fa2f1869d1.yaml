@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-fa2f1869d1
+created: 2026-09-15T06:32:59.436Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2026.eacl-long.62
+title: "Deconstructing Instruction-Following: A New Benchmark for Granular Evaluation of Large Language Model Instruction Compliance Abilities"
+authors:
+  - Alberto Purpura
+  - Li Wang
+  - Sahil Badyal
+  - Gene Beaufrand
+  - Adam Faulkner
+year: 2026
+venue: "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)"
+doi: 10.18653/v1/2026.eacl-long.62
+url: https://doi.org/10.18653/v1/2026.eacl-long.62
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: speech language model evaluation paralinguistic benchmark instruction following
+question: null
+search: SEARCH-463495b5f3
+score: 1.111
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

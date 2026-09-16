@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-452601cb44
+created: 2026-09-15T08:10:36.723Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/978-1-4419-5653-8_15
+title: "Design Science Research in Information Systems: A Critical Realist Approach"
+authors:
+  - Sven A. Carlsson
+year: 2010
+venue: Integrated Series in Information Systems
+doi: 10.1007/978-1-4419-5653-8_15
+url: https://doi.org/10.1007/978-1-4419-5653-8_15
+abstract: null
+type: chapter
+open_access: null
+cited_by: 32
+query: '"Design Science in Information Systems Research"'
+question: null
+search: SEARCH-e78eb7cdff
+score: 0.443
+score_parts:
+  rank: 0.063
+  citations: 0.38
+  recency: 0
+needs_approval: false
+state: candidate

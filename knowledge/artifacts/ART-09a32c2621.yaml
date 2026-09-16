@@ -1,0 +1,26 @@
+schema: phdude.artifact
+version: 1
+id: ART-09a32c2621
+created: 2026-09-15T08:40:16.402Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/step-up-1a9f60c/test-run.log
+paths:
+  - sources/software/pgso-sdk/step-up-1a9f60c/test-run.log
+hash: 09a32c26216cc839ff7e2fc4a32eee8a0b859a7088012cf18c9da546edba3dd4
+bytes: 1503
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T08:40:16.191Z
+versions_of: ART-d2b027525f
+latest: false

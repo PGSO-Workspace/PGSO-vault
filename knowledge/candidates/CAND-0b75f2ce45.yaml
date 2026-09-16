@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0b75f2ce45
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4406754779
+title: "Exploring LLMs Applications in Law: A Literature Review on Current Legal NLP Approaches"
+authors:
+  - Marco Siino
+  - Mariana Falco
+  - Daniele Croce
+  - Paolo Rosso
+year: 2025
+venue: IEEE Access
+doi: 10.1109/access.2025.3533217
+url: https://doi.org/10.1109/access.2025.3533217
+abstract: Artificial Intelligence (AI) is reshaping the legal landscape, with software tools now impacting various aspects of legal work. The intersection of Natural Language Processing (NLP) and law holds potential to transform how legal professionals, including lawyers and judges, operate, resolve disputes, and retrieve case information to formulate their decisions. To identify the current state of the applications of Transformers (also known as Large Language Models or LLMs) in the legal domain, we analysed the existing literature from 2017 to 2023 through a database search and snowballing method. From 61 selected publications, we identified key application categories such as legal document analysis, case prediction, and contract review, along with their main characteristics. We observed a discernible upsurge in the volume of scholarly publications, a diversification of tasks undertaken (e.g., legal research, contract analysis, and regulatory compliance), and an increased range of languages considered. There has been a notable enhancement in the methodological sophistication employed by researchers in practical applications. The performance of models grounded in the Generative Pre-trained Transformer (GPT) architecture has consistently improved across various legal domains, including contract review, legal document summarization, and case outcome prediction. This paper makes several significant contributions to the field. Firstly, it identifies emerging trends in the application of LLMs within the legal domain, highlighting the growing interest and investment in this area. Secondly, it pinpoints methodological gaps in current research, suggesting areas where further development and refinement are needed. Lastly, it discusses the broader implications of these advancements for real-world legal tasks, offering insights into how LLM-based AI can enhance legal practice while addressing the associated challenges.
+type: article
+open_access: true
+cited_by: 100
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.526
+score_parts:
+  rank: 0.125
+  citations: 0.501
+  recency: 0.9
+needs_approval: false
+state: candidate

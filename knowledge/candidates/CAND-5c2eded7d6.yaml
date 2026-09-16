@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5c2eded7d6
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1177/19485506261415952
+title: "The Relational Nature of Punishment: Responses to Close Versus Distant Others’ Moral Transgressions"
+authors:
+  - Beyza Tepe
+  - Nadira S. Faber
+year: 2026
+venue: Social Psychological and Personality Science
+doi: 10.1177/19485506261415952
+url: https://doi.org/10.1177/19485506261415952
+abstract: "How do people respond when a close other, as opposed to a distant other, commits a moral transgression against a third person? Across five preregistered experiments (total N = 2,170), supplemented by pilot studies, we find that people navigate punishment differently depending on relational closeness: they seek less punishment by authorities (institutional punishment) for close others but impose more punishment by themselves (relational punishment) and are more likely to confront the perpetrator directly (Experiments 1–5). Moreover, transgressions of close others elicit both other-blaming and self-blaming emotions, and they prompt individuals to adopt both victim and perpetrator roles (Experiments 2–5). These effects intensify with increasing relational closeness (Experiment 3) and persist across transgressions of varying moral and criminal severity (Experiment 4)."
+type: article
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 1.048
+score_parts:
+  rank: 0.048
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

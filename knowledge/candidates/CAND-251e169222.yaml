@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-251e169222
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1093/eurheartj/ehac544.2355
+title: "Realistic approach to evaluate the effect of baseline lipid profile in post cardiac surgery: Restricted Cubic Spline model"
+authors:
+  - A Sheikhy
+  - A S Fallahzadeh
+  - A Fallahzadeh
+  - K Hosseini
+  - K Hosseini
+year: 2022
+venue: European Heart Journal
+doi: 10.1093/eurheartj/ehac544.2355
+url: https://doi.org/10.1093/eurheartj/ehac544.2355
+abstract: "Abstract Background There are still many uncertainties in the association between lipid profile and post coronary artery bypass grafting (CABG) outcomes. Although simplifying the association to linear equations makes it understandable but cannot explain many findings. Methods Total 17,555 patients who underwent isolated CABG between 2014 and 2016 were evaluated. During the median follow-up of 75.24 months the Restricted Cubic Splines (RCS) estimated from the Cox regression model adjusted for all possible confounders was applied to show a nonlinear relationship of lipid profile contents with the “ln hazard ratio” of mortality and major cerebro-cardiac events. Results The relationship between LDL-C and HDL-C with all-cause mortality were non-linear (non-linear P were 0.004 and &lt;0.001, respectively). The relationship between remnant cholesterol and all-cause mortality was linear (linearity P=0.023). Among men, those in the highest LDL-C level (Q4, LDL-C &gt;114) and those in the lowest HDL-C level (Q1, HDL-C &lt;30) showed a significantly higher risk of all-cause mortality compared to other groups (compared with Q3, LDL-C Q4, HR=1.16, 95% CI: 1.02–1.26, P=0.014; HDL-C Q1, HR=1.14, 95% CI: 1.01–1.31, P=0.041). Female patients in the lowest HDL-C level (Q1, HDL-C &lt;30) showed a significantly higher (compared with Q3, HR=1.14, 95% CI: 1.01–1.31, P=0.028) and those in the highest HDL-C level (Q4, HDL-C &gt;43) showed a significantly lower (compared with Q3, HR=0.74, 95% CI: 0.58–0.98, P=0.019) risk of all-cause mortality. Conclusion Determining a universal cut off for components of lipid profile may be misleading and should better be revised. Extreme values (very low or very high) for HDL-C and LDL-C have different effects on cardiovascular outcomes. Funding Acknowledgement Type of funding sources: None."
+type: article
+open_access: null
+cited_by: 0
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 0.691
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 0.6
+needs_approval: false
+state: candidate

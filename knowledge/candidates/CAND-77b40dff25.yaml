@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-77b40dff25
+created: 2026-09-15T07:48:07.669Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/ieeedata.2024.3421108
+title: "Editorial: Enhancing Reproducibility Through Understanding Datasets"
+authors:
+  - Stephen Makonin
+year: 2024
+venue: IEEE Data Descriptions
+doi: 10.1109/ieeedata.2024.3421108
+url: https://doi.org/10.1109/ieeedata.2024.3421108
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"LDREA-IEEE-Reproducibility" "FULL_SPEC"'
+question: null
+search: SEARCH-e7c8c764f9
+score: 1.8
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

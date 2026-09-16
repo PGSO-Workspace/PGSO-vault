@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6c2406b360
+created: 2026-09-15T07:51:13.215Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/978-3-032-21300-6_15
+title: "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Retrieval and Invocation in LLM Agent Multi-turn Conversations"
+authors:
+  - Elias Lumer
+  - Anmol Gulati
+  - Vamse Kumar Subbiah
+  - Pradeep Honaganahalli Basavaraju
+  - James A. Burke
+year: 2026
+venue: Lecture Notes in Computer Science
+doi: 10.1007/978-3-032-21300-6_15
+url: https://doi.org/10.1007/978-3-032-21300-6_15
+abstract: null
+type: chapter
+open_access: null
+cited_by: 2
+query: '"dynamic tool retrieval LLM agent journal 2024 2025'
+question: null
+search: SEARCH-da10c5ec54
+score: 1.157
+score_parts:
+  rank: 0.038
+  citations: 0.119
+  recency: 1
+needs_approval: false
+state: candidate

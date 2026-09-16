@@ -1,0 +1,16 @@
+schema: phdude.evidence
+version: 1
+id: EVID-78e395fc22
+created: 2026-09-15T08:14:48.244Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-d018123bc8
+locator: Publisher abstract, final paragraph, ScienceDirect S0747563225001347; indexed primary-page preview inspected 2026-09-15; full methods unavailable
+excerpt: "Paraphrase: The abstract reports divergence between language-model and human personality profiles and difficulties reproducing cultural psychological differences. This is an abstract-level report, not independent verification of the study methods."
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from: []

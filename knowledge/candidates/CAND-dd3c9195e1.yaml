@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dd3c9195e1
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4413958543
+title: Large Language Models Tool Retrieval and Context Compression via Dynamic Graph-Based Relation Modeling
+authors:
+  - <p>Xiaoyi Nie<sup>1</sup>, Haitao Zhang<sup>1</sup></p>
+year: 2025
+venue: Academic Journal of Computing & Information Science
+doi: 10.25236/ajcis.2025.080712
+url: https://doi.org/10.25236/ajcis.2025.080712
+abstract: "Large language models (LLMs) face two major obstacles in integrating external tools defined by the evolving Model Context Protocol (MCP): prompt redundancy and the complexity of tool selection. To overcome these limitations, we introduce GraphRAG-MCP, a framework that reimagines tool discovery as a graph-based retrieval task. By representing the MCP tool repository as a semantic graph and leveraging graph neural networks to capture dynamic relations among tool nodes, GraphRAG-MCP enables efficient and context-aware tool selection. Upon receiving a query, the system retrieves the most relevant MCP subgraphs via graph embeddings and injects only compact representations into the LLM prompt. Compared to standard vector-based retrieval, this approach reduces prompt token usage by 62% and improves tool selection accuracy to 51.8%. These results underscore the promise of graph-structured knowledge representations in enabling scalable and precise tool integration for LLMs."
+type: article
+open_access: true
+cited_by: 2
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.352
+score_parts:
+  rank: 0.333
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

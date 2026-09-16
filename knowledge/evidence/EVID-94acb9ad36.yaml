@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-94acb9ad36
+created: 2026-09-15T08:11:53.566Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-c61e77dd6a
+locator: ART-4302f3500d, IEEE p. 1621 (PDF p. 1), abstract
+excerpt: MHE is composed of a multi-modal fusion and emotion recognition module, an empathetic dialogue generation module, and an expression generation module.
+strength: strong
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-4302f3500d

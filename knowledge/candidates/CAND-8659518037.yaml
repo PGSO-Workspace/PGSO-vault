@@ -1,0 +1,42 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8659518037
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4414404571
+title: "Toward Edge General Intelligence With Multiple-Large Language Model (Multi-LLM): Architecture, Trust, and Orchestration"
+authors:
+  - Haoxiang Luo
+  - Yinqiu Liu
+  - Ruichen Zhang
+  - Jiacheng Wang
+  - Gang Sun
+  - Dusit Niyato
+  - Hongfang Yu
+  - Zehui Xiong
+  - Xianbin Wang
+  - Xuemin Shen
+year: 2025
+venue: IEEE Transactions on Cognitive Communications and Networking
+doi: 10.1109/tccn.2025.3612760
+url: https://doi.org/10.1109/tccn.2025.3612760
+abstract: Edge computing enables real-time data processing closer to its source, thus improving the latency and performance of edge-enabled AI applications. However, predictive AI models often fall short when dealing with complex, dynamic tasks that require advanced reasoning and multimodal data processing. This survey explores the integration of multi-LLMs (Large Language Models) to address these challenges in edge computing, where multiple specialized LLMs collaborate to enhance task performance and adaptability in resource-constrained environments. We review the transition from conventional edge AI models to single LLM deployment and, ultimately, to multi-LLM systems. The survey discusses enabling technologies such as dynamic orchestration, resource scheduling, and cross-domain knowledge transfer that are key for multi-LLM implementation. A central focus is on trusted multi-LLM systems, ensuring robust decision-making in environments where reliability and privacy are crucial. We also present multimodal multi-LLM architectures, where multiple LLMs specialize in handling different data modalities, such as text, images, and audio, by integrating their outputs for comprehensive analysis. Finally, we highlight future directions, including improving resource efficiency, trustworthy governance multi-LLM systems, while addressing privacy, trust, and robustness concerns. This survey provides a valuable reference for researchers and practitioners aiming to leverage multi-LLM systems in edge computing applications.
+type: article
+open_access: true
+cited_by: 41
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 1.365
+score_parts:
+  rank: 0.059
+  citations: 0.406
+  recency: 0.9
+needs_approval: false
+state: candidate

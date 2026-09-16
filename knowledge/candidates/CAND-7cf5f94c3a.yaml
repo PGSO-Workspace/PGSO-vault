@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7cf5f94c3a
+created: 2026-09-15T09:46:31.407Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4400325517
+title: "Machine learning applied to tourism: A systematic review"
+authors:
+  - José Carlos Sancho Núñez
+  - Juan A. Gómez‐Pulido
+  - Rafael Robina Ramírez
+year: 2024
+venue: Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery
+doi: 10.1002/widm.1549
+url: https://doi.org/10.1002/widm.1549
+abstract: "Abstract The application of machine learning techniques in the field of tourism is experiencing a remarkable growth, as they allow to propose efficient solutions to problems present in this sector, by means of an intelligent analysis of data in their specific context. The increase of work in this field requires an exhaustive analysis through a quantitative approach of research activity, contributing to a deeper understanding of the progress of this field. Thus, different approaches in the field of tourism will be analyzed, such as planning, forecasting, recommendation, prevention, and security, among others. As a result of this analysis, among other findings, the greater impact of supervised learning in the field of tourism, and more specifically those techniques based on neural networks, has been confirmed. The results of this study would allow researchers not only to have the most up‐to‐date and accurate overview of the application of machine learning in tourism, but also to identify the most appropriate techniques to apply to their domain of interest, as well as other similar approaches with which to compare their own solutions. This article is categorized under: Application Areas > Society and Culture Technologies > Machine Learning Application Areas > Business and Industry"
+type: other
+open_access: true
+cited_by: 70
+query: Yue Qi personality cultural variables psychological simulations
+question: null
+search: SEARCH-4cdf3b8231
+score: 1.406
+score_parts:
+  rank: 0.143
+  citations: 0.463
+  recency: 0.8
+needs_approval: false
+state: candidate

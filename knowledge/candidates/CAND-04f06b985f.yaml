@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-04f06b985f
+created: 2026-09-14T23:46:57.333Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7142481767
+title: "Self-Healing Infrastructure: Autonomous LLM Agents for Real-Time Remediation of Configuration Drift and Security Misconfigurations in IaC Deployments"
+authors:
+  - Harish Apuri
+  - Madhan Mohan Reddy Chinthala
+  - Shikher Goel
+  - Mukesh Aurangabadkar
+  - Charani Yepuri
+year: 2026
+venue: International Journal of Innovative Technology and Exploring Engineering
+doi: 10.35940/ijitee.d4757.15040326
+url: https://doi.org/10.35940/ijitee.d4757.15040326
+abstract: "The application of Infrastructure as Code (IaC) has enhanced cloud environment scalability and automation, but configuration drift and security misconfigurations remain critical operational and security issues. Current drift detection and remediation solutions rely largely on reactive, rules-based, and human intervention, therefore, they are ineffective in dynamic, multi-cloud environments. This research aims to develop and deploy a self-healing infrastructure architecture that autonomously identifies and recovers from configuration drift and security misconfigurations in real time. The paper suggests the following to accomplish this: a new multi-agent architecture based on Large Language Models (LLMs), in which Drift detectors, security reasoners, root-cause analysers, remediation generators, and post-remediation validators operate within a closed-loop pipeline. To evaluate the framework, a publicly available IaC dataset (written in Terraform) of simulated drift situations is used. According to experimental results, the proposed LLM-agent system outperforms rule-based and semiautomated systems, with a drift detection rate of 96.8, a security misconfiguration detection rate of 95.2, and a mean time to remediation of 6.9 minutes. The framework is also very effective in reducing false positives and manual intervention, as well as getting high policy compliance. Such findings affirm the usefulness of autonomous LLM agents in empowering proactive, intelligent and scalable self-healing infrastructure management in contemporary cloud systems."
+type: article
+open_access: true
+cited_by: 4
+query: '"AgentSpec" runtime enforcement LLM agents'
+question: null
+search: SEARCH-ab8e976bec
+score: 1.286
+score_parts:
+  rank: 0.111
+  citations: 0.175
+  recency: 1
+needs_approval: false
+state: candidate

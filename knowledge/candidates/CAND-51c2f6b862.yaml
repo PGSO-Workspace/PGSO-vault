@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-51c2f6b862
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2024.yrrsds-1.15
+title: Cognitive Model of Listener Response Generation and Its Application to Dialogue Systems
+authors:
+  - Taiga Mori
+year: 2024
+venue: Proceedings of the 20th Workshop of Young Researchers' Roundtable on Spoken Dialogue Systems
+doi: 10.18653/v1/2024.yrrsds-1.15
+url: https://doi.org/10.18653/v1/2024.yrrsds-1.15
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 0.826
+score_parts:
+  rank: 0.026
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

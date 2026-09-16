@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5c1e9724c4
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/ietacs68750.2025.11385429
+title: Exploring Cross-Domain Speech Emotion Recognition Utilizing Generative Adversarial Networks and Hierarchical Artificial Intelligence
+authors:
+  - Anshu Sharma
+year: 2025
+venue: 2025 International Conference on Innovations and Emerging Technologies In AI &amp;amp; Communication Systems (IETACS)
+doi: 10.1109/ietacs68750.2025.11385429
+url: https://doi.org/10.1109/ietacs68750.2025.11385429
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 0.943
+score_parts:
+  rank: 0.043
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

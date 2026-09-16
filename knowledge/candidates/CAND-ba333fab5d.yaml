@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ba333fab5d
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7119510110
+title: Hybrid Real-time Framework for Detecting Adaptive Prompt Injection Attacks in Large Language Models
+authors:
+  - Chandra Prakash
+  - Mary Lind
+  - Elyson De La Cruz
+year: 2026
+venue: Journal of Computing Theories and Applications
+doi: 10.62411/jcta.15254
+url: https://doi.org/10.62411/jcta.15254
+abstract: Prompt injection has emerged as a critical security threat for Large Language Models (LLMs)...
+type: article
+open_access: true
+cited_by: 3
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.318
+score_parts:
+  rank: 0.167
+  citations: 0.151
+  recency: 1
+needs_approval: false
+state: candidate

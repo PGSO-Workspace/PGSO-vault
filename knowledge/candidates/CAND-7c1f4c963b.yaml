@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7c1f4c963b
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-9372280/v1
+title: "Trace-Driven HPC Scheduling with Runtime Prediction: A Reproducible Study of Backfilling, Uncertainty, and Fairness Constraints"
+authors:
+  - Vinish Kumar
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-9372280/v1
+url: https://doi.org/10.21203/rs.3.rs-9372280/v1
+abstract: "Abstract This paper studies whether runtime prediction can materially improve queueing outcomes in HPC scheduling when evaluated on real public workload traces rather than on synthetic workloads or isolated model metrics. We build a reproducible trace-driven pipeline that normalizes public traces into a unified job schema, trains submission-time runtime predictors, and evaluates FCFS, EASY backfilling, and ML-augmented EASY variants under a common simulator. The study uses three public 5,000-job subsets drawn from JSSPP-hosted workload archives: CERIT grid jobs, MetaCentrum 2013, and CERIT soft-wall. Each trace is split temporally into 3,000 training jobs and 2,000 evaluation jobs. We compare a hierarchical median baseline, k-nearest neighbors, and a lightweight gradient-boosting regressor with calibrated prediction intervals. On the two heavier traces, the best scheduler is kNN-assisted EASY, which reduces mean wait time by 57.5% and 49.5% relative to FCFS and by 37.0% and 18.8% relative to EASY with user-requested runtimes. Gradient boosting achieves the best runtime-prediction MAE on two of three traces and the highest interval coverage on all three traces, but it does not consistently yield the best scheduling policy. This gap between prediction accuracy and scheduling utility is the main empirical finding. On the low-utilization CERIT soft-wall trace, all policies collapse to identical schedules, highlighting workload sensitivity. We also report ablations over feature sets, cold-start handling, and fairness constraints. The fairness-constrained scheduler exposes a throughput-fairness tradeoff but does not yet improve the current per-user mean-wait fairness gap metric, indicating that better alignment between control constraints and fairness objectives remains open."
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 1.033
+score_parts:
+  rank: 0.033
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

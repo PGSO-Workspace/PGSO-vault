@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-586f5010bd
+created: 2026-09-15T01:21:20.765Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/war-room-final-2026-09-15.md
+paths:
+  - sources/reports/war-room-final-2026-09-15.md
+hash: 586f5010bd3c44a1d848018b21e790b37a15b37da3d51c07755d7f27f9a29599
+bytes: 6739
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 6737
+  sections: 6
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:21:20.566Z

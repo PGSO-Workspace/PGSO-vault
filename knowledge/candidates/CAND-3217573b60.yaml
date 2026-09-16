@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3217573b60
+created: 2026-09-15T00:31:36.231Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.31274/cc-20240624-210
+title: Analyzing customer reactions towards popular Airlines with Aspect-based Sentiment Analysis
+authors:
+  - Kavita Jain
+year: 2021
+venue: null
+doi: 10.31274/cc-20240624-210
+url: https://doi.org/10.31274/cc-20240624-210
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"Coupling Sentiment and Arousal Analysis Towards an Affective Dialogue Manager"'
+question: null
+search: SEARCH-7bc8da0319
+score: 0.591
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 0.5
+needs_approval: false
+state: candidate

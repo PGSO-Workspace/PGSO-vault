@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-5ace4c1f12
+created: 2026-09-15T09:51:56.777Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/amaral-empathy-behavior-trees-primary-inspection-2026-09-15.md
+paths:
+  - sources/literature/amaral-empathy-behavior-trees-primary-inspection-2026-09-15.md
+hash: 5ace4c1f12b67407cbfae7c84a9301af472a2add3043c6e26db76fc394138596
+bytes: 1843
+mime: text/markdown
+kind: md
+role: notes
+extracted:
+  status: ok
+  method: text
+  text_chars: 1841
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T09:51:56.574Z

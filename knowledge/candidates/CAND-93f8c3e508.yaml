@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-93f8c3e508
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4405540910
+title: "A harmonious synergy between robotic performance and well-being in human-robot collaboration: A vision and key recommendations"
+authors:
+  - Nicole Berx
+  - Wilm Decré
+  - Joris De Schutter
+  - Liliane Pintelon
+year: 2024
+venue: Annual Reviews in Control
+doi: 10.1016/j.arcontrol.2024.100984
+url: https://doi.org/10.1016/j.arcontrol.2024.100984
+abstract: null
+type: article
+open_access: true
+cited_by: 17
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.14
+score_parts:
+  rank: 0.026
+  citations: 0.314
+  recency: 0.8
+needs_approval: false
+state: candidate

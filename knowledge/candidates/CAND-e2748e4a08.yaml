@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e2748e4a08
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/s10664-026-10857-9
+title: An empirical study of testing practices in open source AI agent frameworks and agentic applications
+authors:
+  - Mohammed Mehedi Hasan
+  - Hao Li
+  - Emad Fallahzadeh
+  - Gopi Krishnan Rajbahadur
+  - Bram Adams
+  - Ahmed E. Hassan
+year: 2026
+venue: Empirical Software Engineering
+doi: 10.1007/s10664-026-10857-9
+url: https://doi.org/10.1007/s10664-026-10857-9
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 1.619
+score_parts:
+  rank: 0.5
+  citations: 0.119
+  recency: 1
+needs_approval: false
+state: candidate

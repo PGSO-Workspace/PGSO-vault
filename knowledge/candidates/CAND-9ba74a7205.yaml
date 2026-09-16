@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9ba74a7205
+created: 2026-09-14T16:52:21.644Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.32614/cran.package.predictset
+title: "predictset: Conformal Prediction and Uncertainty Quantification"
+authors:
+  - Charles Coverdale
+year: 2026
+venue: "CRAN: Contributed Packages"
+doi: 10.32614/cran.package.predictset
+url: https://doi.org/10.32614/cran.package.predictset
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets
+question: null
+search: SEARCH-4814dc8848
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

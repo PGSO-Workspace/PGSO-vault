@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-821f8d5773
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410513106
+title: "Collecting Qualitative Data at Scale with Large Language Models: A Case Study"
+authors:
+  - Alejandro Cuevas
+  - Jennifer V. Scurrell
+  - Eva Maxfield Brown
+  - Jason Entenmann
+  - Madeleine I. G. Daepp
+year: 2025
+venue: Proceedings of the ACM on Human-Computer Interaction
+doi: 10.1145/3710947
+url: https://doi.org/10.1145/3710947
+abstract: Chatbots have shown promise as tools to scale qualitative data collection. Recent advances in Large Language Models (LLMs) could accelerate this process by allowing researchers to easily deploy sophisticated interviewing chatbots. We test this assumption by conducting a large-scale user study (n=399) evaluating 3 different chatbots, two of which are LLM-based and a baseline which employs hard-coded questions. We evaluate the results with respect to participant engagement and experience, established metrics of chatbot quality grounded in theories of effective communication, and a novel scale evaluating ''richness'' or the extent to which responses capture the complexity and specificity of the social context under study. We find that, while the chatbots were able to elicit high-quality responses based on established evaluation metrics, the responses rarely capture participants' specific motives or personalized examples, and thus perform poorly with respect to richness. We further find low inter-rater reliability between LLMs and humans in the assessment of both quality and richness metrics. Our study offers a cautionary tale for scaling and evaluating qualitative research with LLMs.
+type: article
+open_access: true
+cited_by: 13
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.264
+score_parts:
+  rank: 0.077
+  citations: 0.287
+  recency: 0.9
+needs_approval: false
+state: candidate

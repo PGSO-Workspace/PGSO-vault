@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-68c955cbb7
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7142207231
+title: "Preservice Primary Teachers’ Attitudes Towards STEM Education: a Study Developed Through an Integrated STEM Training Programme Using Inquiry- Based Approaches and Engineering Design Practices"
+authors:
+  - Teresa Lupión-Cobos
+  - Cristina García-Ruiz
+  - Radu Bogdan Toma
+year: 2026
+venue: Research in Science Education
+doi: 10.1007/s11165-026-10323-y
+url: https://doi.org/10.1007/s11165-026-10323-y
+abstract: Abstract Integrated Science, Technology, Engineering, and Mathematics (STEM) education seeks to motivate students by connecting disciplines through practical and contextualised learning, aiming to prepare 21st-century citizens to navigate multicultural environments. However, implementing effective STEM instruction poses significant challenges for teachers, particularly in integrating multiple disciplines. This study examined the impact of professional development (PD) programme on 157 Primary Education pre-service teachers’ (PSTs) attitudes toward integrated STEM. Participants were assigned to a control group (no PD), an inquiry group (PD on inquiry-based teaching), or a STEM group (the same inquiry PD plus training on engineering design process). Attitudes toward integrated STEM were measured using an adapted version of the Dimensions of Attitude toward STEM (DAS) questionnaire and open-ended questions. Quantitative results showed that the STEM group reported higher perceived relevance, enjoyment, and self-efficacy, but also greater context dependency for teaching using integrated STEM. Moreover, their intention to adopt this approach was significantly lower from that of PSTs in the control and inquiry groups. Qualitative findings reinforced these results. PSTs in the STEM group noted benefits such as active learning and critical thinking, yet they also reported challenges, including students’ weak problem-solving skills, limited access to materials and digital resources, and structural barriers to integrated STEM. Teacher-related challenges also emerged, especially regarding the enactment of engineering design. These findings suggest that targeted PD focusing on the adoption of inquiry-based approaches and engineering design practices, might improve PSTs’ attitudes toward integrated STEM, but also highlight the complexity of preparing teachers for interdisciplinary instruction.
+type: article
+open_access: true
+cited_by: 2
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 1.172
+score_parts:
+  rank: 0.053
+  citations: 0.119
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f1d75f3c5f
+created: 2026-09-15T07:38:48.880Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.gpeds.2024.100231
+title: Erratum Regarding Previously Published Articles
+authors: []
+year: 2024
+venue: Global Pediatrics
+doi: 10.1016/j.gpeds.2024.100231
+url: https://doi.org/10.1016/j.gpeds.2024.100231
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"10.1145/3814959" published'
+question: null
+search: SEARCH-76dea7765d
+score: 0.859
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

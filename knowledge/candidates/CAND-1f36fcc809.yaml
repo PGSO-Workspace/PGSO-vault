@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1f36fcc809
+created: 2026-09-15T09:45:55.769Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.54254/2753-7064/28/20230137
+title: Perceptions and Attitudes of Chinese Youth Toward Late Marriage--Text Mining Based on Sina Weibo Content
+authors:
+  - Yue Liu
+year: 2024
+venue: Communications in Humanities Research
+doi: 10.54254/2753-7064/28/20230137
+url: https://doi.org/10.54254/2753-7064/28/20230137
+abstract: As a physical carrier of human thoughts and values, social media plays a crucial role in the change of contemporary youth's concept of marriage. Given the trend of late marriage among Chinese youth, this study explores the perceptions and attitudes of Chinese youth toward late marriage based on the text mining of the topic of "late marriage" on Sina Weibo. This study finds that the shift in the youth group's perception of marriage has begun to develop toward the aspect of spiritual needs, and that the youth group still generally has a positive attitude toward late marriage. Therefore, it is of great significance to study the perception and attitude of today's youth groups towards late marriage in order to guide them to form a correct view of marriage.
+type: article
+open_access: null
+cited_by: 1
+query: '"Toward accurate psychological simulations" "Yue Qi" full text'
+question: null
+search: SEARCH-aa21877eb5
+score: 0.925
+score_parts:
+  rank: 0.05
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a60b4458f2
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/aict61888.2024.10740425
+title: Transfer Learning of Large Speech Models for Italian Speech Emotion Recognition
+authors:
+  - Federico D’Asaro
+  - Juan José Márquez Villacís
+  - Giuseppe Rizzo
+year: 2024
+venue: 2024 IEEE 18th International Conference on Application of Information and Communication Technologies (AICT)
+doi: 10.1109/aict61888.2024.10740425
+url: https://doi.org/10.1109/aict61888.2024.10740425
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 0.913
+score_parts:
+  rank: 0.038
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d30f867168
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7165157310
+title: "Iterative Audit Convergence in LLM-Managed Multi-Agent Systems: A Case Study in Prompt-Engineering Quality Assurance"
+authors:
+  - Elias Calboreanu
+year: 2026
+venue: Software
+doi: 10.3390/software5020026
+url: https://doi.org/10.3390/software5020026
+abstract: "Prompt specifications for multi-agent large language model (LLM) systems carry data contracts and integration logic across interdependent files but are rarely subjected to structured-inspection rigor. We report a single-system case study of iterative, agent-driven auditing applied to AEGIS (Autonomous Engineering Governance and Intelligence System), a seven-lane production pipeline whose 7152-line specification surface was audited across nine rounds, surfacing 51 consistency defects (per-round counts of 15, 8, 12, 2, 8, 1, 4, 1, 0). We present a seven-category post hoc taxonomy with explicit coding rules, non-monotonic convergence consistent with cascading edits and audit-scope expansion, and a locked audit protocol. We further report two partial replications on a public synthetic mini-specification: a cross-LLM panel of four frontier vendors (OpenAI, Anthropic, Google, xAI; 12 traces; multi-vendor union detects all five seeded defects) and an inter-rater reliability check on a stratified subsample (Cohen’s κ = 0.80 on category, 0.46 on severity). The full reproducibility bundle accompanies the submission."
+type: article
+open_access: true
+cited_by: 1
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.146
+score_parts:
+  rank: 0.071
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

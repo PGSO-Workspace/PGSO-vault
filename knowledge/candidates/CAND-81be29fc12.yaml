@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-81be29fc12
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.31234/osf.io/q8xdy_v1
+title: Identifying Personality Factors in Large Language Models using a Psycho-Lexical Approach
+authors:
+  - Lea Müller
+  - Stefan Sütterlin
+year: 2025
+venue: null
+doi: 10.31234/osf.io/q8xdy_v1
+url: https://doi.org/10.31234/osf.io/q8xdy_v1
+abstract: "Introduction: In the field of human psychology, the study of personality traits was a major research endeavour extending over several decades. Considering personality as stable, underlying dimensions that influence behaviour, a similar construct can be assumed in large language models (LLMs). However, most research in the field of machine personality relies on unverified assumptions or is afflicted by methodological weaknesses. The present work is the first to present a psycho-lexical analysis of machine personality.Methods: The psycho-lexical approach together with an exploratory factor analysis was adopted. Interview-like interactions were conducted with various LLMs (N = 400), and their behaviour was evaluated using a set of adjectives commonly used to describe personality traits. The ratings were subjected to an exploratory factor analysis to extract LLM-specific personality factors.Results: Five stable factors were extracted and interpreted. The five factors were termed Antagonism, Spirit, Conscientiousness, Negative Introversion, and Simple-Mindedness.Conclusion: The present work addresses the lack of systematic and fundamental approaches to the study of personality in LLMs. It is the first to present an LLM-specific factor structure of personality, suggesting that humans and LLMs exhibit different personality traits."
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 0.929
+score_parts:
+  rank: 0.029
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

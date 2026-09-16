@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-94e95929bb
+created: 2026-09-15T18:41:28.815Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/gold-preflight-20260915/pgso-b0-feasibility.py
+paths:
+  - sources/software/pgso-sdk/gold-preflight-20260915/pgso-b0-feasibility.py
+hash: 94e95929bb59aa9611ddf279c1bc26aaf046f4290f4875469ed658196aa5f61e
+bytes: 1605
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T18:41:28.349Z

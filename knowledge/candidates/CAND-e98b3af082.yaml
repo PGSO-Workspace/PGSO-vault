@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e98b3af082
+created: 2026-09-15T08:10:36.723Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W2548357394
+title: Development of multimedia system for supporting education in rural areas
+authors:
+  - Yoanes Bandung
+  - Harry Chandra Tanuwidjaja
+  - Luki B. Subekti
+  - Kusprasapta Mutijarsa
+year: 2015
+venue: null
+doi: 10.1109/ispacs.2015.7432850
+url: https://doi.org/10.1109/ispacs.2015.7432850
+abstract: In Indonesia, the condition of education still tends to be unbalanced. The quality of education in urban areas is generally far better than the quality of education in rural areas. Education processes in rural areas face some problems like limited teaching resources, slight teaching tools, and monotonous teaching method. Therefore, an idea is emerged, a thinking to create a system in order to improve the quality of education in rural areas. Virtual Classbox 4.1 is a distance learning system developed to improve the quality of education in rural areas with video conferencing technology. Virtual Classbox 4.1 is designed based on Design Science in Information System Research. In order to produce a great system, a scientific guidance must be used. Remarkable system need astounding design, like a good house needs a strong foundation. Because of that, Design Science in Information System Research, which is very well known in information system design research world, is used.
+type: other
+open_access: false
+cited_by: 5
+query: '"Design Science in Information Systems Research"'
+question: null
+search: SEARCH-e78eb7cdff
+score: 0.295
+score_parts:
+  rank: 0.1
+  citations: 0.195
+  recency: 0
+needs_approval: false
+state: candidate

@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4ee9af19be
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1386/9781789389715_4
+title: Programmatic Policies
+authors: []
+year: 2024
+venue: Consent Practices in Performing Arts Education
+doi: 10.1386/9781789389715_4
+url: https://doi.org/10.1386/9781789389715_4
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 0.925
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-a95ab04c7c
+created: 2026-09-15T02:30:29.015Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/3206f5d/reproducibility.md
+paths:
+  - sources/software/pgso-sdk/3206f5d/reproducibility.md
+hash: a95ab04c7c10a1db367fe5e6a3d7bf6ffed210fc7cf72af77bf64c47b8c926b5
+bytes: 6346
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 6346
+  sections: 6
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T02:27:21.041Z

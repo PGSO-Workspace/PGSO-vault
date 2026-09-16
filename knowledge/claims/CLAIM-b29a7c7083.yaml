@@ -1,0 +1,23 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-b29a7c7083
+created: 2026-09-15T18:44:24.745Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+statement: "The seven-condition real-generation development pilot provides no task-success superiority evidence for PGSO: every condition scored zero successes over three public telecom tasks and all sessions reached the step limit. This finite failure floor does not establish equivalence or general ineffectiveness."
+kind: empirical
+state: candidate
+supported_by:
+  - EVID-3bd625ffb2
+questions:
+  - RQ-1
+sections:
+  - results
+  - discussion
+  - conclusions
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-2b30ef5efd

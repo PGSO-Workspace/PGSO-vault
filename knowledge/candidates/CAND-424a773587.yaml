@@ -1,0 +1,44 @@
+schema: phdude.candidate
+version: 1
+id: CAND-424a773587
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4390722663
+title: "Large Language Models in Mental Health Care: a Scoping Review"
+authors:
+  - Yining Hua
+  - Fenglin Liu
+  - Kailai Yang
+  - Zehan Li
+  - Na, Hongbin
+  - Yi-han Sheu
+  - Peilin Zhou
+  - Lauren V. Moran
+  - Sophia Ananiadou
+  - Clifton, David A.
+  - Andrew L. Beam
+  - Torous, John
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2401.02984
+url: http://arxiv.org/abs/2401.02984
+abstract: "Objectieve:This review aims to deliver a comprehensive analysis of Large Language Models (LLMs) utilization in mental health care, evaluating their effectiveness, identifying challenges, and exploring their potential for future application. Materials and Methods: A systematic search was performed across multiple databases including PubMed, Web of Science, Google Scholar, arXiv, medRxiv, and PsyArXiv in November 2023. The review includes all types of original research, regardless of peer-review status, published or disseminated between October 1, 2019, and December 2, 2023. Studies were included without language restrictions if they employed LLMs developed after T5 and directly investigated research questions within mental health care settings. Results: Out of an initial 313 articles, 34 were selected based on their relevance to LLMs applications in mental health care and the rigor of their reported outcomes. The review identified various LLMs applications in mental health care, including diagnostics, therapy, and enhancing patient engagement. Key challenges highlighted were related to data availability and reliability, the nuanced handling of mental states, and effective evaluation methods. While LLMs showed promise in improving accuracy and accessibility, significant gaps in clinical applicability and ethical considerations were noted. Conclusion: LLMs hold substantial promise for enhancing mental health care. For their full potential to be realized, emphasis must be placed on developing robust datasets, development and evaluation frameworks, ethical guidelines, and interdisciplinary collaborations to address current limitations."
+type: preprint
+open_access: true
+cited_by: 37
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 1.286
+score_parts:
+  rank: 0.091
+  citations: 0.395
+  recency: 0.8
+needs_approval: true
+state: candidate

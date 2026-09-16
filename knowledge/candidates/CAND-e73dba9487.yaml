@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e73dba9487
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4399434529
+title: An enhanced speech emotion recognition using vision transformer
+authors:
+  - Samson Akinpelu
+  - Serestina Viriri
+  - Adekanmi Adeyinka Adegun
+year: 2024
+venue: Scientific Reports
+doi: 10.1038/s41598-024-63776-4
+url: https://doi.org/10.1038/s41598-024-63776-4
+abstract: In human-computer interaction systems, speech emotion recognition (SER) plays a crucial role because it enables computers to understand and react to users' emotions. In the past, SER has significantly emphasised acoustic properties extracted from speech signals. The use of visual signals for enhancing SER performance, however, has been made possible by recent developments in deep learning and computer vision. This work utilizes a lightweight Vision Transformer (ViT) model to propose a novel method for improving speech emotion recognition. We leverage the ViT model's capabilities to capture spatial dependencies and high-level features in images which are adequate indicators of emotional states from mel spectrogram input fed into the model. To determine the efficiency of our proposed approach, we conduct a comprehensive experiment on two benchmark speech emotion datasets, the Toronto English Speech Set (TESS) and the Berlin Emotional Database (EMODB). The results of our extensive experiment demonstrate a considerable improvement in speech emotion recognition accuracy attesting to its generalizability as it achieved 98%, 91%, and 93% (TESS-EMODB) accuracy respectively on the datasets. The outcomes of the comparative experiment show that the non-overlapping patch-based feature extraction method substantially improves the discipline of speech emotion recognition. Our research indicates the potential for integrating vision transformer models into SER systems, opening up fresh opportunities for real-world applications requiring accurate emotion recognition from speech compared with other state-of-the-art techniques.
+type: article
+open_access: true
+cited_by: 77
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 2.273
+score_parts:
+  rank: 1
+  citations: 0.473
+  recency: 0.8
+needs_approval: false
+state: candidate

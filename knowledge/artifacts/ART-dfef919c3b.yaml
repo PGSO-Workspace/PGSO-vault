@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-dfef919c3b
+created: 2026-09-15T05:35:43.949Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/diagnostics-84242c9/workspace-tests.txt
+paths:
+  - sources/software/pgso-sdk/diagnostics-84242c9/workspace-tests.txt
+hash: dfef919c3bf3d7107be40355a5882920ef67509ab7d3ac645e79f0348b937042
+bytes: 9395
+mime: text/plain
+kind: txt
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 9395
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T05:35:43.719Z
+latest: false

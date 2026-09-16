@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f55bfe5c6c
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7160161627
+title: Designing meaningful human oversight in AI
+authors:
+  - LiMing Zhu
+  - Qinghua Lu
+  - Ming Ding
+  - Sung Une Lee
+  - Chen Wang
+year: 2026
+venue: AI and Ethics
+doi: 10.1007/s43681-026-01147-7
+url: https://doi.org/10.1007/s43681-026-01147-7
+abstract: "Human oversight is central to safe and responsible AI, but current approaches risk either collapsing agentic AI into mere automation, stripping it of its agentic character, or reducing human agency to a rubber stamp. This paper proposes a design framework that treats agency as layered: AI operative agency in task execution, and human evaluative agency in verification, steering, and substitution. Instead of demanding low-level explanations and controls over how a complex AI model works internally (i.e. internal reasoning faithfulness), we focus on high-level explanations tied to external criteria and human expert understanding (external reasoning faithfulness). This approach retains AI’s operative agency while strengthening human’s evaluative agency. We also exploit the solve-verify asymmetry by designing AI outputs so that humans can efficiently check and contest them without having to resolve the task. This paper makes three contributions. First, it develops a layered agency framework that distinguishes operative and evaluative agency and specifies where human accountability attaches in AI-enabled decision systems. Second, it reframes the explainability requirement by arguing that external reasoning faithfulness—alignment with externally articulated criteria and human expertise—is sufficient and often preferable to internal mechanistic transparency for enabling meaningful oversight. Third, it provides a structured catalogue of oversight mechanisms (e.g., structured rationales, reasoning traces, confidence signals, policy attribution, circuit breakers, appeal bundles) and four end-to-end design patterns that translate these principles into implementable system architectures. We also outline evaluation criteria for AI’s agency, human’s agency, and joint system agency. The framework provides AI ethicsts, engineers, safety teams, users, and organisational leaders with a concrete way to design meaningful and effective oversight that preserves human accountability and agency while allowing AI to retain its agentic features and autonomy."
+type: article
+open_access: true
+cited_by: 6
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 1.544
+score_parts:
+  rank: 0.333
+  citations: 0.211
+  recency: 1
+needs_approval: false
+state: candidate

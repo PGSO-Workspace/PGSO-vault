@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-397d73d297
+created: 2026-09-15T09:45:55.769Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7166809719
+title: "The Reliability Illusion in Synthetic Patients: Psychometric Misalignment of Open-weight LLMs on PHQ-9 and GAD-7"
+authors:
+  - Qian Shen
+  - Yu Han
+year: 2026
+venue: null
+doi: 10.18653/v1/2026.clpsych-1.7
+url: https://doi.org/10.18653/v1/2026.clpsych-1.7
+abstract: "Globally, the incidence of depression and anxiety continues to rise, and the importance of mental health assessment scales as diagnostic tools has grown accordingly.Researchers are increasingly employing generative AI to produce large volumes of items and entire scales, which in turn elevates the costs of validating their reliability and validity.In this study, we used four open-weight LLMs to complete the GAD-7 and PHQ-9, varying prompts, sampling temperature, and dynamic contextual scenarios to emulate realistic human response patterns.Using multi-group confirmatory factor analysis, differential item functioning analyses, and other psychometric methods, we evaluate the factor structure of LLM-generated responses and assess measurement invariance relative to human responses.Our findings reveal a critical paradox: although open-weight LLMs exhibit exceptionally high internal consistency, they demonstrate severe structural mismatch and fail to achieve scalar measurement invariance against human baselines.Furthermore, pervasive differential item functioning and extreme prompt fragility indicate that these models rely on superficial, stereotype-driven semantic matching rather than simulating stable latent psychological dynamics."
+type: other
+open_access: true
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Yue Qi" full text'
+question: null
+search: SEARCH-aa21877eb5
+score: 2
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d8ca993f32
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4396814868
+title: An appraisal-based chain-of-emotion architecture for affective language model game agents
+authors:
+  - Maximilian Croissant
+  - Madeleine Frister
+  - Guy Schofield
+  - Cade McCall
+year: 2024
+venue: PLoS ONE
+doi: 10.1371/journal.pone.0301033
+url: https://doi.org/10.1371/journal.pone.0301033
+abstract: The development of believable, natural, and interactive digital artificial agents is a field of growing interest. Theoretical uncertainties and technical barriers present considerable challenges to the field, particularly with regards to developing agents that effectively simulate human emotions. Large language models (LLMs) might address these issues by tapping common patterns in situational appraisal. In three empirical experiments, this study tests the capabilities of LLMs to solve emotional intelligence tasks and to simulate emotions. It presents and evaluates a new Chain-of-Emotion architecture for emotion simulation within video games, based on psychological appraisal research. Results show that it outperforms control LLM architectures on a range of user experience and content analysis metrics. This study therefore provides early evidence of how to construct and test affective agents based on cognitive processes represented in language models.
+type: article
+open_access: true
+cited_by: 10
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1.16
+score_parts:
+  rank: 0.1
+  citations: 0.26
+  recency: 0.8
+needs_approval: false
+state: candidate

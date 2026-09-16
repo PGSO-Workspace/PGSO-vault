@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-581596bc58
+created: 2026-09-15T08:11:18.507Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W3216239225
+title: How to Promote User Purchase in Metaverse? A Systematic Literature Review on Consumer Behavior Research and Virtual Commerce Application Design
+authors:
+  - Bingqing Shen
+  - Weiming Tan
+  - Jingzhi Guo
+  - Lin‐Shuang Zhao
+  - Peng Qin
+year: 2021
+venue: Applied Sciences
+doi: 10.3390/app112311087
+url: https://doi.org/10.3390/app112311087
+abstract: Virtual commerce applies immersive technology such as augmented reality and virtual reality into e-commerce to shift consumer perception from 2D product catalogs to 3D immersive virtual spaces. In virtual commerce, the alignment of application design paradigms and the factors influencing consumer behavior is paramount to promote purchase of products and services. The question of their relation needs to be answered, together with the possible improvement of application design. This paper used a systematic literature review approach to synthesize research on virtual commerce from both application design and consumer behavior research, considering the promotion of purchase in virtual commerce settings. Throughout the review, influential factors to purchase and preeminent design artifacts were identified. Then, the research gaps were discovered by mapping the design artifacts to the influential factors, which can inspire future research opportunities on the synergy of these two research directions. Moreover, the evolution of virtual commerce research along with multiple directions were discussed, including the suggestion of meta-commerce as a future trend.
+type: other
+open_access: true
+cited_by: 369
+query: 10.2307/25148625
+question: null
+search: SEARCH-6980917c90
+score: 1.475
+score_parts:
+  rank: 0.333
+  citations: 0.642
+  recency: 0.5
+needs_approval: false
+state: candidate

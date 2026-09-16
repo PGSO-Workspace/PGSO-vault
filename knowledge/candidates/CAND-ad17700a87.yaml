@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ad17700a87
+created: 2026-09-15T06:32:59.436Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2026.acl-long.1615
+title: "S2S-Arena: Evaluating Paralinguistic Instruction Following in Speech-to-Speech Models"
+authors:
+  - Feng Jiang
+  - Zhiyu Lin
+  - Yiyang Liu
+  - Liumeng Xue
+  - Fan Bu
+  - Yuhao Du
+  - Xiangying Chen
+  - Benyou Wang
+  - Haizhou Li
+year: 2026
+venue: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+doi: 10.18653/v1/2026.acl-long.1615
+url: https://doi.org/10.18653/v1/2026.acl-long.1615
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: speech language model evaluation paralinguistic benchmark instruction following
+question: null
+search: SEARCH-463495b5f3
+score: 1.077
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

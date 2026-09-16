@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-056732ceab
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2025.3583594
+title: Cross-Modal Knowledge Distillation for Enhanced Unimodal Emotion Recognition
+authors:
+  - Ziyu Jia
+  - Yucheng Liu
+  - Haichao Wang
+  - Tianzi Jiang
+year: 2025
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2025.3583594
+url: https://doi.org/10.1109/taffc.2025.3583594
+abstract: null
+type: article
+open_access: null
+cited_by: 12
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.21
+score_parts:
+  rank: 0.032
+  citations: 0.278
+  recency: 0.9
+needs_approval: false
+state: candidate

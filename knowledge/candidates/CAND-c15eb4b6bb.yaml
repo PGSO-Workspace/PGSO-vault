@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c15eb4b6bb
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2023.3272031
+title: Empirical Validation of an Agent-Based Model of Emotion Contagion
+authors:
+  - Erik Stefan van Haeringen
+  - Emmeke Anna Veltmeijer
+  - Charlotte Gerritsen
+year: 2024
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2023.3272031
+url: https://doi.org/10.1109/taffc.2023.3272031
+abstract: null
+type: article
+open_access: null
+cited_by: 9
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.078
+score_parts:
+  rank: 0.028
+  citations: 0.25
+  recency: 0.8
+needs_approval: false
+state: candidate

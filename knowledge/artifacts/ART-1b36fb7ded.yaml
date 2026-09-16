@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-1b36fb7ded
+created: 2026-09-15T17:53:56.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/paper1-recording-kit-draft-2026-09-15.md
+paths:
+  - sources/reports/paper1-recording-kit-draft-2026-09-15.md
+hash: 1b36fb7dedd3a07da7676a79caf382b1dec44552de66ab7905db533b51955bb0
+bytes: 6750
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 6714
+  sections: 7
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T17:53:55.523Z

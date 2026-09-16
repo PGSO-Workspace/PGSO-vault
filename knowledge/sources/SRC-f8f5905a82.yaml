@@ -1,0 +1,22 @@
+schema: phdude.source
+version: 1
+id: SRC-f8f5905a82
+created: 2026-09-15T01:10:04.121Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition
+authors:
+  - Luz Martinez-Lucas
+  - Wei-Cheng Lin
+  - Carlos Busso
+type: article
+artifacts:
+  - ART-b78e21da13
+state: candidate
+year: 2024
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2024.3372380
+url: https://doi.org/10.1109/taffc.2024.3372380
+abstract: "Targeted-text research summary, not original abstract: Compares continuous-time and sentence-level annotations on 2,884 overlapping MSP-Conversation/MSP-Podcast utterances. Tests aggregation functions, reaction-time shifts, annotator agreement, matched/mismatched annotation training and a small ComParE-based neural regressor. Limits: The two annotation protocols are not interchangeable. Label aggregation and annotator lag are studied, not agent-action hysteresis or calibration under deployment shift."

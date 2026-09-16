@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-ba9fff3c30
+created: 2026-09-15T01:09:31.218Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/bibliography-screen80-v2-2026-09-15.md
+paths:
+  - sources/reports/bibliography-screen80-v2-2026-09-15.md
+hash: ba9fff3c306cb5fffe0dc3c5c727b844d2613804ab09cbf1d1c341653872b5db
+bytes: 4337
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 4322
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:08:50.433Z
+versions_of: ART-6e84a08af2
+latest: true

@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-735ca3b72b
+created: 2026-09-15T01:11:33.915Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/nmi-personality-shaping-2025.pdf
+paths:
+  - sources/literature/nmi-personality-shaping-2025.pdf
+hash: 735ca3b72b65a372061df2c4b46c81a29809be8e0ec8082900b9ff6fc3d8fbe6
+bytes: 5396135
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 140520
+  sections: 30
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:10:54.305Z

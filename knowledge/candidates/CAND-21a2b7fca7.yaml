@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-21a2b7fca7
+created: 2026-09-14T23:47:13.887Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412872784
+title: Authentication and Authorization for AI Agents and Risks Involved
+authors:
+  - Ravitheja Chinni
+year: 2025
+venue: null
+doi: 10.36227/techrxiv.175296671.18174679/v1
+url: https://doi.org/10.36227/techrxiv.175296671.18174679/v1
+abstract: Enterprises are quickly transforming workflows through AI agents, autonomous software agents that make real-time decisions but now poorly suited to securing them. The existing systems of authentication and authorization, including OAuth 2.0 Client Credentials, mTLS, and RBAC/ABAC, do provide a basis but do not reflect the autonomy inherent in and behavioural unpredictability of AI agents and the challenges of their delegation. In this paper, the author critically looks at novel technologies and architectures aimed at agentic identity assurance. Authenticated delegation models were compared, including the extensions of the OAuth/OIDC standard by MIT, that support limited human delegation and the possibility of auditing the actions of agents. Industry solutions such as Auth0 for GenAI were examined, which combines and contrasts a Token Vault and asynchronous human-in-the-loop approval pipelines. Ephemeral authentication was also examined, where short-duration and contextspecific identity is proclaimed by the Cloud Security Alliance, used through AWS STS and GCP service-service impersonation. Beyond token models, the article also exemplified the fine-grained authorization (ABAC, policy-based RBAC) and continuous behavioural verification where trust is dynamically stepped up or down depending on the pattern observed at run-time. These models are promising, although still at an early stage; there is a need to have wider standardization, interoperability and enterprise readiness.
+type: preprint
+open_access: true
+cited_by: 1
+query: '"LlamaFirewall" runtime security framework'
+question: null
+search: SEARCH-dd1444607d
+score: 1.075
+score_parts:
+  rank: 0.1
+  citations: 0.075
+  recency: 0.9
+needs_approval: true
+state: candidate

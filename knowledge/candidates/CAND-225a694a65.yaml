@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-225a694a65
+created: 2026-09-15T07:51:13.215Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20944/preprints202512.1744.v1
+title: "ToolSEE: Agent Tool Search Engine for Efficient and Scalable Tool Discovery Using Retrieval"
+authors:
+  - Praneeth Vadlapati
+year: 2025
+venue: null
+doi: 10.20944/preprints202512.1744.v1
+url: https://doi.org/10.20944/preprints202512.1744.v1
+abstract: Tool-augmented conversational agents increasingly operate over large and evolving tool catalogs, rendering the enumeration of all tool descriptions within the model context impractical due to excessive latency, token consumption, and an expanded action space that undermines selection reliability. This paper introduces ToolSEE, a lightweight retrieval layer that decouples tool discovery from model prompting by indexing structured tool metadata and dense semantic embeddings to retrieve a compact, query-conditioned subset of relevant tools. ToolSEE further supports controlled dynamic expansion during agent execution by allowing agents to issue targeted search queries when additional tools are required, thereby maintaining bounded context size while preserving flexibility. This paper describes the system architecture and retrieval mechanisms and empirically evaluates ToolSEE across multiple agent workloads. Results demonstrate that retrieval-based tool selection preserves tool-calling correctness relative to in-context enumeration baselines, while substantially reducing prompt token usage and input latency, highlighting ToolSEE’s effectiveness as a scalable and production-ready solution for extensive tool catalogs. The source code is available at github.com/Pro-GenAI/Tool-SEE.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"dynamic tool retrieval LLM agent journal 2024 2025'
+question: null
+search: SEARCH-da10c5ec54
+score: 0.943
+score_parts:
+  rank: 0.043
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

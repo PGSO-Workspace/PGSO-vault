@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-6580d57b10
+created: 2026-09-15T05:35:44.206Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-diagnostics-validation-84242c9.tar
+hash: 6580d57b10ee687d746b3dd6bc365be282a22a9e50451f8a64974c05455105ea
+bytes: 501760
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Imported clean SDK84242c9 engineering and matched-comparator release reruns after bounded receipt diagnostics enhancement; complete manifests/raw outputs/stderr. SDK execution, not a PhDude rerun or human diagnostic study.

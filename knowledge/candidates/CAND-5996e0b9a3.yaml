@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5996e0b9a3
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/ipdpsw66978.2025.00156
+title: Towards Orchestrating Agentic Applications as FaaS Workflows
+authors:
+  - Shiva Sai Krishna Anand Tokal
+  - Vaibhav Jha
+  - Anand Eswaran
+  - Praveen Jayachandran
+  - Yogesh Simmhan
+year: 2025
+venue: 2025 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)
+doi: 10.1109/ipdpsw66978.2025.00156
+url: https://doi.org/10.1109/ipdpsw66978.2025.00156
+abstract: null
+type: article
+open_access: null
+cited_by: 4
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.117
+score_parts:
+  rank: 0.042
+  citations: 0.175
+  recency: 0.9
+needs_approval: false
+state: candidate

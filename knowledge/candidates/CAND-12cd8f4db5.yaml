@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-12cd8f4db5
+created: 2026-09-15T07:38:43.488Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3390/e25101407
+title: Probabilistic Learning and Psychological Similarity
+authors:
+  - Nina Poth
+year: 2023
+venue: Entropy
+doi: 10.3390/e25101407
+url: https://doi.org/10.3390/e25101407
+abstract: The notions of psychological similarity and probabilistic learning are key posits in cognitive, computational, and developmental psychology and in machine learning. However, their explanatory relationship is rarely made explicit within and across these research fields. This opinionated review critically evaluates how these notions can mutually inform each other within computational cognitive science. Using probabilistic models of concept learning as a case study, I argue that two notions of psychological similarity offer important normative constraints to guide modelers’ interpretations of representational primitives. In particular, the two notions furnish probabilistic models of cognition with meaningful interpretations of what the associated subjective probabilities in the model represent and how they attach to experiences from which the agent learns. Similarity representations thereby provide probabilistic models with cognitive, as opposed to purely mathematical, content.
+type: article
+open_access: null
+cited_by: 4
+query: '"10.1109/ACCESS.2026.3719838" "Date of Publication"'
+question: null
+search: SEARCH-210eb9e969
+score: 0.928
+score_parts:
+  rank: 0.053
+  citations: 0.175
+  recency: 0.7
+needs_approval: false
+state: candidate

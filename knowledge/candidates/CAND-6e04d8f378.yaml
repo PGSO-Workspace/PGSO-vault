@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6e04d8f378
+created: 2026-09-15T06:32:59.436Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404782655
+title: "BLSP-Emo: Towards Empathetic Large Speech-Language Models"
+authors:
+  - Chen Wang
+  - Minpeng Liao
+  - Zhongqiang Huang
+  - Junhong Wu
+  - Chengqing Zong
+  - Jiajun Zhang
+year: 2024
+venue: null
+doi: 10.18653/v1/2024.emnlp-main.1070
+url: https://doi.org/10.18653/v1/2024.emnlp-main.1070
+abstract: The recent release of GPT-4o showcased the potential of end-to-end multimodal models, not just in terms of low latency but also in their ability to understand and generate expressive speech with rich emotions.While the details are unknown to the open research community, it likely involves significant amounts of curated data and compute, neither of which is readily accessible.In this paper, we present BLSP-Emo (Bootstrapped Language-Speech Pretraining with Emotion support), a novel approach to developing an end-to-end speechlanguage model capable of understanding both semantics and emotions in speech and generate empathetic responses.BLSP-Emo utilizes existing speech recognition (ASR) and speech emotion recognition (SER) datasets through a two-stage process.The first stage focuses on semantic alignment, following recent work on pretraining speech-language models using ASR data.The second stage performs emotion alignment with the pretrained speech-language model on an emotion-aware continuation task constructed from SER data.Our experiments demonstrate that the BLSP-Emo model excels in comprehending speech and delivering empathetic responses, both in instruction-following tasks and conversations. 1
+type: other
+open_access: true
+cited_by: 18
+query: speech language model evaluation paralinguistic benchmark instruction following
+question: null
+search: SEARCH-463495b5f3
+score: 1.32
+score_parts:
+  rank: 0.2
+  citations: 0.32
+  recency: 0.8
+needs_approval: false
+state: candidate

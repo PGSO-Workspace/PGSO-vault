@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-93df81cbf0
+created: 2026-09-15T00:31:18.055Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.specom.2021.05.010
+title: Use of affect context in dyadic interactions for continuous emotion recognition
+authors:
+  - Syeda Narjis Fatima
+  - Engin Erzin
+year: 2021
+venue: Speech Communication
+doi: 10.1016/j.specom.2021.05.010
+url: https://doi.org/10.1016/j.specom.2021.05.010
+abstract: null
+type: article
+open_access: null
+cited_by: 4
+query: '"Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition"'
+question: null
+search: SEARCH-40c323d84c
+score: 0.725
+score_parts:
+  rank: 0.05
+  citations: 0.175
+  recency: 0.5
+needs_approval: false
+state: candidate

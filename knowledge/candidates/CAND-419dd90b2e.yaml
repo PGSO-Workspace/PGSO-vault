@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-419dd90b2e
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1002/aaai.70036
+title: "From rights to runtime: Privacy engineering for agentic AI"
+authors:
+  - Keivan Navaie
+year: 2025
+venue: AI Magazine
+doi: 10.1002/aaai.70036
+url: https://doi.org/10.1002/aaai.70036
+abstract: "Abstract Agentic AI shifts stacks from request‐response to plan‐execute. Systems no longer just answer; they act—planning tasks, calling tools, keeping memory, and changing external state. That shift moves privacy from policy docs into the runtime. This opinion piece argues that we do not need a new privacy theory for agents; we need enforceable, observable controls that render existing rights as product behavior. Anchoring on GDPR—with portable touchpoints to CPRA, LGPD, and PDPA, we propose a developer‐first toolkit: optional, bounded, user‐visible memory; a purpose‐aware egress gate that enforces minimization and transfer rules; proportional safeguards that scale with stakes; and traces that tell a coherent story across components and suppliers. We show how the EU AI Act's risk management, logging, and oversight can scaffold these controls and enable evidence reuse. The result is an agentic runtime that keeps people in control and teams audit‐ready by design."
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 0.925
+score_parts:
+  rank: 0.025
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

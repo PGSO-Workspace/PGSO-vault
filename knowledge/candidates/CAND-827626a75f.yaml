@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-827626a75f
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.36227/techrxiv.177219979.94060974/v1
+title: "Tool Execution Hallucination in LLM-based Agents: A Unified Taxonomy with Detection, Mitigation, and Future Directions"
+authors:
+  - Hanli Peng
+  - Yongsen Zheng
+  - Ziyao Liu
+  - Kwok-Yan Lam
+year: 2026
+venue: null
+doi: 10.36227/techrxiv.177219979.94060974/v1
+url: https://doi.org/10.36227/techrxiv.177219979.94060974/v1
+abstract: Large Language Model (LLM) agents increasingly rely on external tools to solve complex tasks, yet their failures often arise from erroneous decisions within the agent execution flow rather than tool unavailability. Although hallucination in LLMs has been widely studied, existing surveys largely focus on factual errors or coarse-grained tool usage, overlooking agent-specific hallucinations that emerge from decision failures during tool execution. In this survey, we systematically characterize tool execution hallucination in LLM-based agents by formalizing failure modes with respect to the agent execution flow. We propose a unified taxonomy that organizes hallucinations according to where they occur in the agent pipeline, with a particular focus on the tool selection and tool calling stages under both single-turn and multi-turn settings. Based on this taxonomy, we synthesize existing detection and mitigation techniques according to how they intervene in different stages of the agent execution flow, and review representative benchmarks. Our analysis highlights key gaps in current methods, including error propagation across iterations and insufficient awareness of task solvability. By grounding these challenges in the agent execution flow, our survey provides a unifying perspective that connects failure modes, mitigation strategies, and evaluation protocols, and outlines future directions toward more reliable and trustworthy LLM agents.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.03
+score_parts:
+  rank: 0.03
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

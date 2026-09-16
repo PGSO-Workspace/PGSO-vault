@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-018ae2bd7f
+created: 2026-09-15T07:34:04.334Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6352164
+title: "Execution-Witness Binding: Proof-Carrying Authorization for LLM Agent Runtimes"
+authors:
+  - Shawn Cohen
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6352164
+url: https://doi.org/10.2139/ssrn.6352164
+abstract: "Agentic AI systems that execute privileged actions via tool calls face a fundamental security challenge: autoregressive language models process all tokens uniformly, making deterministic command-data separation unattainable through training alone. Recent concurrent work (Bhattarai &amp; Vu 2026; Kolluri et al. 2026) has independently established that deterministic architectural enforcement is necessary for trustworthy agent deployment, validating the problem space that motivated this work. However, existing proposals evaluate policy at the execution boundary, introducing time-of-check-time-of-use (TOCTOU) vulnerabilities and stateful policy side effects when composition-aware risk tracking is employed. We present MVAR (MIRRA Verified Agent Runtime), an open-source enforcement layer whose architecture was developed independently from these concurrent proposals, originating from the author's prior work on stateful temporal systems (2025). MVAR addresses limitations in per-call evaluation through three novel mechanisms: (1) a composition risk engine that tracks cumulative session-level risk across tool chains via sliding-window scoring, detecting stealthy multi-step laundering attacks invisible to prior per-call models; (2) execution-witness binding, a proof-carrying code approach that separates planning-phase policy evaluation from execution-phase authorization via cryptographic witness verification, eliminating TOCTOU vulnerabilities and double-evaluation side effects; and (3) one-time execution token replay defense with persistent nonce consumption across process restarts. We validate these mechanisms against a reproducible 50-vector adversarial corpus spanning 9 attack categories, with all enforcement behavior CIregression-protected. MVAR is available under Apache 2.0 at https://github.com/mvar-security/mvar."
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal LLM agent tool permission authorization runtime enforcement security guardrails
+question: null
+search: SEARCH-b0fa183ef0
+score: 1.042
+score_parts:
+  rank: 0.042
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

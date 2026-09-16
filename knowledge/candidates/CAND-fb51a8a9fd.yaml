@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-fb51a8a9fd
+created: 2026-09-15T07:34:45.095Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4409992000
+title: "A Review on Agent-to-Agent Protocol: Concept, State-of-the-art, Challenges and Future Directions"
+authors:
+  - Partha Pratim Ray
+year: 2025
+venue: null
+doi: 10.36227/techrxiv.174612014.42157096/v1
+url: https://doi.org/10.36227/techrxiv.174612014.42157096/v1
+abstract: The evolution of autonomous multi-agent systems has created an urgent need for standardized, interoperable communication protocols capable of orchestrating complex, stateful workflows across heterogeneous agents. Traditional point-topoint (P2P) API designs and monolithic orchestration platforms lack the modularity, extensibility, and observability required to scale dynamic, decentralized agent ecosystems. The Agentto-Agent (A2A) protocol emerges as a foundational solution by leveraging HTTP, JavaScript Object Notation-Remote Procedure Call (JSON-RPC), and Server-Sent Events (SSE) to enable discoverable capabilities, task-driven workflows, structured artifact exchanges, and real-time status updates. This review article provides a comprehensive analysis of the A2A protocol, articulating its core architectural principles-including the role of Agent Cards, Tasks, Messages, Parts, and Artifacts-as well as the transport, authentication, and event-driven mechanisms that underpin secure and auditable agent interoperability. We examine a broad range of industrial and research use cases, spanning enterprise automation, smart manufacturing, supply chain orchestration, personalized education, and disaster management. Furthermore, we critically evaluate deployment challenges such as schema evolution, multi-tenant authentication, durable state persistence, semantic interoperability, and privacy preservation. Drawing from these insights, we propose prescriptive design patterns and best practices to ensure robust, scalable A2A system implementations. Finally, we highlight future research directions, including decentralized discovery, confidential computing, and AI-driven orchestration, positioning A2A as a keystone for building resilient, composable agentic networks across domains.
+type: preprint
+open_access: true
+cited_by: 8
+query: 2024 2025 journal LLM agents runtime monitor policy enforcement tool calls
+question: null
+search: SEARCH-b7942200d3
+score: 1.198
+score_parts:
+  rank: 0.059
+  citations: 0.239
+  recency: 0.9
+needs_approval: true
+state: candidate

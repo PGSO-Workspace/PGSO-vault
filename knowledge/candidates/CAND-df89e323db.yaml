@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-df89e323db
+created: 2026-09-15T00:24:33.994Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392292999
+title: "Hand-in-hand: The co-construction of children's participation rights in an early childhood education setting"
+authors:
+  - Cynthia Hicban
+year: 2024
+venue: Queensland University of Technology
+doi: 10.5204/thesis.eprints.246679
+url: https://doi.org/10.5204/thesis.eprints.246679
+abstract: This study identified how children’s participation rights are upheld in an early childhood education setting, drawing on extracts taken from 75 hours of video recordings of educator-child and child-child interactions. The study developed a new instrument, Listening to Voices in Interaction for Participation (LViIP) that employed conversation analysis and Lundy’s model of participation (2007). The tool identified the precisely timed verbal and non-verbal actions facilitating rights enactment, demonstrated how children create spaces for their voices to exert influence, and how even young children can be peer coaches. The study’s implications include fresh perspectives on how participation rights can be achieved.
+type: other
+open_access: true
+cited_by: 2
+query: voice agents prosody paralinguistic affective dialogue governance evaluation
+question: null
+search: SEARCH-fb4225ca20
+score: 1.062
+score_parts:
+  rank: 0.143
+  citations: 0.119
+  recency: 0.8
+needs_approval: false
+state: candidate

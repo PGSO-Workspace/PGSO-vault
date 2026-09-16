@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f150db4c05
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4409474206
+title: "Biomimetic Robotics and Intelligence: A Survey"
+authors:
+  - Yixuan Sheng
+  - Wei Nie
+  - Zhao Liu
+  - Hanlin Zhang
+  - Hao Zhou
+  - Ziyong Liu
+  - Honghai Liu
+year: 2025
+venue: SmartBot
+doi: 10.1002/smb2.12010
+url: https://doi.org/10.1002/smb2.12010
+abstract: ABSTRACT Biomimetic robotics and intelligence, which draws inspiration from biological systems, is an emerging field that bridges biology, engineering, and artificial intelligence. By replicating biological structures, behaviors, and sensory systems, biomimetic robotics are designed to operate effectively in diverse environments, such as humanoid robots for domestic use, quadruped robots for uneven terrains, and aerial robots for navigation through confined spaces. Biomimetic intelligence, grounded in the study of natural cognitive processes, has led to the development of advanced algorithms like genetic algorithms and neural networks, which optimize problem‐solving and decision‐making in robotic systems. These innovations enhance the capabilities of biomimetic robots, enabling them to perform complex tasks autonomously and adapt to dynamic conditions. This survey provides an overview of the latest advancements in biomimetic robotics and intelligence, focusing on key areas such as biomimetic robots, sensors and sensing technologies, and intelligence algorithms. It also discusses the current challenges in the field and outlines potential directions for future research.
+type: article
+open_access: true
+cited_by: 22
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 1.293
+score_parts:
+  rank: 0.053
+  citations: 0.34
+  recency: 0.9
+needs_approval: false
+state: candidate

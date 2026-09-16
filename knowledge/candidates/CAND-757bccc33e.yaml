@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-757bccc33e
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/978-3-031-76770-8_6
+title: Prompting Large Language Models with Privacy
+authors:
+  - Pin-Yu Chen
+  - Sijia Liu
+year: 2025
+venue: Introduction to Foundation Models
+doi: 10.1007/978-3-031-76770-8_6
+url: https://doi.org/10.1007/978-3-031-76770-8_6
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 0.929
+score_parts:
+  rank: 0.029
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

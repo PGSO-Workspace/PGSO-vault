@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-fe49be1fd4
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icst66402.2025.11512340
+title: "Sensing-Aware Emotion Recognition: Optimizing Robot Viewpoints for Human-Robot Interaction"
+authors:
+  - Katie Powell
+  - Lei Shi
+  - Sarath Kodagoda
+  - Teresa Vidal-Calleja
+year: 2025
+venue: 2025 18th International Conference on Sensing Technology (ICST)
+doi: 10.1109/icst66402.2025.11512340
+url: https://doi.org/10.1109/icst66402.2025.11512340
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 0.936
+score_parts:
+  rank: 0.036
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

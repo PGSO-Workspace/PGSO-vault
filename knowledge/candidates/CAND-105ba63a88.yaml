@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-105ba63a88
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411506437
+title: "From Tools to Agents: Meta-Analytic Insights into Human Acceptance of AI"
+authors:
+  - Bingqing Li
+  - Edward Yuhang Lai
+  - Xin (Shane) Wang
+year: 2025
+venue: Journal of Marketing
+doi: 10.1177/00222429251355266
+url: https://doi.org/10.1177/00222429251355266
+abstract: As artificial intelligence (AI) becomes more autonomous and socially present, it is critical to understand how people accept AI not just as a technological tool, but also as an agent capable of (semi)autonomous decision-making and interaction. With a meta-analysis of 287 effect sizes representing over 119,000 individuals, this research examines the factors driving human acceptance of AI. Through a dual-perspective framework, AI as a tool versus AI as an agent, the authors identify key AI characteristics, including capability, role, expertise scope, and anthropomorphism, that significantly influence acceptance. These engineerable AI characteristics, along with contextual and individual factors, form an AI–task–user framework that explains AI acceptance across different use scenarios and user groups. These findings contribute to the discourse on AI acceptance and human–AI interactions, revealing a small, decreasing reluctance to accept AI and, more importantly, directing future research to empirical testing and theory building of AI acceptance from an agentic perspective. This research also provides an actionable user-centered design roadmap for practitioners to develop and communicate AI features that align with human expectations and enhance positive responses, especially at a time when agentic AI is rapidly becoming a technological and societal reality.
+type: article
+open_access: true
+cited_by: 33
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.307
+score_parts:
+  rank: 0.024
+  citations: 0.383
+  recency: 0.9
+needs_approval: false
+state: candidate

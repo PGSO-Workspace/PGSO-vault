@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-cbdaa843ec
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7204124140
+title: Cross-modal audio-text attention for multimodal multitask speech emotion recognition in low-resource Urdu
+authors:
+  - Abdullah Abdullah
+  - Muhammad Ateeb Ather
+  - Zulaikha Fatima
+  - Olga Kolesnikova
+  - Grigori Sidorov
+year: 2026
+venue: Scientific Reports
+doi: 10.1038/s41598-026-69201-2
+url: https://doi.org/10.1038/s41598-026-69201-2
+abstract: Speech Emotion Recognition (SER) in low-resource languages remains challenging due to limited annotated data, speaker variability, and the multimodal nature of emotional expression. This paper repositions established components wav2vec 2.0, XLM-R, cross-modal attention, and multitask affective modeling into a framework jointly validated across speaker-independent, cross-lingual zero-shot, and attribution-faithfulness generalization for Urdu, a combination not jointly reported in prior Urdu SER work. The proposed multimodal multitask model achieves 91.3% emotion recognition accuracy on the Urdu Speech Emotion Corpus (UrSEC), outperforming strong audio-only and text-only baselines, with joint valence-arousal learning consistently improving over emotion-only training. Speaker-independent evaluation shows a performance drop relative to random-split testing but confirms substantial robustness to speaker-specific bias. Cross-lingual zero-shot evaluation on English datasets yields 80.2 ± 1.3% (IEMOCAP) to 86.3 ± 0.9% (CREMA-D) accuracy without fine-tuning, indicating substantial cross-lingual transfer, though this alone does not establish full language-neutrality. All performance gains are statistically validated across multiple runs, and attention/Integrated Gradients analyses, supported by quantitative faithfulness testing, show the model relies on emotionally salient acoustic regions and Urdu tokens rather than spurious correlations.
+type: article
+open_access: true
+cited_by: 0
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 1.1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

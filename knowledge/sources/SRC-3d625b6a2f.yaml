@@ -1,0 +1,24 @@
+schema: phdude.source
+version: 1
+id: SRC-3d625b6a2f
+created: 2026-09-15T09:57:54.065Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: PGSO live-state reward-basis evaluator 19b5c58
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-21590a6529
+  - ART-4978f18205
+  - ART-8068ab3b63
+  - ART-8ae10c26fd
+  - ART-a1b4471cd5
+  - ART-e8c4e1bfff
+state: candidate
+year: 2026
+url: https://github.com/PGSO-Workspace/pgso-sdk/pull/15
+abstract: SDK source 19b5c58146af0e4c4f35e2cebe57d4cc81bceb6e adds optional live reward-basis scoring for DB, COMMUNICATE and ENV_ASSERTION. Observed effects are never reconstructed from attempted calls; only authored reference actions run in a separate gold environment. Empty, duplicate or unsupported reward bases and gold-action failures are rejected. Six focused checks, two default/composite CLI checks with four arms, and one actual seven-arm integration check with mocked generation pass. The CLI still selects the same three ENV_ASSERTION telecom tasks. DB/COMMUNICATE support has offline fixture evidence, not a completed domain-transfer evaluation; substring communication checks do not measure interaction quality.
+bibkey: workspace2026pgso-6

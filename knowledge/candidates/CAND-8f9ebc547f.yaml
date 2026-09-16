@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8f9ebc547f
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4387561135
+title: "MetaAgents: Large Language Model Based Agents for Decision-Making on Teaming"
+authors:
+  - Yuan Li
+  - Lichao Sun
+  - Yixuan Zhang
+year: 2023
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2310.06500
+url: http://arxiv.org/abs/2310.06500
+abstract: Significant advancements have occurred in the application of Large Language Models (LLMs) for social simulations. Despite this, their abilities to perform teaming in task-oriented social events are underexplored. Such capabilities are crucial if LLMs are to effectively mimic human-like social behaviors and form efficient teams to solve tasks. To bridge this gap, we introduce MetaAgents, a social simulation framework populated with LLM-based agents. MetaAgents facilitates agent engagement in conversations and a series of decision making within social contexts, serving as an appropriate platform for investigating interactions and interpersonal decision-making of agents. In particular, we construct a job fair environment as a case study to scrutinize the team assembly and skill-matching behaviors of LLM-based agents. We take advantage of both quantitative metrics evaluation and qualitative text analysis to assess their teaming abilities at the job fair. Our evaluation demonstrates that LLM-based agents perform competently in making rational decisions to develop efficient teams. However, we also identify limitations that hinder their effectiveness in more complex team assembly tasks. Our work provides valuable insights into the role and evolution of LLMs in task-oriented social simulations.
+type: preprint
+open_access: true
+cited_by: 20
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.122
+score_parts:
+  rank: 0.091
+  citations: 0.331
+  recency: 0.7
+needs_approval: true
+state: candidate

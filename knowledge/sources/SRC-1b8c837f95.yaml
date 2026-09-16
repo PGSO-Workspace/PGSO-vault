@@ -1,0 +1,28 @@
+schema: phdude.source
+version: 1
+id: SRC-1b8c837f95
+created: 2026-09-15T09:06:21.995Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: PGSO public-task NeMo and Invariant comparator integration 151b6b4
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-07af7c3aeb
+  - ART-10f490ff2b
+  - ART-19385ace0d
+  - ART-2ac8ed973c
+  - ART-4976de3672
+  - ART-4c69eb6f60
+  - ART-7c79a60442
+  - ART-806c021490
+  - ART-8a1ccc890b
+  - ART-e8e0d5cfc4
+state: candidate
+year: 2026
+url: https://github.com/PGSO-Workspace/pgso-sdk/pull/13
+abstract: Opt-in task-level NeMo Guardrails and Invariant integrations use independent host-authored temporal state and real framework DSL decisions from raw acoustic observations. Shared Rust supplies schema, host-permission and actual sandbox callback enforcement with no paralinguistic governed tools in these arms. Three framework checks, three opt-in pilot checks and three default pilot checks passed offline. Paid generation was mocked; these checks establish connectivity and scoped behavior, not task superiority. Policy evaluation and callback are sequential; native framework temporal state and concurrent-host protection are not claimed.
+bibkey: workspace2026pgso-3

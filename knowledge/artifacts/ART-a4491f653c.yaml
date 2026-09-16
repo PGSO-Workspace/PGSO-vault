@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-a4491f653c
+created: 2026-09-15T06:12:39.208Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/operational-7805fb9/review-notes.md
+paths:
+  - sources/software/pgso-sdk/operational-7805fb9/review-notes.md
+hash: a4491f653cca11746491402b2aa98b6ddfdb2dd1cf36139c82ad037f21ebbd17
+bytes: 2408
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 2408
+  sections: 4
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T06:12:38.775Z

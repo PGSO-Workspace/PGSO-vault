@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-871e1d372a
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3472307.3484181
+title: Mitigating the Effects of Delayed Virtual Agent Response Time Using Conversational Fillers
+authors:
+  - Halim-Antoine Boukaram
+  - Micheline Ziadee
+  - Majd F Sakr
+year: 2021
+venue: Proceedings of the 9th International Conference on Human-Agent Interaction
+doi: 10.1145/3472307.3484181
+url: https://doi.org/10.1145/3472307.3484181
+abstract: null
+type: article
+open_access: null
+cited_by: 19
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 0.892
+score_parts:
+  rank: 0.067
+  citations: 0.325
+  recency: 0.5
+needs_approval: false
+state: candidate

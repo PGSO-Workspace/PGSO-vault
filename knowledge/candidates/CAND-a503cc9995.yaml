@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a503cc9995
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4409884588
+title: Investigating LLM-Driven Curiosity in Human-Robot Interaction
+authors:
+  - Jan Leusmann
+  - Anna Belardinelli
+  - Luke Haliburton
+  - Stephan Hasler
+  - Albrecht Schmidt
+  - Sven Mayer
+  - Michael Gienger
+  - Chao Wang
+year: 2025
+venue: null
+doi: 10.1145/3706598.3713923
+url: https://doi.org/10.1145/3706598.3713923
+abstract: "There seems to be a solid object inside.\"\"What other toppings do you usually like on your pizza?\" Figure 1: We imbued a robot with curious behaviors.The figure shows two examples.Left: The robot shakes a container to check whether there is an object inside.Right: The robot asks for the person's preferences."
+type: other
+open_access: true
+cited_by: 8
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 1.189
+score_parts:
+  rank: 0.05
+  citations: 0.239
+  recency: 0.9
+needs_approval: false
+state: candidate

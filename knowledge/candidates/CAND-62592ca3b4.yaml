@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-62592ca3b4
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7105498
+title: "The Enforcement Gap: Why Africa's AI Regulations Need Runtime Enforcement"
+authors:
+  - Oluwajuwon Omotayo
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7105498
+url: https://doi.org/10.2139/ssrn.7105498
+abstract: Africa is not facing an AI regulation gap; it is facing an AI enforcement gap. Nigeria, Kenya, South Africa, and the African Union have all moved quickly on data protection, financial conduct, and AI-specific rules, with real enforcement to back them, including a $220 million penalty against Meta and a ₦766.2 million penalty against MultiChoice Nigeria. At the same time, AI agents are already approving loans, screening transactions, and accessing patient records at production scale, built on frameworks (LangChain, LangGraph, CrewAI, AutoGen) with no built-in awareness of the jurisdiction they operate in. This paper argues that the resulting accountability gap is not a policy problem to be solved with more legislation, but an infrastructure problem, requiring a runtime enforcement layer that evaluates AI agent actions against jurisdiction-specific policy before execution. Drawing on firsthand experience translating Nigerian, Kenyan, and South African regulatory frameworks into machine-checkable policy, including a contribution merged into Microsoft's Agent Governance Toolkit that was outdated by a change in Nigerian law eight days later, the paper documents where legal requirements map cleanly onto code, where they don't, and what an operative runtime enforcement model looks like in practice. It closes with specific recommendations for developers, fintechs, and regulators, including the African Union's Continental AI Strategy Phase 2.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.059
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

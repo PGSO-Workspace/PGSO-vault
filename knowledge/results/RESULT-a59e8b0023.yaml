@@ -1,0 +1,18 @@
+schema: phdude.result
+version: 1
+id: RESULT-a59e8b0023
+created: 2026-09-15T00:15:39.375Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: Two fresh processes produced identical synthetic decision traces on this build
+from: ANALYSIS-1a3562f88b
+values:
+  processes: 2
+  sha256: 43de84a00bddbce0c198a0763735690405c5029ca73a6e4446d2e954b536faa6
+state: candidate
+ext:
+  analysis:
+    key: replay
+    run_at: 2026-09-15T00:15:39.375Z

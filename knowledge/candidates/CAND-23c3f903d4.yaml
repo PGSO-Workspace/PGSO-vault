@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-23c3f903d4
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1098/rsos.240180/v1/review1
+title: 'Review for "Personality testing of large language models: limited temporal stability, but highlighted prosociality"'
+authors: []
+year: 2024
+venue: null
+doi: 10.1098/rsos.240180/v1/review1
+url: https://doi.org/10.1098/rsos.240180/v1/review1
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 0.84
+score_parts:
+  rank: 0.04
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

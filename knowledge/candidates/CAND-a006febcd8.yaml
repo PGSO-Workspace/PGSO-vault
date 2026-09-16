@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a006febcd8
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410640076
+title: A Comprehensive Review of Multimodal Analysis in Education
+authors:
+  - Jared D. T. Guerrero-Sosa
+  - Francisco P. Romero
+  - Víctor Hugo Menéndez Domínguez
+  - Jesus Serrano‐Guerrero
+  - Andrés Montoro-Montarroso
+  - José Á. Olivas
+year: 2025
+venue: Applied Sciences
+doi: 10.3390/app15115896
+url: https://doi.org/10.3390/app15115896
+abstract: Multimodal learning analytics (MMLA) has become a prominent approach for capturing the complexity of learning by integrating diverse data sources such as video, audio, physiological signals, and digital interactions. This comprehensive review synthesises findings from 177 peer-reviewed studies to examine the foundations, methodologies, tools, and applications of MMLA in education. It provides a detailed analysis of data collection modalities, feature extraction pipelines, modelling techniques—including machine learning, deep learning, and fusion strategies—and software frameworks used across various educational settings. Applications are categorised by pedagogical goals, including engagement monitoring, collaborative learning, simulation-based environments, and inclusive education. The review identifies key challenges, such as data synchronisation, model interpretability, ethical concerns, and scalability barriers. It concludes by outlining future research directions, with emphasis on real-world deployment, longitudinal studies, explainable artificial intelligence, emerging modalities, and cross-cultural validation. This work aims to consolidate current knowledge, address gaps in practice, and offer practical guidance for researchers and practitioners advancing multimodal approaches in education.
+type: article
+open_access: true
+cited_by: 45
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 1.441
+score_parts:
+  rank: 0.125
+  citations: 0.416
+  recency: 0.9
+needs_approval: false
+state: candidate

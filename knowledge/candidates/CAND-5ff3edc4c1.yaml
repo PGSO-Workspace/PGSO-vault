@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5ff3edc4c1
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7165011566
+title: "The CMA Agentic Platform: Autonomous Asset Verification and Algorithmic Auditor Governance"
+authors:
+  - Abdulkarim Hamdan J. Alhazmi
+  - Sardar M. N. Islam
+  - Maria Prokofieva
+year: 2026
+venue: FinTech
+doi: 10.3390/fintech5020055
+url: https://doi.org/10.3390/fintech5020055
+abstract: "Saudi Arabia’s audit market faces three governance challenges that existing frameworks may not fully address. These challenges concern a potential regulatory gap around autonomous AI accountability, a trust dimension that standard technology-adoption models may not fully capture, and limited mechanisms for independently verified ESG assurance under Vision 2030. This study adopts a conceptual design approach within the design science research tradition and proposes the CMA Agentic AI Platform as a practical response to these challenges. The platform comprises two segments. Segment 1 deploys autonomous drone swarms to verify corporate assets across four audit tasks—asset valuation, ESG compliance, anomaly detection and construction progress—using deep learning, thermal imaging and social-media cross-referencing. Segment 2 continuously monitors discretionary accruals and uses objective earnings-management data to inform auditor assignment and rotation decisions. This approach replaces subjective reputational assessments with transparent, quantifiable governance criteria. The platform is governed through the Triadic Agentic Framework, which extends classical agency theory by distributing authority across the Principal, the Human Agent and the AI Agent. The framework also operationalises Trust Expectancy as the primary adoption condition. The evidence base draws on two complementary streams: a PRISMA-guided systematic review and bibliometric analysis of thirty-nine peer-reviewed studies, and a documentary analysis of four national agentic-AI regulatory frameworks (SDAIA, MDDI/IMDA, NIST and ICO). The study contributes the concept of Algorithmic Accountability as a distinct governance domain, the Triadic Agentic Framework as an operational architecture for autonomous regulatory monitoring, and a reframing of the UTAUT trust construct for agentic-AI adoption in mature professional contexts. The platform converts theoretical governance into a regulatory architecture with direct implications for concentrated capital market regulators."
+type: article
+open_access: true
+cited_by: 1
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.175
+score_parts:
+  rank: 0.1
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d3a936b173
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.ijhcs.2025.103585
+title: Effects of interaction modalities and emotional states on user’s perceived empathy with an LLM-based embodied conversational agent
+authors:
+  - Yang Gao
+  - Yangbin Dai
+  - Guangtao Zhang
+  - Honglei Guo
+  - Aimin Hao
+  - Shuai Li
+year: 2025
+venue: International Journal of Human-Computer Studies
+doi: 10.1016/j.ijhcs.2025.103585
+url: https://doi.org/10.1016/j.ijhcs.2025.103585
+abstract: null
+type: article
+open_access: null
+cited_by: 11
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 1.67
+score_parts:
+  rank: 0.5
+  citations: 0.27
+  recency: 0.9
+needs_approval: false
+state: candidate

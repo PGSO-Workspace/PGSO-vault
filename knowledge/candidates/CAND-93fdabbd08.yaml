@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-93fdabbd08
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-6042607/v1
+title: "Context-Aware Search: LLM-Driven Model for Searching Emerging Topics"
+authors:
+  - Paramita Ray
+  - Aditi Basu
+year: 2025
+venue: null
+doi: 10.21203/rs.3.rs-6042607/v1
+url: https://doi.org/10.21203/rs.3.rs-6042607/v1
+abstract: Abstract As new topics emerge, users often struggle to find relevant and reliable information due to evolving terminology, ambiguous queries, and a lack of indexed resources. Traditional search engines may fail to capture the context and intent behind such searches, leading to suboptimal results. This study explores how Large Language Models (LLMs) can enhance query expansion and understanding of emerging topics, ensuring more effective and meaningful information retrieval. By leveraging context-aware query reformulation, semantic enrichment, and interactive refinement, LLMs can dynamically adapt search queries to improve recall, relevance, and ranking. This is particularly valuable in rapidly growing fields such as public health, finance, disaster response, and technology, where new terms and concepts emerge frequently. Our approach integrates query expansion, and neural reranking techniques to refine search intent and deliver more accurate results. The goal of this research is to develop a more adaptive, intuitive, and intelligent search framework that enhances the user experience by making web searches more precise, context-aware (Expand queries based on context rather than similarity), and informative, benefiting both general users and domain experts.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 0.936
+score_parts:
+  rank: 0.036
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

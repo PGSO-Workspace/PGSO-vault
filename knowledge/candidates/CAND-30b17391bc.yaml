@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-30b17391bc
+created: 2026-09-15T09:45:34.518Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6179119
+title: "MERVR: Multimodal Emotion Recognition with Personalized Validation Response Generation"
+authors:
+  - Mark Sean
+  - Tian Di
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6179119
+url: https://doi.org/10.2139/ssrn.6179119
+abstract: Recent advances in human-AI dialogue systems have achieved strong performance in emotion recognition and empathetic response generation; however, most existing approaches process conversational and facial emotions in isolation, limiting their ability to capture crossmodal emotional cues and to resolve conflicts between verbal and visual expressions. In this work, we propose MERVR (Multimodal Emotion Recognition with Validation Response), a unified framework that integrates adaptive conversation-based emotion recognition, temporal facial emotion analysis, and personalized validation response generation within a single pipeline. MERVR models cross-modal emotional cues through adaptive embedding layers with memory-guided processing, improves facial emotion stability via temporal smoothing and context-aware fusion, and generates validating responses using neural response modeling with conversation flow awareness. We evaluate the proposed framework on widely used benchmarks, including IEMOCAP, EmpatheticDialogues, and AffectNet. Experimental results show that MERVR achieves a weighted F1-score of 78.45% on IEMOCAP, a macro-average F1-score of 56.8% for validation timing detection, and a multimodal emotion recognition accuracy of 76.85%. Compared with single-modality variants, the proposed multimodal framework consistently improves recognition performance and robustness, while additional analyses indicate reduced frame-to-frame instability in facial emotion predictions and improved response appropriateness in a small-scale user study for repeated interactions.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Dual Learning for Conversational Emotion Recognition and Emotional Response Generation" PDF'
+question: null
+search: SEARCH-370d9309b7
+score: 1.077
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

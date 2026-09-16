@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-27872bfec2
+created: 2026-09-15T08:10:36.723Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W2055985212
+title: Design science in information systems research
+authors:
+  - Martin Bichler
+year: 2006
+venue: WIRTSCHAFTSINFORMATIK
+doi: 10.1007/s11576-006-0028-8
+url: https://doi.org/10.1007/s11576-006-0028-8
+abstract: null
+type: article
+open_access: false
+cited_by: 316
+query: '"Design Science in Information Systems Research"'
+question: null
+search: SEARCH-e78eb7cdff
+score: 1.125
+score_parts:
+  rank: 0.5
+  citations: 0.625
+  recency: 0
+needs_approval: false
+state: candidate

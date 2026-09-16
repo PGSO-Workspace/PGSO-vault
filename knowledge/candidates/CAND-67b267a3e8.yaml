@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-67b267a3e8
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1027/1016-9040/a000557
+title: Emotion Regulation and Profiles
+authors:
+  - Tânia Brandão
+year: 2025
+venue: European Psychologist
+doi: 10.1027/1016-9040/a000557
+url: https://doi.org/10.1027/1016-9040/a000557
+abstract: "Abstract: The identification of distinct emotion regulation (ER) profiles has gained increasing attention, highlighting the diverse ways individuals regulate emotions. This systematic review synthesizes available evidence on ER profiles and identifies profiles correlates. From 38 studies included, several distinct ER profiles were identified, with three profiles being the most common ( n = 17 studies): the adaptive/selective, the moderate/high, and the dysregulated. The adaptive/selective emerged as the most beneficial due to its reliance on cognitive reappraisal and other adaptive strategies. These findings contribute to developing targeted interventions aimed at enhancing ER and promoting mental health according to individuals’ patterns of ER usage. Future research should focus on longitudinal studies to validate the stability of ER profiles, and to include a larger repertoire of ER strategies."
+type: article
+open_access: null
+cited_by: 1
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 1.142
+score_parts:
+  rank: 0.167
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

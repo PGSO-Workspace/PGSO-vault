@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-f8d3ac6d1d
+created: 2026-09-15T01:12:35.715Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-0373bd038f
+locator: Author-lab hosted publisher PDF inspected, targeted pp.2–4 (results, limitations, methods); publisher webpage itself failed to fetch; author-lab PDF downloaded and hashed.
+excerpt: "Research paraphrase, not quotation: In GPT-4-1106-preview, traumatic narrative context raises STAI-s questionnaire outputs and relaxation context reduces them; neutral-context controls are included. The authors limit the study to one model and a human-centric questionnaire, and identify downstream-task and multi-model generalization as future work. Limits: No audio/paralinguistic signal, tool catalog, authorization, downstream safety test or evidence of experienced human anxiety. Do not count as direct tool-governance evidence."
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-fcaff9cc78

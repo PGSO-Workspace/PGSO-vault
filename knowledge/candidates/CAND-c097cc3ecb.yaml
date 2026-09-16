@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c097cc3ecb
+created: 2026-09-15T07:50:34.676Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1055/a-2680-9095
+title: Copper-Catalyzed Enantioconvergent Benzylation of Amides with Alkylboronic Pinacol Esters
+authors: []
+year: 2025
+venue: Synfacts
+doi: 10.1055/a-2680-9095
+url: https://doi.org/10.1055/a-2680-9095
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"10.1016/j.chb.2025.108687" manuscript'
+question: null
+search: SEARCH-183055ff3f
+score: 0.967
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

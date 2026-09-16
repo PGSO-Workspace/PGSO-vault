@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ae930ee79f
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4408687412
+title: How Firms Can Steer Social Media Conversations
+authors:
+  - Mohammad “Mike” Saljoughian
+  - Kelly Hewett
+  - Harald J. van Heerde
+  - William Rand
+year: 2025
+venue: Journal of Marketing Research
+doi: 10.1177/00222437251329816
+url: https://doi.org/10.1177/00222437251329816
+abstract: Many firms struggle with how to craft their messages in conversations with customers on social media. The problem is compounded by the fact that these conversations take place in multiple simultaneous threads, each of which potentially requires a different approach depending on the conversation. This article studies how firms can adapt their responses in individual social media conversations such that the sentiment in different conversations becomes more favorable. The authors examine a comprehensive set of firm-generated content elements inspired by the theory of dialogic listening that emphasizes that a conversation partner should offer (1) empathetic understanding, (2) unconditional positive regard, a spirit of mutual understanding expressed through (3) topic matching and (4) linguistic style matching, (5) presentness, and (6) genuineness. They augment this set by also considering (7) whether the agent takes the conversation to a one-on-one channel and (8) whether agent signs their response with their own name, indicating a personal connection. The authors furthermore test whether these elements’ effectiveness depends on preceding user sentiment. Based on an analysis of nearly 1 million tweets capturing over 206,000 threads involving four major U.S. banks across ten years, this article provides concrete managerial guidance on responding effectively on social media to maximize the positive impact on the sentiment of subsequent user-generated content and shows that this guidance depends on preceding user sentiment.
+type: article
+open_access: true
+cited_by: 3
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 1.162
+score_parts:
+  rank: 0.111
+  citations: 0.151
+  recency: 0.9
+needs_approval: false
+state: candidate

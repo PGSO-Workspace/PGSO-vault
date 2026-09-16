@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6723887798
+created: 2026-09-15T07:37:52.267Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.22541/au.177083908.89981049/v1
+title: "Bounded Autonomy: Behavioral Specification Languages and Runtime Enforcement Architectures for Trustworthy Agentic AI Systems"
+authors:
+  - Harper Gough
+year: 2026
+venue: null
+doi: 10.22541/au.177083908.89981049/v1
+url: https://doi.org/10.22541/au.177083908.89981049/v1
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement" "Abhinandan Gill-Lakhowal"'
+question: null
+search: SEARCH-9d6de85957
+score: 1.1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

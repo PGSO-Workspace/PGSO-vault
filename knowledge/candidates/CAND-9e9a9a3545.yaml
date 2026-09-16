@@ -1,0 +1,58 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9e9a9a3545
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4417501608
+title: Simulated patient systems powered by large language model-based AI agents offer potential for transforming medical education
+authors:
+  - Huizi Yu
+  - Jiayan Zhou
+  - Lingyao Li
+  - Shan Chen
+  - Jack Gallifant
+  - Anye Shi
+  - Jie Sun
+  - Xiang Li
+  - Jingxian He
+  - Wenyue Hua
+  - Mingyu Jin
+  - Guang Chen
+  - Yang Zhou
+  - Zhao Li
+  - Trisha Gupte
+  - Ming‐Li Chen
+  - Zahra Azizi
+  - Qi Dou
+  - Bryan P. Yan
+  - Yanqiu Xing
+  - Yongfeng Zhang
+  - Themistocles L. Assimes
+  - Danielle S. Bitterman
+  - Xin Ma
+  - Lin Lü
+  - Lizhou Fan
+year: 2025
+venue: Communications Medicine
+doi: 10.1038/s43856-025-01283-x
+url: https://doi.org/10.1038/s43856-025-01283-x
+abstract: "BACKGROUND: Simulated patient systems are vital in medical education and research, providing safe, integrative training environments and supporting clinical decision-making. Progressive Artificial Intelligence (AI) technologies, such as Large Language Models (LLM), could advance simulated patient systems by replicating medical conditions and patient-doctor interactions with high fidelity and low cost. However, effectiveness and trustworthiness remain challenging. METHODS: We developed AIPatient, a simulated patient system powered by LLM-based AI agents. The system incorporates the Retrieval Augmented Generation (RAG) framework, powered by six task-specific LLM-based AI agents for complex reasoning. For simulation reality, the system is also powered by the AIPatient KG (Knowledge Graph), built with de-identified real patient data from the Medical Information Mart for Intensive Care (MIMIC)-III database. RESULTS: Here we show that the system's accuracy in Electronic Health Record (EHR)-based medical Question Answering (QA), readability, robustness, and stability. Specifically, the system achieves a QA accuracy of 94.15% when all six agents, surpassing benchmarks with partial or no agent integration. Its knowledgebase demonstrates high validity (F1 score=0.89). Readability scores show median Flesch Reading Ease at 68.77 and median Flesch Kincaid Grade at 6.4, indicating accessibility to all medical professionals. Robustness and stability are confirmed with non-significant variance (ANOVA F-value = 0.6126, p > 0.1; F-value = 0.782, p > 0.1). A user study with medical students shows that AIPatient delivers high fidelity, usability, and educational value, matching or exceeding human-simulated patients in history-taking. CONCLUSIONS: Large language model-based simulated patient systems provide accurate, readable, and reliable medical encounters and demonstrates potential to transform medical education."
+type: article
+open_access: true
+cited_by: 30
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 1.356
+score_parts:
+  rank: 0.083
+  citations: 0.373
+  recency: 0.9
+needs_approval: false
+state: candidate

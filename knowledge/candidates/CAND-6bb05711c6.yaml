@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6bb05711c6
+created: 2026-09-15T07:51:13.215Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2025.knowllm-1.7
+title: "ToolReAGt: Tool Retrieval for LLM-based Complex Task Solution via Retrieval Augmented Generation"
+authors:
+  - Norbert Braunschweiler
+  - Rama Doddipatla
+  - Tudor-catalin Zorila
+year: 2025
+venue: Proceedings of the 3rd Workshop on Towards Knowledgeable Foundation Models (KnowFM)
+doi: 10.18653/v1/2025.knowllm-1.7
+url: https://doi.org/10.18653/v1/2025.knowllm-1.7
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"dynamic tool retrieval LLM agent journal 2024 2025'
+question: null
+search: SEARCH-da10c5ec54
+score: 1.006
+score_parts:
+  rank: 0.031
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

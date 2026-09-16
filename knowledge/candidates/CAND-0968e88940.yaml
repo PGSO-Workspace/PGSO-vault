@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0968e88940
+created: 2026-09-15T00:31:18.055Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.comcom.2021.09.013
+title: "Two-level discriminative speech emotion recognition model with wave field dynamics: A personalized speech emotion recognition method"
+authors:
+  - Ning Jia
+  - Chunjun Zheng
+year: 2021
+venue: Computer Communications
+doi: 10.1016/j.comcom.2021.09.013
+url: https://doi.org/10.1016/j.comcom.2021.09.013
+abstract: null
+type: article
+open_access: null
+cited_by: 6
+query: '"Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition"'
+question: null
+search: SEARCH-40c323d84c
+score: 0.854
+score_parts:
+  rank: 0.143
+  citations: 0.211
+  recency: 0.5
+needs_approval: false
+state: candidate

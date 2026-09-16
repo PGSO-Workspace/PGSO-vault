@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6c11356fb3
+created: 2026-09-15T01:07:29.902Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/bigdata66926.2025.11402470
+title: Generation, Analysis and Experimental Validation of an Emotion-Enlightened Synthetic Dialogue-Dataset via Advanced LLM-Based Methodologies
+authors:
+  - Alfredo Cuzzocrea
+  - Abderraouf Hafsaoui
+  - Ismail Benlaredj
+year: 2025
+venue: 2025 IEEE International Conference on Big Data (BigData)
+doi: 10.1109/bigdata66926.2025.11402470
+url: https://doi.org/10.1109/bigdata66926.2025.11402470
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation" 11293762'
+question: null
+search: SEARCH-a309ac3231
+score: 0.953
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

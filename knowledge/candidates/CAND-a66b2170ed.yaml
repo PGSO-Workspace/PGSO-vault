@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a66b2170ed
+created: 2026-09-15T00:31:18.055Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.4565145
+title: Continuous Integration Voting Method for Multimodal Fusion in Speech Emotion Recognition
+authors:
+  - Shijie Chen
+  - SHAO Qing
+year: 2023
+venue: null
+doi: 10.2139/ssrn.4565145
+url: https://doi.org/10.2139/ssrn.4565145
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition"'
+question: null
+search: SEARCH-40c323d84c
+score: 0.8
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 0.7
+needs_approval: true
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-16ef8cb01c
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411523021
+title: Assessing Scene Generation Techniques for Testing COLREGS-Compliance of Autonomous Surface Vehicles
+authors:
+  - Dominik Frey
+  - Ulf Kargén
+  - Dániel Varró
+year: 2025
+venue: Proceedings of the ACM on software engineering.
+doi: 10.1145/3728919
+url: https://doi.org/10.1145/3728919
+abstract: Autonomous surface vehicles (ASVs) need to complete missions without posing risks to other maritime traffic. Safe traffic in open sea encounters is controlled by the International Regulations for Preventing Collisions at Sea (COLREGS) formulated by the International Maritime Organization (IMO). Designed with human operators in mind, the COLREGS are intentionally underspecified, which may result in ambiguous requirements for correct behaviour for ASVs. Hence the systematic testing of such ambiguous situations is particularly important. This paper investigates to what extent existing test scenario generation approaches deemed effective in the automotive domain can be adapted to test COLREGS-compliance in a maritime context with multi-vessel encounters. In a series of experiments involving synthetic and real-world test scenarios, their performance is evaluated with respect to relevance, diversity, completeness, scalability and speed. Our results indicate that (1) test scenarios derived from historic maritime traffic are insufficient for testing multi-ship encounters. Moreover, (2) existing test scenario generation techniques provide sufficient scalability and speed, but they are very limited in terms of diversity and completeness when the number of vessels increases.
+type: article
+open_access: true
+cited_by: 4
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.142
+score_parts:
+  rank: 0.067
+  citations: 0.175
+  recency: 0.9
+needs_approval: false
+state: candidate

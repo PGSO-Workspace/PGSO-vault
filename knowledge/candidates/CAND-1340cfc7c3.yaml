@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1340cfc7c3
+created: 2026-09-15T07:34:04.334Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415109628
+title: "Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"
+authors:
+  - Mohammed Mehedi Hasan
+  - Hao Li
+  - Emad Fallahzadeh
+  - Gopi Krishnan Rajbahadur
+  - Bram Adams
+  - Ahmed E. Hassan
+year: 2026
+venue: ACM Transactions on Software Engineering and Methodology
+doi: 10.1145/3814959
+url: https://doi.org/10.1145/3814959
+abstract: Although Foundation Models (FMs), such as GPT-4, are increasingly used in domains like finance and software engineering, reliance on textual interfaces limits these models’ real-world interaction. To address this, FM providers introduced tool calling—triggering a proliferation of frameworks with distinct tool interfaces. In late 2024, Anthropic introduced the Model Context Protocol (MCP) to standardize this tool ecosystem. With SDK downloads surpassing twenty five million per week and 86% of enterprises using models supporting MCP tools, MCP is rapidly emerging as a de facto industry standard. Despite its adoption, MCP's AI-driven, non-deterministic control flow introduces new risks to sustainability, security, and maintainability, warranting closer examination. Towards this end, we present the first large-scale empirical study of MCP. Using state-of-the-art health metrics and a hybrid analysis pipeline, combining a general-purpose static analysis tool with an MCP-specific scanner, we evaluate 1,899 open-source MCP servers to assess their health, security, and maintainability. Despite MCP servers demonstrating strong health metrics, we identify eight distinct vulnerabilities—only three overlapping with traditional software vulnerabilities. Additionally, 7.2% of servers contain general vulnerabilities and 5.5% exhibit MCP-specific tool poisoning. Regarding maintainability, while 66% exhibit code smells, 14.4% contain nine bug patterns overlapping prior research. These findings highlight the need for MCP-specific vulnerability detection techniques while reaffirming the value of traditional analysis and refactoring practices. Furthermore, we advocate for stronger governance across the MCP ecosystem by incorporating MCP-specific vulnerabilities into standardized vulnerability databases, enabling automated security scanning within MCP registries, and promoting responsible development practices to ensure the long-term safety and sustainability of the MCP ecosystem.
+type: article
+open_access: true
+cited_by: 4
+query: 2024 2025 journal LLM agent tool permission authorization runtime enforcement security guardrails
+question: null
+search: SEARCH-b0fa183ef0
+score: 1.375
+score_parts:
+  rank: 0.2
+  citations: 0.175
+  recency: 1
+needs_approval: false
+state: candidate

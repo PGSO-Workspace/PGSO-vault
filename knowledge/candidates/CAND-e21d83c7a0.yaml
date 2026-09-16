@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e21d83c7a0
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.31219/osf.io/utpqn
+title: "The Contingent Electoral Impacts of Programmatic Policies: Evidence From Education Reforms in Tanzania"
+authors:
+  - Ken Opalo
+  - James Habyarimana
+  - Youdi Schipper
+year: 2021
+venue: null
+doi: 10.31219/osf.io/utpqn
+url: https://doi.org/10.31219/osf.io/utpqn
+abstract: A large literature documents the electoral benefits of clientelist and programmatic policies in low-income states. We extend this literature by showing the cyclical electoral responses to a large programmatic intervention to expand access to secondary education in Tanzania over multiple electoral periods. Using a difference-in-difference approach, we find that the incumbent party’s vote share increased by 2 percentage points in the election following the policy’s announcement as a campaign promise (2005), but decreased by -1.4 percentage points in the election following implementation (2010). We find no discernible electoral impact of the policy in 2015, two electoral cycles later. We attribute the electoral penalty in 2010 to how the secondary school expansion policy was implemented. Our findings shed light on the temporally-contingent electoral impacts of programmatic policies, and highlight the need for more research on how policy implementation structures public opinion and vote choice in low-income states.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 0.567
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 0.5
+needs_approval: true
+state: candidate

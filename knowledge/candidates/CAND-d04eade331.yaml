@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d04eade331
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/sse62657.2024.00049
+title: Exploration On Prompting LLM With Code-Specific Information For Vulnerability Detection
+authors:
+  - Zhihong Liu
+  - Zezhou Yang
+  - Qing Liao
+year: 2024
+venue: 2024 IEEE International Conference on Software Services Engineering (SSE)
+doi: 10.1109/sse62657.2024.00049
+url: https://doi.org/10.1109/sse62657.2024.00049
+abstract: null
+type: article
+open_access: null
+cited_by: 11
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.1
+score_parts:
+  rank: 0.03
+  citations: 0.27
+  recency: 0.8
+needs_approval: false
+state: candidate

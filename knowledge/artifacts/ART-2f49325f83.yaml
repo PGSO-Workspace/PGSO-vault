@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-2f49325f83
+created: 2026-09-15T09:50:06.667Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/task-agentspec-62937ad/README.md
+paths:
+  - sources/software/pgso-sdk/task-agentspec-62937ad/README.md
+hash: 2f49325f835c7de9219b366107575ebbc5186c79b40d95f8b25c9b01c1a405a7
+bytes: 13720
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 13716
+  sections: 6
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T09:50:06.464Z
+versions_of: ART-e42e168741
+latest: false

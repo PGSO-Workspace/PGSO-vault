@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-71140718a0
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4403637324
+title: Promises and challenges of generative artificial intelligence for human learning
+authors:
+  - Lixiang Yan
+  - Samuel Greiff
+  - Ziwen Teuber
+  - Dragan Gašević
+year: 2024
+venue: Nature Human Behaviour
+doi: 10.1038/s41562-024-02004-5
+url: https://doi.org/10.1038/s41562-024-02004-5
+abstract: null
+type: article
+open_access: true
+cited_by: 440
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.528
+score_parts:
+  rank: 0.067
+  citations: 0.661
+  recency: 0.8
+needs_approval: false
+state: candidate

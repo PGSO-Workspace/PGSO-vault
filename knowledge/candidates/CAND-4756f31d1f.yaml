@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4756f31d1f
+created: 2026-09-15T07:38:17.538Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7204458084
+title: "From Black Box to Dialogue: An MCP Server for Tanabe–Sugano Diagrams as a Reference Case for Conversational Scientific Tools"
+authors:
+  - Anselm W. Hahn
+year: 2026
+venue: ChemRxiv
+doi: 10.26434/chemrxiv.15007941/v1
+url: https://doi.org/10.26434/chemrxiv.15007941/v1
+abstract: Interpreting the d–d electronic spectra of transition-metal complexes is a routine practice in inorganic chemistry, yet the underlying models behind such interpretations are unexpectedly challenging to operate. Rigorous treatments demand specialized software, expert parameterization, and often high-performance computing, while even the standard textbook tool for first-pass intuition takes practice to read. The Tanabe–Sugano (TS) diagram remains the most efficient method for developing that intuition, and the same ligand-field framework is foundational for more advanced spectroscopic analyses. Here we present TanabeSugano, an open-source Python solver for d2–d8 TS diagrams. It is implemented as a Model Context Protocol (MCP) server, letting a language-model client act as an interactive front end that operates the solver rather than merely describing it. Through natural-language prompts, users can compute term energies, explore and compare configurations, fit measured absorption bands to extract the crystal-field strength (Dq) and Racah B, and interpret B as an indicator of metal–ligand covalency via the nephelauxetic ratio. The solver runs locally, without compilation or high-performance computing. We outline the tools available within the server and the d-orbital concepts they embody, illustrated by a comparison between d5 and d6 configurations that reveals the high-spin/low-spin crossover and the distinction between spin-allowed and spin-forbidden electronic transitions. TanabeSugano is the proof of concept; the contribution is the pattern it demonstrates, which exposes a validated solver through MCP. More specifically, it offers an accessible route to phenomenological understanding and a transferable model for operating other formal chemical models through dialogue. The proposed MCP implementation does not aim to supplant the rigor inherent in ab initio methods and remains fundamentally distinct from it.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance" PDF authors'
+question: null
+search: SEARCH-9fb9d5712f
+score: 1.333
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

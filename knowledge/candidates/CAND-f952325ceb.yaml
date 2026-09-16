@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f952325ceb
+created: 2026-09-15T06:32:41.203Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/979-8-8688-0110-5_7
+title: Conversational AI Platforms
+authors:
+  - Michael McTear
+  - Marina Ashurkina
+year: 2024
+venue: Transforming Conversational AI
+doi: 10.1007/979-8-8688-0110-5_7
+url: https://doi.org/10.1007/979-8-8688-0110-5_7
+abstract: null
+type: chapter
+open_access: null
+cited_by: 2
+query: tau2 benchmark conversational agents dual control
+question: null
+search: SEARCH-6eb3d17581
+score: 1.03
+score_parts:
+  rank: 0.111
+  citations: 0.119
+  recency: 0.8
+needs_approval: false
+state: candidate

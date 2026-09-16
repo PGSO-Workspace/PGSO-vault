@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-c30433ce4e
+created: 2026-09-15T07:54:29.731Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/templates/Access-Template-2024.docx
+paths:
+  - sources/templates/Access-Template-2024.docx
+hash: c30433ce4e817bf4fba6dc69e6e4d5bf7fc1f8e7b0126374c65926dbd5d5b1bb
+bytes: 335244
+mime: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+kind: docx
+role: unknown
+extracted:
+  status: ok
+  method: ooxml
+  text_chars: 37331
+  sections: 1
+  tables: 1
+  warnings: []
+mtime: 2026-09-15T07:54:29.532Z

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c11c6a0b0e
+created: 2026-09-14T23:44:46.279Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6270560
+title: "LLM-Enabled Developer Copilots: Integrating Compiler-Level Semantics and Language Models for Intelligent Code Understanding in .NET Systems"
+authors:
+  - Hema Latha Boddupally
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6270560
+url: https://doi.org/10.2139/ssrn.6270560
+abstract: As enterprise software systems expanded into multi-million-line codebases with tightly coupled legacy and cloud native components, developer productivity increasingly relied on tools capable of reasoning about code intent, architectural relationships, and execution context rather than offering isolated syntactic completions. By early 2023, large language models trained on diverse source code corpora enabled a new class of developer copilots that could infer semantic meaning across functions, classes, and modules, supporting automated code understanding, contextual explanation, and intent aware suggestions within everyday development workflows. This article examines how these LLM enabled copilots integrate deeply with the .NET ecosystem by combining probabilistic language modeling with compiler grade semantic information exposed through the Roslyn platform, allowing assistance to move beyond autocomplete toward validated, context sensitive code comprehension. Building on established research in code representation learning, program analysis, and IDE integrated intelligence, the discussion synthesizes architectural patterns that balance generative flexibility with deterministic correctness, enabling reliable, scalable, and enterprise ready code understanding for modern .NET applications.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Safety Guardrails for LLM-Enabled Robots" code GitHub'
+question: null
+search: SEARCH-babb92a8ed
+score: 1.067
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

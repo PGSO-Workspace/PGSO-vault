@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d721808c2c
+created: 2026-09-15T00:24:33.994Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4413894125
+title: "Do We Need a Voice Methodology? Proposing a Voice-Centered Methodology: A Conceptual Framework in the Age of Surveillance Capitalism"
+authors:
+  - Laura Caroleo
+year: 2025
+venue: Societies
+doi: 10.3390/soc15090241
+url: https://doi.org/10.3390/soc15090241
+abstract: This paper explores the rise in voice-based social media as a pivotal transformation in digital communication, situated within the broader era of chatbots and voice AI. Platforms such as Clubhouse, X Spaces, Discord and similar ones foreground vocal interaction, reshaping norms of participation, identity construction, and platform governance. This shift from text-centered communication to hybrid digital orality presents new sociological and methodological challenges, calling for the development of voice-centered analytical approaches. In response, the paper introduces a multidimensional methodological framework for analyzing voice-based social media platforms in the context of surveillance capitalism and AI-driven conversational technologies. We propose a high-level reference architecture machine learning for social science pipeline that integrates digital methods techniques, automatic speech recognition (ASR) models, and natural language processing (NLP) models within a reflexive and ethically grounded framework. To illustrate its potential, we outline possible stages of a PoC (proof of concept) audio analysis machine learning pipeline, demonstrated through a conceptual use case involving the collection, ingestion, and analysis of X Spaces. While not a comprehensive empirical study, this pipeline proposal highlights technical and ethical challenges in voice analysis. By situating the voice as a central axis of online sociality and examining it in relation to AI-driven conversational technologies, within an era of post-orality, the study contributes to ongoing debates on surveillance capitalism, platform affordances, and the evolving dynamics of digital interaction. In this rapidly evolving landscape, we urgently need a robust vocal methodology to ensure that voice is not just processed but understood.
+type: article
+open_access: true
+cited_by: 1
+query: voice agents prosody paralinguistic affective dialogue governance evaluation
+question: null
+search: SEARCH-fb4225ca20
+score: 1.475
+score_parts:
+  rank: 0.5
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

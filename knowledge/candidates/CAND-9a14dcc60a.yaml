@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9a14dcc60a
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.52202/075280-2937
+title: Efficient Diffusion Policies For Offline Reinforcement Learning
+authors:
+  - Bingyi Kang
+  - Xiao Ma
+  - Chao Du
+  - Tianyu Pang
+  - Shuicheng Yan
+year: 2023
+venue: Advances in Neural Information Processing Systems 36
+doi: 10.52202/075280-2937
+url: https://doi.org/10.52202/075280-2937
+abstract: null
+type: article
+open_access: null
+cited_by: 17
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 1.064
+score_parts:
+  rank: 0.05
+  citations: 0.314
+  recency: 0.7
+needs_approval: false
+state: candidate

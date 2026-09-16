@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d03a11df39
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.38023/a345fed2-0fc5-4f66-806e-a180cae58c49
+title: Konzeption und Implementierung eines Model-Context-Protocol-Servers (MCP) zur Schweizer Rechtsrecherche
+authors:
+  - Federico Perone
+year: 2026
+venue: Jusletter-IT
+doi: 10.38023/a345fed2-0fc5-4f66-806e-a180cae58c49
+url: https://doi.org/10.38023/a345fed2-0fc5-4f66-806e-a180cae58c49
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.037
+score_parts:
+  rank: 0.037
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

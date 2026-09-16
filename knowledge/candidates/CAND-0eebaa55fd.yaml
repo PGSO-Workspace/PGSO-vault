@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0eebaa55fd
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411066932
+title: "Human– AI collaborative learning in mixed reality: Examining the cognitive and socio‐emotional interactions"
+authors:
+  - Belle Dang
+  - Thu-Nguyet Huynh
+  - Faaiz Gul
+  - Carolyn Penstein Rosé
+  - Sanna Järvelä
+  - Andy Nguyen
+year: 2025
+venue: British Journal of Educational Technology
+doi: 10.1111/bjet.13607
+url: https://doi.org/10.1111/bjet.13607
+abstract: "The rise of generative artificial intelligence (GAI), especially with multimodal large language models like GPT‐4o, sparked transformative potential and challenges for learning and teaching. With potential as a cognitive offloading tool, GAI can enable learners to focus on higher‐order thinking and creativity. Yet, this also raises questions about integration into traditional education due to the limited research on learners' interactions with GAI. Some studies with GAI focus on text‐based human–AI interactions, while research on embodied GAI in immersive environments like mixed reality (MR) remains unexplored. To address this, this study investigates interaction dynamics between learners and embodied GAI agents in MR, examining cognitive and socio‐emotional interactions during collaborative learning. We investigated the paired interactive patterns between a student and an embodied GAI agent in MR, based on data from 26 higher education students with 1317 recorded activities. Data were analysed using a multi‐layered learning analytics approach, including quantitative content analysis, sequence analysis via hierarchical clustering and pattern analysis through ordered network analysis (ONA). Our findings identified two interaction patterns: type (1) AI‐led Supported Exploratory Questioning (AISQ) and type (2) Learner‐Initiated Inquiry (LII) group. Despite their distinction in characteristic, both types demonstrated comparable levels of socio‐emotional engagement and exhibited meaningful cognitive engagement, surpassing the superficial content reproduction that can be observed in interactions with GPT models. This study contributes to the human–AI collaboration and learning studies, extending understanding to learning in MR environments and highlighting implications for designing AI‐based educational tools. Practitioner notes What is already known about this topic Socio‐emotional interactions are fundamental to cognitive processes and play a critical role in collaborative learning. Generative artificial intelligence (GAI) holds transformative potential for education but raises questions about how learners interact with such technology. Most existing research focuses on text‐based interactions with GAI; there is limited empirical evidence on how embodied GAI agents within immersive environments like Mixed Reality (MR) influence the cognitive and socio‐emotional interactions for learning and regulation. What this paper adds Provides first empirical insights into cognitive and socio‐emotional interaction patterns between learners and embodied GAI agents in MR environments. Identifies two distinct interaction patterns: AISQ type (structured, guided, supportive) and LII type (inquiry‐driven, exploratory, engaging), demonstrating how these patterns influence collaborative learning dynamics. Shows that both interaction types facilitate meaningful cognitive engagement, moving beyond superficial content reproduction commonly associated with GAI interactions. Implications for practice and/or policy Insights from the identified interaction patterns can inform the design of teaching strategies that effectively integrate embodied GAI agents to enhance both cognitive and socio‐emotional engagement. Findings can guide the development of AI‐based educational tools that capitalise on the capabilities of embodied GAI agents, supporting a balance between structured guidance and exploratory learning. Highlights the need for ethical considerations in adopting embodied GAI agents, particularly regarding the human‐like realism of these agents and potential impacts on learner dependency and interaction norms."
+type: article
+open_access: true
+cited_by: 61
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.491
+score_parts:
+  rank: 0.143
+  citations: 0.448
+  recency: 0.9
+needs_approval: false
+state: candidate

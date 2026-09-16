@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-71637c072b
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1201/9781003530336-3
+title: Single-Agent Safety
+authors:
+  - Dan Hendrycks
+year: 2024
+venue: Introduction to AI Safety, Ethics, and Society
+doi: 10.1201/9781003530336-3
+url: https://doi.org/10.1201/9781003530336-3
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 0.837
+score_parts:
+  rank: 0.037
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

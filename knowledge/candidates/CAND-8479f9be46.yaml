@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8479f9be46
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4407657137
+title: "Challenging Cognitive Load Theory: The Role of Educational Neuroscience and Artificial Intelligence in Redefining Learning Efficacy"
+authors:
+  - Evgenia Gkintoni
+  - Hera Antonopoulou
+  - Andrew Sortwell
+  - Constantinos Halkiopoulos
+year: 2025
+venue: Brain Sciences
+doi: 10.3390/brainsci15020203
+url: https://doi.org/10.3390/brainsci15020203
+abstract: "Background/Objectives: This systematic review integrates Cognitive Load Theory (CLT), Educational Neuroscience (EdNeuro), Artificial Intelligence (AI), and Machine Learning (ML) to examine their combined impact on optimizing learning environments. It explores how AI-driven adaptive learning systems, informed by neurophysiological insights, enhance personalized education for K-12 students and adult learners. This study emphasizes the role of Electroencephalography (EEG), Functional Near-Infrared Spectroscopy (fNIRS), and other neurophysiological tools in assessing cognitive states and guiding AI-powered interventions to refine instructional strategies dynamically. Methods: This study reviews n = 103 papers related to the integration of principles of CLT with AI and ML in educational settings. It evaluates the progress made in neuroadaptive learning technologies, especially the real-time management of cognitive load, personalized feedback systems, and the multimodal applications of AI. Besides that, this research examines key hurdles such as data privacy, ethical concerns, algorithmic bias, and scalability issues while pinpointing best practices for robust and effective implementation. Results: The results show that AI and ML significantly improve Learning Efficacy due to managing cognitive load automatically, providing personalized instruction, and adapting learning pathways dynamically based on real-time neurophysiological data. Deep Learning models such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Support Vector Machines (SVMs) improve classification accuracy, making AI-powered adaptive learning systems more efficient and scalable. Multimodal approaches enhance system robustness by mitigating signal variability and noise-related limitations by combining EEG with fMRI, Electrocardiography (ECG), and Galvanic Skin Response (GSR). Despite these advances, practical implementation challenges remain, including ethical considerations, data security risks, and accessibility disparities across learner demographics. Conclusions: AI and ML are epitomes of redefinition potentials that solid ethical frameworks, inclusive design, and scalable methodologies must inform. Future studies will be necessary for refining pre-processing techniques, expanding the variety of datasets, and advancing multimodal neuroadaptive learning for developing high-accuracy, affordable, and ethically responsible AI-driven educational systems. The future of AI-enhanced education should be inclusive, equitable, and effective across various learning populations that would surmount technological limitations and ethical dilemmas."
+type: article
+open_access: true
+cited_by: 279
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 1.612
+score_parts:
+  rank: 0.1
+  citations: 0.612
+  recency: 0.9
+needs_approval: false
+state: candidate

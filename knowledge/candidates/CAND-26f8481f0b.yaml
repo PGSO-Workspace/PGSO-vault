@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-26f8481f0b
+created: 2026-09-15T07:34:45.095Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411091733
+title: "Contextual Agent Security: A Policy for Every Purpose"
+authors:
+  - Lillian Tsai
+  - Eugene Bagdasarian
+year: 2025
+venue: null
+doi: 10.1145/3713082.3730378
+url: https://doi.org/10.1145/3713082.3730378
+abstract: "Judging an action's safety requires knowledge of the context in which the action takes place. To human agents who act in various contexts, this may seem obvious: performing an action such as email deletion may or may not be appropriate depending on the email's content, the goal (e.g., erase sensitive emails or clean up trash), and the type of email address (e.g., work or personal). Unlike people, computational systems have often had only limited agency in limited contexts. Thus, manually crafted policies and user confirmation such as smartphone app permissions or access control lists---while imperfect---have sufficed to restrict harmful actions. However, with the upcoming deployment of generalist agents that support a multitude of tasks (e.g., an automated personal assistant), we argue that we must rethink security designs to adapt to the scale of contexts and capabilities of these systems. As a first step, this paper explores contextual security in the domain of agents and proposes contextual agent security (Conseca), a framework to generate just-in-time, contextual, and human-verifiable security policies."
+type: other
+open_access: true
+cited_by: 7
+query: 2024 2025 journal LLM agents runtime monitor policy enforcement tool calls
+question: null
+search: SEARCH-b7942200d3
+score: 1.226
+score_parts:
+  rank: 0.1
+  citations: 0.226
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3e86471d24
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/978-3-031-06516-3_37
+title: "Correction to: The Transdisciplinary Reach of Design Science Research"
+authors:
+  - Andreas Drechsler
+  - Aurona Gerber
+  - Alan Hevner
+year: 2022
+venue: Lecture Notes in Computer Science
+doi: 10.1007/978-3-031-06516-3_37
+url: https://doi.org/10.1007/978-3-031-06516-3_37
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 0.638
+score_parts:
+  rank: 0.038
+  citations: 0
+  recency: 0.6
+needs_approval: false
+state: candidate

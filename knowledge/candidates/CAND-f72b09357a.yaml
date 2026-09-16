@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f72b09357a
+created: 2026-09-15T01:07:13.133Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1093/iwc/iwaf042
+title: How anthropomorphism impacts users' self-disclosure and evaluation of empathetic conversational agents
+authors:
+  - Yoonsuh Hong
+  - Xinge Li
+  - Yongjun Sung
+year: 2025
+venue: Interacting with Computers
+doi: 10.1093/iwc/iwaf042
+url: https://doi.org/10.1093/iwc/iwaf042
+abstract: Abstract With the advancement of technology, individuals are increasingly interacting with conversational agents in daily life. The current research examines the impact of anthropomorphism and empathy type on interactions with conversational agents. An experiment was conducted by manipulating an agent’s anthropomorphism level (low vs. high) and expressed empathy type (cognitive vs. affective). The results demonstrated that participants disclosed a larger amount of—and more intimate—information when interacting with the more (vs. less) anthropomorphized conversational agent. Moreover, anthropomorphism and empathy type jointly influenced the agent’s likability and uncanniness. Specifically, when the anthropomorphism level was high, exhibiting cognitive and affective empathy resulted in similar evaluations. However, when the anthropomorphism level was low, affective empathy reduced the perceived likability—and increased the uncanniness—of the conversational agent. The current research contributes to the conversational agent literature by examining the dynamics among anthropomorphism, self-disclosure, and empathy. It also offers practical implications for optimizing the design of conversational agents to support positive user–agent interactions.
+type: article
+open_access: null
+cited_by: 5
+query: '"Empathetic Conversational Agents" "10.1080/10447318.2025.2540500" arXiv 2501.08393'
+question: null
+search: SEARCH-3dc085d3d3
+score: 1.428
+score_parts:
+  rank: 0.333
+  citations: 0.195
+  recency: 0.9
+needs_approval: false
+state: candidate

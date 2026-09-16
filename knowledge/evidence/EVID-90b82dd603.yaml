@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-90b82dd603
+created: 2026-09-15T01:10:05.626Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-ab2c267bbb
+locator: 'arXiv2503.22712v4, revised 2025-05-07, 25 PDF pages. Journal record November2025,EAAI159,111721; journal fulltext not obtained or compared. Earlier preprint title differs; author order differs from journal metadata.; [{"section": "Framework and calibration", "pdf_pages": [1, 5]}, {"section": "Mini-batch theory, equations12\u201317; visually checked", "pdf_pages": [7]}, {"section": "Experimental setting and cross-dataset/limitations", "pdf_pages": [8, 20, 23]}]'
+excerpt: "Research paraphrase, not quotation: Calibrates set-valued emotion predictions and evaluates coverage/set size on IEMOCAP and TESS, including cross-dataset tests and a proposed locally exchangeable mini-batch extension. Acted corpora do not establish live-agent safety. Marginal prediction-set coverage is distinct from selective classification, conditional reliability and authorized tool invocation. The v4 mini-batch proof has an algebraic concern detailed separately; journal version not compared."
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-8eb6d7dd88

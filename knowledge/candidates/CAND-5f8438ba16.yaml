@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5f8438ba16
+created: 2026-09-14T16:56:11.382Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7125602480
+title: A Survey on the Optimization of Large Language Model-based Agents
+authors:
+  - Shangheng Du
+  - Jiabao Zhao
+  - Jinxin Shi
+  - Zhentao Xie
+  - Xin Jiang
+  - Yanhong Bai
+  - Liang He
+year: 2026
+venue: ACM Computing Surveys
+doi: 10.1145/3789261
+url: https://doi.org/10.1145/3789261
+abstract: With the rapid development of Large Language Models (LLMs), LLM-based agents have been widely adopted in various fields, becoming essential for autonomous decision-making and interactive tasks. However, current work typically relies on prompt design or fine-tuning strategies applied to vanilla LLMs, which often leads to limited effectiveness in complex agent-related environments. Although numerous recent studies have explored various strategies to optimize LLM-based agents for complex agent tasks, a systematic review summarizing and comparing these methods from a holistic perspective remains lacking. In this survey, we provide a comprehensive review of LLM-based agent optimization approaches, categorizing them into parameter-driven and parameter-free methods. We first focus on parameter-driven optimization, covering fine-tuning-based optimization, reinforcement learning-based optimization, and hybrid strategies, analyzing key aspects such as trajectory data construction, reward function design, and optimization algorithms. Additionally, we briefly discuss parameter-free strategies that optimize agent behavior through prompt engineering and external knowledge retrieval. Finally, we summarize the evaluation for agents, review key applications of LLM-based agents, and discuss the major challenges and promising future directions. A curated collection of the surveyed works is provided at https://github.com/YoungDubbyDu/LLM-Agent-Optimization.
+type: article
+open_access: true
+cited_by: 15
+query: A Survey on the Optimization of Large Language Model-based Agents
+question: null
+search: SEARCH-a32d57a17a
+score: 1.801
+score_parts:
+  rank: 0.5
+  citations: 0.301
+  recency: 1
+needs_approval: false
+state: candidate

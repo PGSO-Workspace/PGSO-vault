@@ -1,0 +1,19 @@
+schema: phdude.evidence
+version: 1
+id: EVID-8caca13489
+created: 2026-09-13T07:00:37.077Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-4c878e2b5b
+locator: experiments/phase3-governance-curve/README.md lines 22–23, commit 1b17c248d3608a7d80cc1147e8aa57acbb715132
+excerpt: |-
+  | `egemaps2` | Heuristic 2-feature pure-DSP eGeMAPS reading | 377 (19 abstained) | **0.20577** | [0.10093, 0.31103] | 1.9996e-4 | `out/layera_egemaps2.json` |
+  | `wav2small` | Learned distilled transformer (non-commercial weights) | 396 | **0.27055** | [0.17612, 0.36460] | 1.9996e-4 | `out/layera_transformer.json` |
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-f9a76ffa05

@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-60ac73a776
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4407389811
+title: "Integrating Artificial Intelligence Agents with the Internet of Things for Enhanced Environmental Monitoring: Applications in Water Quality and Climate Data"
+authors:
+  - Tymoteusz Miller
+  - Irmina Durlik
+  - Ewelina Kostecka
+  - Polina Kozlovska
+  - Adrianna Łobodzińska
+  - S. Sokołowska
+  - Agnieszka Nowy
+year: 2025
+venue: Electronics
+doi: 10.3390/electronics14040696
+url: https://doi.org/10.3390/electronics14040696
+abstract: The integration of artificial intelligence (AI) agents with the Internet of Things (IoT) has marked a transformative shift in environmental monitoring and management, enabling advanced data gathering, in-depth analysis, and more effective decision making. This comprehensive literature review explores the integration of AI and IoT technologies within environmental sciences, with a particular focus on applications related to water quality and climate data. The methodology involves a systematic search and selection of relevant studies, followed by thematic, meta-, and comparative analyses to synthesize current research trends, benefits, challenges, and gaps. The review highlights how AI enhances IoT’s data collection capabilities through advanced predictive modeling, real-time analytics, and automated decision making, thereby improving the accuracy, timeliness, and efficiency of environmental monitoring systems. Key benefits identified include enhanced data precision, cost efficiency, scalability, and the facilitation of proactive environmental management. Nevertheless, this integration encounters substantial obstacles, including issues related to data quality, interoperability, security, technical constraints, and ethical concerns. Future developments point toward enhancements in AI and IoT technologies, the incorporation of innovations like blockchain and edge computing, the potential formation of global environmental monitoring systems, and greater public involvement through citizen science initiatives. Overcoming these challenges and embracing new technological trends could enable AI and IoT to play a pivotal role in strengthening environmental sustainability and resilience.
+type: article
+open_access: true
+cited_by: 186
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 1.545
+score_parts:
+  rank: 0.077
+  citations: 0.568
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-89aa92d546
+created: 2026-09-15T01:07:29.902Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/itaic58329.2023.10408912
+title: Empathetic Dialogue Generation Model with Multi-Source Emotion and Intent Perception
+authors:
+  - Yun Su
+  - Bozhen Fan
+  - Haoran Bian
+  - Yunhao Zhu
+  - Runhe Huang
+year: 2023
+venue: 2023 IEEE 11th Joint International Information Technology and Artificial Intelligence Conference (ITAIC)
+doi: 10.1109/itaic58329.2023.10408912
+url: https://doi.org/10.1109/itaic58329.2023.10408912
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation" 11293762'
+question: null
+search: SEARCH-a309ac3231
+score: 0.886
+score_parts:
+  rank: 0.111
+  citations: 0.075
+  recency: 0.7
+needs_approval: false
+state: candidate

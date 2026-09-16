@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e0dd3cdf3d
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4399152014
+title: "A Roadmap on Modern Code Review: Challenges and Opportunities"
+authors:
+  - Zezhou Yang
+  - Cuiyun Gao
+  - Zhaoqiang Guo
+  - Zhenhao Li
+  - Kui Liu
+  - Xin Xia
+  - Yuming Zhou
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2405.18216
+url: http://arxiv.org/abs/2405.18216
+abstract: Over the past decade, modern code review (MCR) has been established as a cornerstone of software quality assurance and a vital channel for knowledge transfer within development teams. However, the manual inspection of increasingly complex systems remains a cognitively demanding and resource-intensive activity, often leading to significant workflow bottlenecks. This paper presents a comprehensive roadmap for the evolution of MCR, consolidating over a decade of research (2013-2025) into a unified taxonomy comprising improvement techniques, which focus on the technical optimization and automation of downstream review tasks, and understanding studies, which investigate the underlying socio-technical mechanisms and empirical phenomena of the review process. By diagnosing the current landscape through a strategic SWOT analysis, we examine the transformative impact of generative AI and identify critical gaps between burgeoning AI capabilities and industrial realities. We envision a future where MCR evolves from a human-driven task into a symbiotic partnership between developers and intelligent systems. Our roadmap charts this course by proposing three pivotal paradigm shifts, Context-Aware Proactivity, Value-Driven Evaluation, and Human-Centric Symbiosis, aiming to guide researchers and practitioners in transforming MCR into an intelligent, inclusive, and strategic asset for the AI-driven future.
+type: preprint
+open_access: true
+cited_by: 1
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 0.928
+score_parts:
+  rank: 0.053
+  citations: 0.075
+  recency: 0.8
+needs_approval: true
+state: candidate

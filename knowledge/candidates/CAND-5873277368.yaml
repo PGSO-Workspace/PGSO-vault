@@ -1,0 +1,47 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5873277368
+created: 2026-09-15T06:33:03.695Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4402909345
+title: A framework for human evaluation of large language models in healthcare derived from literature review
+authors:
+  - Thomas Yu Chow Tam
+  - Sonish Sivarajkumar
+  - Sumit Kapoor
+  - Alisa V Stolyar
+  - Katelyn Polanska
+  - Karleigh R McCarthy
+  - Hunter Osterhoudt
+  - Xizhi Wu
+  - Shyam Visweswaran
+  - Sunyang Fu
+  - Piyush Mathur
+  - Giovanni Cacciamani
+  - Cong Sun
+  - Yifan Peng
+  - Yanshan Wang
+year: 2024
+venue: npj Digital Medicine
+doi: 10.1038/s41746-024-01258-7
+url: https://doi.org/10.1038/s41746-024-01258-7
+abstract: "With generative artificial intelligence (GenAI), particularly large language models (LLMs), continuing to make inroads in healthcare, assessing LLMs with human evaluations is essential to assuring safety and effectiveness. This study reviews existing literature on human evaluation methodologies for LLMs in healthcare across various medical specialties and addresses factors such as evaluation dimensions, sample types and sizes, selection, and recruitment of evaluators, frameworks and metrics, evaluation process, and statistical analysis type. Our literature review of 142 studies shows gaps in reliability, generalizability, and applicability of current human evaluation practices. To overcome such significant obstacles to healthcare LLM developments and deployments, we propose QUEST, a comprehensive and practical framework for human evaluation of LLMs covering three phases of workflow: Planning, Implementation and Adjudication, and Scoring and Review. QUEST is designed with five proposed evaluation principles: Quality of Information, Understanding and Reasoning, Expression Style and Persona, Safety and Harm, and Trust and Confidence."
+type: article
+open_access: true
+cited_by: 366
+query: large language model agent evaluation benchmark reliability task success journal
+question: null
+search: SEARCH-b435e17ef6
+score: 1.774
+score_parts:
+  rank: 0.333
+  citations: 0.641
+  recency: 0.8
+needs_approval: false
+state: candidate

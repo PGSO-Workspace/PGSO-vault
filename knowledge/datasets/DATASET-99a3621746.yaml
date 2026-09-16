@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-99a3621746
+created: 2026-09-15T00:53:10.977Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-http-server-linux-x86_64
+hash: 99a36217468fdbf53c8429ec922a09a2fa94a71683278780294d04cc4afaf2d7
+bytes: 6696080
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Localwire HTTP/MCP transport validation artifact; generatedtestbearer only

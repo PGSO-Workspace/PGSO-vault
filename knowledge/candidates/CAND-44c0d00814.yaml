@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-44c0d00814
+created: 2026-09-15T08:27:35.758Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.52265/jdi.v7i02.367
+title: The history and evaluation of design thinking as product design research methodology
+authors:
+  - Aulia Wiradarmo
+year: 2026
+venue: Jurnal Desain Indonesia
+doi: 10.52265/jdi.v7i02.367
+url: https://doi.org/10.52265/jdi.v7i02.367
+abstract: "The discourse related to the importance of separating scientific and design methods had been occurring since the 1960s, but design thinking gained popularity during the late 2000s alongside theories proposed by IDEO and Stanford Design School in the context of leveraging the competitive advantage of the innovation at Silicon Valley. Since then, design thinking has been applied to other fields outside design. However, as time went by, the effectiveness for designers began to be questioned. To untangle the confusion, this paper explains the history of design thinking and classifies existing methodology into methodology based on: (1) humans; (2) prototypes; (3) combination; (4) new product development, then evaluates them based on the implementation on students’ final projects. In choosing the right methodology, designers must consider: (1) the greater weight between problem or concept exploration; (2) the main focus of innovation lenses; and (3) theoretical approaches that can leverage the design’s added value."
+type: article
+open_access: null
+cited_by: 0
+query: 10.1080/0960085X.2026.2627280 MEDS Methodology for Evaluation in Design Science
+question: null
+search: SEARCH-6539f3f4d3
+score: 1.143
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

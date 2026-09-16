@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3c1e9ef05f
+created: 2026-09-15T06:33:44.760Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6540098
+title: "Benchmarking Real-Time Voice Cloning on Consumer Apple Silicon: A Practical Evaluation of GPT-SoVITS on M-Series Hardware"
+authors:
+  - Akhil Singh
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6540098
+url: https://doi.org/10.2139/ssrn.6540098
+abstract: "<div> We present the first systematic benchmark of GPT-SoVITS, an open-source few-shot text-to-speech system, running entirely on consumer Apple Silicon hardware. We identify and resolve seven critical platform incompatibilities, including pervasive float16 precision errors across training, inference, and API serving pipelines. Using a MacBook Pro with an M4 Pro chip (24GB unified memory), we fine-tune a voice model on 37 minutes of English speech data and achieve training completion in approximately 70 minutes. We further construct a streaming voice agent pipeline combining speech-to-text, a local large language model, and our fine-tuned GPT-SoVITS model, achieving a measured first-audio latency of 1,557 milliseconds. Our complete toolkit, including automated platform patches and deployment scripts, is released as open source. </div> <div> <br> DOI: https://doi.org/10.5281/zenodo.19458410 <br><span>Code: https://github.com/akhilsingh-git/voice-clone-toolkit</span> </div> <div> <br> </div>"
+type: preprint
+open_access: null
+cited_by: 0
+query: tau Voice Benchmarking Full Duplex Voice Agents Real World Domains
+question: null
+search: SEARCH-b9d3c043db
+score: 1.167
+score_parts:
+  rank: 0.167
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

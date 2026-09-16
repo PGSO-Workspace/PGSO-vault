@@ -1,0 +1,42 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5a04c34b4a
+created: 2026-09-15T06:33:03.695Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404239715
+title: "Large language models for generative information extraction: a survey"
+authors:
+  - Derong Xu
+  - Wei Chen
+  - Wenjun Peng
+  - Chao Zhang
+  - Tong Xu
+  - Xiangyu Zhao
+  - Xian Wu
+  - Yefeng Zheng
+  - Yan Wang
+  - Enhong Chen
+year: 2024
+venue: Frontiers of Computer Science
+doi: 10.1007/s11704-024-40555-y
+url: https://doi.org/10.1007/s11704-024-40555-y
+abstract: Abstract Information Extraction (IE) aims to extract structural knowledge from plain natural language texts. Recently, generative Large Language Models (LLMs) have demonstrated remarkable capabilities in text understanding and generation. As a result, numerous works have been proposed to integrate LLMs for IE tasks based on a generative paradigm. To conduct a comprehensive systematic review and exploration of LLM efforts for IE tasks, in this study, we survey the most recent advancements in this field. We first present an extensive overview by categorizing these works in terms of various IE subtasks and techniques, and then we empirically analyze the most advanced methods and discover the emerging trend of IE tasks with LLMs. Based on a thorough review conducted, we identify several insights in technique and promising research directions that deserve further exploration in future studies. We maintain a public repository and consistently update related works and resources on GitHub (LLM4IE repository).
+type: article
+open_access: true
+cited_by: 273
+query: large language model agent evaluation benchmark reliability task success journal
+question: null
+search: SEARCH-b435e17ef6
+score: 1.576
+score_parts:
+  rank: 0.167
+  citations: 0.609
+  recency: 0.8
+needs_approval: false
+state: candidate

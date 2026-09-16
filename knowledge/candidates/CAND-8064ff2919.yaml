@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8064ff2919
+created: 2026-09-15T09:45:34.518Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1121/10.0045092
+title: Single- and dual-task listening effort for word and emotion recognition using emotional and non-emotional stimuli
+authors:
+  - Shae D. Morgan
+year: 2026
+venue: The Journal of the Acoustical Society of America
+doi: 10.1121/10.0045092
+url: https://doi.org/10.1121/10.0045092
+abstract: "Everyday speech perception is rarely restricted to a single domain but involves simultaneous processing of multiple cues available in the speech signal. For example, in addition to extracting the meaning of words from lexical cues, listeners also process indexical cues, such as the talker’s age and emotional state. Many studies of speech perception focus on a single domain of perception, such as word recognition or emotion recognition in isolation. Fewer studies investigate how listeners process multiple cues simultaneously. In this presentation, we will discuss how cognitive resource allocation or “listening effort” (measured using pupillometry) varies during speech perception depending on whether listeners focus on what is said (word recognition), how it is said (emotion recognition), or both simultaneously. In the present study, young adults with normal hearing listened to emotionally expressive or emotionally neutral sentences and completed three tasks in separate blocks: Identifying target words from the sentence, identifying the talker’s emotion, or identifying both. Using pupillometry, we measured pupil dilation in response to these tasks. This presentation will discuss the results within the context of emotional versus neutral and single-task (word recognition, emotion recognition) versus dual-task (both) speech processing. [Work supported by ASHFoundation New Investigator Research Grant.]"
+type: article
+open_access: null
+cited_by: 0
+query: '"Dual Learning for Conversational Emotion Recognition and Emotional Response Generation" PDF'
+question: null
+search: SEARCH-370d9309b7
+score: 1.059
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

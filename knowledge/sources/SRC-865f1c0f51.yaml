@@ -1,0 +1,21 @@
+schema: phdude.source
+version: 1
+id: SRC-865f1c0f51
+created: 2026-09-15T05:18:34.864Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: "Matched lifecycle and actual dispatch comparison: PGSO, NeMo and Invariant, SDK090fcd8"
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-06ac5beec6
+  - ART-5ca86adba7
+  - ART-ea1e8811f6
+  - ART-ec46c4032c
+state: candidate
+year: 2026
+url: https://github.com/PGSO-Workspace/pgso-sdk/pull/4
+abstract: "Clean release execution at SDK090fcd8: 23 authored scenarios and 96 candidate calls per arm. PGSO and matched NeMo/Invariant host integrations each executed 68 instrumented callbacks and blocked 28 calls, with zero authored-contract mismatches. Threshold engineering ablation had 2 missed and 9 additional authored blocks; voice-agnostic had 28 missed blocks. Each arm repeated in a fresh process with reversed episode order and rejected seven malformed payloads via explicit validation markers. The shared comparator lifecycle resides in host code, with real vendor DSL permission decisions. Callbacks are source-inspected in-process instrumentation, not independent cryptographic attestation. Imported execution evidence, not a PhDude rerun, no human study and no comparative-superiority claim. Full raw evidence is registered as a separate dataset. The prospective human pilot procedure retains unresolved corpus, fixed-model access and human-rater dependencies. Publication: PR4 merged into main as acffebf6253f905430193236b73c1cd150595038 on 2026-09-15 at 05:19:44 UTC after both CI checks passed. The merged tree 512a31d825aaff7c51e45b7c81f6d8c982245fca equals reviewed head c020994. Raw imported execution archive: DATASET-50a003fd67."

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c38e85505e
+created: 2026-09-14T23:44:30.144Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5753/wit.2024.2341
+title: "Superando Desafios: Mulheres em Projetos Open Source no GitHub"
+authors:
+  - Cinthia Provesi Pissetti
+  - Luciana Bolan Frigo
+  - Isabela Gasparini
+year: 2024
+venue: Anais do XVIII Women in Information Technology (WIT 2024)
+doi: 10.5753/wit.2024.2341
+url: https://doi.org/10.5753/wit.2024.2341
+abstract: Com a baixa representatividade feminina em áreas de tecnologias da informação, o presente artigo faz uma análise do cenário de mulheres em ambientes colaborativos de código aberto. Para a pesquisa foram analisadas duas comunidades no GitHub e selecionados quatro repositórios. Apesar dos desafios e da baixa representação, observa-se um aumento gradual na participação das mulheres ao longo do tempo, ressaltando a necessidade contínua de políticas e iniciativas que promovam a igualdade de gênero nessas comunidades. Um dos achados desta pesquisa mostra que em um repositório específico para mulheres, elas realizaram 83.33% dos comentários, enquanto nos demais repositórios a participação delas é de cerca de 5.56%, apesar do percentual de mulheres ser praticamente igual ao de homens. Considera-se ainda a importância de pesquisas qualitativas futuras para compreender as motivações e desafios enfrentados pelas mulheres nessas áreas.
+type: article
+open_access: null
+cited_by: 0
+query: '"WeClaw" "Adaptive Runtime" GitHub open source'
+question: null
+search: SEARCH-b132bc032f
+score: 0.883
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

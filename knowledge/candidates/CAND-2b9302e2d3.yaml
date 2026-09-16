@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2b9302e2d3
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1177/19485506261429540
+title: Moral Diversity Fosters Cultural Looseness and Reduces Norm Policing
+authors:
+  - Merrick R. Osborne
+  - Mohammad Atari
+year: 2026
+venue: Social Psychological and Personality Science
+doi: 10.1177/19485506261429540
+url: https://doi.org/10.1177/19485506261429540
+abstract: How does moral diversity shape a community’s response to norm violations? Here, we argue that increased moral diversity may lead to greater tolerance for deviant behaviors and a lower propensity to enforce norms. In Studies 1 to 2, we examine two large-scale datasets, and in Studies 3 to 7, we conduct pre-registered controlled experiments ( N = 1,058), showing that people in more (versus less) morally diverse communities believe that the community’s norms are looser. In turn, norm violations are more accepted, and there is a reduced willingness to police transgressions. Our findings complement prior work on moral echo chambers and offer a new lens for understanding why communities and individuals differ in their tolerance of rule-breaking behavior.
+type: article
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 1.05
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

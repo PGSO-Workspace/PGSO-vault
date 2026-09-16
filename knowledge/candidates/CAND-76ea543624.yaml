@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-76ea543624
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1177/19485506241312876
+title: Expressed and Perceived Honesty Benefits Relationships Even When Couples Are Not Accurate
+authors:
+  - Bonnie M. Le
+  - Princeton X. Chee
+  - Claire J. Shimshock
+  - Jenny D. V. Le
+year: 2025
+venue: Social Psychological and Personality Science
+doi: 10.1177/19485506241312876
+url: https://doi.org/10.1177/19485506241312876
+abstract: Honesty is a highly valued virtue, yet it can be challenging to enact when it may compromise our most valued relationships. We tested preregistered hypotheses examining the distinct effects of expressed , perceived , and accurate perceptions of honesty on well-being and change. Romantic partners ( N couples = 214; N individuals = 428) discussed a desired change in the lab and reported on outcomes concurrently and three months later. Honesty was self-reported and rated by observers, with correspondence between these measures observed. Results of multilevel response surface analyses showed that greater expressed and perceived honesty—but not accurate perceptions of honesty—predicted greater well-being, relationship satisfaction, and target motivation to change concurrently, with some benefits emerging over time. The current results indicate that honesty can benefit relationships even when the truth may hurt, with more expressed and perceived honesty fostering better relationships regardless of whether couples share in that perception of honesty.
+type: article
+open_access: null
+cited_by: 2
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 1.05
+score_parts:
+  rank: 0.031
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

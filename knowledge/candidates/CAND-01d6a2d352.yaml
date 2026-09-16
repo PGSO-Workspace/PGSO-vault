@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-01d6a2d352
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412649463
+title: A Comprehensive Study of LLM and Evolution, Varieties, and Their Role in Software Engineering and Cybersecurity
+authors:
+  - Hossain Rasel
+  - Abu Bakar Siddik Didar
+  - Abdullah Al Mamun Dinar
+  - Foisal Islam Fahad
+  - Muhammad Aamir Khan
+  - Md. Badiuzzaman Biplob
+year: 2025
+venue: Preprints.org
+doi: 10.20944/preprints202507.1600.v1
+url: https://doi.org/10.20944/preprints202507.1600.v1
+abstract: The quick growth of Large Language Models (LLMs) signals a major change in artificial intelligence, especially in understanding and generating natural language. Even as these models become more popular, there is still not enough analysis connecting their design with practical uses in software engineering and cybersecurity. This paper aims to fill that gap by examining the basic functions of LLMs, including tokenization, self-attention, transformer architectures, and large-scale pretraining. We trace their development from earlier models like BERT and GPT-2 to modern multimodal and instruction-tuned models like GPT-4. Using a mixed-method approach, we look at benchmarking frameworks and evaluation metrics that focus on accuracy, reasoning, safety, and reliability. Our findings reveal important trends such as model specialization, memory improvement, and better alignment strategies, which together improve scalability and generalizability. We also explore how LLMs act as intelligent agents in software development tasks, including code generation, refactoring, debugging, and gathering requirements. They play crucial roles in cybersecurity, such as threat analysis and automated defense systems. In addition, we address current challenges like hallucination, data leaks, and vulnerabilities. We suggest future directions that focus on reliability, adaptation to different domains, and ethical use. This work provides a well-rounded and current view of LLMs, linking theory to practice in new AI-driven areas.
+type: preprint
+open_access: true
+cited_by: 1
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.175
+score_parts:
+  rank: 0.2
+  citations: 0.075
+  recency: 0.9
+needs_approval: true
+state: candidate

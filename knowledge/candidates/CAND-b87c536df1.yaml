@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b87c536df1
+created: 2026-09-15T08:27:20.775Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.52783/jisem.v10i26s.4312
+title: "Prototype Design of Metaverse-based Sustainable Smart Tourism Destinations Development: Design Science Research Methodology Approach"
+authors:
+  - Siti Elda Hiererra
+year: 2025
+venue: Journal of Information Systems Engineering and Management
+doi: 10.52783/jisem.v10i26s.4312
+url: https://doi.org/10.52783/jisem.v10i26s.4312
+abstract: "This study aims to determine what user interface and prototype design should be in a metaverse-based sustainable smart tourism destination. A metaverse-based smart tourism destination is an approach that combines information and communication technology (ICT) to improve efficiency, quality, satisfaction, immersive experience, and sustainability of tourist experiences. The author uses the Design Science Research Methodology (DSRM) approach to build a prototype design artifact. DS (Design Science) is important in disciplines oriented toward creating successful artifacts. Several researchers have pioneered DS research in the Information Systems discipline over the past 15 years; therefore, DSRM is usually used as a reference by researchers in the Information Systems field. DSRM combines the principles, practices, and procedures needed to conduct research and fulfills three objectives: consistent with previous literature, providing a nominal process model for conducting DS research, and providing a mental model for presenting and evaluating DS research in IS. The DS process in this study focuses on design and development, demonstration, and evaluation. The author designs and develops the user interface, demonstrates it to end users, and then conducts testing or evaluation. The author tested the user interface and metaverse prototype to determine whether it was following the needs of users and stakeholders. Testing was carried out using interview techniques with experts/stakeholders using the AIKEN and ISO 25010 methods. Testing was also carried out using the black box method. End users tried the prototype directly and filled out a questionnaire the author had prepared using the GEQ (Game Experience Questionnaire) method. This study contributes to the discourse on smart tourist destinations based on the metaverse, which can add insight into smart destinations and increase satisfaction and immersive experiences. The evaluation results can be concluded that the experts agreed with the prototype, and the results of testing the prototype on the end-users showed that 90% expressed satisfaction in using/playing the metaverse prototype that had been built. This study presents a new basic pattern for developing sustainable smart tourist destinations based on the metaverse. This research is essential for stakeholders, including the government, destination managers, academics, and the community/tourists themselves, because it provides an overview of the user interface, and the prototype that was built can be a reference for all stakeholders in implementing sustainable smart tourist destinations based on metaverse."
+type: article
+open_access: null
+cited_by: 0
+query: A Design Science Research Methodology for Information Systems Research Peffers
+question: null
+search: SEARCH-56903e64fd
+score: 1.233
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

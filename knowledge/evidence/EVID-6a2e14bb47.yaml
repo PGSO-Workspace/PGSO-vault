@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-6a2e14bb47
+created: 2026-09-15T01:13:40.266Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-e51cc910a8
+locator: arXiv v1 submitted 2025-01-14; targeted methods/results/limitations sections
+excerpt: "Research paraphrase, not quotation: The empathetic DH uses EEG, EDA and PPG; audio/video were collected but not used in the reported recognition pipeline. Every 5 seconds, a 20-second sliding window is classified and fused into binary arousal/valence; the most frequent detected emotion during speech selects a pre-written response and updates mirrored facial expression. The orchestration layer controls dialogue flow, response selection and expression; the study compares empathetic and neutral DH conditions with 23 participants. Limits: ['Commercial Soul Machines DH; reported responses came from a predefined database and the paper says that deployed version did not support an LLM.', 'Emotion recognition accuracy, transition timing, personality, single female avatar, voice-tone control and sample diversity are stated limitations.', 'No official complete orchestration implementation was verified.']"
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-adcd275498

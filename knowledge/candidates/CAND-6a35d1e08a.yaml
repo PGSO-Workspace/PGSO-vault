@@ -1,0 +1,55 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6a35d1e08a
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411005431
+title: "Biomni: A General-Purpose Biomedical AI Agent"
+authors:
+  - Kexin Huang
+  - Serena Zhang
+  - Hanchen Wang
+  - Yuanhao Qu
+  - Yingzhou Lu
+  - Yusuf Roohani
+  - Ryan J. Li
+  - Lin Qiu
+  - G. L. Li
+  - Junze Zhang
+  - Di Yin
+  - Shruti Marwaha
+  - Jennefer N. Carter
+  - Xin‐Fu Zhou
+  - Matthew T. Wheeler
+  - Jonathan A. Bernstein
+  - Mengdi Wang
+  - Peng He
+  - Jingtian Zhou
+  - M Snyder
+  - Le Cong
+  - Aviv Regev
+  - Jure Leskovec
+year: 2025
+venue: bioRxiv (Cold Spring Harbor Laboratory)
+doi: 10.1101/2025.05.30.656746
+url: https://doi.org/10.1101/2025.05.30.656746
+abstract: Biomedical research underpins progress in our understanding of human health and disease, drug discovery, and clinical care. However, with the growth of complex lab experiments, large datasets, many analytical tools, and expansive literature, biomedical research is increasingly constrained by repetitive and fragmented workflows that slow discovery and limit innovation, underscoring the need for a fundamentally new way to scale scientific expertise. Here, we introduce Biomni, a general-purpose biomedical AI agent designed to autonomously execute a wide spectrum of research tasks across diverse biomedical subfields. To systematically map the biomedical action space, Biomni first employs an action discovery agent to create the first unified agentic environment - mining essential tools, databases, and protocols from tens of thousands of publications across 25 biomedical domains. Built on this foundation, Biomni features a generalist agentic architecture that integrates large language model (LLM) reasoning with retrieval-augmented planning and code-based execution, enabling it to dynamically compose and carry out complex biomedical workflows - entirely without relying on predefined templates or rigid task flows. Systematic benchmarking demonstrates that Biomni achieves strong generalization across heterogeneous biomedical tasks - including causal gene prioritization, drug repurposing, rare disease diagnosis, microbiome analysis, and molecular cloning - without any task-specific prompt tuning. Real-world case studies further showcase Biomni's ability to interpret complex, multi-modal biomedical datasets and autonomously generate experimentally testable protocols. Biomni envisions a future where virtual AI biologists operate alongside and augment human scientists to dramatically enhance research productivity, clinical insight, and healthcare. Biomni is ready to use at https://biomni.stanford.edu, and we invite scientists to explore its capabilities, stress-test its limits, and co-create the next era of biomedical discoveries.
+type: preprint
+open_access: true
+cited_by: 117
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.501
+score_parts:
+  rank: 0.083
+  citations: 0.518
+  recency: 0.9
+needs_approval: true
+state: candidate

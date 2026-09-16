@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a16321e71b
+created: 2026-09-15T07:38:48.880Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1017/9781009072892.010
+title: Use published vocabulary lists with caution
+authors: []
+year: 2022
+venue: Penny Ur's 77 Tips for Teaching Vocabulary
+doi: 10.1017/9781009072892.010
+url: https://doi.org/10.1017/9781009072892.010
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: '"10.1145/3814959" published'
+question: null
+search: SEARCH-76dea7765d
+score: 0.711
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 0.6
+needs_approval: false
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d872863783
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404780858
+title: "LLMs as Collaborator: Demands-Guided Collaborative Retrieval-Augmented Generation for Commonsense Knowledge-Grounded Open-Domain Dialogue Systems"
+authors:
+  - Jiong Yu
+  - Sixing Wu
+  - Jiahao Chen
+  - Wei Zhou
+year: 2024
+venue: null
+doi: 10.18653/v1/2024.findings-emnlp.794
+url: https://doi.org/10.18653/v1/2024.findings-emnlp.794
+abstract: Capturing the unique knowledge demands for each dialogue context plays a crucial role in commonsense knowledge-grounded response generation.However, current CoT-based and RAG-based methods are still unsatisfactory in the era of LLMs because 1) CoT often overestimates the capabilities of LLMs and treats them as isolated knowledge Producers; thus, CoT only uses the inherent knowledge of LLM itself and then suffers from the hallucination and outdated knowledge, and 2) RAG underestimates LLMs because LLMs are the passive Receivers that can only use the knowledge retrieved by external retrievers.In contrast, this work regards LLMs as interactive Collaborators and proposes a novel DCRAG 1 (Demands-Guided Collaborative RAG) to leverage the knowledge from both LLMs and the external knowledge graph.Specifically, DCRAG designs three Thought-then-Generate stages to collaboratively investigate knowledge demands, followed by a Demands-Guided Knowledge Retrieval to retrieve external knowledge by interacting with LLMs.Extensive experiments and in-depth analyses on English DailyDialog and Chinese Diamante datasets proved DCRAG can effectively capture knowledge demands and bring higher-quality responses.
+type: other
+open_access: true
+cited_by: 5
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1.054
+score_parts:
+  rank: 0.059
+  citations: 0.195
+  recency: 0.8
+needs_approval: false
+state: candidate

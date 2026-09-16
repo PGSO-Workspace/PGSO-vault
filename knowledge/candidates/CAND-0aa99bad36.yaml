@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0aa99bad36
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2024.3389453
+title: "CFN-ESA: A Cross-Modal Fusion Network With Emotion-Shift Awareness for Dialogue Emotion Recognition"
+authors:
+  - Jiang Li
+  - Xiaoping Wang
+  - Yingjian Liu
+  - Zhigang Zeng
+year: 2024
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2024.3389453
+url: https://doi.org/10.1109/taffc.2024.3389453
+abstract: null
+type: article
+open_access: null
+cited_by: 64
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1.284
+score_parts:
+  rank: 0.031
+  citations: 0.453
+  recency: 0.8
+needs_approval: false
+state: candidate

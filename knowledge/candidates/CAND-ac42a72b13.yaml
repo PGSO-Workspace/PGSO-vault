@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ac42a72b13
+created: 2026-09-15T01:07:29.902Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/aciiw52867.2021.9666315
+title: Emotion-Aware Transformer Encoder for Empathetic Dialogue Generation
+authors:
+  - Raman Goel
+  - Seba Susan
+  - Sachin Vashisht
+  - Armaan Dhanda
+year: 2021
+venue: 2021 9th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)
+doi: 10.1109/aciiw52867.2021.9666315
+url: https://doi.org/10.1109/aciiw52867.2021.9666315
+abstract: null
+type: article
+open_access: null
+cited_by: 19
+query: '"Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation" 11293762'
+question: null
+search: SEARCH-a309ac3231
+score: 1.325
+score_parts:
+  rank: 0.5
+  citations: 0.325
+  recency: 0.5
+needs_approval: false
+state: candidate

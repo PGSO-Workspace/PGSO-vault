@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c198266878
+created: 2026-09-15T01:07:13.133Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1080/10447318.2025.2540500
+title: "Empathetic Conversational Agents: Utilizing Neural and Physiological Signals for Enhanced Empathetic Interactions"
+authors:
+  - Nastaran Saffaryazdi
+  - Tamil Selvan Gunasekaran
+  - Kate Loveys
+  - Elizabeth Broadbent
+  - Mark Billinghurst
+year: 2025
+venue: International Journal of Human–Computer Interaction
+doi: 10.1080/10447318.2025.2540500
+url: https://doi.org/10.1080/10447318.2025.2540500
+abstract: null
+type: article
+open_access: null
+cited_by: 16
+query: '"Empathetic Conversational Agents" "10.1080/10447318.2025.2540500" arXiv 2501.08393'
+question: null
+search: SEARCH-3dc085d3d3
+score: 1.458
+score_parts:
+  rank: 0.25
+  citations: 0.308
+  recency: 0.9
+needs_approval: false
+state: candidate

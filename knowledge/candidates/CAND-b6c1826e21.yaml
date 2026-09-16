@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b6c1826e21
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2025.emnlp-demos.55
+title: "The Dangers of Indirect Prompt Injection Attacks on LLM-based Autonomous Web Navigation Agents: A Demonstration"
+authors:
+  - Sam Johnson
+  - Viet Pham
+  - Thai Le
+year: 2025
+venue: "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations"
+doi: 10.18653/v1/2025.emnlp-demos.55
+url: https://doi.org/10.18653/v1/2025.emnlp-demos.55
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.008
+score_parts:
+  rank: 0.033
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

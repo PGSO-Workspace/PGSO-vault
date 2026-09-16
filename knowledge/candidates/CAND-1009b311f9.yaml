@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1009b311f9
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0015127200004091
+title: "AgentSearch: Learning Efficient Agentic Workflows via Deliver Tree Search"
+authors:
+  - Dinesh Attota
+  - Ying Xie
+year: 2026
+venue: Proceedings of the 15th International Conference on Data Science, Technology and Applications
+doi: 10.5220/0015127200004091
+url: https://doi.org/10.5220/0015127200004091
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.043
+score_parts:
+  rank: 0.043
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

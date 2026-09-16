@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-080aede4bf
+created: 2026-09-15T08:10:36.723Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/978-1-4419-5653-8_17
+title: Disseminating Design Science Research
+authors:
+  - Alan Hevner
+  - Samir Chatterjee
+year: 2010
+venue: Integrated Series in Information Systems
+doi: 10.1007/978-1-4419-5653-8_17
+url: https://doi.org/10.1007/978-1-4419-5653-8_17
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: '"Design Science in Information Systems Research"'
+question: null
+search: SEARCH-e78eb7cdff
+score: 0.067
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 0
+needs_approval: false
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0a49864402
+created: 2026-09-15T08:10:36.723Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W36424778
+title: "From artefact to theory: ten years of using design science in information systems research"
+authors:
+  - Alireza Amrollahi
+  - Amir Hossein Ghapanchi
+  - Amir Talaei‐Khoei
+year: 2014
+venue: Victoria University Research Repository (Victoria University)
+doi: null
+url: https://vuir.vu.edu.au/35463/
+abstract: After almost one decade from the introduction of design science research (DSR) by Hevner et al (2004) to the information systems (IS) discipline, several studies have benefited from this approach and produced significant results which range from new IT artefacts to IS theories. The focus of the approach on solving real problems through developing an IT artefact and its potential to study further consequences, have made the approach popular for IS scholars and practitioners. However, the approach is "neither extensively cited nor considered salient to their own research by authors or referees" according to the well-known author in the field, Eric K. Clemons. The current research aims to investigate the theoretical background, topics, context, output and research techniques in papers which used a DSR approach. This paper employs a systematic literature review approach to study 14 top ranking journals in the field of IS. After an in-depth study of 569 papers, our search resulted in a final set of 72 papers which used this approach. Based on comprehensive analysis of these papers, their main theoretical foundations are identified and compared according to different components in DSR (problem, artefact, evaluation, result). This study indicates that although a DSR approach has been used for a variety of topics, there is still opportunity for using it in many others. The results may be beneficial to show new researchers the benefits, current status and future opportunities to use the DSR approach. Moreover this paper can show practitioners how to benefit from the DSR approach in solving their problems.
+type: other
+open_access: false
+cited_by: 2
+query: '"Design Science in Information Systems Research"'
+question: null
+search: SEARCH-e78eb7cdff
+score: 0.262
+score_parts:
+  rank: 0.143
+  citations: 0.119
+  recency: 0
+needs_approval: false
+state: candidate

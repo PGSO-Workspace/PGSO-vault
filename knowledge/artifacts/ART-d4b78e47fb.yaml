@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-d4b78e47fb
+created: 2026-09-15T09:51:56.786Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/cohn-multimodal-timeline-primary-inspection-2026-09-15.md
+paths:
+  - sources/literature/cohn-multimodal-timeline-primary-inspection-2026-09-15.md
+hash: d4b78e47fbd7a5184653904b4b77ccc1cff18d168fc40129af59b9d7f5f41dd2
+bytes: 2048
+mime: text/markdown
+kind: md
+role: notes
+extracted:
+  status: ok
+  method: text
+  text_chars: 2042
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T09:51:56.576Z

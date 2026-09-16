@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-020ce644a4
+created: 2026-09-15T00:21:33.749Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.4324/9781003763826-18
+title: Prosody in Conversational Questions
+authors:
+  - Margret Selting
+year: 2026
+venue: Pronunciation
+doi: 10.4324/9781003763826-18
+url: https://doi.org/10.4324/9781003763826-18
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: prosody emotion conversational agents Hume ElevenLabs voice workflow governance
+question: null
+search: SEARCH-cd7a32aa2c
+score: 1.2
+score_parts:
+  rank: 0.2
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

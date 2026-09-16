@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c69fc4f952
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7161916994
+title: "Distorted Perspectives of LLM-Simulated Preferences: Can AI Mislead Design?"
+authors:
+  - Eduard Kuric
+  - Peter Demcak
+  - Matus Krajcovic
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2605.18311
+abstract: Designers of digital solutions increasingly consult Large Language Models (LLMs) for their work. However, it remains unclear how this may affect the user experiences they produce and there are no established practices. We investigate how design preferences expressed by LLM-driven simulation methods align with those of real users. We present a study that aggregates real-world data and design stimuli from twenty-nine preference tests conducted in practice by users of the UXtweak online research platform (n = 2073). We perform holistic multimodal simulations where we manipulate LLM variables (model reasoning, sampling, persona type, and specificity) and assess their effects on algorithmic fidelity. Our results unveil significant and systematic discrepancies between peoples' real design preferences and LLM simulations that are consistent across manipulations. Synthetic justifications lack genuine depth, nuance and reasoning, which they substitute by patterns like focus on generic properties, specific elements, elaboration and overpraising. The unique attention directed by this research toward preferences within visual design stimuli highlights misrepresentation of perception and meaning by LLMs in a context that is intuitive yet critical for design teams. The external and ecological validity of our findings is high, given their replication across a multitude of real-world studies.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 1.1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

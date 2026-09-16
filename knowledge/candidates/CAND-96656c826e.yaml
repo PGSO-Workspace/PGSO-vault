@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-96656c826e
+created: 2026-09-15T07:50:14.590Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0011386400003280
+title: Toward a Context-aware Process Model Repository
+authors:
+  - Hadjer Khider
+  - Slimane Hammoudi
+  - Abdelkrim Meziane
+year: 2022
+venue: Proceedings of the 19th International Conference on Smart Business Technologies
+doi: 10.5220/0011386400003280
+url: https://doi.org/10.5220/0011386400003280
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Yue Qi" repository'
+question: null
+search: SEARCH-32580e75f5
+score: 0.85
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 0.6
+needs_approval: false
+state: candidate

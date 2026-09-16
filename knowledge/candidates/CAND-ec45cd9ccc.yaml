@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ec45cd9ccc
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6979518
+title: "Runtime Governance at the Execution Boundary: Why AI Compliance Fails Between Prediction and Action"
+authors:
+  - Tayron Portillo Salazar
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6979518
+url: https://doi.org/10.2139/ssrn.6979518
+abstract: "Enterprise AI remains structurally weak at the execution boundary: the interval between a machine-derived output and the operational act that affects money, rights, or compliance obligations. Current governance approaches operate around models, not within the decision path. This paper argues that post-hoc governance is insufficient for regulated environments and proposes Artificial Decision Intelligence Systems (ADIS) as a category designed to govern the execution boundary through deterministic, auditable, policy-bound runtime judgment. Seven formal properties distinguish ADIS from neighboring paradigms. Decision anatomy explains cross-sector transferability. Bounded operational evidence supports the architectural argument. The paper concludes that governance within the decision path is an architectural prerequisite for scaling AI into consequential operations."
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 1.031
+score_parts:
+  rank: 0.031
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

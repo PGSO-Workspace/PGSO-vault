@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f3d834586b
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.46727/c.25-04-2024.p141-152
+title: Affective neuroscience. Emotion from “basic emotion” approach
+authors:
+  - Ovidiu Mihail POSTOLACHE
+year: 2024
+venue: "Conferință științifică națională cu participare internațională: online = Scientific conference with international participation: Online"
+doi: 10.46727/c.25-04-2024.p141-152
+url: https://doi.org/10.46727/c.25-04-2024.p141-152
+abstract: The emotional experience that accompanies us in experiencing life has caused numerous controversies due to the subjectivity of this experience, so that currently there is no scientific consensus on the place it occupies in psychic life, its nature, as well as the mechanism of production. Affective neuroscience has sought and provided an answer to these challenges by outlining a theory of personality from a bottom-up perspective, identifying seven primary emotional systems specific to the mammalian brain that originate in subcortical structures. The identification of these emotional systems was possible through the use of electrical stimulation techniques, pharmacological manipulation as well as studying the lesions caused at the animal brain level. The proposed vision in which emotion is seen from a categorical perspective, is a monistic one of the classic brain-mind duality, intending a new perspective in which the intrinsic aspect of the brain in certain mental contents is taken into account. This article provides an overview of this paradigm in which emotions originate in primary emotional systems determined by the process of evolution with a role for survival.
+type: article
+open_access: null
+cited_by: 0
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 0.829
+score_parts:
+  rank: 0.029
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

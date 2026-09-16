@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-aaf53f6de5
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411433125
+title: "The relationship between psychological factors and temporomandibular disorders: a systematic review and meta-analysis"
+authors:
+  - Ravinder Saini
+  - Syed Altafuddin Quadri
+  - Seyed Ali Mosaddad
+  - Artak Heboyan
+year: 2025
+venue: Head & Face Medicine
+doi: 10.1186/s13005-025-00522-9
+url: https://doi.org/10.1186/s13005-025-00522-9
+abstract: "BACKGROUND: Temporomandibular disorders (TMD) are multifactorial conditions that involve pain, dysfunction, and impaired jaw movement, significantly impacting patients' quality of life. Emerging evidence suggests that psychological factors, including anxiety, depression, and stress, play a crucial role in the onset and progression of TMD. However, the exact nature of this relationship remains unclear. This study aims to systematically analyze and quantify the association between psychological factors and TMD, providing clinically relevant insights to improve patient management and therapeutic strategies. METHODS: This study was registered with the International Platform of Registered Systematic Review and Meta-Analysis Protocols (INPLASY202420084) to ensure methodological transparency and adherence to systematic review standards. The study design and protocol followed the Preferred Reporting of Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The National Institutes of Health (NIH) Quality Assessment Tool was used to assess the methodological quality of the included studies. The data were systematically extracted and analyzed. RESULTS: The literature search yielded 2392 potential articles, of which 21 were included in this study. A significant correlation was found between TMD and anxiety, depression, stress, and somatization. Statistically significant differences in anxiety and depression scores were observed between patients with TMD and the controls (p < 0.00001). Stress increased TMD development and severity. In addition, subgroup analyses revealed gender differences, with depression significantly correlating with TMD in males. Similarly, students showed significant correlations between TMD and anxiety, while adults demonstrated strong associations with both anxiety and depression. Adolescents showed correlations between TMD development and somatization and obsessive-compulsiveness. CONCLUSION: Anxiety, depression, and stress are significant risk factors for the development and progression of TMD. Subgroup analyses demonstrated significant correlations between particular psychological factors and TMD in different sub-populations."
+type: other
+open_access: true
+cited_by: 33
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 1.336
+score_parts:
+  rank: 0.053
+  citations: 0.383
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c58033923b
+created: 2026-09-15T00:21:13.389Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6460539
+title: "Guardian Angel: A Last-Mile Virtue-Ethics Guardrail for Decentralized Agentic AI Safety"
+authors:
+  - Leo Linbeck III
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6460539
+url: https://doi.org/10.2139/ssrn.6460539
+abstract: "Agentic AI systems introduce novel safety challenges that upstream alignment layers cannot fully address. Prompt injection, emotional manipulation, and infrastructure-disabling actions can bypass model-level safeguards, leading to unauthorized tool executions with real-world consequences. We present Guardian Angel, a deployable plugin for open agent frameworks (e.g., OpenClaw/ClawHub) that enforces moral oversight at the last mile-immediately before tool calls-via a privileged before_tool_call hook. Grounded in Thomistic virtue ethics and centered on caritas (the willing of the principal's genuine good), the system maintains a continuous virtuous disposition while applying triggered three-gate evaluation: provenance classification, intrinsic-evil hard stops, and virtue-based scoring using a Clarity × Stakes matrix. Questionable actions escalate to human approval via cryptographically bound, time-limited nonces. The design exploits a key structural property of agentic systems-the sparsity of tool calls relative to internal reasoning-to integrate fast System 1 filtering with deliberate System 2 moral reasoning, thereby decentralizing safety to end-users without prohibitive latency. We discuss the philosophical prerequisites for such systems, detail the architecture and implementation, present qualitative evaluation results from red-team testing, and outline directions for formal benchmarking. Guardian Angel is MIT-0 licensed and available at https://clawhub.ai/leo3linbeck/guardian-angel."
+type: preprint
+open_access: null
+cited_by: 0
+query: LlamaFirewall open source guardrail agentic AI systems
+question: null
+search: SEARCH-70332b9336
+score: 2
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6a1cab5886
+created: 2026-09-15T00:31:11.443Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/aciiw59127.2023.10388136
+title: Enhancing Speech Emotion Recognition for Real-World Applications via ASR Integration
+authors:
+  - Yuanchao Li
+year: 2023
+venue: 2023 11th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)
+doi: 10.1109/aciiw59127.2023.10388136
+url: https://doi.org/10.1109/aciiw59127.2023.10388136
+abstract: null
+type: article
+open_access: null
+cited_by: 4
+query: '"Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition"'
+question: null
+search: SEARCH-f9a249d1ae
+score: 1.018
+score_parts:
+  rank: 0.143
+  citations: 0.175
+  recency: 0.7
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b9f002d478
+created: 2026-09-15T07:49:59.291Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-6241870/v1
+title: Toward Accurate Weight-based Measurement and Periodic Edge Measurement in Graph Stream
+authors:
+  - Zhuo Li
+  - YuXuan Zhao
+  - Jindian Liu
+  - Yu Zhang
+  - Kaihua Liu
+year: 2025
+venue: null
+doi: 10.21203/rs.3.rs-6241870/v1
+url: https://doi.org/10.21203/rs.3.rs-6241870/v1
+abstract: Abstract Graph streams of sequentially arriving edges are commonly used to represent complex structured data in interactive networks. Typically, graph streams are extremely large and high-velocity. Existing schemes by using graph sketch for summarizing graph stream have demonstrated significant success in handling both storage and query tasks. However, the performance degradation caused by non-uniformly distributions of edge weight and node degree remains unresolved. Current schemes only consider one type of non-uniformly distributions. Meanwhile, there are many periodic edges appearing within the graph streams and finding such periodic edges is crucial for network applications. However, there are no established measurements that predominantly focus on finding periodic edge. To this end, a general graph sketch framework called PMatrix is proposed. PMatrix not only can detect periodic edges, but also adapts to the non-uniformly distributions of edge weight and node degree simultaneously. The performance of PMatrix is evaluated on both CPU and OVS platforms. The experimental results show that PMatrix achieves substantial improvements in measurement precision, reducing the ARE by 62.29% to 99.82% compared with the state-of-the-art graph sketches. For periodic edge measurement, PMatrix has low ARE and F1-Score reaches 100%.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Chihao Li" PDF'
+question: null
+search: SEARCH-a24394c105
+score: 0.956
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

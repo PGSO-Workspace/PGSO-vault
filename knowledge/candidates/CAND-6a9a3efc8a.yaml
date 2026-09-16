@@ -1,0 +1,56 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6a9a3efc8a
+created: 2026-09-15T06:32:41.203Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4414976110
+title: "BIRD-INTERACT: Re-imagining Text-to-SQL Evaluation for Large Language Models via Lens of Dynamic Interactions"
+authors:
+  - Nan Huo
+  - Xiangyu Xu
+  - Jinyang Li
+  - Per Jacobsson
+  - Lin, Shipei
+  - Bowen Qin
+  - Binyuan Hui
+  - Xiaolong Li
+  - Ge Qu
+  - Shuzheng Si
+  - Han, Linheng
+  - Edward Alexander
+  - Xintong Zhu
+  - Rui Qin
+  - Ri Yu
+  - Jin, Yiyao
+  - Zhou, Feige
+  - Weihao Zhong
+  - Yun Chen
+  - Hongyu Liu
+  - Chenhao Ma
+  - Fatma Özcan
+  - Yannis Papakonstantinou
+  - Reynold Cheng
+year: 2025
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2510.05318
+url: http://arxiv.org/abs/2510.05318
+abstract: "Large language models (LLMs) have demonstrated remarkable performance on single-turn text-to-SQL tasks, but real-world database applications predominantly require multi-turn interactions to handle ambiguous queries, execution errors, and evolving user requirements. Existing multi-turn benchmarks fall short by treating conversation histories as static context or limiting evaluation to read-only operations, failing to reflect production-grade database assistant challenges. We introduce BIRD-INTERACT, a benchmark that restores this realism through: (1) a comprehensive interaction environment coupling each database with a hierarchical knowledge base, metadata files, and a function-driven user simulator, enabling models to solicit clarifications, retrieve knowledge, and recover from errors without human supervision; (2) two evaluation settings consisting of a pre-defined conversational protocol (c-Interact) and an open-ended agentic setting (a-Interact) where models autonomously decide when to query the user simulator or explore the environment; (3) a challenging task suite covering the full CRUD spectrum for business-intelligence and operational use cases, guarded by executable test cases. Each task features ambiguous and follow-up sub-tasks requiring dynamic interaction. The suite comprises BIRD-INTERACT-FULL (600 tasks, up to 11,796 interactions) for comprehensive performance assessment, and BIRD-INTERACT-LITE (300 tasks with simplified databases) for detailed behavioral analysis and rapid method development. Our empirical results highlight BIRD-INTERACT's difficulty: GPT-5 completes only 8.67% of tasks in c-Interact and 17.00% in a-Interact. Analysis via memory grafting and Interaction Test-time Scaling validates the importance of effective interaction for complex, dynamic text-to-SQL tasks."
+type: preprint
+open_access: true
+cited_by: 1
+query: tau2 benchmark conversational agents dual control
+question: null
+search: SEARCH-6eb3d17581
+score: 1.308
+score_parts:
+  rank: 0.333
+  citations: 0.075
+  recency: 0.9
+needs_approval: true
+state: candidate

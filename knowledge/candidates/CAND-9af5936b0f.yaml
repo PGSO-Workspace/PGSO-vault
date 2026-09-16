@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9af5936b0f
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7171858227
+title: "THREAT MODELING OF AUTONOMOUS CODING AGENTS IN CORPORATE MOBILE DEVELOPMENT. PART 1: SYSTEM MODEL, ASSETS, TRUST BOUNDARIES, AND ATTACK SURFACES"
+authors:
+  - Valentyn Berkatiuk
+year: 2026
+venue: Věda a perspektivy
+doi: 10.52058/2695-1592-2026-7(62)-438-452
+url: https://doi.org/10.52058/2695-1592-2026-7(62)-438-452
+abstract: "Autonomous coding agents built on large language models increasingly execute mobile-development tasks directly inside corporate environments, where they access a virtual private network (VPN) with multi-factor authentication (MFA), Jira, GitLab, application-signing keys, Model Context Protocol (MCP) extensions, plugins, git hooks, and isolated git worktrees on macOS workstations.Although individual attack vectors against tool-integrated agentsindirect prompt injection, memory poisoning, supply-chain compromise, secret leakage, and insecure code generationare well studied in isolation, no integrated model captures the full developer-side agent toolchain as a single system.This article, the first of a four-part series, establishes the methodological and system-model foundation.Its aim is to specify the system under analysis and to fix a reproducible threat-modeling methodology on which the remaining parts build.The methodology is convergent, combining a data-flow diagram (DFD) annotated with trust boundaries, attack-surface identification, STRIDE classification, attack-defense trees, and a likelihood-by-impact risk matrix with an explicit residual-risk method; likelihood and impact are structured expert judgment anchored to cited literature, not empirical incident frequencies.Applying this framework, the article delivers three system-model artifacts for the target environment: an inventory of 25 assets grouped into eight trust zones (Table 1); a set of nine trust boundaries with their crossing data flows and boundary controls, visualized as a DFD (Table 2, Figure 1); and a catalog of 14 attack surfaces mapped to their exposed assets and organized into three familiesuntrusted-data ingestion, execution, and disclosure (Table 3).The analysis shows that critical-sensitivity assets (protected branches, all credentials, the remote-control channel) coexist with default-untrusted extensions on a single host, and that the corporate-personal boundary (TB6) has no analogue in classic Věda a perspektivy № 7(62) 2026"
+type: article
+open_access: true
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.05
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

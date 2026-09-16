@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-06ac5beec6
+created: 2026-09-15T05:18:19.725Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/lifecycle-090fcd8/manifest.json
+paths:
+  - sources/software/pgso-sdk/lifecycle-090fcd8/manifest.json
+hash: 06ac5beec6c887f0b8c6aebd58324c66140c660523261e5f8ca030ef21654bbc
+bytes: 84637
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T05:18:19.515Z

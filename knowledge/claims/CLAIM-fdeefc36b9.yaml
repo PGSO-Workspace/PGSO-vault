@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-fdeefc36b9
+created: 2026-09-13T07:00:35.606Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The inspected RuleEngine structurally converts attempts to prune a protected tool into RequireStepUp, independently of which signal extractor produced the reading.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-ae75108d34
+questions: []
+sections:
+  - methods
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-dca4bb42b4

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9bf9b41d95
+created: 2026-09-15T00:30:50.983Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1038/s41597-025-04689-3
+title: "MELAUDIS: A Large-Scale Benchmark Acoustic Dataset For Intelligent Transportation Systems Research"
+authors:
+  - Hossein Parineh
+  - Majid Sarvi
+  - Saeed Asadi Bagloee
+year: 2025
+venue: Scientific Data
+doi: 10.1038/s41597-025-04689-3
+url: https://doi.org/10.1038/s41597-025-04689-3
+abstract: null
+type: article
+open_access: null
+cited_by: 10
+query: '"ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"'
+question: null
+search: SEARCH-40ed8087e2
+score: 1.223
+score_parts:
+  rank: 0.063
+  citations: 0.26
+  recency: 0.9
+needs_approval: false
+state: candidate

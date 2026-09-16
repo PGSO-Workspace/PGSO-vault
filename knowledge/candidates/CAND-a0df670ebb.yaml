@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a0df670ebb
+created: 2026-09-15T01:15:49.547Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.62336/unibg.eac.34.548
+title: Recitare Platone. Una sorprendente peripezia teatrale dove il pensiero si fa carne
+authors:
+  - Christian Poggioni
+year: 2024
+venue: Elephant and castle
+doi: 10.62336/unibg.eac.34.548
+url: https://doi.org/10.62336/unibg.eac.34.548
+abstract: "Se mettere in scena un dramma Shakespeariano chiede di dar corpo e voce a un turbine di sentimenti ed emozioni, mettere in scena un dialogo di Platone chiede di dar corpo e voce a un flusso di pensieri. In entrambi i casi la chiave è la parola, che in teatro può diventare carne, suono e azione. Portare Platone su un palcoscenico presuppone un lavoro specifico sul testo, poiché la lingua filosofica deve farsi anche lingua teatrale: in che modo? Partendo da una traduzione scrupolosa per approdare ad un fraseggio fluido, musicale, ritmico che stimoli e rafforzi la gestualità e la mimica dell’attore. Quasi 200 repliche di Simposio e Apologia di Socrate, ascoltate nell’arco di un decennio da un pubblico variegato che abbraccia, oltre ai classici appassionati di teatro, studenti di scuole superiori – e non solo licei, ma anche istituti tecnici – accademici, ordini di avvocati e magistrati nonché turisti stranieri in visita presso famosi siti archeologici – per i quali Apologia è stata appositamente allestita in lingua inglese – hanno dimostrato che la profondità del pensiero platonico può essere trasmessa e rimeditata in modo coinvolgente, piacevole e possibilmente emozionante."
+type: article
+open_access: null
+cited_by: 0
+query: '"EAC-Agent" "10.1371/journal.pone.0346770"'
+question: null
+search: SEARCH-fa4f4eec19
+score: 0.856
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

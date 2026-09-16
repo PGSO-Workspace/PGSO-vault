@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-eae8614061
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icemcsi67638.2026.11603222
+title: A Multimodal Context-Aware AI Conversational Agent for Emotion Recognition and Adaptive Stress Management
+authors:
+  - Sree Devi S
+  - Santhiya G
+  - Soundariya N
+  - Lavanya R
+  - Malleswari M
+  - Manikandan S K
+year: 2026
+venue: 2026 International Conference on Emerging Trends in Mobile Computing and Sustainable Informatics (ICEMCSI)
+doi: 10.1109/icemcsi67638.2026.11603222
+url: https://doi.org/10.1109/icemcsi67638.2026.11603222
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.033
+score_parts:
+  rank: 0.033
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

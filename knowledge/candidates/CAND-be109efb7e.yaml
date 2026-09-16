@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-be109efb7e
+created: 2026-09-15T07:48:45.534Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7455058
+title: Utilization of Runtime Application Self-Protection (RASP) in Production Environments for Real-Time Vulnerability Mitigation and Behavioral Enforcement through Embedded Monitoring Agents
+authors:
+  - Deepthi Talasila
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7455058
+url: https://doi.org/10.2139/ssrn.7455058
+abstract: Runtime Application Self-Protection (RASP) represents a paradigm shift in cybersecurity by embedding protective mechanisms directly within applications to enable real-time detection and mitigation of vulnerabilities. This study aims to explore the deployment of RASP in production environments, focusing on its efficacy for vulnerability mitigation and behavioral enforcement via embedded monitoring agents. Employing a mixed-methods approach, including analysis of hypothetical yet realistic datasets from simulated production workloads and a comprehensive literature review of studies, the research evaluates RASP's performance against traditional security tools. Key findings reveal that RASP reduces false positives by 45% and response times by 60% compared to Web Application Firewalls (WAFs), while enforcing behavioral policies with 92% accuracy in dynamic environments. Conclusions underscore RASP's potential to enhance application resilience, though challenges in performance overhead persist. Implications for practitioners include integrated deployment strategies to balance security and efficiency.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Gamma G-0" "L-DREA" runtime enforcement'
+question: null
+search: SEARCH-16d800e312
+score: 1.05
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

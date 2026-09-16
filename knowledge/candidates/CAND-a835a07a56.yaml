@@ -1,0 +1,44 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a835a07a56
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7125151103
+title: "Medea: An AI agent for therapeutic reasoning across biological contexts"
+authors:
+  - Pengwei Sui
+  - M. Li
+  - Brenton P. Munson
+  - Shanghua Gao
+  - Wanxiang Shen
+  - Valentina Giunchiglia
+  - Andrew Shen
+  - Yepeng Huang
+  - Zhenglun Kong
+  - Katherine Licon
+  - Trey Ideker
+  - Marinka Žitnik
+year: 2026
+venue: bioRxiv (Cold Spring Harbor Laboratory)
+doi: 10.64898/2026.01.16.696667
+url: https://doi.org/10.64898/2026.01.16.696667
+abstract: "Abstract Therapeutic hypotheses can transfer across diseases but their relevance depends on biological context. The same target, perturbation, or treatment can produce different effects across cell types, disease states, genetic backgrounds, and patients. Therapeutic reasoning therefore requires methods that preserve context, test when evidence supports transfer, and identify where context-specific effects limit it. Although AI agents can perform therapeutic analyses, existing systems often fail to preserve biological context over long workflows, verify intermediate computational steps, or reconcile conflicting evidence across datasets and literature. Here, we present Medea, an AI agent for therapeutic reasoning across biological contexts. Medea executes multi-step analyses using biological tools, machine learning models, and literature retrieval while enforcing verification during planning, execution, and evidence synthesis. We evaluate Medea across 5,673 open-ended analyses in three domains: cell type specific therapeutic target nomination in five diseases and 29 cell types, synthetic lethality prediction in 7 cancer cell lines, and immunotherapy response prediction from multimodal patient profiles. Using a previously unpublished epistatic miniarray profiling screen performed under two DNA-damaging treatments, we evaluate Medea on predicting synthetic lethality among 238,046 gene-gene pairs in yeast. Medea accurately predicts these experimentally measured synthetic lethal interactions, indicating that its performance reflects biological relevance rather than information leakage from benchmark datasets. Across these evaluations, Medea improves performance over large language models, reasoning models, biomedical agents, and specialized machine learning models while maintaining low failure rates and calibrated abstention. These results show that verifiable AI agents can perform therapeutic analyses across biological contexts."
+type: preprint
+open_access: true
+cited_by: 5
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 1.695
+score_parts:
+  rank: 0.5
+  citations: 0.195
+  recency: 1
+needs_approval: true
+state: candidate

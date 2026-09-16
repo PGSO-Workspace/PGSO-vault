@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-aa923a119a
+created: 2026-09-15T07:48:25.542Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5194/gmd-2024-153-ac1
+title: Updated plotting routines on Zenodo
+authors:
+  - John Thuburn
+year: 2024
+venue: null
+doi: 10.5194/gmd-2024-153-ac1
+url: https://doi.org/10.5194/gmd-2024-153-ac1
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"zenodo.22296644" L-DREA'
+question: null
+search: SEARCH-78cd1e9416
+score: 0.867
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

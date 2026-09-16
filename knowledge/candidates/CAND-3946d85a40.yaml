@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3946d85a40
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.36227/techrxiv.176107790.02746618/v1
+title: "Carbon Prompting: An Empirical Analysis of LLM-Based Requirement Classification"
+authors:
+  - V Sathiyasuntharam
+  - Kumkum Mishra
+  - Devesh Kumar Gola
+  - Lakshya Sharma
+year: 2025
+venue: null
+doi: 10.36227/techrxiv.176107790.02746618/v1
+url: https://doi.org/10.36227/techrxiv.176107790.02746618/v1
+abstract: The growing use of Large Language Models (LLMs) in realworld applications has raised new questions about their environmental impact, especially during inference. While much research has focused on the energy demands of model training, this study draws attention to the often-overlooked emissions generated when these models are used at scale. We introduce the idea of carbon prompting, which examines how different prompt designs influence the energy use and carbon output of LLM inference. Using the PROMISE dataset for classifying functional and non-functional requirements, we tested nine prompting strategies with the LLaMA 3.2 model, including zero-shot, few-shot, Chain-of-Thought, detailed, JSON-based, self-critique, expert-engineer, instruction-fewshot, and no-explanation formats. Energy consumption and CO₂ emissions were tracked using CodeCarbon, allowing a detailed comparison of performance and environmental cost. The results show that simpler prompts-particularly noexplanation and zero-shot-achieved the best balance between accuracy and energy efficiency. More elaborate prompts, although designed to elicit deeper reasoning, produced higher emissions without meaningful accuracy gains due to unnecessary token generation. These findings emphasize that prompt design should consider not only model performance but also sustainability, positioning environmental impact as a key metric in future AI development and evaluation.
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 0.948
+score_parts:
+  rank: 0.048
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

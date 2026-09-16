@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-04117446c7
+created: 2026-09-15T07:50:34.676Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1353/mns.2025.a965561
+title: Confucius and the Richness of Ancient Chinese Manuscripts
+authors:
+  - Maddalena Poli
+year: 2025
+venue: "Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript Studies"
+doi: 10.1353/mns.2025.a965561
+url: https://doi.org/10.1353/mns.2025.a965561
+abstract: "Abstract: This annotation introduces two collections of ancient Chinese manuscripts, recently discovered in China, the Anhui University collection and the Wangjiazui collection. It contextualizes the importance of these newly recovered manuscripts and provides an overview of the content of these two collections."
+type: article
+open_access: null
+cited_by: 0
+query: '"10.1016/j.chb.2025.108687" manuscript'
+question: null
+search: SEARCH-183055ff3f
+score: 0.95
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7823c8d7e7
+created: 2026-09-15T07:48:07.669Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5194/egusphere-2025-5497-rc1
+title: Reproducibility
+authors: []
+year: 2026
+venue: null
+doi: 10.5194/egusphere-2025-5497-rc1
+url: https://doi.org/10.5194/egusphere-2025-5497-rc1
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"LDREA-IEEE-Reproducibility" "FULL_SPEC"'
+question: null
+search: SEARCH-e7c8c764f9
+score: 1.05
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

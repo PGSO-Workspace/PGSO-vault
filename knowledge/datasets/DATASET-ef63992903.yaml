@@ -1,0 +1,21 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-ef63992903
+created: 2026-09-15T00:14:21.279Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/governance-scenarios-v1.json
+hash: ef63992903795b9c6394c65a3d75f8e1154f635dfc3fb7002fe2eb768c5f3dcc
+bytes: 2958
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Authored synthetic contract cases and challenges. Supersedes erroneous CC0 registry metadata; no public license grant.
+license: UNLICENSED
+versions_of: DATASET-d2ef9d038c
+latest: true

@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c16a0e2845
+created: 2026-09-15T00:31:11.443Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icassp55912.2026.11464547
+title: "SURE: Synergistic Uncertainty-Aware Reasoning for Multimodal Emotion Recognition in Conversations"
+authors:
+  - Yiqiang Cai
+  - Chengyan Wu
+  - Bolei Ma
+  - Bo Chen
+  - Yun Xue
+  - Julia Hirschberg
+  - Ziwei Gong
+year: 2026
+venue: ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+doi: 10.1109/icassp55912.2026.11464547
+url: https://doi.org/10.1109/icassp55912.2026.11464547
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition"'
+question: null
+search: SEARCH-f9a249d1ae
+score: 1.067
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

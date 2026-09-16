@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-874c057d76
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/cec60901.2024.10612075
+title: "Emotion-Conditioned MusicLM: Enhancing Emotional Resonance in Music Generation"
+authors:
+  - Yuelang Sun
+  - Matthew Kuo
+  - Xiaodan Wang
+  - Weihua Li
+  - Quan Bai
+year: 2024
+venue: 2024 IEEE Congress on Evolutionary Computation (CEC)
+doi: 10.1109/cec60901.2024.10612075
+url: https://doi.org/10.1109/cec60901.2024.10612075
+abstract: null
+type: article
+open_access: null
+cited_by: 3
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 0.989
+score_parts:
+  rank: 0.038
+  citations: 0.151
+  recency: 0.8
+needs_approval: false
+state: candidate

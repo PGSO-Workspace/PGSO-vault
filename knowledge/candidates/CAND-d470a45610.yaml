@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d470a45610
+created: 2026-09-15T00:31:36.231Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2024.3514862
+title: "EmoDialect: Leveraging Fuzzy Matching and Dialect-Emotion Mapping for Sentiment Analysis"
+authors:
+  - Cherukula Madhu
+  - Sudhakar M.S.
+year: 2025
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2024.3514862
+url: https://doi.org/10.1109/taffc.2024.3514862
+abstract: null
+type: article
+open_access: null
+cited_by: 3
+query: '"Coupling Sentiment and Arousal Analysis Towards an Affective Dialogue Manager"'
+question: null
+search: SEARCH-7bc8da0319
+score: 1.11
+score_parts:
+  rank: 0.059
+  citations: 0.151
+  recency: 0.9
+needs_approval: false
+state: candidate

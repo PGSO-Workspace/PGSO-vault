@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d06c13b8a8
+created: 2026-09-15T00:21:10.317Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416037168
+title: "PARSE: LLM Driven Schema Optimization for Reliable Entity Extraction"
+authors:
+  - Anubhav Shrimal
+  - Aryan Jain
+  - Soumyajit Chowdhury
+  - Promod Yenigalla
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.emnlp-industry.184
+url: https://doi.org/10.18653/v1/2025.emnlp-industry.184
+abstract: "Structured information extraction from unstructured text is critical for emerging Software 3.0 systems where LLM agents autonomously interact with APIs and tools.Recent approaches apply large language models directly to extraction tasks using existing JSON schemas, often with constraint decoding or reinforcement learning approaches to ensure syntactic validity, but treat JSON schemas as static contracts designed for human developers, leading to suboptimal extraction performance, frequent hallucinations, and unreliable agent behavior when schemas contain ambiguous or incomplete specifications.We recognize that JSON schemas themselves are a form of natural language understanding contract that encodes rules, relationships, and expectations about data structure contracts that LLMs should be able to both interpret and systematically improve.Consequently, we develop PARSE (Parameter Automated Refinement and Schema Extraction), a novel system with two synergistic components: ARCHITECT, which autonomously optimizes JSON schemas for LLM consumption while maintaining backward compatibility through RELAY (an integrated code generation system), and SCOPE, which implements reflection-based extraction with combined static and LLM-based guardrails.We evaluate PARSE qualitatively and quantitatively on three datasets including Schema-Guided Dialogue (SGD), Structured Web Data Extraction (SWDE), and internal retail conversation data, and find that it achieves up to 64.7% improvement in extraction accuracy on SWDE with combined framework improvements reaching 10% across models, while reducing extraction errors by 92% within the first retry and and maintaining practical latency."
+type: other
+open_access: true
+cited_by: 2
+query: AgentSpec runtime enforcement LLM agents
+question: null
+search: SEARCH-31a58725b4
+score: 1.186
+score_parts:
+  rank: 0.167
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

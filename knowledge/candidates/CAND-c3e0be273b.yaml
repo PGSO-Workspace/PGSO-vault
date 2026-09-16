@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c3e0be273b
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3623809.3623958
+title: Effects of Presentation Modalities in Virtual Museum Guides on Agent Impressions and Painting Evaluations.
+authors:
+  - Mari Saito
+year: 2023
+venue: International Conference on Human-Agent Interaction
+doi: 10.1145/3623809.3623958
+url: https://doi.org/10.1145/3623809.3623958
+abstract: null
+type: article
+open_access: null
+cited_by: 6
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 1.054
+score_parts:
+  rank: 0.143
+  citations: 0.211
+  recency: 0.7
+needs_approval: false
+state: candidate

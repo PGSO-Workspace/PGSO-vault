@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-1a8b405219
+created: 2026-09-15T06:12:39.204Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/operational-7805fb9/protocol.md
+paths:
+  - sources/software/pgso-sdk/operational-7805fb9/protocol.md
+hash: 1a8b4052194275b3a2762b2c1fbc18bad78052e6f19741e5223497a01f4bd8c3
+bytes: 19291
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 19291
+  sections: 12
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T06:12:38.776Z

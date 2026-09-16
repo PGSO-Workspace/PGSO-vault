@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ef080932cb
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6647800
+title: "Tool-Augmented Large Language Model Agents for Analysis: A Focused Study"
+authors:
+  - Haoran Dong
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6647800
+url: https://doi.org/10.2139/ssrn.6647800
+abstract: The integration of large language models (LLMs) with external tools has catalyzed a paradigm shift in automating statistical data analysis. Unlike general-purpose AI agents, tool-augmented statistical agents must navigate the intricate interplay between probabilistic reasoning, domain-specic computing ecosystems, and rigorous reproducibility standards. This study provides a focused review of recent advances in tool-augmented LLM agents tailored for statistics and data science. We examine three core architectural paradigmscode generation, retrieval-augmented generation, and interactive tool useand analyze their respective strengths in addressing statistical inference tasks. Particular emphasis is placed on the integration of LLM agents with the R statistical ecosystem, the challenges of evaluating agents on real-world data science problems, and the emerging benchmark suites designed to measure statistical reasoning delity. We additionally propose a taxonomy that classies existing systems along the dimensions of reasoning depth, tool interface granularity, and knowledge grounding strategy, oering a structured lens through which to assess the maturity of the eld.
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 1.071
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

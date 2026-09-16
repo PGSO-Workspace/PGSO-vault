@@ -1,0 +1,48 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6382d68b25
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7156755720
+title: AI agent behavioral science
+authors:
+  - Lin Chen
+  - Yunke Zhang
+  - Jie Feng
+  - Haoye Chai
+  - Honglin Zhang
+  - Bingbing Fan
+  - Yibo Ma
+  - Shiyuan Zhang
+  - Nian Li
+  - Tianhui Liu
+  - Nicholas Sukiennik
+  - Keyu Zhao
+  - Yu Li
+  - Ziyi Liu
+  - Fengli Xu
+  - Yong Li
+year: 2026
+venue: Rare & Special e-Zone (The Hong Kong University of Science and Technology)
+doi: 10.1057/s41599-026-07316-7
+url: http://repository.hkust.edu.hk/ir/Record/1783.1-173207
+abstract: "Recent advances in large language models (LLMs) have enabled the development of AI agents that exhibit increasingly human-like behaviors, including planning, adaptation, and social dynamics across diverse, interactive, and open-ended scenarios. These behaviors are not solely the product of the internal architectures of the underlying models, but emerge from their integration into agentic systems operating within specific contexts, where environmental factors, social cues, and interaction feedback shape behavior over time. This evolution necessitates a new scientific perspective: AI Agent Behavioral Science. Rather than focusing only on internal mechanisms, this perspective emphasizes the systematic observation of behavior, design of interventions to test hypotheses, and theory-guided interpretation of how AI agents act, adapt, and interact over time. We systematize a growing body of research across individual agent, multi-agent, and human-agent interaction settings, and further demonstrate how this perspective informs responsible AI by treating fairness, safety, interpretability, accountability, and privacy as behavioral properties. By unifying recent findings and laying out future directions, we position AI Agent Behavioral Science as a necessary complement to traditional model-centric approaches, providing essential tools for understanding, evaluating, and governing the real-world behavior of increasingly autonomous AI systems."
+type: article
+open_access: false
+cited_by: 2
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.202
+score_parts:
+  rank: 0.083
+  citations: 0.119
+  recency: 1
+needs_approval: false
+state: candidate

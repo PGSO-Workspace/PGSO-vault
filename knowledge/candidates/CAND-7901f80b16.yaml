@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7901f80b16
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4409622793
+title: "Fear of Missing Out (FOMO) in Consumer Behaviour: A Systematic Literature Review on Antecedents, Consequences, and Moderating Factors"
+authors:
+  - Indra Cahaya Tresna
+year: 2025
+venue: Journal of Information Systems Engineering & Management
+doi: 10.52783/jisem.v10i36s.6542
+url: https://doi.org/10.52783/jisem.v10i36s.6542
+abstract: "Introduction: FOMO, Fear of Missing Out, a psychological phenomenon, has become increasingly significant in both social media and consumer behavior. FOMO occurs when individuals sense that others are experiencing rewarding situations from which they are excluded, causing them to stay constantly connected to social platforms. With the emergence of social media, this tendency has been sharply exacerbated by increases in envy and feelings of inferiority. This phenomenon plays a pivotal role in affecting consumer behavior; by making people frightened of missing exclusive deals or offers of limited duration, it encourages impulse purchases and brand engagement. This paper investigates how FOMO affects consumer decisions and analyses what businesses can do to make good use of FOMO in marketing without harming their customers. Objectives: This study is designed to do the following: (1)What factors contribute to the emergence of FOMO (Fear of Missing Out) in consumer behavior; (2) What are the consequences of FOMO on consumer behaviors, including impulsive buying, brand engagement, and social media fatigue; (3) What factors influence the relationship between FOMO and consumer behavior. In addition, the study will discuss how social media and schemes with a sense of urgency can enhance FOMO's impact on consumer decisions. Methods: A systematic literature review (SLR) is carried out on a portion of Scopus research. The papers cover articles published between 2014 and 2025. The studies selected should cover psychological, social, and technological factors driving FOMO in consumer behavior. Both qualitative and quantitative studies were scrutinized to discuss the antecedents, outcomes, and moderators of FOMO. This approach serves to give an all-around understanding of how FOMO can be catered for in marketing strategies while at the same time minimizing the damage it causes. Discussion: FOMO can encourage consumer involvement and brand loyalty, but it, at the same time, runs the risk of impulse buying and digital weariness. It depends on psychological traits, social factors, and cultural contexts how great an impact FOMO has. This requires marketers to balance their urgency-driven practices with ethics: How can they achieve both happy consumers and still keep FOMO at bay? Conclusions: This review systematically examines the effects of Fear of Missing Out (FOMO) on consumer behavior. We present an overview of the literature bearing on any antecedents, consequences, and moderation of FOMO; over and above that, we also provide a rundown arrangement for this content. FOMO motivates consumer engrossment and transient buys but also results in bad outcomes like impulsive spending. Building on the negative side effects of its appeal to adult peer groups (networkers), FOMO ( Fear of Missing Out ) appears rather inhuman discolored. The study highlights the importance of adopting a balanced approach in marketing activities, which will benefit both consumer health and authenticity. Future research should try to understand FOMO's cultural differences and draw on multi-disciplinary theories to deepen understanding. Marketers can draw on FOMO's potential while protecting the well-being of individuals through collective and balanced development, and they can use marketing that is both moral and truthful."
+type: other
+open_access: true
+cited_by: 10
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 1.231
+score_parts:
+  rank: 0.071
+  citations: 0.26
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5c1f41abf5
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415479906
+title: CYBERCRIME PREVENTION INITIATIVES AMONG THE PNP’S AFFECTING PUBLIC TRUST AND COLLABORATION OF THE COMMUNITY
+authors:
+  - Daniel Allan Pasia
+year: 2025
+venue: International Journal on Science and Technology
+doi: 10.71097/ijsat.v16.i4.8517
+url: https://doi.org/10.71097/ijsat.v16.i4.8517
+abstract: This study examined the assessment of public trust and collaboration between the Philippine National Police Anti-Cybercrime Group (PNP-ACG) and community stakeholders in relation to the implementation of cybercrime prevention initiatives. It aimed to determine the respondents’ demographic profile, evaluate their perceptions on trust and collaboration, identify their assessments of the PNP’s cybercrime programs, and analyze differences across socio-demographic variables. The study also investigated the correlation between public trust components and the effectiveness of cybercrime prevention efforts. Employing a descriptive-correlational research design, the study involved 120 respondents composed of police personnel and community residents. Quantitative data were gathered through a validated survey instrument measuring four dimensions of public trust (mutual trust, open dialogue, shared responsibility, and transparent processes) and four components of cybercrime prevention initiatives (online safety awareness, cybercrime reporting, victim support, and community-led digital literacy programs). Statistical tools including t-test, ANOVA, and Pearson correlation were used to analyze the data. Findings revealed that respondents generally agreed that public trust and collaboration with the PNP-ACG are evident, particularly in the areas of mutual trust and open dialogue. Likewise, cybercrime prevention initiatives were positively perceived, especially in terms of victim support and online safety awareness. However, shared responsibility and community-led digital literacy efforts received comparatively lower ratings, highlighting areas for enhancement. Significant differences were found based on group affiliation, sex, age, and educational attainment, reflecting varied perceptions across demographic sectors. Notably, a strong positive correlation was observed between mutual trust and online safety awareness (r = .860, p = .000), while other correlations between trust and program effectiveness were either weak or non-significant. The study concludes that while foundational trust and public engagement are evident, strategic alignment between institutional trust-building and cybercrime program delivery remains fragmented. It recommends strengthening community-based digital literacy, improving reporting accessibility, institutionalizing trauma-informed victim support, and developing an integrated public trust-cybercrime strategy to ensure a more participatory, inclusive, and sustainable digital security framework.
+type: article
+open_access: true
+cited_by: 1
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 1.175
+score_parts:
+  rank: 0.2
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

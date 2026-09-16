@@ -1,0 +1,16 @@
+schema: phdude.source
+version: 1
+id: SRC-f450c3f055
+created: 2026-09-15T00:26:00.530Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: NeMo Guardrails official execution readiness — 2026-09-15
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts: []
+state: candidate
+year: 2026
+abstract: "Actual local dependency and upstream-test verification, not a PGSO comparison. Official repository https://github.com/NVIDIA-NeMo/Guardrails at release v0.24.0 commit 5e8a729ab907e4b6536ae2ca9cf76b6ee27e15a4. Apache-2.0 verified in LICENSE.md. Installed in isolated Python3.12.3 environment /tmp/pgso-nemo-venv312. Executed /tmp/pgso-nemo-venv312/bin/python -m pytest tests/test_input_tool_rails.py::TestInputToolRails::test_user_tool_messages_event_direct_processing -q from checkout: 1 passed in 0.16s. Uses upstream fake LLM/test embedding facilities; no live model or paid call. This checks tool-message validation paths, not pre-dispatch authorization or prosodic temporal policy. Dependency freeze /tmp/pgso-nemo-freeze.txt SHA256 03c1cc6b5569cac1aae9b5cc75fc1ad5461bde925874324e613ad08a83325fed. Matched task-policy adapter, complete dependency archival and PhDude comparative analysis remain pending."

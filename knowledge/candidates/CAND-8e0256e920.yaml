@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8e0256e920
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4406961142
+title: "Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development"
+authors:
+  - Jan Kulveit
+  - Douglas, Raymond
+  - Nora Ammann
+  - Deger Turan
+  - David M. Krueger
+  - David Duvenaud
+year: 2025
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2501.16946
+url: http://arxiv.org/abs/2501.16946
+abstract: "This paper examines the systemic risks posed by incremental advancements in artificial intelligence, developing the concept of `gradual disempowerment', in contrast to the abrupt takeover scenarios commonly discussed in AI safety. We analyze how even incremental improvements in AI capabilities can undermine human influence over large-scale systems that society depends on, including the economy, culture, and nation-states. As AI increasingly replaces human labor and cognition in these domains, it can weaken both explicit human control mechanisms (like voting and consumer choice) and the implicit alignments with human interests that often arise from societal systems' reliance on human participation to function. Furthermore, to the extent that these systems incentivise outcomes that do not line up with human preferences, AIs may optimize for those outcomes more aggressively. These effects may be mutually reinforcing across different domains: economic power shapes cultural narratives and political decisions, while cultural shifts alter economic and political behavior. We argue that this dynamic could lead to an effectively irreversible loss of human influence over crucial societal systems, precipitating an existential catastrophe through the permanent disempowerment of humanity. This suggests the need for both technical research and governance approaches that specifically address the risk of incremental erosion of human influence across interconnected societal systems."
+type: preprint
+open_access: true
+cited_by: 12
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.245
+score_parts:
+  rank: 0.067
+  citations: 0.278
+  recency: 0.9
+needs_approval: true
+state: candidate

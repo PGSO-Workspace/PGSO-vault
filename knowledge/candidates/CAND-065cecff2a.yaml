@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-065cecff2a
+created: 2026-09-15T00:21:11.462Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2307/jj.6605394.8
+title: "PRINCIPLES:"
+authors: []
+year: 2024
+venue: Guardrails
+doi: 10.2307/jj.6605394.8
+url: https://doi.org/10.2307/jj.6605394.8
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: NeMo Guardrails programmable guardrails conversational systems
+question: null
+search: SEARCH-75810a0056
+score: 1.05
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

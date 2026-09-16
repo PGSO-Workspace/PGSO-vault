@@ -1,0 +1,18 @@
+schema: phdude.source
+version: 1
+id: SRC-0fa69c4777
+created: 2026-09-15T05:26:03.487Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: PGSO differentiation discovery and independent confirmation plan
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-b0258c04eb
+state: candidate
+year: 2026
+abstract: Exploratory plan prioritizing lower integration/maintenance effort at equivalent conformance, diagnostic auditability, operational overhead, and temporal uncertainty handling. Preserves the existing PGSO/NeMo/Invariant agreement result. Requires strong symmetrically developed comparators, disconfirming criteria, independently authored held-out tasks, complete reporting and a separate freeze before confirmation. Identifies incomplete causal replay as a current PGSO limitation. Does not replace the proposed human-preference primary endpoint or assert superiority.
+bibkey: pgso20260fa69c4777

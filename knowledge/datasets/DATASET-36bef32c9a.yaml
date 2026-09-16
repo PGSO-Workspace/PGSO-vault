@@ -1,0 +1,120 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-36bef32c9a
+created: 2026-09-15T01:15:33.221Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/primary-literature-matrix-v1.json
+hash: 36bef32c9adc41924d10ecbf48565c3f3d5c785c4bc7b4708a8631be4382f38e
+bytes: 10480
+format: json
+profile:
+  rows: 17
+  columns:
+    - name: source
+      inferred_type: string
+      missing: 0
+      distinct: 17
+      distinct_truncated: false
+      samples:
+        - SRC-f633e01b19
+        - SRC-906f9bb5b6
+        - SRC-ae3102022e
+        - SRC-7422f5a97d
+        - SRC-f8f5905a82
+    - name: candidate
+      inferred_type: string
+      missing: 0
+      distinct: 17
+      distinct_truncated: false
+      samples:
+        - CAND-5af4632c82
+        - CAND-9bad3bd7d0
+        - CAND-56f96a1c2f
+        - CAND-a7ce95e0f3
+        - CAND-a55377be09
+    - name: title
+      inferred_type: string
+      missing: 0
+      distinct: 17
+      distinct_truncated: false
+      samples:
+        - "ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics over Acoustic Foundation Models"
+        - Coupling Sentiment and Arousal Analysis Towards an Affective Dialogue Manager
+        - "AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents"
+        - Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies
+        - Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition
+    - name: year
+      inferred_type: number
+      missing: 0
+      distinct: 3
+      distinct_truncated: false
+      samples:
+        - "2024"
+        - "2026"
+        - "2025"
+    - name: doi
+      inferred_type: string
+      missing: 2
+      distinct: 15
+      distinct_truncated: false
+      samples:
+        - 10.1109/TAFFC.2024.3506554
+        - 10.1109/ACCESS.2024.3361750
+        - 10.1145/3744916.3764546
+        - 10.1145/3773034
+        - 10.1109/TAFFC.2024.3372380
+    - name: venue
+      inferred_type: string
+      missing: 0
+      distinct: 13
+      distinct_truncated: false
+      samples:
+        - IEEE Transactions on Affective Computing
+        - IEEE Access
+        - ICSE 2026
+        - ACM Transactions on Software Engineering and Methodology
+        - Engineering Applications of Artificial Intelligence
+    - name: q1_verified
+      inferred_type: boolean
+      missing: 0
+      distinct: 2
+      distinct_truncated: false
+      samples:
+        - "true"
+        - "false"
+    - name: reading
+      inferred_type: string
+      missing: 0
+      distinct: 2
+      distinct_truncated: false
+      samples:
+        - targeted full text
+        - publisher abstract
+    - name: family
+      inferred_type: string
+      missing: 0
+      distinct: 5
+      distinct_truncated: false
+      samples:
+        - "2.1"
+        - "2.2"
+        - "2.4"
+        - "2.3"
+        - 2.3 adjacent
+    - name: limit
+      inferred_type: string
+      missing: 0
+      distinct: 17
+      distinct_truncated: false
+      samples:
+        - Cross-corpus evaluation covers three emotion corpora with label filtering; it is not an evaluation of downstream tool policies or confidence-aware interventions. Multilingual evaluation remains future work (VI).
+        - Real-user assessment and comparison against existing dialogue managers are explicitly future work (VI, p.20661). The demonstrator uses Android TTS; emotional synthesis is future work. No tool authorization, confidence abstention, hysteresis or trusted expiry is demonstrated in the inspected system.
+        - Author-defined rules and manual outcome judgments risk overfitting/bias. Enforcement latency excludes variable human/LLM delays. §6.3 states that future unsafe trajectories are not predicted.
+        - §5.4 requires convex safety regions; §5.5 assumes sufficiently linearizable dynamics. Audio-input systems are future work. Zero observed violations do not prove safety for arbitrary uncertain speech observations. Controller verification and optimized switching must not be conflated.
+        - The two annotation protocols are not interchangeable. Label aggregation and annotator lag are studied, not agent-action hysteresis or calibration under deployment shift.
+sensitive: false
+state: candidate
+description: 17-paper targeted primary-evidence matrix; 13 Q1-journal targeted texts, three abstract-only records and one non-Q1 conference; rankings and versions in companion reports

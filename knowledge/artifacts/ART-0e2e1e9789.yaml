@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-0e2e1e9789
+created: 2026-09-15T09:22:09.527Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/agentspec-official-runtime-audit-2026-09-15.md
+paths:
+  - sources/reports/agentspec-official-runtime-audit-2026-09-15.md
+hash: 0e2e1e9789f59198a54807358c14a8742503c2faf782c403d251430065209e6b
+bytes: 6860
+mime: text/markdown
+kind: md
+role: report
+extracted:
+  status: ok
+  method: text
+  text_chars: 6854
+  sections: 8
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T09:22:05.055Z

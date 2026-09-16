@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-79de07c3e9
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5194/egusphere-egu26-15002
+title: Toward Federated Agentic Workflows for Numerical Weather Prediction With Chiltepin
+authors:
+  - Christopher Harrop
+  - Isidora Jankov
+year: 2026
+venue: null
+doi: 10.5194/egusphere-egu26-15002
+url: https://doi.org/10.5194/egusphere-egu26-15002
+abstract: The development of efficient, scalable, and interoperable workflow management systems is critical for supporting reproducible research to drive the scientific advancement of earth system modeling capabilities. Many workflow systems targeted for earth system science have been developed to meet that challenge, each having similar capabilities as well as some unique strengths. However, the earth system modeling community now faces additional challenges that impose new requirements. The landscapes of both high performance computing (HPC) environments and numerical modeling are evolving rapidly. HPC systems are composed of a growing diversity of hardware architectures that may be hosted on-prem or by a variety of cloud vendors. Earth model system components are also increasing in diversity as research to augment or replace traditional physics based models with machine learning models progresses. Additionally, a growing diversity of end-users with varying levels of knowledge and expertise require agentic workflows that can respond to their requests. A consequence of this rapid growth in diversity is a growing need to run workflows that span multiple systems in order to optimize data locality and access to resources that maximize performance of specific model components. The availability of, and requirement for, diversity naturally leads to a requirement for federated workflows that effectively harness the computational power of a diverse set of resources distributed both geographically and across multiple administrative domains. In this presentation, we introduce and report our progress with the development of Chiltepin, the first known federated numerical weather prediction workflow system within the National Oceanic and Atmospheric Administration (NOAA). Chiltepin is designed to address key challenges in numerical modeling, particularly those related to sustainable progress in a changing NWP landscape characterized by increasing diversity of technologies and use of high-performance computing resources distributed across both geographical and administrative boundaries.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.036
+score_parts:
+  rank: 0.036
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

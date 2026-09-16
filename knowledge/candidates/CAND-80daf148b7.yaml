@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-80daf148b7
+created: 2026-09-15T01:09:16.222Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/allerton58177.2023.10313399
+title: Conformal Prediction for STL Runtime Verification
+authors:
+  - Lars Lindemann
+  - Xin Qin
+  - Jyotirmoy V. Deshmukh
+  - George J. Pappas
+year: 2023
+venue: 2023 59th Annual Allerton Conference on Communication, Control, and Computing (Allerton)
+doi: 10.1109/allerton58177.2023.10313399
+url: https://doi.org/10.1109/allerton58177.2023.10313399
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: selective classification conformal risk control runtime safety
+question: null
+search: SEARCH-54176eb439
+score: 0.918
+score_parts:
+  rank: 0.143
+  citations: 0.075
+  recency: 0.7
+needs_approval: false
+state: candidate

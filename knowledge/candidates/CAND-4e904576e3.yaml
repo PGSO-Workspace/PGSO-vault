@@ -1,0 +1,43 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4e904576e3
+created: 2026-09-15T07:38:17.538Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7166798430
+title: "MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools"
+authors:
+  - WenHao Wang
+  - Peizhi Niu
+  - Zhao Xu
+  - Zhaoyu Chen
+  - Jian Du
+  - Yaxin Du
+  - Xianghe Pang
+  - K. Huang
+  - Yanfeng Wang
+  - Qiang Yan
+  - Siheng Chen
+year: 2026
+venue: null
+doi: 10.18653/v1/2026.acl-long.231
+url: https://doi.org/10.18653/v1/2026.acl-long.231
+abstract: "WenHao Wang, Peizhi Niu, Zhao Xu, Zhaoyu Chen, Jian Du, Yaxin Du, Xianghe Pang, Keduan Huang, Yanfeng Wang, Qiang Yan, Siheng Chen. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2026."
+type: other
+open_access: true
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance" PDF authors'
+question: null
+search: SEARCH-9fb9d5712f
+score: 1.059
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1e7f006090
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7212114738
+title: "I See That You Are Frustrated: An Analysis of Emotion Acknowledgment's Influence on Privacy Risk and Satisfaction"
+authors:
+  - Mert Yazan
+  - Suzan Verberne
+  - Frederik Situmeang
+year: 2026
+venue: SSRN Electronic Journal
+doi: 10.2139/ssrn.7442496
+url: https://doi.org/10.2139/ssrn.7442496
+abstract: null
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 2
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

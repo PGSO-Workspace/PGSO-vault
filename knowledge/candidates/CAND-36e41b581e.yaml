@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-36e41b581e
+created: 2026-09-15T01:08:13.465Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+  - openalex
+external_id: 10.1016/j.chb.2025.108687
+title: "Toward accurate psychological simulations: Investigating LLMs’ responses to personality and cultural variables"
+authors:
+  - Chihao Li
+  - Yue Qi
+year: 2025
+venue: Computers in Human Behavior
+doi: 10.1016/j.chb.2025.108687
+url: https://doi.org/10.1016/j.chb.2025.108687
+abstract: null
+type: article
+open_access: false
+cited_by: 10
+query: Toward accurate psychological simulations Investigating LLMs responses to personality and cultural variables
+question: null
+search: SEARCH-1466de93a8
+score: 2.16
+score_parts:
+  rank: 1
+  citations: 0.26
+  recency: 0.9
+needs_approval: false
+state: candidate
+ext:
+  ids:
+    openalex: W4409879941

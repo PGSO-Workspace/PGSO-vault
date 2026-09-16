@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-08027b993b
+created: 2026-09-14T16:51:30.061Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5651771
+title: "Intrinsic Participatory Governance of Autonomous Agents: Runtime Oversight and Orientation through Embedded Steward Agents"
+authors:
+  - Luciana Ledesma
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5651771
+url: https://doi.org/10.2139/ssrn.5651771
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: runtime shields uncertainty abstention speech emotion agents
+question: null
+search: SEARCH-b8dd8c19fd
+score: 1.15
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

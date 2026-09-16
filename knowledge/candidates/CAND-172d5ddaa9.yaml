@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-172d5ddaa9
+created: 2026-09-15T07:38:12.403Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/979-8-8688-2364-0_4
+title: The MCP Architectural Roles
+authors:
+  - Srinivasan Sekar
+year: 2026
+venue: The MCP Standard
+doi: 10.1007/979-8-8688-2364-0_4
+url: https://doi.org/10.1007/979-8-8688-2364-0_4
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance" arXiv'
+question: null
+search: SEARCH-a96b00e8a8
+score: 1.033
+score_parts:
+  rank: 0.033
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3a53acf30b
+created: 2026-09-14T23:44:46.279Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-9707431/v1
+title: "Why Single-Layer LLM Guardrails Fail: A Dual-Detection Pattern on AWS Bedrock"
+authors:
+  - Manvitha Potluri
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-9707431/v1
+url: https://doi.org/10.21203/rs.3.rs-9707431/v1
+abstract: "Abstract Prompt injection attacks against large language models (LLMs) deployed in production environments represent a growing security threat. Single-layer guardrail configurations, including AWS Bedrock Guardrails, defend effectively against direct, single-turn injection attempts but exhibit a structural vulnerability against multi-turn attack sequences and indirect injection through retrieved content: they evaluate each message in isolation with no visibility into conversational history. This paper characterises this vulnerability empirically and presents a dual-layer detection architecture augmenting Bedrock Guardrails (Layer 1) with a semantic intent classifier evaluating full conversational context (Layer 2). Evaluation across 119 prompts (44 attacks across 12 attack categories, 75 legitimate prompts) shows Layer 1 alone detects 38.6% of attacks (95% CI [24.4%, 54.5%]; F1=0.548), catching only 3 of 15 multi-turn sequences (20.0%). Layer 2 detects 97.7% (95% CI [88.0%, 99.9%]; F1=0.989) with zero false positives (0.0%, CI [0.0%, 4.8%]). The multi-turn detection gap is statistically significant (McNemar chi2=24.04, p<0.001). An ablation study establishes confidence threshold 0.80 as the optimal operating point. Implementation and annotated test suite are released open-source under the Apache 2.0 license."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Safety Guardrails for LLM-Enabled Robots" code GitHub'
+question: null
+search: SEARCH-babb92a8ed
+score: 1.059
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

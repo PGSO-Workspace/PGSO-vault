@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-369312b8b6
+created: 2026-09-15T18:41:28.821Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/paper1-pilot-diagnosis-20260915.md
+paths:
+  - sources/reports/paper1-pilot-diagnosis-20260915.md
+hash: 369312b8b6aa0d0fa7b09e111de416233b982ea17c3e446794d67621c395d5a6
+bytes: 6993
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 6979
+  sections: 7
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T18:41:28.351Z

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7e5b4957a3
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7167836751
+title: "Large Language Models in Sensor-Driven Control Systems: Architectures, Challenges, and Opportunities"
+authors:
+  - Fateme Aghaee
+  - Hamid Reza Shaker
+year: 2026
+venue: Sensors
+doi: 10.3390/s26144350
+url: https://doi.org/10.3390/s26144350
+abstract: "Large language models (LLMs) are increasingly being explored for integration into sensor-driven control systems across robotics, industrial automation, energy infrastructure, healthcare, smart environments, and other sensor-rich domains. This review synthesizes emerging research from the perspective of sensor-driven control systems, defined as systems in which sensing is substantively linked to monitoring, estimation, supervision, planning, decision-making, or actuation. Rather than treating LLMs as generic intelligent agents, the review examines their position within the sensing-decision-control chain and their interaction with state representations, supervisory logic, human operators, external tools, and classical control components. The paper develops a functional taxonomy of LLM roles based on proximity to actuation, grounding requirements, and deployment risk. This taxonomy reveals a clear maturity gradient: interpretive, supervisory, diagnostic, and engineering-support roles are currently the most credible and deployable, whereas runtime control participation remains the least mature and highest-risk form of integration. The analysis further shows that reliable implementations are predominantly hybrid. In such architectures, LLMs function as semantic and orchestration layers that augment, rather than replace, classical sensing, estimation, planning, and control. Key integration patterns include sensor-to-semantics pipelines, retrieval-augmented generation, tool use, agentic workflows, closed-loop refinement, and safety-aware mechanisms. Persistent challenges-including hallucination, weak physical grounding, latency, cybersecurity risks, and the lack of formal guarantees-highlight the need for rigorous operational evaluation and realistic benchmarks. The review concludes that LLMs are most credible as interpretive, supervisory, diagnostic, and human-facing intelligence layers embedded within hybrid architectures. Future progress will depend on deeper neuro-symbolic integration, efficient local deployment, human-centered autonomy, and stronger evaluation practices that preserve the strengths of classical control engineering while extending them with semantic reasoning and supervisory intelligence."
+type: article
+open_access: true
+cited_by: 1
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.158
+score_parts:
+  rank: 0.083
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

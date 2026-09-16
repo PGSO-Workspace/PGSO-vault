@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2ae1f9d4e5
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.52280/pujm.2025.57(01)05
+title: Some New Results for Reverse Graph Energies and Graph Operations
+authors:
+  - Arooj Ibrahim
+  - Saima Nazeer
+  - Sami Barhoumi
+year: 2025
+venue: Punjab University Journal of Mathematics
+doi: 10.52280/pujm.2025.57(01)05
+url: https://doi.org/10.52280/pujm.2025.57(01)05
+abstract: In this paper, we establish the notions of reverse first Zagreb energy, reverse second Zagreb energy, and reverse degree square sum energy. We show how these energies behave across various graph families. Furthermore, we analyze the splitting graph and shadow graph energies, i.e. their context in the complete graph family. Our research adds to the overall knowledge about graph energies and their use within mathematical graph theory.
+type: article
+open_access: null
+cited_by: 0
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 1.15
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

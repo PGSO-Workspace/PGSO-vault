@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e5eb929bda
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1177/19485506231222958
+title: "Political Ideology and Attitudinal Ambivalence: Investigating the Role of Ideological Extremity"
+authors:
+  - Axel M. Burger
+year: 2024
+venue: Social Psychological and Personality Science
+doi: 10.1177/19485506231222958
+url: https://doi.org/10.1177/19485506231222958
+abstract: "Are individual differences in political ideology associated with inclinations to hold more or less ambivalent attitudes? Extant research on the linear association of political ideology with attitudinal ambivalence yielded inconsistent findings. The present research tested the hypotheses (a) that the association of political ideology with attitudinal ambivalence is curvilinear with lower levels of ambivalence at both extremes of the ideological spectrum and (b) that higher political interest is associated with lower levels of attitudinal ambivalence. It used data from large and demographically diverse electoral surveys in a set of three studies (Study 1: N = 13,808; Study 2: N = 6,528; Study 3: N = 4,789) that focused on attitudes toward political candidates (Studies 1 and 2) as well as political parties (Study 3) in Germany. Overall, the results support both hypotheses even when general attitudes toward the politicians and parties are controlled in the analyses."
+type: article
+open_access: null
+cited_by: 6
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 1.064
+score_parts:
+  rank: 0.053
+  citations: 0.211
+  recency: 0.8
+needs_approval: false
+state: candidate

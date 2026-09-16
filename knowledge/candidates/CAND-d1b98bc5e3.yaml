@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d1b98bc5e3
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4413275572
+title: Ethical challenges and software test automation
+authors:
+  - Per Erik Strandberg
+  - Eduard Paul Enoiu
+  - Mirgita Frasheri
+year: 2025
+venue: AI and Ethics
+doi: 10.1007/s43681-025-00804-7
+url: https://doi.org/10.1007/s43681-025-00804-7
+abstract: "Abstract This study addresses the intersection of ethics and software test automation, driven by the use of Artificial Intelligence (AI) in software testing. Complex ethical challenges arise while applying AI and automation in the different stages of software testing such as case creation and selection, test execution, resource allocation, and interpretation of test results thereafter utilised in the industry. Despite the availability of ethical guidelines, the practical implementation of ethical AI in test automation needs to be clarified. To this end, we identified nine key ethical themes: human control and responsibility, justice and fairness, explainability (including logging and monitoring), human-centric risk analysis, stakeholder involvement, impact on human relations, technical risk analysis, sustainability and waste, and privacy. These themes were examined through a questionnaire, iteratively refined and evaluated through a pilot study with four experts, followed by a survey involving 54 participants from diverse backgrounds in software test automation. The findings reveal an agreement among participants on the importance of issues like explainability, privacy, and technical risks while highlighting the lack of consideration of human-centric risks. This paper brings some insights into AI ethics in software testing, specifically proposing the adoption of the questionnaire as guidance for professionals and researchers dealing with the ethical challenges of AI-powered test automation."
+type: article
+open_access: true
+cited_by: 4
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 1.134
+score_parts:
+  rank: 0.059
+  citations: 0.175
+  recency: 0.9
+needs_approval: false
+state: candidate

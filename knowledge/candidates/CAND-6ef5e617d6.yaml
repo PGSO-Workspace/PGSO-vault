@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6ef5e617d6
+created: 2026-09-14T23:47:30.960Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6600840
+title: "Why Prompt Engineering Is a Dead End: LLM Agents Need Cognitive Runtimes, Not Better Prompts"
+authors:
+  - Guillermo Fernandez
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6600840
+url: https://doi.org/10.2139/ssrn.6600840
+abstract: "Prompt engineering has become the default strategy for building LLM agents, but its success has obscured a deeper architectural problem. As tasks become more complex, promptcentric systems repeatedly reconstruct cognition from scratch through monolithic or loosely structured interactions. This works surprisingly often, but it does not scale well in composability, observability, control, or reuse. In that sense, prompt engineering is not just an incomplete solution; it is a structural dead end for robust agent systems. In engineered systems, complex work is not performed by re-deriving procedures at every execution. It is performed through structured, reusable, and governable processes. We argue that LLM agents should follow the same principle: cognition should be treated as a reusable asset rather than as an ephemeral byproduct of prompting. To address this gap, we introduce ORCA (Open Cognitive Runtime for Agents), a conceptual and architectural framework that separates cognition from execution. ORCA models cognition as explicit semantic units (capabilities), organized through declarative workflows (skills), and executed via a decoupled runtime layer with structured state and dynamic bindings. This makes cognitive processes inspectable, composable, reusable, and governable independently of their underlying implementations. We formalize the core primitives of the ORCA framework and present a reference implementation showing how structured cognitive execution improves traceability, composability, and execution control, while introducing additional orchestration overhead. Through comparative analysis against prompt-based approaches, we characterize these trade-offs and argue that the next generation of reliable LLM agents will be defined less by better prompts than by the emergence of cognitive runtimes. A reference implementation of the ORCA runtime is available as open source at https: //github.com/gfernandf/agent-skills."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Policy-as-Prompt" LLM agents'
+question: null
+search: SEARCH-b69be67f4a
+score: 1.083
+score_parts:
+  rank: 0.083
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

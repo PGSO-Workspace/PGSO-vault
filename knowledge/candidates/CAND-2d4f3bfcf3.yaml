@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2d4f3bfcf3
+created: 2026-09-15T07:51:13.215Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7358569
+title: "ImageIndex: An LLM Agent-based Hybrid Framework for Reasoning-driven Image Retrieval"
+authors:
+  - Shu-ping Peng
+  - Canjin Wang
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7358569
+url: https://doi.org/10.2139/ssrn.7358569
+abstract: "Text-to-image and image-to-image retrieval systems are widely used, yet embedding-based methods often fail on queries that require implicit reasoning—such as ”a place suitable for a quiet afternoon read” or ”a scene conveying urgency.” We introduce ImageIndex, a hybrid framework that combines LLM-based semantic reasoning with dense visual search to address this limitation. Offline, ImageIndex builds two indexes: a hierarchical semantic tree organizing images by their VLM-generated textual descriptions (”digital twins”), and a FAISS vector index of visual embeddings. At query time, an LLM agent traverses the semantic tree toproduce candidate results and a traversal path. This path is then fed to our proposed Tree-Context Query Refinement (TCQR) module, which uses cross-attention (≈200K parameters) to refine the vector search query toward the semantically relevant visual subspace. Ablation studies confirm that TCQR is the decisive component: removing it drops Recall@1 to the SigLIP embedding baseline (43.8%), showing that channel coupling—not dual retrieval alone—drives the gains. Candidates from both channels are merged by a query-adaptive fusion mechanism and reranked by the LLM agent. On MS-COCO and Flickr30k, ImageIndex achieves 67.8% and 63.5% Recall@1 on implicit and compositional queries (+86% and +82% over SigLIP), outperforms all baselines on standard retrieval (45.2% vs. 43.8% R@1), and reaches 42.6% MRR on cross-category image-to-image matching vs. 14.6% for CLIP (+192%)."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"dynamic tool retrieval LLM agent journal 2024 2025'
+question: null
+search: SEARCH-da10c5ec54
+score: 1.03
+score_parts:
+  rank: 0.03
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

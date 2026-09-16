@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5a4584c9b4
+created: 2026-09-15T08:27:20.775Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/978-3-031-30031-8_6
+title: Research Philosophy, Design and Methodology
+authors:
+  - Uche M. Mbanaso
+  - Lucienne Abrahams
+  - Kennedy Chinedu Okafor
+year: 2023
+venue: Research Techniques for Computer Science, Information Systems and Cybersecurity
+doi: 10.1007/978-3-031-30031-8_6
+url: https://doi.org/10.1007/978-3-031-30031-8_6
+abstract: null
+type: chapter
+open_access: null
+cited_by: 27
+query: A Design Science Research Methodology for Information Systems Research Peffers
+question: null
+search: SEARCH-56903e64fd
+score: 2.062
+score_parts:
+  rank: 1
+  citations: 0.362
+  recency: 0.7
+needs_approval: false
+state: candidate

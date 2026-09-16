@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-03e8eb9703
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6773972
+title: "Prompting Persistence: LLM Literacy Instruction in Bridge Programs and First-Year Adaptability"
+authors:
+  - Rebecca Vornberger
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6773972
+url: https://doi.org/10.2139/ssrn.6773972
+abstract: "Abstract This mixed-methods study examines how a brief, critically framed large language model (LLM) literacy workshop in a university summer bridge program shapes incoming students’ preparedness for first-year writing. Using anonymous pretest and posttest surveys administered immediately before and after a 60-minute workshop (pretest n = 46; posttest n = 37), and open-ended responses (pretest n = 33; posttest n = 15), the study analyzes group-level shifts in students’ technical AI literacy and broader orientations toward AI. Quantitative findings show a significant increase in technical AI literacy (M = 3.70 to 4.97, p < .001, η² ≈ .42), while confidence, perceived helpfulness, perceived equity, disclosure norms, and perceptions of AI as supporting learning remained stable. Qualitative findings indicate a calibrated reorientation: students moved from seeing AI primarily as cheating or shortcutting to understanding it as a bounded writing resource requiring strategic prompting, verification, and ethical restraint. Although limited by a single-site, anonymous, one-session design, the study positions bridge programs as equity-oriented entry points for AI literacy and supports a bridge-to-first-year writing sequence that develops rhetorical judgment, ethical awareness, and more equitable access to digital composing practices"
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.027
+score_parts:
+  rank: 0.027
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

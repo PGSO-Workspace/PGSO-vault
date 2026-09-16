@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2bf44f111a
+created: 2026-09-15T07:37:52.267Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.22541/au.177376131.17346095/v1
+title: Deterministic Runtime Optimization and Formal Invariant Validation in QSOL-IMC QEC v68.4.1
+authors:
+  - Trent Slade
+year: 2026
+venue: null
+doi: 10.22541/au.177376131.17346095/v1
+url: https://doi.org/10.22541/au.177376131.17346095/v1
+abstract: "This document presents a formally verified optimization within the QSOL-IMC Quantum Error Correction (QEC) framework (v68.4.1). The optimization exploits an algebraic invariant in belief propagation decoding: URW(min-sum, ρ = 1.0) ≡ baseline min-sum This equivalence is proven analytically, validated across all decoder schedules, and confirmed via bitwise identity checks under IEEE 754 double-precision arithmetic. Leveraging this invariant enables elimination of redundant computation in benchmark sweeps without altering outputs, convergence behavior, or test coverage. A secondary optimization removes repeated reconstruction of derived data structures through deterministic precomputation. The full test suite (3779 tests) remains unchanged and passes completely. The optimization yields a 43% reduction in preview sweep runtime and a ~7.6% overall runtime reduction. Scope. This document covers invariant validation and test-suite optimization only. No algorithmic changes to decoding behavior are introduced."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement" "Abhinandan Gill-Lakhowal"'
+question: null
+search: SEARCH-9d6de85957
+score: 1.125
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

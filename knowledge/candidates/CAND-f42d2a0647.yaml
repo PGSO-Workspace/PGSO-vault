@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f42d2a0647
+created: 2026-09-15T07:36:10.253Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6339941
+title: "Contract-Gated Execution: A Deterministic Governance Layer for Autonomous AI Agent Orchestration"
+authors:
+  - Robert Stillwell
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6339941
+url: https://doi.org/10.2139/ssrn.6339941
+abstract: "This submission responds to the OECD's call for implementation tools that enable trustworthy AI deployment in consequential domains. Contract-gated execution was developed as commercial infrastructure and is presented here as a governance pattern directly applicable to public-sector AI deployment. Government procurement officers, compliance auditors, regulatory reviewers, and public administrators are the intended adopters of this framework-any agency deploying autonomous AI agents in consequential decision-making would benefit from the deterministic governance properties described below. The pattern addresses a specific gap in current AI governance approaches: the absence of architecturally enforced constraints on autonomous AI agent behavior. Policy-based governance depends on enforcement mechanisms that may themselves be subject to override. Contract-gated execution makes unauthorized actions structurally impossible, not merely prohibited."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Deterministic Runtime Enforcement: The Execution Authority for Autonomous AI Agents"'
+question: null
+search: SEARCH-4f022dc1d0
+score: 1.111
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

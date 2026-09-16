@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3b3181a372
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7245859
+title: "Agent Runtime Governance: Dynamic Permission Control for Autonomous AI Systems"
+authors:
+  - Ryoji Inoue
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7245859
+url: https://doi.org/10.2139/ssrn.7245859
+abstract: "Autonomous and agentic AI systems increasingly operate through long-running, tool-mediated, and context-adaptive processes that challenge conventional governance assumptions. Existing AI governance models remain largely centered on static licensing, periodic compliance assessment, and post-hoc incident reporting. While such approaches are suitable for relatively stable systems, they are increasingly insufficient for autonomous AI agents whose operational risk profiles may evolve during deployment. This paper proposes a theoretical extension of static licensing toward a runtime governance model for autonomous AI systems. The core claim is that agentic systems require a state-based permission lifecycle rather than one-time authorization or static consent. To formalize this approach, the paper introduces three connected elements: a permission state space, a dynamic risk update function, and a state transition rule governing runtime changes in authorization status. In addition, the framework incorporates a conditional reinstatement model to explain how suspended systems may return to operation after remediation, audit, and re-evaluation. The proposed model contributes to AI governance theory in three ways. First, it reconceptualizes licensing as a revisable runtime permission condition rather than a fixed entry decision. Second, it extends closed-loop governance into a runtime permission control architecture suited to autonomous agents. Third, it strengthens the theoretical basis of dynamic permission control by clarifying the interpretation of risk parameters, the institutional role of governance thresholds, and the comparative distinctiveness of runtime permission control relative to conventional staged oversight regimes. The framework is intended as a working theoretical model rather than a complete regulatory program. It does not address AGI in general, firm-specific critique, or API-level implementation details. Instead, it provides an institutionally plausible formal architecture for runtime permission control that may support future empirical validation, cross-jurisdictional modeling, and more advanced adaptive risk updating in autonomous AI governance."
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.043
+score_parts:
+  rank: 0.043
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

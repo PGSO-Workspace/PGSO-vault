@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-17468eb20f
+created: 2026-09-13T06:59:21.851Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/1b17c248d360/docs/known-issues.md
+paths:
+  - sources/software/pgso-sdk/1b17c248d360/docs/known-issues.md
+hash: 17468eb20fa0883d616451783f863c5f370d1a7462d3ce93cceb3b248a7fb96c
+bytes: 3384
+mime: text/markdown
+kind: md
+role: notes
+extracted:
+  status: ok
+  method: text
+  text_chars: 3350
+  sections: 6
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:59:21.629Z

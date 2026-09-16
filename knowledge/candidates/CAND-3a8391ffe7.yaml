@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3a8391ffe7
+created: 2026-09-15T01:06:33.363Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3390/digital6020028
+title: "Dynamic Anthropomorphism and Artificial Empathy in Conversational Agents: A Wizard-of-Oz Experimental Evaluation"
+authors:
+  - Dimos Nanos
+  - Georgios Lappas
+year: 2026
+venue: Digital
+doi: 10.3390/digital6020028
+url: https://doi.org/10.3390/digital6020028
+abstract: Conversational agents increasingly incorporate socio-emotional cues to support more natural and socially engaging digital interactions. Prior research has shown that anthropomorphism and artificial empathy influence user evaluations; however, these dimensions are typically examined as static design features and often in isolation, leaving limited evidence on how users perceive socio-emotional behavior that adapts dynamically during real-time interaction. This study investigates the perception-based evaluation of adaptive socio-emotional behavior in conversational agents using a controlled Wizard-of-Oz design. In total, 72 participants (N = 72) interacted with a simulated agent across four digital communication channels under conditions of high versus low anthropomorphism and artificial empathy, enabling systematic variation in socio-emotional expression while preserving participants’ perception of autonomous system operation. User evaluations were assessed using established perceptual constructs, including trust, perceived reliability, satisfaction, service quality, perceived empathy, and anthropomorphism. The findings demonstrate that conversational agents exhibiting dynamically adaptive anthropomorphic and empathic behavior elicit consistently more positive user evaluations across all measured constructs compared to non-adaptive interaction. Validation analysis using the Godspeed scale confirmed clear differentiation between experimental conditions, highlighting the role of interaction-contingent adaptation relative to static socio-emotional cues in perceived human likeness and positive user responses. These results indicate that user perception can function as a human-centered evaluation layer for assessing adaptive conversational systems, enabling systematic measurement of socio-emotional performance under controlled conditions. More broadly, this study supports the design of adaptive AI systems that leverage real-time socio-emotional feedback to enhance trust, perceived service quality, and behavioral acceptance in digital service environments within a controlled Wizard-of-Oz evaluation context.
+type: article
+open_access: null
+cited_by: 1
+query: affective conversational agents empathy speech dialogue action
+question: null
+search: SEARCH-fdb119aa74
+score: 1.575
+score_parts:
+  rank: 0.5
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dce4523c39
+created: 2026-09-15T01:07:06.883Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1038/s42256-025-01115-6
+title: A psychometric framework for evaluating and shaping personality traits in large language models
+authors:
+  - Gregory Serapio-García
+  - Mustafa Safdari
+  - Clément Crepy
+  - Luning Sun
+  - Stephen Fitz
+  - Peter Romero
+  - Marwa Abdulhai
+  - Aleksandra Faust
+  - Maja Matarić
+year: 2025
+venue: Nature Machine Intelligence
+doi: 10.1038/s42256-025-01115-6
+url: https://doi.org/10.1038/s42256-025-01115-6
+abstract: null
+type: article
+open_access: null
+cited_by: 27
+query: A psychometric framework for evaluating and shaping personality traits in large language models
+question: null
+search: SEARCH-88e88d2db0
+score: 1.595
+score_parts:
+  rank: 0.333
+  citations: 0.362
+  recency: 0.9
+needs_approval: false
+state: candidate

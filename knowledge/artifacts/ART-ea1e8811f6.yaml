@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-ea1e8811f6
+created: 2026-09-15T05:18:19.741Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/lifecycle-090fcd8/reproduction-and-results.md
+paths:
+  - sources/software/pgso-sdk/lifecycle-090fcd8/reproduction-and-results.md
+hash: ea1e8811f623499a940556e4ec12faf28a45c6481681313629bc39990a881432
+bytes: 13350
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 13350
+  sections: 10
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T05:18:19.514Z

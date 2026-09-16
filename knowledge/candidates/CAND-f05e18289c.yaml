@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f05e18289c
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410445035
+title: Does a Face Speak for Itself? Emotion Recognition Technologies and Explainable AI
+authors:
+  - Elena Walsh
+year: 2025
+venue: Philosophy & Technology
+doi: 10.1007/s13347-025-00891-8
+url: https://doi.org/10.1007/s13347-025-00891-8
+abstract: Abstract The past few decades have brought rapid advancements in emotion recognition technologies (ERTs) that attempt to infer and monitor a user’s emotional state. One controversial class of ERTs attempts to infer emotional state by detecting coordinated changes in facial musculature (known as automated facial expression analysis or AFEA). Much discussion about appropriate usage and regulation of AFEA has occurred in isolation from scientific debate about what information facial expressions provide and whether emotional states can be inferred from them. In addition, scientific debate about the relationship between facial expressions and emotions does not engage with, and yet would likely benefit from, engagement with recent work in the philosophy of science on the relationship between models and target systems, and, in particular, cases where models introduce idealisations that approximate (but do not correspond to) real-world phenomena. This article brings both bodies of research to bear on the question of what AFEA can and cannot infer about a person’s feelings and intentions. It then advocates for more robust explainability for new and emerging ERTs and other ‘high-risk’ systems.
+type: article
+open_access: true
+cited_by: 6
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.161
+score_parts:
+  rank: 0.05
+  citations: 0.211
+  recency: 0.9
+needs_approval: false
+state: candidate

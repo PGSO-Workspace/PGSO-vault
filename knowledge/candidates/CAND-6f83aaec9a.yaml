@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6f83aaec9a
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.51593/20220013
+title: "Key Concepts in AI Safety: Reliable Uncertainty Quantification in Machine Learning"
+authors:
+  - Tim Rudner
+  - Helen Toner
+year: 2024
+venue: null
+doi: 10.51593/20220013
+url: https://doi.org/10.51593/20220013
+abstract: This paper is the fifth installment in a series on “AI safety,” an area of machine learning research that aims to identify causes of unintended behavior in machine learning systems and develop tools to ensure these systems work safely and reliably. This paper explores the opportunities and challenges of building AI systems that “know what they don’t know.”
+type: other
+open_access: null
+cited_by: 1
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 0.907
+score_parts:
+  rank: 0.032
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

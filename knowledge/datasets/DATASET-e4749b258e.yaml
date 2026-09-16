@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-e4749b258e
+created: 2026-09-15T01:01:54.881Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/bibliography-screen80-v1.json
+hash: e4749b258ecb7376c19a12b6f02fe42e08e841e1ef5223b64b8e51183b2fda3f
+bytes: 165428
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: 80-candidate corrected bibliography snapshot; targeted fulltext and Q1 eligibility separately tracked; quotas pending

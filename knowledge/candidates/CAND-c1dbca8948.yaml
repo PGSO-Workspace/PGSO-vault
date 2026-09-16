@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c1dbca8948
+created: 2026-09-15T09:46:31.407Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4392345976
+title: "Standardized training nurses's humanistic care practice ability: A cross‐sectional survey in western China during COVID‐19"
+authors:
+  - Xixi Li
+  - Jin Yang
+  - Xiquan Wang
+  - Daoxin Jin
+  - Jing Liu
+  - Luyao Yang
+  - Ronnell D. Dela Rosa
+year: 2024
+venue: Nursing Open
+doi: 10.1002/nop2.2123
+url: https://doi.org/10.1002/nop2.2123
+abstract: "AIM: This study aims to investigate the current status and determinants of humanistic care practice abilities among standardized training nurses in China during the post-COVID-19 era, as well as to propose management strategies. DESIGN: A cross-sectional study. METHODS: Deliberately chosen were 517 standardized training nursing students from a provincial-level training facility in western China. RESULTS: The respondents had a mean ± SD age of 21.23 ± 1.34 years, and 92.0% of them voluntarily opted for the nursing profession. Almost all (99.8%) respondents had at least a college degree. The standardized training nurses scored an average of (130.31 ± 14.18) on humanistic care ability, which was significantly related to some sociodemographic variables. The average scores for the five dimensions of nursing communication ability, psychological adjustment ability, moral and legal application ability, nursing aesthetic ability, and care practice ability were 30.78, 17.61, 32.23, 18 and 31.67, respectively. All these dimensions showed positive correlations with the overall score of humanistic care practice ability."
+type: article
+open_access: true
+cited_by: 8
+query: Yue Qi personality cultural variables psychological simulations
+question: null
+search: SEARCH-4cdf3b8231
+score: 1.164
+score_parts:
+  rank: 0.125
+  citations: 0.239
+  recency: 0.8
+needs_approval: false
+state: candidate

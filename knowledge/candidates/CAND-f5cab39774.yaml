@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f5cab39774
+created: 2026-09-14T23:47:13.887Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.22541/au.175873392.24947763/v1
+title: "Extending Policy-Compiled, Context-  and Multimodal-Aware Defense-in-Depth Moderation: A Comprehensive Framework  with Meta AI’s Llama Guard 3, Protections, and LlamaFirewall for Harassment  Reduction and Academic Safe Harbors"
+authors:
+  - Khan Tahsin Abrar
+year: 2025
+venue: null
+doi: 10.22541/au.175873392.24947763/v1
+url: https://doi.org/10.22541/au.175873392.24947763/v1
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall" runtime security framework'
+question: null
+search: SEARCH-dd1444607d
+score: 0.959
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

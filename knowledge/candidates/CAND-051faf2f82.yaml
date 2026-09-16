@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-051faf2f82
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/978-3-031-06516-3
+title: The Transdisciplinary Reach of Design Science Research
+authors: []
+year: 2022
+venue: Lecture Notes in Computer Science
+doi: 10.1007/978-3-031-06516-3
+url: https://doi.org/10.1007/978-3-031-06516-3
+abstract: null
+type: book
+open_access: null
+cited_by: 4
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 0.817
+score_parts:
+  rank: 0.042
+  citations: 0.175
+  recency: 0.6
+needs_approval: false
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a083f57997
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2026.findings-acl.1082
+title: "Beyond Static Toolsets: Self-Evolving LLM Tool Agents via Continual Documentation Adaptation"
+authors:
+  - Bin Wu
+  - Edgar Meij
+  - Emine Yilmaz
+year: 2026
+venue: "Findings of the Association for Computational Linguistics: ACL 2026"
+doi: 10.18653/v1/2026.findings-acl.1082
+url: https://doi.org/10.18653/v1/2026.findings-acl.1082
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.025
+score_parts:
+  rank: 0.025
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

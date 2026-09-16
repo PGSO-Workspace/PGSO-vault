@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-7b2cea75bc
+created: 2026-09-15T01:18:09.551Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/eac-agent.pdf
+paths:
+  - sources/literature/eac-agent.pdf
+hash: 7b2cea75bc7a2ddca65fd9a0aafcec87a9607927dd1656956f778681596add02
+bytes: 3021219
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 89689
+  sections: 23
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:16:09.565Z

@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-3ec18a1b16
+created: 2026-09-15T05:35:43.941Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/diagnostics-84242c9/comparison-manifest.json
+paths:
+  - sources/software/pgso-sdk/diagnostics-84242c9/comparison-manifest.json
+hash: 3ec18a1b16240d3b6cd1b7fa0b4e30f79ff025a3a5bf9cdc9d95f986f272f8e3
+bytes: 84637
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T05:35:43.730Z

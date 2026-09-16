@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a3c4060672
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icic68258.2025.11413192
+title: Emotion Aware Human Robot Interaction Using EEG Signals for Personalized Communication
+authors:
+  - Mahnoor Iftikhar
+  - Shaheryar Najam
+  - Ahmad Jalal
+year: 2025
+venue: 2025 6th International Conference on Innovative Computing (ICIC)
+doi: 10.1109/icic68258.2025.11413192
+url: https://doi.org/10.1109/icic68258.2025.11413192
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 0.933
+score_parts:
+  rank: 0.033
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

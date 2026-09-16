@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2e9e7448a2
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7125691187
+title: "Assessing Interaction Quality in Human–AI Dialogue: An Integrative Review and Multi-Layer Framework for Conversational Agents"
+authors:
+  - Luca Marconi
+  - Luca Longo
+  - Federico Cabitza
+year: 2026
+venue: Machine Learning and Knowledge Extraction
+doi: 10.3390/make8020028
+url: https://doi.org/10.3390/make8020028
+abstract: "Conversational agents are transforming digital interactions across various domains, including healthcare, education, and customer service, thanks to advances in large language models (LLMs). As these systems become more autonomous and ubiquitous, understanding what constitutes high-quality interaction from a user perspective is increasingly critical. Despite growing empirical research, the field lacks a unified framework for defining, measuring, and designing user-perceived interaction quality in human–artificial intelligence (AI) dialogue. Here, we present an integrative review of 125 empirical studies published between 2017 and 2025, spanning text-, voice-, and LLM-powered systems. Our synthesis identifies three consistent layers of user judgment: a pragmatic core (usability, task effectiveness, and conversational competence), a social–affective layer (social presence, warmth, and synchronicity), and an accountability and inclusion layer (transparency, accessibility, and fairness). These insights are formalised into a four-layer interpretive framework—Capacity, Alignment, Levers, and Outcomes—operationalised via a Capacity × Alignment matrix that maps distinct success and failure regimes. It also identifies design levers such as anthropomorphism, role framing, and onboarding strategies. The framework consolidates constructs, positions inclusion and accountability as central to quality, and offers actionable guidance for evaluation and design. This research redefines interaction quality as a dialogic construct, shifting the focus from system performance to co-orchestrated, user-centred dialogue quality."
+type: article
+open_access: true
+cited_by: 13
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.378
+score_parts:
+  rank: 0.091
+  citations: 0.287
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f9dfb267c5
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1117/12.3057659
+title: "Hearing emotions: fine-tuning speech emotion recognition models"
+authors:
+  - Parvez Mohammed
+  - Bakir Hadzic
+  - Mohammed Eyad Alkostantini
+  - Naoyuki Kubota
+  - Youssef Shiban
+  - Matthias Rätsch
+year: 2025
+venue: Fifth Symposium on Pattern Recognition and Applications (SPRA 2024)
+doi: 10.1117/12.3057659
+url: https://doi.org/10.1117/12.3057659
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.017
+score_parts:
+  rank: 0.042
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

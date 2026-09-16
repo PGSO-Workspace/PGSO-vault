@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-27f9631a8d
+created: 2026-09-15T09:46:16.656Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1002/brb3.71236
+title: "Neural Heterogeneity Underlying Behavioral Equivalence: A Dynamic Neuro‐Decoding Study of Cognitive and Affective Empathy in Relation to Autism‐Like Traits"
+authors:
+  - Lingyu Zhao
+  - Yixin Jiang
+  - Ziwei Chen
+  - Yongning Song
+year: 2026
+venue: Brain and Behavior
+doi: 10.1002/brb3.71236
+url: https://doi.org/10.1002/brb3.71236
+abstract: ABSTRACT Purpose Although empathy processing varies significantly between individuals with high and low autism‐like traits (ALT), the underlying neural mechanisms remain poorly understood. This study integrated behavioral measures with electroencephalography (EEG) analyses to investigate neural processing differences between high‐ and low‐ALT groups during cognitive and affective empathy tasks. Method We assessed cognitive empathy (judging depicted emotions) and affective empathy (rating personal emotional resonance) in 40 participants (21 high‐ALT and 19 low‐ALT) using the Multifaceted Empathy Test while concurrently recording EEG data. Our analytical approach combined traditional behavioral analysis with multivariate pattern analysis and representational similarity analysis. Results Behaviorally, the groups showed no significant performance differences. However, their neural mechanisms diverged. During cognitive empathy, the high‐ALT group exhibited inefficient early sensory processing and delayed, discontinuous neural encoding of emotion categories, suggesting reliance on late‐stage compensatory processing. For affective empathy, while early automatic neural resonance was intact, the high‐ALT group exhibited atypically sustained reliance on low‐level sensory features and failed to form stable, integrated neural representations of emotion, unlike the low‐ALT group. Conclusion These findings reveal a pattern of “behavioral equivalence, neural heterogeneity.” High‐ALT individuals appear to employ distinct, compensatory neural strategies to achieve typical behavioral outcomes in empathy. This highlights the value of advanced neuro‐decoding in uncovering latent processing differences underlying the ALT spectrum.
+type: article
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees" PDF'
+question: null
+search: SEARCH-ab2b977fc5
+score: 1.077
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

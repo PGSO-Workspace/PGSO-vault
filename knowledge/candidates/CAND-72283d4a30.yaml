@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-72283d4a30
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.4015/s1016237224500571
+title: "A-MSTM: ATTEMPTED CATCH ESCAPE-OPTIMIZED MIXED ATTENTION-ENABLED BILSTM MODEL FOR BRAIN TUMOR CLASSIFICATION"
+authors:
+  - Divya Kumari
+  - B. K. Anoop
+year: 2025
+venue: "Biomedical Engineering: Applications, Basis and Communications"
+doi: 10.4015/s1016237224500571
+url: https://doi.org/10.4015/s1016237224500571
+abstract: A brain tumor is a disorder that originates from the abnormal development of brain cells. Due to their low incidence and diversity in appearance, tumors can have a tough time being diagnosed with a patient’s survival rate. The traditional approaches for brain tumor classification have certain limitations including adaptability, availability of data, interpretability, and the ability for generalization. The research proposed an Attempted Catch escape Optimizer-based mixed attentional Bidirectional Long Short Term Memory (A-MSTM), to improve the efficiency of brain tumor classification. The utilization of mixed attention mechanisms in the A-MSTM facilitates improved information processing, enabling the model to focus on relevant regions while preserving contextual information. The SCPA-Net architecture is optimized to upgrade the model’s ability to reconstruct images and learn meaningful representations, contributing to more accurate tumor segmentation. To extract discriminative features, the VGG-16 model is employed, which harnesses the ability of the model to capture hierarchical representations of input images. The integration of GLCM and statistical features enriches the overall model’s understanding of complex patterns associated with brain tumors. The A-MSTM model and the SCPA-Net’s adjustable parameters are optimized using the bio-inspired ACEO algorithm, which also improves the segmentation and classification results. The experimental evaluation of the proposed A-MSTM method involves a comprehensive analysis of BraTS 2017 and BraTS 2020 datasets, demonstrating superior performance compared to existing approaches in terms of accuracy, sensitivity, specificity, and balanced error rate of attaining 93.56%, 94.58%, 94.65%, and 5.45, respectively, for TP 90 analysis.
+type: article
+open_access: null
+cited_by: 1
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 1.023
+score_parts:
+  rank: 0.048
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

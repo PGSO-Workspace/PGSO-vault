@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-6e797fc0e0
+created: 2026-09-15T01:07:23.311Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/validation-protocol-v2-2026-09-15.md
+paths:
+  - sources/reports/validation-protocol-v2-2026-09-15.md
+hash: 6e797fc0e0d3abe2aaefcc991ad735b5060ca87c79a95ca9595fb983d19d4bdc
+bytes: 12420
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 12410
+  sections: 9
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:07:23.104Z
+versions_of: ART-f4f4ca4870
+latest: true

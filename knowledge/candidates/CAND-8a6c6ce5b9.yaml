@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8a6c6ce5b9
+created: 2026-09-15T08:11:18.507Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.22141/2307-1257.10.1.2021.227197
+title: Обращение главного редактора
+authors:
+  - D.D. Ivanov
+year: 2021
+venue: KIDNEYS
+doi: 10.22141/2307-1257.10.1.2021.227197
+url: https://doi.org/10.22141/2307-1257.10.1.2021.227197
+abstract: No abstract
+type: article
+open_access: null
+cited_by: 0
+query: 10.2307/25148625
+question: null
+search: SEARCH-6980917c90
+score: 0.667
+score_parts:
+  rank: 0.167
+  citations: 0
+  recency: 0.5
+needs_approval: false
+state: candidate

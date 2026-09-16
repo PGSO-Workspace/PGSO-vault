@@ -1,0 +1,18 @@
+schema: phdude.source
+version: 1
+id: SRC-95f0204e40
+created: 2026-09-15T09:46:50.338Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: PGSO Paper 1 claim-identification and endpoint reconciliation
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-e573a37295
+state: candidate
+year: 2026
+abstract: Candidate methodological reconciliation distinguishing shared invocation-boundary conformance, domain-policy compliance, task utility and independent intervention judgments. Identifies unresolved primary-endpoint differences among prior proposals and preserves ENV_ASSERTION-only pilot scope; contains no new comparative outcomes.
+bibkey: pgso202695f0204e40

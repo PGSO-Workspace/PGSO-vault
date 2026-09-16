@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-cd9c11a605
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4394947904
+title: "Bias and Unfairness in Information Retrieval Systems: New Challenges in the LLM Era"
+authors:
+  - Sunhao Dai
+  - Xu Chen
+  - Shicheng Xu
+  - Liang Pang
+  - Zhenhua Dong
+  - Jun Xu
+year: 2024
+venue: null
+doi: 10.1145/3637528.3671458
+url: https://doi.org/10.1145/3637528.3671458
+abstract: "With the rapid advancements of large language models (LLMs), information retrieval (IR) systems, such as search engines and recommender systems, have undergone a significant paradigm shift. This evolution, while heralding new opportunities, introduces emerging challenges, particularly in terms of biases and unfairness, which may threaten the information ecosystem. In this paper, we present a comprehensive survey of existing works on emerging and pressing bias and unfairness issues in IR systems when the integration of LLMs. We first unify bias and unfairness issues as distribution mismatch problems, providing a groundwork for categorizing various mitigation strategies through distribution alignment. Subsequently, we systematically delve into the specific bias and unfairness issues arising from three critical stages of LLMs integration into IR systems: data collection, model development, and result evaluation. In doing so, we meticulously review and analyze recent literature, focusing on the definitions, characteristics, and corresponding mitigation strategies associated with these issues. Finally, we identify and highlight some open problems and challenges for future work, aiming to inspire researchers and stakeholders in the IR field and beyond to better understand and mitigate bias and unfairness issues of IR in this LLM era. We also consistently maintain a GitHub repository for the relevant papers and resources in this rising direction at https://github.com/KID-22/LLM-IR-Bias-Fairness-Survey."
+type: other
+open_access: true
+cited_by: 122
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.572
+score_parts:
+  rank: 0.25
+  citations: 0.522
+  recency: 0.8
+needs_approval: false
+state: candidate

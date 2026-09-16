@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-87ba4e210a
+created: 2026-09-14T23:47:47.446Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412889677
+title: "The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"
+authors:
+  - Feiran Jia
+  - Tong Wu
+  - Qin Xin
+  - Anna Squicciarini
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.acl-long.1435
+url: https://doi.org/10.18653/v1/2025.acl-long.1435
+abstract: Large Language Model (LLM) agents are increasingly being deployed as conversational assistants capable of performing complex realworld tasks through tool integration.This enhanced ability to interact with external systems and process various data sources, while powerful, introduces significant security vulnerabilities.In particular, indirect prompt injection attacks pose a critical threat, where malicious instructions embedded within external data sources can manipulate agents to deviate from user intentions.While existing defenses show promise, they struggle to maintain robust security while preserving task functionality.We propose a novel and orthogonal perspective that reframes agent security from preventing harmful actions to ensuring task alignment, requiring every agent action to serve user objectives.Based on this insight, we develop Task Shield, a test-time defense mechanism that systematically verifies whether each instruction and tool call contributes to user-specified goals.Through experiments on the Agent-Dojo benchmark, we demonstrate that Task Shield reduces attack success rates (2.07%) while maintaining high task utility (69.79%) on GPT-4o, significantly outperforming existing defenses in various real-world scenarios.
+type: other
+open_access: true
+cited_by: 14
+query: '"AgentDojo" tool agents security'
+question: null
+search: SEARCH-95d8fe4170
+score: 1.527
+score_parts:
+  rank: 0.333
+  citations: 0.294
+  recency: 0.9
+needs_approval: false
+state: candidate

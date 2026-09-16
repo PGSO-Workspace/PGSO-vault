@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-65941925fd
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1177/19485506241284688
+title: "Testing Theories of Threat, Individual Difference, and Ideology: Little Evidence of Personality-Based Individual Differences in Ideological Responses to Threat"
+authors:
+  - Abigail L. Cassario
+  - Mark J. Brandt
+year: 2024
+venue: Social Psychological and Personality Science
+doi: 10.1177/19485506241284688
+url: https://doi.org/10.1177/19485506241284688
+abstract: "Recent attempts to establish the veracity of the conservative shift hypothesis have failed to find supportive evidence. Instead, this work yields inconsistent results and reveals considerable individual differences in ideological responses to ecological threats. In two studies, we build upon this work in two ways. First, we test the conservative shift hypothesis across five ecological threats: unemployment, immigration, racial diversity, COVID-19, and violent crime, more than has been examined previously. Second, we test whether, in line with political personality theories, openness to experience and conscientiousness predict who is likely to shift to the right in the face of threat and who is not. In one nationally representative panel study from the Netherlands ( N = 11,189) and one nationally representative repeated cross-sectional study in the United States ( N = 9,040), we find minimal support for the conservative shift hypothesis and theories that predict personality-based individual differences in ideological responses to threat."
+type: article
+open_access: null
+cited_by: 4
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 1.005
+score_parts:
+  rank: 0.03
+  citations: 0.175
+  recency: 0.8
+needs_approval: false
+state: candidate

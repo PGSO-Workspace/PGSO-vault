@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-056926b23c
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7139980055
+title: Detecting and Mitigating AI Prompt Injection Attacks in Large Language Models (LLMs)
+authors:
+  - Abel Ureste
+  - Hyungbae Park
+  - Tamirat Abegaz
+year: 2026
+venue: Journal of The Colloquium for Information Systems Security Education
+doi: 10.53735/cisse.v13i1.227
+url: https://doi.org/10.53735/cisse.v13i1.227
+abstract: AI is being interconnected with vital systems at an exponential rate, being described as the greatest shift in technology since the invention of the Internet. However, with the emergence of AI also involves the introduction of new critical vulnerabilities in the technology sector. This research will discuss the types of prompt injection attacks that AI can be subjected to, what they target and the possible repercussions of prompt injections. To counteract these attacks, solutions to detect different types of prompt injection will also be discussed, giving solutions to mitigate attacks that can expose critical data. Along with the solutions, different trade-offs between these solutions will be given. This research aims to expose the security issues that arise with the rapid implementation of experimental AI involving prompt injection and how to prevent it.
+type: article
+open_access: true
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.125
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

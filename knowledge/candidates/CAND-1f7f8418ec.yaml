@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1f7f8418ec
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20944/preprints202609.0359.v1
+title: Evaluating Safety Embedding Prefiltering for Analyzing Millions of LLM Agent Social Network Messages for Security and Safety Harms
+authors:
+  - Paul-Ioan Clotan
+  - Ioana Branescu
+  - Gabriela Adelina Gherghe
+  - Mihai Dascalu
+  - Traian Rebedea
+year: 2026
+venue: null
+doi: 10.20944/preprints202609.0359.v1
+url: https://doi.org/10.20944/preprints202609.0359.v1
+abstract: Agentic social networks expose autonomous agents to large volumes of potentially malicious content, including prompt injection, social engineering, and unsafe execution requests. Large Language Model (LLM) judges can detect such content, but applying them at platform scale is expensive. We study the extent to which lightweight embedding-based prefilters can reduce this cost while retaining most of the judge’s unsafe predictions. We annotate 10,000 Moltbook posts and comments with a frontier LLM judge, assigning a binary safety verdict, severity level, malicious intent taxonomy labels, and Open Worldwide Application Security Project (OWASP) AI risk codes. Of the LLM-annotated samples, 9.1% were unsafe at severity 3 or above. Two human annotators with high inter-rater agreement (Cohen’s κ = 0.823) exhibited moderate agreement between their adjudicated labels and the LLM ratings (κ = 0.578). We compare centroid-based cosine prefilters over 3 off-the-shelf encoders against a supervised trained classifier. Reducing the input window size raises average precision by up to 6.3 percentage points. At an operating point calibrated to 0.80 recall, the projected cost of scanning 787,226 messages falls from $7,085 by 56.0% (MiniLM-L12-v2), 62.6% (BGE-M3), and 74.0% (trained classifier), while MiniLM runs roughly 32 times faster than the classifier. Prefiltering can therefore make frontier-judge screening affordable at scale, although jailbreak content remains the hardest category to retrieve.
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.029
+score_parts:
+  rank: 0.029
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

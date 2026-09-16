@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b7f5abf94f
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/mwscas57524.2023.10406146
+title: Dynamic MAC Unit Pruning Techniques in Runtime RTL Simulation for Area-Accuracy Efficient Implementation of Neural Network Accelerator
+authors:
+  - Jisu Kwon
+  - Heuijee Yun
+  - Daejin Park
+year: 2023
+venue: 2023 IEEE 66th International Midwest Symposium on Circuits and Systems (MWSCAS)
+doi: 10.1109/mwscas57524.2023.10406146
+url: https://doi.org/10.1109/mwscas57524.2023.10406146
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 0.771
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 0.7
+needs_approval: false
+state: candidate

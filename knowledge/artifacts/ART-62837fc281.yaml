@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-62837fc281
+created: 2026-09-15T05:35:43.932Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/diagnostics-84242c9/README.md
+paths:
+  - sources/software/pgso-sdk/diagnostics-84242c9/README.md
+hash: 62837fc2810c492d4b741606084e5ed2d98a7c1de40657c1c4c15c72129fec05
+bytes: 6542
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 6542
+  sections: 3
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T05:35:43.719Z
+versions_of: ART-e42e168741
+latest: false

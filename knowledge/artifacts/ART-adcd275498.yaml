@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-adcd275498
+created: 2026-09-15T01:12:18.564Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/saffaryazdi-arxiv2501.08393.pdf
+paths:
+  - sources/literature/saffaryazdi-arxiv2501.08393.pdf
+hash: adcd275498b7b6bd0f2378c3c91ed614850553cb71524dd9bfee92df879a26bd
+bytes: 2773595
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 85421
+  sections: 24
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:08:07.293Z

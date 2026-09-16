@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-de7e80418c
+created: 2026-09-15T01:15:49.547Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.54753/eac.v15i1.2685
+title: EDITORIAL Vol. 15 Núm. 1 (2026)
+authors:
+  - Revista Educación, Arte y Comunicación (EAC)
+year: 2026
+venue: "Educación, Arte, Comunicación: Revista Académica e Investigativa"
+doi: 10.54753/eac.v15i1.2685
+url: https://doi.org/10.54753/eac.v15i1.2685
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"EAC-Agent" "10.1371/journal.pone.0346770"'
+question: null
+search: SEARCH-fa4f4eec19
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

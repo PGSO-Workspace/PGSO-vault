@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3977050833
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416949508
+title: A comprehensive review on application of cognitive behavioral therapy in emotional AI solutions for mental well-being
+authors:
+  - Bimba Pawar
+  - Smita Mahajan
+  - Shrikrishna Kolhar
+year: 2025
+venue: Discover Psychology
+doi: 10.1007/s44202-025-00513-6
+url: https://doi.org/10.1007/s44202-025-00513-6
+abstract: The integration of Cognitive Behavioral Therapy (CBT) into emotional AI systems has revolutionized the mental health care domain in detecting various issues. This paper reviews the evolution and application of AI agents that leverage CBT to provide personalized, accessible, and effective emotional support. By utilizing CBT methods like cognitive restructuring and guided self-reflection, the agents administer specific therapies that reduce negative thought patterns and enhance emotional responses. This paper outlines a structured study on mental health, diagnostic tools, models, and machine learning methods. It also covers research approaches, analytic tools, and technologies in embedding and large language models (LLM), with a focus on emotional AI development. The paper also introduces a comparative analysis of present emotional chatbots and scrutinizes the multi-domain application areas of emotional AI; among them are mental health and emotional well-being, customer care and support, healthcare and telemedicine, education and e-learning, human resource and employee well-being, sales and marketing, entertainment and gaming, personal assistance, elderly care and companion chatbots, and financial services. The paper further discusses several challenges and limitations, such as complexity in emotional understanding, the large size of datasets, accuracy in emotion recognition, the adaptability of CBT principles, limitations in real-time processing, ethical and privacy issues, the inability of AI to empathize, generalization across contexts, pre-computed response dependency, and efficiency evaluation. This study helps in understanding the change in application and development of AI agents that utilize CBT in providing personalized, accessible, and effective emotional support.
+type: article
+open_access: true
+cited_by: 4
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.131
+score_parts:
+  rank: 0.056
+  citations: 0.175
+  recency: 0.9
+needs_approval: false
+state: candidate

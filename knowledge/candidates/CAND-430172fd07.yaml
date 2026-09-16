@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-430172fd07
+created: 2026-09-15T00:31:14.448Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icassp49660.2025.10889532
+title: Online scalable Gaussian processes with conformal prediction for guaranteed coverage
+authors:
+  - Jinwen Xu
+  - Qin Lu
+  - Georgios B. Giannakis
+year: 2025
+venue: ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+doi: 10.1109/icassp49660.2025.10889532
+url: https://doi.org/10.1109/icassp49660.2025.10889532
+abstract: null
+type: article
+open_access: null
+cited_by: 5
+query: '"Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets"'
+question: null
+search: SEARCH-023614a12f
+score: 1.178
+score_parts:
+  rank: 0.083
+  citations: 0.195
+  recency: 0.9
+needs_approval: false
+state: candidate

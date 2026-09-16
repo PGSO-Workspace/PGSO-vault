@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-085e02ef15
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-9668164/v1
+title: Enforcing Attestable Workflows across Untrusted Networks
+authors:
+  - Hung Dang
+  - Tue Nguyen
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-9668164/v1
+url: https://doi.org/10.21203/rs.3.rs-9668164/v1
+abstract: Abstract Confidential high-performance computing orchestrates workloads across federated domains, yet existing frameworks rely on high-overhead user-space library operating systems or assume single-host execution. We propose JANUS, an architecture federating Trusted Execution Environments via a split Trusted Computing Base design. It couples a hardware-isolated Control Plane executing Mutually Attested Key Exchange with a measured guest-resident extended Berkeley Packet Filter Data Plane. By anchoring cryptographic key release to hardware measurements and executing enforcement in the kernel, JANUS achieves native-speed encrypted routing. Empirical evaluation demonstrates a steady-state enforcement cost of 6 µs per packet, imposing a 13-15 µs absolute latency overhead. On distributed pipelines, JANUS incurs just a 6.1% execution penalty over plaintext baselines, bypassing the 62% penalty of user-space counterparts. The system initializes a 100-node cluster in under 1.5 seconds, providing an efficient confidential interconnect for long-running workflows.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 1.053
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

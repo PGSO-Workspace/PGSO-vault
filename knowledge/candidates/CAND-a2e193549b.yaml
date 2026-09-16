@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a2e193549b
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1177/19485506241289638
+title: A Cross-Cultural Investigation of Prejudice Against Transgender People
+authors:
+  - Jaime L. Napier
+year: 2024
+venue: Social Psychological and Personality Science
+doi: 10.1177/19485506241289638
+url: https://doi.org/10.1177/19485506241289638
+abstract: The current research offers a cross-cultural examination of transgender prejudice, with a particular focus on the role of gender. Analyses of a survey conducted in 23 countries (with N ’s ranging from 485 to 1,098) representing both Western and non-Western societies showed that there is greater bias toward transgender women (vs. men) overall, among both male and female participants. These differences were small and not reliable in most Western countries, whereas participants in China, Russia, South Korea, and Türkiye made greater distinctions. Men (vs. women) and conservatives reported higher prejudice, and this was more pronounced in Western (vs. non-Western) countries. Religiosity was associated with anti-transgender prejudice in Western (but not non-Western) countries, but this was completely accounted for by anti-gay attitudes. Finally, anti-gay and anti-transgender prejudice were strongly related to each other across samples, and the denial of gender identity predicted anti-transgender prejudice over and above anti-gay prejudice.
+type: article
+open_access: null
+cited_by: 8
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 1.082
+score_parts:
+  rank: 0.043
+  citations: 0.239
+  recency: 0.8
+needs_approval: false
+state: candidate

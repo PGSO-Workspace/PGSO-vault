@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2a420ac7e1
+created: 2026-09-14T23:44:46.279Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20944/preprints202609.0270.v1
+title: "GuardBench: A Systematic Framework for Pre-Deployment Evaluation of LLM Safety Guardrails"
+authors:
+  - Purva Bangad
+  - Sameet Sonawane
+  - Harikrishnan Girikumar
+year: 2026
+venue: null
+doi: 10.20944/preprints202609.0270.v1
+url: https://doi.org/10.20944/preprints202609.0270.v1
+abstract: "Large language models (LLMs) face a growing spectrum of adversarial jailbreak inputs that bypass safety training and elicit harmful outputs. Existing red-teaming efforts are ad hoc, using incompatible metrics and omitting guardrail-layer evaluation. We introduce GuardBench, a pre-deployment evaluation framework comprising 4,200 jailbreak prompts across seven attack categories, a four-stage automated pipeline, and a multi-metric scoring protocol covering Attack Success Rate (ASR), False Positive Rate (FPR), and P95 latency with 95% confidence intervals. We evaluate two guardrail configurations against GPT-4o-mini: a rule-based keyword filter (G1) and Llama Guard 2, an 8B-parameter LLM classifier (G3). Evaluated via static replay of archival 2023-era prompts, the undefended baseline achieves 5.8% ASR—far below prior-work rates of 60–80% obtained with live adaptive generation; the gap reflects prompt staleness, alignment generalisation, or both. Against this baseline, G1 reduces ASR by 0.32 pp with negligible latency; G3 achieves a 2.4 pp reduction but scores below the unguarded baseline on the Composite Safety Score due to 5,799 ms P95 latency under our evaluation hardware (Apple M3 Pro, llama.cpp, Q4_K_M quantisation). Token Manipulation attacks carry a 38.8% residual ASR under both configurations—the dominant open problem for next-generation guardrail design. GuardBench includes a CI/CD gate with configurable thresholds for evidence-based guardrail selection. Datasets, code, and results will be released upon acceptance."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Safety Guardrails for LLM-Enabled Robots" code GitHub'
+question: null
+search: SEARCH-babb92a8ed
+score: 1.167
+score_parts:
+  rank: 0.167
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

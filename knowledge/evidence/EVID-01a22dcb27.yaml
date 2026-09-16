@@ -1,0 +1,21 @@
+schema: phdude.evidence
+version: 1
+id: EVID-01a22dcb27
+created: 2026-09-13T07:00:38.313Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-4c878e2b5b
+locator: crates/pgso-core/src/engine.rs lines 166–169, commit 1b17c248d3608a7d80cc1147e8aa57acbb715132
+excerpt: |-
+  // G4: abstain on low confidence — hold state, emit nothing, and do not
+          // adapt the baseline from a reading we don't trust.
+          if reading.confidence < self.config.confidence_threshold {
+              return None;
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-389c2f2ec0

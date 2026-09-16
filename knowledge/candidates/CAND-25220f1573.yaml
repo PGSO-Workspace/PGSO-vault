@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-25220f1573
+created: 2026-09-15T06:33:03.695Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4391766565
+title: "Large Language Models: A Survey"
+authors:
+  - Shervin Minaee
+  - Tomas Mikolov
+  - Nikzad, Narjes
+  - Meysam Chenaghlu
+  - Richard Socher
+  - Xavier Amatriain
+  - Jianfeng Gao
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2402.06196
+url: http://arxiv.org/abs/2402.06196
+abstract: Large Language Models (LLMs) have drawn a lot of attention due to their strong performance on a wide range of natural language tasks, since the release of ChatGPT in November 2022. LLMs' ability of general-purpose language understanding and generation is acquired by training billions of model's parameters on massive amounts of text data, as predicted by scaling laws \cite{kaplan2020scaling,hoffmann2022training}. The research area of LLMs, while very recent, is evolving rapidly in many different ways. In this paper, we review some of the most prominent LLMs, including three popular LLM families (GPT, LLaMA, PaLM), and discuss their characteristics, contributions and limitations. We also give an overview of techniques developed to build, and augment LLMs. We then survey popular datasets prepared for LLM training, fine-tuning, and evaluation, review widely used LLM evaluation metrics, and compare the performance of several popular LLMs on a set of representative benchmarks. Finally, we conclude the paper by discussing open challenges and future research directions.
+type: preprint
+open_access: true
+cited_by: 228
+query: large language model agent evaluation benchmark reliability task success journal
+question: null
+search: SEARCH-b435e17ef6
+score: 1.59
+score_parts:
+  rank: 0.2
+  citations: 0.59
+  recency: 0.8
+needs_approval: true
+state: candidate

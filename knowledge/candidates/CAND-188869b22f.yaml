@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-188869b22f
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.55248/gengpi.07.0626.15b16
+title: A Cascaded Cross-Attention Fusion Network for Multimodal Emotion Recognition in Dynamic Human-Robot Interaction
+authors:
+  - Deepika Rajwade
+  - Aabha Patel
+  - Sayed Athar Ali Hashmi
+year: 2026
+venue: International Journal of Research Publication and Reviews
+doi: 10.55248/gengpi.07.0626.15b16
+url: https://doi.org/10.55248/gengpi.07.0626.15b16
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 1.101
+score_parts:
+  rank: 0.026
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

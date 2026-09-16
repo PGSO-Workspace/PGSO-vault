@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0a136e02ae
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411112985
+title: "DiaSynth: Synthetic Dialogue Generation Framework for Low Resource Dialogue Applications"
+authors:
+  - Shruti Suresh
+  - Wu Mengjun
+  - Tushar Pranav
+  - Eng Siong Chng
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.findings-naacl.40
+url: https://doi.org/10.18653/v1/2025.findings-naacl.40
+abstract: The scarcity of domain-specific dialogue datasets limits the development of dialogue systems across applications.Existing research is constrained by general or niche datasets that lack sufficient scale for training dialogue systems.To address this gap, we introduce Di-aSynth -a synthetic dialogue generation framework capable of generating high-quality, contextually rich dialogues across a wide range of domains.Unlike existing frameworks, Di-aSynth uses Large Language Models (LLMs) and Chain of Thought (CoT) reasoning to generate dynamic, domain-specific dialogues with simulated personas and diverse conversational features.We perform our experiments by generating synthetic data using different LLMs and few-shot examples from DialogSum and SAMSum.The pretrained language models fine-tuned on the synthetic data outperform the base models by 16.47% on dialogue summarization, while the comparison between models fine-tuned on in-domain data and synthetic data shows that the synthetic data is able to capture 90.48% of the performance distribution of the in-domain data on dialogue summarization.The quality of the data generated also increases as we increase the size of LLM from 3B to 8B.These results validate DiaSynth's potential as a robust alternative to traditional data collection methods. 1 We open source the code and data generated for future research.
+type: other
+open_access: true
+cited_by: 3
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1.101
+score_parts:
+  rank: 0.05
+  citations: 0.151
+  recency: 0.9
+needs_approval: false
+state: candidate

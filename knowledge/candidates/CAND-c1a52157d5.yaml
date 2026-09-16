@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c1a52157d5
+created: 2026-09-14T23:44:30.144Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.59350/bhr5x-d3429
+title: Code Hosting Options Beyond GitHub
+authors:
+  - Mark Padgham
+  - Steffi LaZerte
+year: 2025
+venue: null
+doi: 10.59350/bhr5x-d3429
+url: https://doi.org/10.59350/bhr5x-d3429
+abstract: rOpenSci makes heavy use of GitHub for our projects and services, including software peer-review.GitHub is by far the most widely used git or code-hosting platform, and the combination of its popularity and freemium services have made it central to open-source and R communities.However, for a variety of reasons, some of our community members or potential members may prefer or need to use other platforms.These reasons may include concerns about
+type: preprint
+open_access: null
+cited_by: 0
+query: '"WeClaw" "Adaptive Runtime" GitHub open source'
+question: null
+search: SEARCH-b132bc032f
+score: 0.967
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

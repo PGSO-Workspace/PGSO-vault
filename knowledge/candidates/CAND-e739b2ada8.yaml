@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e739b2ada8
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7162626676
+title: "Human, AI, and Color Tool: A Comparative Study on Emotion-Color Associations"
+authors:
+  - Ruoxin Qiao
+  - Siran Niu
+  - Yun Chen
+  - Yi Yang
+  - Ruina Zhu
+  - Kexin Miao
+  - Yuxuan Tian
+  - Jie Yang
+  - Gyeonghwa Lee
+year: 2026
+venue: Research Square
+doi: 10.21203/rs.3.rs-9135506/v1
+url: https://doi.org/10.21203/rs.3.rs-9135506/v1
+abstract: null
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 1.143
+score_parts:
+  rank: 0.143
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

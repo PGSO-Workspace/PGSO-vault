@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7d9a4fa6d2
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icns69853.2026.11570603
+title: Context-Aware Remote ID Anomaly Detection for UAS Activity Monitoring Using Multi-Agent LLM Reasoning
+authors:
+  - Sreejith Vidhyadharan
+  - Paul Snyder
+  - Michael Ullrich
+year: 2026
+venue: 2026 Integrated Communications, Navigation and Surveillance Conference (ICNS)
+doi: 10.1109/icns69853.2026.11570603
+url: https://doi.org/10.1109/icns69853.2026.11570603
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.031
+score_parts:
+  rank: 0.031
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

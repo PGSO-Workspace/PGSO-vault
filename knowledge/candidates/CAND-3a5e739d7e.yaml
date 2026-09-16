@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3a5e739d7e
+created: 2026-09-14T16:52:27.131Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21437/interspeech.2025-46
+title: Is your model big enough? Training and interpreting large-scale monolingual speech foundation models
+authors:
+  - Yaroslav Getman
+  - Tamás Grósz
+  - Tommi Lehtonen
+  - Mikko Kurimo
+year: 2025
+venue: Interspeech 2025
+doi: 10.21437/interspeech.2025-46
+url: https://doi.org/10.21437/interspeech.2025-46
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: A Large-Scale Evaluation of Speech Foundation Models
+question: null
+search: SEARCH-eb79d13f98
+score: 1.975
+score_parts:
+  rank: 1
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

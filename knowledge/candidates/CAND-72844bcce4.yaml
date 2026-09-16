@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-72844bcce4
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7119612245
+title: "From Design to Development: Engineering a Multi-LLM Agentic AI System"
+authors:
+  - Fozle Rabbi Shafi
+  - M. Anwar Hossain
+  - Salimur Choudhury
+year: 2026
+venue: null
+doi: 10.36227/techrxiv.176801000.08676998/v1
+url: https://doi.org/10.36227/techrxiv.176801000.08676998/v1
+abstract: Recent advances in generative artificial intelligence have fundamentally reshaped the engineering of software agents by enabling large language models (LLMs) to serve as a general-purpose cognitive layer for reasoning, planning, and interaction. Unlike traditional agent architectures that relied heavily on symbolic representations and handcrafted rules, LLM-based agents offer flexible, adaptive, and context-aware system behavior; however, they also introduce new architectural and development challenges. In this article, we present an engineering perspective on designing and developing an agentic system built around multiple collaborating LLMs, with an emphasis on architectural modularity, orchestration strategies, and development workflows. Using personalized mental health support as a case study, we describe the architecture and implementation of a multi-LLM agentic system that adapts to users' conversational context and real-world sensory data. We highlight key design decisions, practical challenges, and lessons learned, and offer actionable guidance for practitioners across different stages of agentic system development.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.059
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

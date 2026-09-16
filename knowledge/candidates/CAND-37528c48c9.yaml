@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-37528c48c9
+created: 2026-09-15T07:48:25.542Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.24108/preprints-3116294
+title: Two Methods to Obtain Rgeom=0.279182 - Static 43.515° vs 45°+0.046 Hz/day Drift - New Repository Referencing Closure DOI 10.5281/zenodo.22219221 and Historical DOI 10.5281/zenodo.19646359
+authors:
+  - Miguel Percudani
+year: 2026
+venue: null
+doi: 10.24108/preprints-3116294
+url: https://doi.org/10.24108/preprints-3116294
+abstract: "UAT/UPC - NEW SEPARATE REPOSITORY - PROPOSAL ONLY ============================================== Title: Two Methods to Obtain Rgeom=0.279182 - Static 43.515° vs 45°+0.046 Hz/day drift DISCLAIMER: THIS IS A PROPOSAL IN DEVELOPMENT, NOT EXPERIMENTALLY VALIDATED. Only theory + numerical simulation. Lab log 3.697/13.24=0.2792 requires independent replication. This is a NEW SEPARATE Zenodo repository to avoid mixing with validated records. References: - Closure: DOI 10.5281/zenodo.22219221 - Cierre completo del marco UAT/UCP: Lagrangiano con η≡κcrit=4,978, Ωm^eff=0,3133, Rgeom=0,279182, rd=128,15 Mpc vs 141 Mpc Proxy - https://doi.org/10.5281/zenodo.22219221 - Historical 8+1 calibration: DOI 10.5281/zenodo.19646359 v5 (26 March 2026) - will be attached as supplementary_historical_8plus1.zip Contents of this ZIP: - calculations_both_methodologies.py - METHODOLOGY_UAT_UPC_Proposal.pdf (with strong disclaimer and both DOI references) - FIELD_EQUATIONS_UAT_CORRECTED.pdf - This README The author will add supplementary_historical_8plus1.zip containing old development (uat_8plus1_detector_calibration_final.py, uat_8plus1_detector_calibration_previa.py, Nota_Tecnica_18_04_26.pdf, code_python.txt, calibrated_central_coil_signal.png) as historical reference. How to cite: Percudani, M. (2026). Proposal: Two Methods to Obtain Rgeom=0.279182. Zenodo, New Repository, Proposal in Development. Refs: 10.5281/zenodo.22219221 and 10.5281/zenodo.19646359 (historical supplementary). Key contemporary reference for synthetic rotation: Fleury et al., Science 343, 516-519 (2014) DOI 10.1126/science.1246936"
+type: preprint
+open_access: null
+cited_by: 0
+query: '"zenodo.22296644" L-DREA'
+question: null
+search: SEARCH-78cd1e9416
+score: 1.053
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

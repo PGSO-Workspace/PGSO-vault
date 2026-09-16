@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f947727061
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7197078
+title: "From AI Risk Diagnosis to Runtime Governability: HIRE as a Behavioral Governance Layer for High-Impact AI"
+authors:
+  - Asmaa Hammouch
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7197078
+url: https://doi.org/10.2139/ssrn.7197078
+abstract: "Artificial intelligence governance has produced extensive discussion of risk, harm, bias, opacity, hallucination, manipulation, weak accountability, and the social consequences of automated systems. These diagnoses are necessary, but they do not fully answer a practical governance question: what should happen before an AI output reaches a human being in a consequential context? This paper argues that high-impact AI governance requires runtime governability: the capacity to allow, revise, block, escalate, or audit AI outputs according to risk, context, and human consequence at the point of release. Such governance does not merely declare values, classify risks, or document systems before deployment. It asks whether a specific output should reach the user in its current form. between principle-level AI ethics and output-level AI conduct, and to propose HIRE as one way to make that gap visible, discussable, and evaluable."
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.029
+score_parts:
+  rank: 0.029
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

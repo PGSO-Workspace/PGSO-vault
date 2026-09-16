@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2e28937502
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415214006
+title: "Emotionally adaptive support: a narrative review of affective computing for mental health"
+authors:
+  - Michelle Schlicher
+  - Yupei Li
+  - Sunil Munthumoduku Krishna Murthy
+  - Qiyang Sun
+  - Björn W. Schuller
+year: 2025
+venue: Frontiers in Digital Health
+doi: 10.3389/fdgth.2025.1657031
+url: https://doi.org/10.3389/fdgth.2025.1657031
+abstract: Digital mental health interventions (DMHIs) have become increasingly prominent as scalable solutions to address global mental health needs. However, many existing tools lack the emotional sensitivity required to foster meaningful engagement and therapeutic effectiveness. Affective computing, a field focused on designing systems capable of detecting and responding to human emotions, offers promising advancements to the emotional responsiveness of these digital interventions. This narrative review examines how affective computing methods such as emotion recognition, sentiment analysis, emotion synthesis, and audiovisual and physiological signal processing, are being integrated into DMHIs to enhance user engagement and improve clinical outcomes. The findings suggest that emotionally adaptive systems can strengthen user engagement, simulate empathy, and support more personalized care. Early studies indicate potential benefits in terms of symptom reduction and user satisfaction, though clinical validation remains limited. Challenges such as algorithmic bias, privacy concerns, and the need for ethical design frameworks continue to shape the development of this emerging field. By synthesizing current trends, technological advancements, and ethical considerations, this review highlights the potential of affective computing in digital mental health and identifies key directions for future research and implementation.
+type: other
+open_access: true
+cited_by: 26
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.508
+score_parts:
+  rank: 0.25
+  citations: 0.358
+  recency: 0.9
+needs_approval: false
+state: candidate

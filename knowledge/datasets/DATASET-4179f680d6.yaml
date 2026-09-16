@@ -1,0 +1,17 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-4179f680d6
+created: 2026-09-15T16:30:11.953Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/public-voice-live-final.tar
+hash: 4179f680d65511405b83d7ce2b1ef4ddcccf9823f210b648dcc4ce100b749482
+bytes: 51322880
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate

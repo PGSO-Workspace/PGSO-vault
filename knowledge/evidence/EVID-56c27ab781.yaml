@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-56c27ab781
+created: 2026-09-15T08:35:37.386Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-be4e773e49
+locator: PDF page 95, European Journal of Information Systems row; ISSN 0960-085X, eISSN 1476-9344; visually inspected 15 September 2026
+excerpt: The European Journal of Information Systems is classified Q1 by AIS in Computer Science, Information Systems in the agency table using JCR 2024, June 2025 edition. This does not establish its 2026 or JIF/SJR quartile.
+strength: strong
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-2403477e03

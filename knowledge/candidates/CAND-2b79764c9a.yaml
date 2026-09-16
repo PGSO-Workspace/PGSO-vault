@@ -1,0 +1,44 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2b79764c9a
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7140345793
+title: A Blueprint for Self-Evolving Coding Agents in Vehicle Aerodynamic Drag Prediction
+authors:
+  - Jinhui Ren
+  - Huaiming Li
+  - Yabin Liu
+  - Tao Li
+  - Zhaokun Liu
+  - Yujia Liang
+  - Zengle Ge
+  - Chufan Wu
+  - Xiaomin Yuan
+  - Danyu Liu
+  - Annan Li
+  - Jianmin Wu
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: http://arxiv.org/abs/2603.21698
+abstract: "High-fidelity vehicle drag evaluation is constrained less by solver runtime than by workflow friction: geometry cleanup, meshing retries, queue contention, and reproducibility failures across teams. We present a contract-centric blueprint for self-evolving coding agents that discover executable surrogate pipelines for predicting drag coefficient $C_d$ under industrial constraints. The method formulates surrogate discovery as constrained optimization over programs, not static model instances, and combines Famou-Agent-style evaluator feedback with population-based island evolution, structured mutations (data, model, loss, and split policies), and multi-objective selection balancing ranking quality, stability, and cost. A hard evaluation contract enforces leakage prevention, deterministic replay, multi-seed robustness, and resource budgets before any candidate is admitted. Across eight anonymized evolutionary operators, the best system reaches a Combined Score of 0.9335 with sign-accuracy 0.9180, while trajectory and ablation analyses show that adaptive sampling and island migration are primary drivers of convergence quality. The deployment model is explicitly ``screen-and-escalate'': surrogates provide high-throughput ranking for design exploration, but low-confidence or out-of-distribution cases are automatically escalated to high-fidelity CFD. The resulting contribution is an auditable, reusable workflow for accelerating aerodynamic design iteration while preserving decision-grade reliability, governance traceability, and safety boundaries."
+type: preprint
+open_access: true
+cited_by: 0
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 1.059
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

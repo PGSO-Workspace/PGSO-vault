@@ -1,0 +1,28 @@
+schema: phdude.source
+version: 1
+id: SRC-c10d32718d
+created: 2026-09-15T09:49:44.494Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: Combining Neural Empathy-Aware Behavior Trees with Knowledge Graphs for Affective Human-AI Teaming
+authors:
+  - Glenda Amaral
+  - Stefania Costantini
+  - Giovanni De Gasperis
+  - Lorenzo De Lauretis
+  - Pierangelo Dell’Acqua
+  - Giancarlo Guizzardi
+  - Francesco Gullo
+  - Andrea Rafanelli
+type: article
+artifacts:
+  - ART-5ace4c1f12
+  - ART-2403477e03
+state: candidate
+year: 2025
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/TAFFC.2025.3641641
+url: https://research.utwente.nl/en/publications/combining-neural-empathy-aware-behavior-trees-with-knowledge-grap/
+abstract: "We propose a novel architecture for agents to be employed in Human-AI Teaming in various, even critical, domains. The architecture is based on affective computing, empathy, and Theory of Mind (ToM) and uses a description of the user profile and the operational, professional, and ethical requirements of the domain in which the agent operates. Moreover, it encompasses: a Knowledge Graph (KG), which is aimed at representing the various kinds of knowledge of the scenario at hand; a Behavior Tree (BT) enhanced with empathy-aware capabilities; a neural component, which elaborates sensor input from devices that monitor the user and input from the KG. The enhanced BT is the component that interacts with the user, making actions or providing suggestions. It also returns feedback to the KG to update it based on user experience. This two-way interaction between KG and BT is a major novelty of our work. As further contributions, we showcase an application of the proposed architecture on a driver co-pilot scenario and provide an early stage implementation of our architecture, mainly based on a Prolog implementation of the BT component."

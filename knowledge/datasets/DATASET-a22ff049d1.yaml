@@ -1,0 +1,19 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-a22ff049d1
+created: 2026-09-15T19:02:42.536Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/public-voice-b0-feasibility-20260915.tar
+hash: a22ff049d141b9cb781bef13d1013029be5fcb9bb8346aa5fcf4875a1d27a7cd
+bytes: 18995200
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: "Complete B0 public telecom feasibility development run: two scored sessions and one preserved provider-rate infrastructure failure, with raw audio/transcripts, manifest, wrapper, frozen criteria and log; no participants or YaVendio data."
+license: research workspace evidence

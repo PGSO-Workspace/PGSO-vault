@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-65325506f9
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7138173367
+title: "When Truth Is Overridden: Uncovering the Internal Origins of Sycophancy in Large Language Models"
+authors:
+  - Keyu Wang
+  - Jin Li
+  - Shu Yang
+  - Zhuoran Zhang
+  - Di Wang
+year: 2026
+venue: Proceedings of the AAAI Conference on Artificial Intelligence
+doi: 10.1609/aaai.v40i39.40645
+url: https://doi.org/10.1609/aaai.v40i39.40645
+abstract: "Large Language Models (LLMs) often exhibit sycophantic behavior, agreeing with user-stated opinions even when those contradict factual knowledge. While prior work has documented this tendency, the internal mechanisms that enable such behavior remain poorly understood. In this paper, we provide a mechanistic account of how sycophancy arises within LLMs. We first systematically study how user opinions induce sycophancy across different model families. We find that simple opinion statements reliably induce sycophancy, whereas user expertise framing has a negligible impact. Through logit-lens analysis and causal activation patching, we identify a two-stage emergence of sycophancy: (1) a late-layer output preference shift and (2) deeper representational divergence. We also verify that user authority fails to influence behavior because models do not encode it internally. In addition, we examine how grammatical perspective affects sycophantic behavior, finding that first-person prompts (“I believe...”) consistently induce higher sycophancy rates than third-person framings (“They believe...”) by creating stronger representational perturbations in deeper layers. These findings highlight that sycophancy is not a surface-level artifact but emerges from a structural override of learned knowledge in deeper layers, with implications for alignment and truthful AI systems."
+type: other
+open_access: true
+cited_by: 8
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.295
+score_parts:
+  rank: 0.056
+  citations: 0.239
+  recency: 1
+needs_approval: false
+state: candidate

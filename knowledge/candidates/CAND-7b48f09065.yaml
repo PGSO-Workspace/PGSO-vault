@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7b48f09065
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4281560414
+title: Improving the Financial Security of National Health Insurance using Cloud-Based Blockchain Technology Application
+authors:
+  - Anokye Acheampong Amponsah
+  - Adebayo Felix Adekoya
+  - Benjamin Asubam Weyori
+year: 2022
+venue: International Journal of Information Management Data Insights
+doi: 10.1016/j.jjimei.2022.100081
+url: https://doi.org/10.1016/j.jjimei.2022.100081
+abstract: Since Bitcoin's success, there has been a greater emphasis on researching the use of blockchain in a wide range of applications, such as agriculture, education, government, voting systems, etc. This generation of Blockchain applications is termed blockchain 3.0. Blockchain technology provides enhanced security, auditability, privacy, accountability, and many more features over a centralized system. Fraud in insurance is an international problem affecting all insurance subdomains in both developed and developing countries. Fraud, corruption, and many other data-related problems are threatening the financial security of the National Health Insurance Scheme (NHIS) in Ghana and if not attended to, the core aims of the scheme to provide universal healthcare services will not be realized. Consequently, the objective of this work is to design and implement a blockchain-based solution to protect the NHIS from plummeting financially. This paper presents the conceptual view of the proposed system, sequence and use case diagrams, data management framework, smart notification system, and smart claim processing system. The system was evaluated using the DeLone & McLean Information Systems Success Model. It was used to validate the behavioural aspect of the system. The study discovered a significant influence of information quality and user satisfaction. On the contrary, system quality seems to have an almost significant influence on the use and user satisfaction of the proposed system.
+type: article
+open_access: true
+cited_by: 76
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.128
+score_parts:
+  rank: 0.056
+  citations: 0.472
+  recency: 0.6
+needs_approval: false
+state: candidate

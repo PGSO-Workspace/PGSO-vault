@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a68da1bee3
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2024.3366767
+title: Cross-Task Inconsistency Based Active Learning (CTIAL) for Emotion Recognition
+authors:
+  - Yifan Xu
+  - Xue Jiang
+  - Dongrui Wu
+year: 2024
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2024.3366767
+url: https://doi.org/10.1109/taffc.2024.3366767
+abstract: null
+type: article
+open_access: null
+cited_by: 6
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.051
+score_parts:
+  rank: 0.04
+  citations: 0.211
+  recency: 0.8
+needs_approval: false
+state: candidate

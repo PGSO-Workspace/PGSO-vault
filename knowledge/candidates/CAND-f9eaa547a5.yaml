@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f9eaa547a5
+created: 2026-09-14T23:44:30.144Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.37859/jf.v16i2.12107
+title: Pengembangan Model Klasifikasi Code Smells Pada Backend Python Menggunakan Algoritma Random Forest (Studi Kasus Proyek Open Source Github)
+authors:
+  - Aqilla Ar-Hammar
+  - Mira Maisura
+year: 2026
+venue: JURNAL FASILKOM
+doi: 10.37859/jf.v16i2.12107
+url: https://doi.org/10.37859/jf.v16i2.12107
+abstract: Deadline pressure in software development often drives coding shortcuts, leading to internal quality degradation known as code smells. These structural anomalies contribute to technical debt accumulation and complicate system maintenance over time. This study develops an automated classification model to detect code smell contamination in the Python backend ecosystem. The methodology uses the Random Forest ensemble algorithm integrated with the Synthetic Minority Over-sampling Technique (SMOTE) for class balancing. Data mining on GitHub with high-reputation criteria extracted 137,728 code samples from 7 large-scale repositories using the Radon multi-metric tool. To simulate human error in real-world scenarios, 5% random noise was inserted into the labeling data. Testing using the confusion matrix shows the proposed model achieves highly stable and balanced performance, with average precision, recall, and f1-score of 0.95 in both macro and weighted averages. Ablation study analysis proves that SMOTE intervention effectively maintains detection consistency in minority class categories. Feature importance ranking identifies the Logical Lines of Code (LLOC) metric as the most crucial indicator with 37.65% influence weight, followed by LOC and Blank metrics. This research provides an automated quality assurance system for developers to detect code refactoring opportunities at an early stage.
+type: article
+open_access: null
+cited_by: 0
+query: '"WeClaw" "Adaptive Runtime" GitHub open source'
+question: null
+search: SEARCH-b132bc032f
+score: 1.063
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

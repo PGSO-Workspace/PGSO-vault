@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ea4554faca
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5040/9781350409552.0016
+title: Affective empathy and imagined emotion in literary fiction
+authors:
+  - Cain Todd
+year: 2025
+venue: Empathy and the Aesthetic Mind
+doi: 10.5040/9781350409552.0016
+url: https://doi.org/10.5040/9781350409552.0016
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 0.943
+score_parts:
+  rank: 0.043
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

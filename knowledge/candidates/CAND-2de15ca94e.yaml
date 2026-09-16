@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2de15ca94e
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7233718
+title: An LLM-Assisted Multi-agent Framework for Context-aware Triage of Android Inter-component Communication Security Findings
+authors:
+  - Pradyumna Sharma Kattel
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7233718
+url: https://doi.org/10.2139/ssrn.7233718
+abstract: Android security analysis tools are highly effective at identifying potentially dangerous behaviors, particularly those related to Inter-Component Communication (ICC). However, traditional static analysis approaches generate a massive volume of false positives by indiscriminately flagging legitimate Android components. This excessive noise creates a severe manual verification burden for security analysts. This paper presents a novel LLM-assisted multi-agent framework designed for the context-aware triage of Android ICC security findings. We introduce a collaborative three-agent reasoning pipeline (Context, Security, and Decision agents) that debates component purpose, exposure characteristics, and threat models before finalizing classifications. We evaluate the framework against traditional rule-based scanners and single-agent LLM baselines using 75 ICC findings extracted from 21 mature open-source applications. The multi-agent system successfully identified 33.3% of findings as benign false positives and prioritized the remaining 66.7% with structured contexts for manual review, all while avoiding the hallucinated vulnerability claims common in single-agent setups. Our empirical evaluation and cost analysis demonstrate that multi-agent LLM systems are a viable, cost-effective intermediate triage layer, dramatically improving precision over single-agent baselines while radically enhancing the efficiency of security analysts and modern Android security workflows.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.042
+score_parts:
+  rank: 0.042
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

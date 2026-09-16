@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e58185f352
+created: 2026-09-15T01:07:13.133Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3717511.3747067
+title: "BEE: Belief-Value-Aligned, Explainable, and Extensible Cognitive Framework for Conversational Agents"
+authors:
+  - Chen Yang
+  - Markus Gross
+  - Rafael Wampfler
+year: 2025
+venue: Proceedings of the 25th ACM International Conference on Intelligent Virtual Agents
+doi: 10.1145/3717511.3747067
+url: https://doi.org/10.1145/3717511.3747067
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"Empathetic Conversational Agents" "10.1080/10447318.2025.2540500" arXiv 2501.08393'
+question: null
+search: SEARCH-3dc085d3d3
+score: 1.052
+score_parts:
+  rank: 0.077
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

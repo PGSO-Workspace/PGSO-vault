@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-e573a37295
+created: 2026-09-15T09:46:22.222Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/paper1-claim-identification-2026-09-15.md
+paths:
+  - sources/reports/paper1-claim-identification-2026-09-15.md
+hash: e573a372959b1f51bff3c45bb3590d3362062638774b41fbb040968b60cfbde9
+bytes: 6572
+mime: text/markdown
+kind: md
+role: report
+extracted:
+  status: ok
+  method: text
+  text_chars: 6572
+  sections: 5
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T09:46:22.021Z

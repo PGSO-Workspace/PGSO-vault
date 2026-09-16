@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0f37ff0895
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.4614280
+title: Building Open-Source AI
+authors:
+  - Yash Raj Shrestha
+  - Georg von Krogh
+  - Stefan Feuerriegel
+year: 2023
+venue: null
+doi: 10.2139/ssrn.4614280
+url: https://doi.org/10.2139/ssrn.4614280
+abstract: Artificial intelligence drives innovation across society, economy, and science. We argue for the importance of building artificial intelligence technology with open-source principles to foster accessibility, collaboration, responsibility, and interoperability.
+type: preprint
+open_access: null
+cited_by: 3
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 0.894
+score_parts:
+  rank: 0.043
+  citations: 0.151
+  recency: 0.7
+needs_approval: true
+state: candidate

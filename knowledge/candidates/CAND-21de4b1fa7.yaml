@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-21de4b1fa7
+created: 2026-09-15T00:24:33.994Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1201/9781003616061-6
+title: Acoustic, physiological, and paralinguistic analyses of creaky voice in spontaneous dialogue speech
+authors:
+  - Carlos T. Ishi
+year: 2025
+venue: Creak
+doi: 10.1201/9781003616061-6
+url: https://doi.org/10.1201/9781003616061-6
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: voice agents prosody paralinguistic affective dialogue governance evaluation
+question: null
+search: SEARCH-fb4225ca20
+score: 1.011
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

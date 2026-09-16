@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b6d1e6502a
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-7582841/v1
+title: "PentestMCP: LLM and MCP Based Multi-Agent Framework for Automated Penetration Testing"
+authors:
+  - Jiqiang Zhai
+  - Xinyi Zhou
+  - Hong Miao
+  - Zekun Li
+  - Zhe Li
+  - Hailu Yang
+year: 2025
+venue: null
+doi: 10.21203/rs.3.rs-7582841/v1
+url: https://doi.org/10.21203/rs.3.rs-7582841/v1
+abstract: "Abstract As information systems grow increasingly complex and cyberattack techniques continue to evolve, traditional penetration testing heavily dependent on manual expertise and operations---faces serious challenges in both efficiency and scalability. To overcome these limitations, this paper introduces PentestMCP, an end-to-end automated penetration testing framework driven by large language models (LLMs). The framework integrates three core components: a multi-agent architecture that covers the complete workflow of Information gathering, Vulnerability discovery, and exploitation; the Model Context Protocol (MCP), which standardizes tool orchestration; and retrieval-augmented generation (RAG), which strengthens contextual reasoning and reduces execution errors. In addition, PentestMCP employs a dual-path execution strategy together with a Penetration Task Graph (PTG) to achieve autonomous task decomposition, dynamic scheduling, and closed-loop control. We evaluated PentestMCP on more than one hundred real-world vulnerabilities collected from VulHub and the National Vulnerability Database, spanning diverse CWE categories and varying complexity levels. Experimental results show that PentestMCP consistently achieves higher success rates, stability, and efficiency than existing baselines, while also reducing token consumption and execution time. Using GPT-4.1, the system achieved average success rates of 87.3% for Information gathering, 62.3% for Vulnerability discovery, and 56.6% for exploitation. The findings strongly validate that an LLM and MCP-based multi-agent framework holds substantial potential for advancing the automation, scalability, and practical applicability of penetration testing."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 0.977
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

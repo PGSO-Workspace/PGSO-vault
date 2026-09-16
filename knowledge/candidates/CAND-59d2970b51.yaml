@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-59d2970b51
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415199366
+title: "Dark LLMs: The Growing Threat of Unaligned AI Models"
+authors:
+  - Michael Fire
+  - Yitzhak Elbazis
+  - Adi Wasenstein
+  - Lior Rokach
+year: 2025
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2505.10066
+url: http://arxiv.org/abs/2505.10066
+abstract: "Large Language Models (LLMs) rapidly reshape modern life, advancing fields from healthcare to education and beyond. However, alongside their remarkable capabilities lies a significant threat: the susceptibility of these models to jailbreaking. The fundamental vulnerability of LLMs to jailbreak attacks stems from the very data they learn from. As long as this training data includes unfiltered, problematic, or 'dark' content, the models can inherently learn undesirable patterns or weaknesses that allow users to circumvent their intended safety controls. Our research identifies the growing threat posed by dark LLMs models deliberately designed without ethical guardrails or modified through jailbreak techniques. In our research, we uncovered a universal jailbreak attack that effectively compromises multiple state-of-the-art models, enabling them to answer almost any question and produce harmful outputs upon request. The main idea of our attack was published online over seven months ago. However, many of the tested LLMs were still vulnerable to this attack. Despite our responsible disclosure efforts, responses from major LLM providers were often inadequate, highlighting a concerning gap in industry practices regarding AI safety. As model training becomes more accessible and cheaper, and as open-source LLMs proliferate, the risk of widespread misuse escalates. Without decisive intervention, LLMs may continue democratizing access to dangerous knowledge, posing greater risks than anticipated."
+type: preprint
+open_access: true
+cited_by: 1
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.308
+score_parts:
+  rank: 0.333
+  citations: 0.075
+  recency: 0.9
+needs_approval: true
+state: candidate

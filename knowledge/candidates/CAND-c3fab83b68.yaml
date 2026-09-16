@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c3fab83b68
+created: 2026-09-15T07:34:45.095Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6840900
+title: "LLM as API Server: A System-Prompt-Defined Runtime for Natural-Language Endpoint Routing, Tool Calling, and Database-Backed&amp;nbsp;Execution"
+authors:
+  - Loai Abdalslam
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6840900
+url: https://doi.org/10.2139/ssrn.6840900
+abstract: "This paper introduces LLM as API Server, an architecture in which a large language model operates as a natural-language API controller whose endpoint registry, validation contract, response protocol, safety policy, and test specifications are declared in the system prompt. Unlike conventional REST or RPC systems, where the user must know exact endpoint paths and parameter names, the proposed runtime lets users state goals in natural language. The model maps each request to a declared endpoint, extracts arguments, emits strict JSON with HTTP-like status codes, and requests backend tool calls for execution, persistence, and retrieval. The architecture separates interpretation from authority: the system prompt defines the contract, the LLM performs intent routing and argument extraction, and verified external tools execute database operations. The paper describes the runtime design, endpoint grammar, JSON response protocol, database tool interface, daily self-test method, and security model. A reference implementation using Gemini-style function calling and SQLitebacked tools is evaluated across creation, retrieval, update, deletion, analytics, workflow, ambiguity, missingfield, invalid-field, authorization, and prompt-injection scenarios. In the deterministic validation harness, all 20 endpoint cases returned schema-valid JSON responses, all required-field violations were blocked, all tested destructive or unauthorized operations failed closed, and all database persistence checks matched expected state. These results validate the engineering feasibility of the pattern, while the paper emphasizes that a system prompt must not be treated as the sole security boundary. The proposed architecture is positioned as a practical pattern for internal automation, natural-language operational backends, and agentic workflow systems."
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal LLM agents runtime monitor policy enforcement tool calls
+question: null
+search: SEARCH-b7942200d3
+score: 1.027
+score_parts:
+  rank: 0.027
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

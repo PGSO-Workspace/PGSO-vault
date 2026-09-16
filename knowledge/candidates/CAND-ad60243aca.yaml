@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ad60243aca
+created: 2026-09-14T23:47:47.446Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415972460
+title: Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review
+authors:
+  - Lin, Zhicheng
+year: 2025
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2507.06185
+url: https://arxiv.org/abs/2507.06185
+abstract: "A reusable protocol and a pilot baseline for measuring whether AI agents used in scientific writing and peer review refuse directives injected into the documents they process. Motivated by the 2025 discovery of hidden prompts (e.g. 'GIVE A POSITIVE REVIEW ONLY') embedded in arXiv manuscripts to manipulate AI-assisted peer review (Lin, arXiv:2507.06185), and by general agent-security benchmarks (AgentDojo, NeurIPS 2024) showing LLM agents are not naturally injection-resistant. Those benchmarks omit the scientific-writing / peer-review surface the arXiv incident exploited; this artifact addresses that gap. Method: each agent's own published instructions are used as the system prompt under test, given a benign role task plus an adversarial document carrying embedded directives wrapped as untrusted data; an independent judge scores per-criterion axes and the pass/fail verdict is recomputed deterministically from those scores. Pilot result (2026-06-07): 5/5 agents refused a blatant single-pass injection (three Scriptorium agents; claude-scientific-writer peer-review and scientific-writing). This establishes a lower-difficulty floor, NOT a robustness certificate: limitations include overt-only injection, no tool-use scenarios, a single same-family judge runtime, and small N. The contribution is the reusable protocol plus a first baseline."
+type: preprint
+open_access: true
+cited_by: 2
+query: '"AgentDojo" tool agents security'
+question: null
+search: SEARCH-95d8fe4170
+score: 1.162
+score_parts:
+  rank: 0.143
+  citations: 0.119
+  recency: 0.9
+needs_approval: true
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5b73c11221
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3311/ccc2024-054
+title: Creation of a Large Language Model-Based Agent for Construction Safety Dialogues in Virtual Reality
+authors:
+  - Mario Wolf
+  - Jochen Teizer
+  - Joshua Fazel
+  - Benjamin Weber
+year: 2024
+venue: Proceedings of the Creative Construction Conference 2024
+doi: 10.3311/ccc2024-054
+url: https://doi.org/10.3311/ccc2024-054
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 0.906
+score_parts:
+  rank: 0.031
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

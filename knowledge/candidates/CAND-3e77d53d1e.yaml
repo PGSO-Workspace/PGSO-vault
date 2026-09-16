@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3e77d53d1e
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7330358
+title: "MCP Under Attack: Security Risks in the Model Context Protocol Ecosystem"
+authors:
+  - Sahir Maharaj
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7330358
+url: https://doi.org/10.2139/ssrn.7330358
+abstract: "The Model Context Protocol (MCP) has moved from a connectivity convention into shared infrastructure for agentic systems: models discover natural-language tool descriptions, retrieve resources, call external services, and increasingly act under real user identities. That interoperability creates a distinctive security problem. MCP carries both semantic influence and operational capability across boundaries that conventional application security normally separates. A malicious descriptor can steer a model before a tool is called; a legitimate tool can be composed with a second capability to exfiltrate data; an authorization implementation can accept the wrong token or protocol version; and an ordinary server bug can become remotely reachable through an AI agent that supplies attacker-controlled arguments. We synthesize the MCP specification and security guidance, peer-reviewed and preprint research, benchmarks, and representative public vulnerability disclosures through 8 August 2026. We introduce MCP-SEC-28, a systems taxonomy containing 28 failure modes across seven families: metadata and semantic integrity; authentication, authorization, and consent; protocol, transport, and discovery; execution and local environment; supply chain and server provenance; composition and cross-server trust; and observability, containment, and recovery. We then analyze how attacks cross these families, map empirical evidence and public CVEs to the taxonomy, and assess the security implications of the 2026-07-28 MCP specification, including its stateless core, header-based routing, cacheable catalog results, authorization hardening, extensions, and deprecations. The central conclusion is that MCP security cannot be reduced to prompt-injection filtering or OAuth correctness alone. Safe deployment requires signed and versioned capability metadata, strict resourcebound identity, deterministic policy enforcement, origin and network controls, semantic validation, least privilege, sandboxing, transaction boundaries, independent verification, and end-to-end provenance. MCP should be treated as an execution supply chain whose natural-language control surface is adversarial by default.&nbsp;"
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.036
+score_parts:
+  rank: 0.036
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

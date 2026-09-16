@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-61acbde9e1
+created: 2026-09-15T09:15:44.244Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.25732/pm.2022.124.4.006
+title: Requirements (including license requirements) to ensure safety when working with pesticides
+authors:
+  - Л.И. Баранова
+year: 2023
+venue: ПЕСТ-МЕНЕДЖМЕНТ
+doi: 10.25732/pm.2022.124.4.006
+url: https://doi.org/10.25732/pm.2022.124.4.006
+abstract: В целях охраны здоровья людей и окружающей среды законодательством Российской Федерации устанавливаются обязательные требования к условиям и порядку применения пестицидов. Исполнение этих требований полностью исключает или снижает до минимума опасность негативного воздействия пестицидов на здоровье людей и окружающую среду. При этом обеспечивается эффективность применения пестицидов. Карантинное фитосанитарное обеззараживание, являющееся дезинсекцией продукции растительного происхождения и складских и производственных помещений от карантинных вредных организмов, может проводиться только теми юридическими лицами, индивидуальными предпринимателями, которые имеют лицензию на право проведения такого обеззараживания. Знание и умение применять на практике правила работы с пестицидами, включая складское хранение, транспортировку, утилизацию, является гарантией от возникновения на объектах обработки аварийных ситуаций. In order to protect human health and the environment, the legislation of the Russian Federation establishes mandatory requirements to the conditions and procedures of pesticide use. Compliance with these requirements completely eliminates or minimizes the risk of adverse effects of pesticides on human health and the environment. At the same time, the effectiveness of pesticide use is ensured. Quarantine phytosanitary disinfection, which is disinfestation of products of plant origin and storage and production facilities from quarantine pests, can be carried out only by those legal entities and individual entrepreneurs, who have a license for such disinfestation. Knowledge and ability to apply in practice the rules of working with pesticides, including their storage, transportation and disposal, is a guarantee against emergencies at the treatment facilities.
+type: article
+open_access: null
+cited_by: 0
+query: AgentSpec GitHub haoyuwang99 official implementation license requirements LangChain 0.3.13
+question: null
+search: SEARCH-92b23a6f19
+score: 0.756
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 0.7
+needs_approval: false
+state: candidate

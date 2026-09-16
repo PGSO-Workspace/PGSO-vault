@@ -1,0 +1,27 @@
+schema: phdude.source
+version: 1
+id: SRC-f633e01b19
+created: 2026-09-15T00:59:17.892Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: "ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"
+authors:
+  - Zixing Zhang
+  - Weixiang Xu
+  - Zhongren Dong
+  - Kanglin Wang
+  - Yimeng Wu
+  - Jing Peng
+  - Runming Wang
+  - Dongyan Huang
+type: article
+artifacts:
+  - ART-633f269e73
+state: candidate
+year: 2024
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2024.3506554
+url: https://doi.org/10.1109/taffc.2024.3506554
+abstract: "Targeted primary text review: arXiv:2411.09349v1, submitted 2024-11-14; 17-page preprint; journal version not independently compared. Shared acoustic-model/projection/Transformer/classifier pipeline; 14 foundation models plus eGeMAPS and ComParE baselines; 10 datasets, 13 tasks. IEMOCAP uses sessions 1–4 for training and session 5 for testing. Section V-C evaluates transfer among IEMOCAP, MELD and MSP-Podcast after filtering incompatible labels. Limits: Cross-corpus evaluation covers three emotion corpora with label filtering; it is not an evaluation of downstream tool policies or confidence-aware interventions. Multilingual evaluation remains future work (VI)."

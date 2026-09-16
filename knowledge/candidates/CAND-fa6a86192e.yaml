@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-fa6a86192e
+created: 2026-09-14T23:44:46.279Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/aimlsystems67835.2025.11331206
+title: "Med-Guard: LLM-Based Diagnostic System with Safety Guardrails"
+authors:
+  - Suparshva Jain
+  - Kunwar Zaid
+  - Amit Sangroya
+  - Lovekesh Vig
+year: 2025
+venue: 2025 5th International Conference on AI-ML-Systems (AIMLSystems)
+doi: 10.1109/aimlsystems67835.2025.11331206
+url: https://doi.org/10.1109/aimlsystems67835.2025.11331206
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"Safety Guardrails for LLM-Enabled Robots" code GitHub'
+question: null
+search: SEARCH-babb92a8ed
+score: 1.118
+score_parts:
+  rank: 0.143
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

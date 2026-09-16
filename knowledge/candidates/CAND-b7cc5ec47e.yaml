@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b7cc5ec47e
+created: 2026-09-15T09:15:44.244Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.31866/2616-7654.13.2024.307251
+title: "Official Correspondence: New Challenges of Nowadays and Application Requirements"
+authors:
+  - Maryna Tsilyna
+year: 2024
+venue: Ukrainian Journal on Library and Information Science
+doi: 10.31866/2616-7654.13.2024.307251
+url: https://doi.org/10.31866/2616-7654.13.2024.307251
+abstract: The aim of the article is to find out the specifics of modern official correspondence in Ukraine through the prism of modern challenges, new requirements and standards. Research methods ground on the general scientific studying of the problem. In the course of processing the professional literature of this scientific article, the review and analytical method is applied, as well as with the help of comparative analysis, a congruous research of the syntactic content of phrases in English and Ukrainian business letters is conducted. The use of the induction method makes it possible to make necessary generalisations and conclusions. The scientific study is built on the principles of objectivity and integrity. The scientific novelty consists in determining the main communicative requirements, linguistic and structural peculiarities of modern official letters. Main conclusions. Under the influence of recent events in Ukraine, official correspondence has acquired new features due to the changes in conditions and forms of communication, in particular, it is characterised by manifestations of empathy, openness and frankness, taking into account the fact that it is not always possible to adhere to working hours by maximum clarity of the formulated tasks. At the same time, the existing standards, and the legislative and regulatory framework regarding the design of official letters are being improved. Communications are moving to a remote plane, and electronic documentation is gaining advantages. Along with Ukrainian, English is becoming more and more functional for use. A comparative analysis of the language content of business letter phrases written in these languages shows that the structure of official letters remains unchanged regardless of the country to which they are sent, which makes it possible to create a conventional template of a letter to English-speaking partners and use it. Such typification of texts is suitable for further usage, provides an opportunity to significantly save time for writing similar letters in future. However, the role and advantage of the Ukrainian language functioning within Ukraine remains indisputable.
+type: article
+open_access: null
+cited_by: 0
+query: AgentSpec GitHub haoyuwang99 official implementation license requirements LangChain 0.3.13
+question: null
+search: SEARCH-92b23a6f19
+score: 0.867
+score_parts:
+  rank: 0.067
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

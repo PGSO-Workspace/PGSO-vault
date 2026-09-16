@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-5f4e2d1ceb
+created: 2026-09-13T07:00:34.557Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-4c878e2b5b
+locator: README.md lines 39–39, commit 1b17c248d3608a7d80cc1147e8aa57acbb715132
+excerpt: "> The perception is **probabilistic** (a signal with a confidence). The action is **deterministic** (verifiable code). **Uncertainty lives in the perception; the guarantee lives in the action.** If a tool is not exposed, the model cannot call it — that part is not a guess."
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-e42e168741

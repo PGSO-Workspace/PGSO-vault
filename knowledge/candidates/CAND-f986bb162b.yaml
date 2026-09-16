@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f986bb162b
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/979-8-8688-2358-9_23
+title: AI Agents for SD-WAN Optimization
+authors:
+  - Het Mehta
+year: 2026
+venue: AI Agents for Secure and Software-Defined Networking
+doi: 10.1007/979-8-8688-2358-9_23
+url: https://doi.org/10.1007/979-8-8688-2358-9_23
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.026
+score_parts:
+  rank: 0.026
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

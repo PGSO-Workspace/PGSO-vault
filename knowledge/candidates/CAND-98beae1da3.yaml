@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-98beae1da3
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416993615
+title: "Empathy by Design: Reframing the Empathy Gap Between AI and Humans in Mental Health Chatbots"
+authors:
+  - Alastair Howcroft
+  - Holly Blake
+year: 2025
+venue: Information
+doi: 10.3390/info16121074
+url: https://doi.org/10.3390/info16121074
+abstract: "Artificial intelligence (AI) chatbots are now embedded across therapeutic contexts, from the United Kingdom’s National Health Service (NHS) Talking Therapies to widely used platforms like ChatGPT. Whether welcomed or not, these systems are increasingly used for both patient care and everyday support, sometimes even replacing human contact. Their capacity to convey empathy strongly influences how people experience and benefit from them. However, current systems often create an “AI empathy gap”, where interactions feel impersonal and superficial compared to those with human practitioners. This paper, presented as a critical narrative review, cautiously challenges the prevailing narrative that empathy is a uniquely human skill that AI cannot replicate. We argue this belief can stem from an unfair comparison: evaluating generic AIs against an idealised human practitioner. We reframe capabilities seen as exclusively human, such as building bonds through long-term memory and personalisation, not as insurmountable barriers but as concrete design targets. We also discuss the critical architectural and privacy trade-offs between cloud and on-device (edge) solutions. Accordingly, we propose a conceptual framework to meet these targets. It integrates three key technologies: Retrieval-Augmented Generation (RAG) for long-term memory; feedback-driven adaptation for real-time emotional tuning; and lightweight adapter modules for personalised conversational styles. This framework provides a path toward systems that users perceive as genuinely empathic, rather than ones that merely mimic supportive language. While AI cannot experience emotional empathy, it can model cognitive empathy and simulate affective and compassionate responses in coordinated ways at the behavioural level. However, because these systems lack conscious, autonomous ‘helping’ intentions, these design advancements must be considered alongside careful ethical and regulatory safeguards."
+type: article
+open_access: true
+cited_by: 10
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.36
+score_parts:
+  rank: 0.2
+  citations: 0.26
+  recency: 0.9
+needs_approval: false
+state: candidate

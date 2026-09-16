@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b8248767a0
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4393970811
+title: "Jamplate: Exploring LLM-Enhanced Templates for Idea Reflection"
+authors:
+  - X. X. Xu
+  - Jiayu Yin
+  - Catherine Gu
+  - Jenny Mar
+  - Sydney Zhang
+  - Jane L. E
+  - Steven P. Dow
+year: 2024
+venue: null
+doi: 10.1145/3640543.3645196
+url: https://doi.org/10.1145/3640543.3645196
+abstract: Advances in AI, particularly large language models (LLMs), can transform creative work. When developing a new idea, LLMs can help designers gather information, find competitors, and generate alternatives. However, LLM responses tend to be long-winded or contain inaccuracies, placing a burden on users to carefully synthesize information. In our formative studies with 52 students and five instructors, we find that novice designers typically lack guidance on how to compose prompts, reflect critically on LLM responses, and extract key information to help shape an idea. Building on these insights, we explore an alternative approach for interacting with LLMs, not via chat, but rather through structured templates. Collaborative design templates are a well-established strategy for helping novices think, organize information, and reflect on creative work. Developed as a digital whiteboard plugin, Jamplate integrates LLM capabilities into design templates, streamlining the collection and organization of user-generated content and LLM responses within the template structure. In a preliminary study with 8 novice designers, participants expressed that Jamplate’s reflective questions and in-situ guidance improved their ability to think critically and improve ideas more effectively. We discuss the potential of designing LLM-enhanced templates to instigate critical reflection.
+type: other
+open_access: true
+cited_by: 46
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.295
+score_parts:
+  rank: 0.077
+  citations: 0.418
+  recency: 0.8
+needs_approval: false
+state: candidate

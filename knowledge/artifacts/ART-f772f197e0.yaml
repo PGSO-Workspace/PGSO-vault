@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-f772f197e0
+created: 2026-09-15T05:35:43.944Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/diagnostics-84242c9/engineering-manifest.json
+paths:
+  - sources/software/pgso-sdk/diagnostics-84242c9/engineering-manifest.json
+hash: f772f197e07adfe08f253005de39ed41c98707d9e0f2a1280aca4f4c8db02ea5
+bytes: 7459
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T05:35:43.721Z
+latest: false

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7c5bf4ba4a
+created: 2026-09-15T00:31:14.448Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6669645
+title: Calibrated uncertainty for computational drug repurposing via conformal prediction on the Open Targets knowledge graph
+authors:
+  - Hayden Farquhar
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6669645
+url: https://doi.org/10.2139/ssrn.6669645
+abstract: "​Background and Objective: Computational drug repurposing methods generate ranked candidate lists with uncalibrated confidence scores that lack statistical guarantees, limiting their translational utility for resource allocation across therapeutic areas. We present a computational framework that applies conformal prediction to knowledge-graph-based drug repurposing, providing distribution-free coverage guarantees for drug-disease indication predictions.Methods: We constructed 6.4 million drug-disease pairs from the Open Targets Platform (release 26.03) and engineered 30 features spanning evidence source scores, protein-protein interaction network topology, disease ontology similarity, and drug chemical fingerprint similarity. An XGBoost classifier was trained with strict temporal validation (train: evidence year ≤2019; calibration: 2020–2022; test: 2023–2025 FDA approvals). Marginal split conformal prediction and Mondrian (group-conditional) conformal prediction stratified across seven therapeutic areas were applied to generate calibrated prediction sets. Two baselines — logistic regression and a heterogeneous GraphSAGE graph neural network — were used to assess model-agnosticism. Exchangeability was tested via permutation diagnostic.Results: XGBoost achieved test AUROC 0.906 (95% bootstrap CI: 0.874–0.933), outperforming GraphSAGE (0.833) and logistic regression (0.795). Marginal conformal prediction at the 90% nominal level achieved 91.1% empirical coverage (95% CI: 88.5–93.5%) with mean prediction set size 1.09; 91% of sets were decisive singletons. Mondrian conformal prediction maintained group-conditional coverage between 87.8% and 100% across therapeutic areas. Exchangeability was not rejected (permutation p = 0.514). Case studies confirmed the model identifies active repurposing candidates (metformin for tuberculosis, metreleptin for type 2 diabetes) but also revealed that knowledge graphs encode mechanistic associations without polarity, predicting therapeutic opportunities and contraindications with equal confidence.Conclusions: Conformal prediction provides a rigorous, model-agnostic framework for calibrated uncertainty quantification in computational drug repurposing. The framework achieves valid coverage guarantees on temporally held-out drug approvals while maintaining predominantly decisive prediction sets, and is applicable to any base classifier."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Coverage-guaranteed speech emotion recognition via calibrated uncertainty-adaptive prediction sets"'
+question: null
+search: SEARCH-023614a12f
+score: 1.2
+score_parts:
+  rank: 0.2
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

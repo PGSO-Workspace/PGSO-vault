@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-34aad34f2d
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.4536775
+title: Evaluating the Potential of 1-Mcp Treatments on Physicochemical Properties, Bioactive Compounds, and Shelf Life of Mango Fruits Under Different Storage Conditions
+authors:
+  - Mustafa  Kamrul Hasan
+  - Asraful Alam
+  - Md. Rakibul Islam
+  - Md Akhtaruzzaman
+  - Mrityunjoy Biswas
+year: 2023
+venue: null
+doi: 10.2139/ssrn.4536775
+url: https://doi.org/10.2139/ssrn.4536775
+abstract: null
+type: preprint
+open_access: null
+cited_by: 4
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 0.986
+score_parts:
+  rank: 0.111
+  citations: 0.175
+  recency: 0.7
+needs_approval: true
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b181c313ae
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6645998
+title: A Multi-Agent Large Language Model Framework for NCAA Tournament Simulation&amp;nbsp;
+authors:
+  - Abhyut Tangri
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6645998
+url: https://doi.org/10.2139/ssrn.6645998
+abstract: "We present a full empirical evaluation of a multi-agent large language model (LLM) framework applied to the 2026 NCAA Division I Men's Basketball Tournament. Three specialized agentsSimulationAgent, AnalysisAgent, and OrchestratorAgentpowered by Meta's Llama 3.3 70B (Groq API, temperature = 0.7) simulated the complete 63-game bracket four independent times, producing 252 structured game outcomes. Michigan (#1 Midwest) defeated UConn (#2 East) 6963 in the actual championship; Arizona (#1 West) and Illinois (#3 South) completed the actual Final Four. The simulation correctly predicted Michigan as champion in one of four runs (25%). UConn appeared in all four simulated Final Fours (100%). However, Arizona and Illinois appeared in zero simulationsinstead, Houston and Purdue (neither an actual Final Four team) appeared in all four. Three of four runs produced identical Final Fours, revealing severe convergence at temperature = 0.7. The #9/#8 upset rate was 94% versus a historical 50%; seeds 1315 produced zero upsets combined versus historical expectations of 1420% per matchup. Mean winning margin was 11.7 points across 252 games; zero overtime games were simulated. All gures are veried against raw simulation JSON les."
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.027
+score_parts:
+  rank: 0.027
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

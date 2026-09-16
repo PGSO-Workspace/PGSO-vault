@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c2e0f87c14
+created: 2026-09-15T06:32:59.436Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411119642
+title: "AudioBench: A Universal Benchmark for Audio Large Language Models"
+authors:
+  - Bin Wang
+  - Xunlong Zou
+  - Geyu Lin
+  - Shuo Sun
+  - Zhuohan Liu
+  - Wenyu Zhang
+  - Zhengyuan Liu
+  - AiTi Aw
+  - Nancy F. Chen
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.naacl-long.218
+url: https://doi.org/10.18653/v1/2025.naacl-long.218
+abstract: "Bin Wang, Xunlong Zou, Geyu Lin, Shuo Sun, Zhuohan Liu, Wenyu Zhang, Zhengyuan Liu, AiTi Aw, Nancy F. Chen. Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers). 2025."
+type: other
+open_access: true
+cited_by: 21
+query: speech language model evaluation paralinguistic benchmark instruction following
+question: null
+search: SEARCH-463495b5f3
+score: 1.486
+score_parts:
+  rank: 0.25
+  citations: 0.336
+  recency: 0.9
+needs_approval: false
+state: candidate

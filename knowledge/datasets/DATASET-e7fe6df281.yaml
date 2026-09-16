@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-e7fe6df281
+created: 2026-09-15T00:14:59.005Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/validation_trace.rs
+hash: e7fe6df2817dc1172073f2c88855c50a843fadffbe0bb80247e0f364b4428f93
+bytes: 7392
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Rust observation-only runner for frozen PGSO pipeline; does not calculate oracle

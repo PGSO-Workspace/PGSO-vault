@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-5001745fac
+created: 2026-09-15T01:07:23.556Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/protocol-independent-review-v1.json
+hash: 5001745facd0156f0030ebf552ea72ef13aab80acab22eba68ca742784dc5f3a
+bytes: 6218
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Independent methodological review and precise proposed offline-preference design corrections

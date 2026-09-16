@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-19458da525
+created: 2026-09-15T01:07:29.902Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2022.findings-emnlp.340
+title: Empathetic Dialogue Generation via Sensitive Emotion Recognition and Sensible Knowledge Selection
+authors:
+  - Lanrui Wang
+  - Jiangnan Li
+  - Zheng Lin
+  - Fandong Meng
+  - Chenxu Yang
+  - Weiping Wang
+  - Jie Zhou
+year: 2022
+venue: "Findings of the Association for Computational Linguistics: EMNLP 2022"
+doi: 10.18653/v1/2022.findings-emnlp.340
+url: https://doi.org/10.18653/v1/2022.findings-emnlp.340
+abstract: null
+type: article
+open_access: null
+cited_by: 25
+query: '"Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation" 11293762'
+question: null
+search: SEARCH-a309ac3231
+score: 1.054
+score_parts:
+  rank: 0.1
+  citations: 0.354
+  recency: 0.6
+needs_approval: false
+state: candidate

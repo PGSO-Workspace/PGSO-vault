@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4637902cc4
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.im.2020.103350
+title: "Envisioning entrepreneurship and digital innovation through a design science research lens: A matrix approach"
+authors:
+  - Alan Hevner
+  - Shirley Gregor
+year: 2022
+venue: Information &amp; Management
+doi: 10.1016/j.im.2020.103350
+url: https://doi.org/10.1016/j.im.2020.103350
+abstract: null
+type: article
+open_access: null
+cited_by: 73
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.098
+score_parts:
+  rank: 0.031
+  citations: 0.467
+  recency: 0.6
+needs_approval: false
+state: candidate

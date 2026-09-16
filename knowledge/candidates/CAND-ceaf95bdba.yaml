@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ceaf95bdba
+created: 2026-09-15T01:15:49.547Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3390/v18010080
+title: "Zika Virus and Congenital Zika Syndrome: Special Issue Editorial"
+authors:
+  - Marcos Vinicius da Silva Pone
+  - Sheila Moura Pone
+year: 2026
+venue: Viruses
+doi: 10.3390/v18010080
+url: https://doi.org/10.3390/v18010080
+abstract: Ten years have passed since the onset of the Zika virus (ZIKV) epidemic in Brazil, which began in 2015 and rapidly evolved into a global public health emergency [...]
+type: article
+open_access: null
+cited_by: 0
+query: '"EAC-Agent" "10.1371/journal.pone.0346770"'
+question: null
+search: SEARCH-fa4f4eec19
+score: 1.1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

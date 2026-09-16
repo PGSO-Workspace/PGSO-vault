@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-80d24afcc3
+created: 2026-09-15T08:10:36.723Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W2990602880
+title: "The Imprint of Design Science in Information Systems Research: An Empirical Analysis of the AIS Senior Scholars’ Basket"
+authors:
+  - Christian Engel
+  - Niklas Leicht
+  - Philipp Ebel
+year: 2019
+venue: Alexandria (UniSG) (University of St.Gallen)
+doi: null
+url: http://www.alexandria.unisg.ch/261912/1/ICIS2019_Engel.pdf
+abstract: Design Science (DS) has become an established research paradigm in Information Systems (IS) research. However, existing research still considers it as a challenge to publish DS contributions in top IS journals, due to the rather strict guidelines that DS publications are expected to follow. Against this backdrop, we intend to emphasize the myriad of configurations and empirically describe the status-quo of DS publications in IS. Based on a Systematic Literature Review (SLR) and a conceptually derived analysis frame, we empirically analyze DS papers published in the AIS Senior Scholars’ Basket. Thereby, we intend to contribute conceptually and descriptively to the knowledge base of DS, by providing insights based on empirical evidence to aid and guide the discussion towards the advancement of the field. Overall, this shall lay the descriptive foundation for creating prescriptive knowledge on DS in IS by proposing and opening future research avenues.
+type: other
+open_access: false
+cited_by: 8
+query: '"Design Science in Information Systems Research"'
+question: null
+search: SEARCH-e78eb7cdff
+score: 0.789
+score_parts:
+  rank: 0.25
+  citations: 0.239
+  recency: 0.3
+needs_approval: false
+state: candidate

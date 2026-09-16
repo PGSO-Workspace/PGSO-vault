@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-7aac02fd99
+created: 2026-09-15T00:47:11.236Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/cremad-anger-intensity-v1.tar
+hash: 7aac02fd999a394d4150a41d8570318a7e5e59efc0ab7264d36860bcf49ec794
+bytes: 20725760
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: CREMA-D real-voice diagnostic input/build artifact; provenance and license inside corpus bundle and build manifest

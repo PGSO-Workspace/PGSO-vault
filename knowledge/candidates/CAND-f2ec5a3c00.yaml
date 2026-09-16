@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f2ec5a3c00
+created: 2026-09-14T23:47:47.446Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.14722/ndss.2026.230675
+title: Prompt Injection Attack to Tool Selection in LLM Agents
+authors:
+  - Jiawen Shi
+  - Zenghui Yuan
+  - Guiyao Tie
+  - Pan Zhou
+  - Neil Gong
+  - Lichao Sun
+year: 2026
+venue: Proceedings 2026 Network and Distributed System Security Symposium
+doi: 10.14722/ndss.2026.230675
+url: https://doi.org/10.14722/ndss.2026.230675
+abstract: null
+type: article
+open_access: null
+cited_by: 15
+query: '"AgentDojo" tool agents security'
+question: null
+search: SEARCH-95d8fe4170
+score: 1.364
+score_parts:
+  rank: 0.063
+  citations: 0.301
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-26aa896488
+created: 2026-09-15T00:21:33.749Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21437/speechprosody.2026-180
+title: Voice parameter shifts and the perception of emotion in Irish synthetic utterances
+authors:
+  - Anna Maria Giovannini
+  - Zihan Wang
+  - Ailbhe Ní Chasaide
+  - Christer Gobl
+year: 2026
+venue: Speech Prosody 2026
+doi: 10.21437/speechprosody.2026-180
+url: https://doi.org/10.21437/speechprosody.2026-180
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: prosody emotion conversational agents Hume ElevenLabs voice workflow governance
+question: null
+search: SEARCH-cd7a32aa2c
+score: 1.333
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

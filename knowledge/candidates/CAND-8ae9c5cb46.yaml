@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8ae9c5cb46
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.32942/x2cs80
+title: Prompting large language models for quality ecological statistics
+authors:
+  - Christopher Brown
+  - Scott Spillias
+year: 2025
+venue: null
+doi: 10.32942/x2cs80
+url: https://doi.org/10.32942/x2cs80
+abstract: "Large language models (LLMs) are rapidly transforming scientific workflows, including statistical analyses in ecological sciences. While these AI tools offer impressive capabilities for code generation and analytical guidance, evaluations reveal significant limitations in their reasoning for standard statistical tests. Ecological statistics typically require special consideration due to spatial and temporal structuring, so LLM performance on these tasks is likely to be worse than for other disciplines. This perspective addresses the need for effective prompting guidelines to ensure quality statistical analyses when using LLMs. Drawing on empirical evaluations and practical experience, we provide a framework for ecological scientists to leverage these powerful tools while maintaining statistical rigor. Key recommendations include: separating workflows into components that align with LLM strengths and limitations; providing context through domain knowledge, data summaries, and research questions; combining context with structured prompting techniques like Chain of Thought reasoning; and maintaining human oversight of statistical decisions. By understanding LLM capabilities and employing these prompting strategies, researchers can harness these technologies to improve rather than compromise statistical quality in ecological research. Future research should focus on evaluations of LLMs for ecological statistics, development of specialized prompting strategies, and integration of LLMs with traditional statistical approaches."
+type: preprint
+open_access: null
+cited_by: 2
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.053
+score_parts:
+  rank: 0.034
+  citations: 0.119
+  recency: 0.9
+needs_approval: true
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8e48e21cca
+created: 2026-09-15T01:14:06.354Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412534207
+title: "A Comprehensive Review of Unimodal and Multimodal Emotion Detection: Datasets, Approaches, and Limitations"
+authors:
+  - Priyanka Thakur
+  - Nirmal Kaur
+  - Naveen Aggarwal
+  - Sarbjeet Singh
+year: 2025
+venue: Expert Systems
+doi: 10.1111/exsy.70103
+url: https://doi.org/10.1111/exsy.70103
+abstract: ABSTRACT Emotion detection from face and speech is inherent for human–computer interaction, mental health assessment, social robotics, and emotional intelligence. Traditional machine learning methods typically depend on handcrafted features and are primarily centred on unimodal systems. However, the unique characteristics of facial expressions and the variability in speech features present challenges in capturing complex emotional states. Accordingly, deep learning models have been substantial in automatically extracting intrinsic emotional features with greater accuracy across multiple modalities. The proposed article presents a comprehensive review of recent progress in emotion detection, spanning from unimodal to multimodal systems, with a focus on facial and speech modalities. It examines state‐of‐the‐art machine learning, deep learning, and the latest transformer‐based approaches for emotion detection. The review aims to provide an in‐depth analysis of both unimodal and multimodal emotion detection techniques, highlighting their limitations, popular datasets, challenges, and the best‐performing models. Such analysis aids researchers in judicious selection of the most appropriate dataset and audio‐visual emotion detection models. Key findings suggest that integrating multimodal data significantly improves emotion recognition, particularly when utilising deep learning methods trained on synchronised audio and video datasets. By assessing recent advancements and current challenges, this article serves as a fundamental resource for researchers and practitioners in the field of emotional AI, thereby aiding in the creation of more intuitive and empathetic technologies.
+type: article
+open_access: true
+cited_by: 8
+query: 2024 2025 emotion recognition adaptive response empathetic conversational agent journal behavior tree
+question: null
+search: SEARCH-8638fa8af5
+score: 1.264
+score_parts:
+  rank: 0.125
+  citations: 0.239
+  recency: 0.9
+needs_approval: false
+state: candidate

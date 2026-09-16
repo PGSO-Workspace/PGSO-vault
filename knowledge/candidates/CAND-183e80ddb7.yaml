@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-183e80ddb7
+created: 2026-09-15T08:27:35.758Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7172341375
+title: Design Science Research as an Iterative Redesign Approach for a Gamified Assessment
+authors:
+  - Suzaan Hughes
+year: 2026
+venue: European Conference on Research Methodology for Business and Management Studies
+doi: 10.34190/ecrm.25.1.5169
+url: https://doi.org/10.34190/ecrm.25.1.5169
+abstract: A custom board game was developed in conjunction with an industry partner as an assessment in an introductory Business Management course. The objective of this serious game is to develop the business acumen of students enrolled in an Accountancy degree which culminates in the professional designation of Chartered Accountant recognised by the South African Institute of Chartered Accountants. The custom board game was originally designed in 2014 and this serious game has been used as an assessment annually; minor updates occurred in 2016 and 2017 in terms of updating rules to the board game which updated key game mechanics. Qualitative data collection involves multi-year after action feedback surveys from students, reflection notes made annually by the researcher and meeting minutes between the industry partner and researcher. Institutional ethical clearance has been received for the research project from the University, as well as permission from the industry partner and informed consent from each participant that chose to complete the surveys. The objective of the research is to document the 2026 revision and update of the board game using Design Sciences as the methodological paradigm. Design Sciences Research is well suited to the development and subsequent evaluation of artifacts. This research considers the board game itself, game pieces, rules and training materials used to prepare students for participation as artifacts, with the goal of developing students business acumen. Applying Design Science to the iterative development of a custom assessment is a novel approach, as this paradigm is more frequently used for engineering and information system applications. However, utilising games as assessments for the purpose of serious learning is an area of research receiving growing attention and robust systematic, literature informed approaches to the development and testing of tools and artifacts where assurance of learning is increasingly important can prove helpful to scholars.
+type: other
+open_access: true
+cited_by: 0
+query: 10.1080/0960085X.2026.2627280 MEDS Methodology for Evaluation in Design Science
+question: null
+search: SEARCH-6539f3f4d3
+score: 2
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

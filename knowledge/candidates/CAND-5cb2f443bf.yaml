@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5cb2f443bf
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4391294614
+title: "Cocreating an Automated mHealth Apps Systematic Review Process With Generative AI: Design Science Research Approach"
+authors:
+  - Guido Giunti
+  - Colin P. Doherty
+year: 2024
+venue: JMIR Medical Education
+doi: 10.2196/48949
+url: https://doi.org/10.2196/48949
+abstract: "BACKGROUND: The use of mobile devices for delivering health-related services (mobile health [mHealth]) has rapidly increased, leading to a demand for summarizing the state of the art and practice through systematic reviews. However, the systematic review process is a resource-intensive and time-consuming process. Generative artificial intelligence (AI) has emerged as a potential solution to automate tedious tasks. OBJECTIVE: This study aimed to explore the feasibility of using generative AI tools to automate time-consuming and resource-intensive tasks in a systematic review process and assess the scope and limitations of using such tools. METHODS: We used the design science research methodology. The solution proposed is to use cocreation with a generative AI, such as ChatGPT, to produce software code that automates the process of conducting systematic reviews. RESULTS: A triggering prompt was generated, and assistance from the generative AI was used to guide the steps toward developing, executing, and debugging a Python script. Errors in code were solved through conversational exchange with ChatGPT, and a tentative script was created. The code pulled the mHealth solutions from the Google Play Store and searched their descriptions for keywords that hinted toward evidence base. The results were exported to a CSV file, which was compared to the initial outputs of other similar systematic review processes. CONCLUSIONS: This study demonstrates the potential of using generative AI to automate the time-consuming process of conducting systematic reviews of mHealth apps. This approach could be particularly useful for researchers with limited coding skills. However, the study has limitations related to the design science research methodology, subjectivity bias, and the quality of the search results used to train the language model."
+type: other
+open_access: true
+cited_by: 17
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.164
+score_parts:
+  rank: 0.05
+  citations: 0.314
+  recency: 0.8
+needs_approval: false
+state: candidate

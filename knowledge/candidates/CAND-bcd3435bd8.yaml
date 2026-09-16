@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bcd3435bd8
+created: 2026-09-15T00:31:36.231Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.4321441
+title: Bank Manager Sentiment, Loan Growth and Bank Risk
+authors:
+  - Frank Brueckbauer
+  - Thibault Cezanne
+year: 2023
+venue: null
+doi: 10.2139/ssrn.4321441
+url: https://doi.org/10.2139/ssrn.4321441
+abstract: We build a textual score measuring the tone of bank earnings press release documents. We use this measure to define bank manager sentiment as the variation in the textual tone score which is orthogonal to bank-specific and macroeconomic fundamentals. Using this definition of sentiment, we present evidence on how bank managers’ systematic overoptimism affects the amount of credit that they supply to the real sector. Our empirical evidence suggests that decisions on the volume of new loans partially depend on past realizations of economic fundamentals, implying that loan growth and contemporaneous economic fundamentals might be systematically disconnected. Furthermore, we show that over-optimism on the part of bank managers spills over to their equity investors, who seem to perceive banks with high bank manager sentiment as having a lower systemic risk.
+type: preprint
+open_access: null
+cited_by: 1
+query: '"Coupling Sentiment and Arousal Analysis Towards an Affective Dialogue Manager"'
+question: null
+search: SEARCH-7bc8da0319
+score: 0.828
+score_parts:
+  rank: 0.053
+  citations: 0.075
+  recency: 0.7
+needs_approval: true
+state: candidate

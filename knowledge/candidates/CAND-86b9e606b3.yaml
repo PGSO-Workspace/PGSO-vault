@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-86b9e606b3
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.24251/hicss.2026.804
+title: "Guardrail Vulnerabilities in Open-Source Language Models: Implications for Democratic Discourse and Marginalized Communities"
+authors:
+  - Simon Münker
+  - Fabio Sartori
+year: 2026
+venue: Proceedings of the Annual Hawaii International Conference on System Sciences
+doi: 10.24251/hicss.2026.804
+url: https://doi.org/10.24251/hicss.2026.804
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.037
+score_parts:
+  rank: 0.037
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

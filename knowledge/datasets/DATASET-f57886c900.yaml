@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-f57886c900
+created: 2026-09-15T01:11:34.214Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/tool-surface-literature-v1.json
+hash: f57886c900cd9c4e8c6f02312976b81f1c5fd3b45afb1d8369295f198ef3995b
+bytes: 11495
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Four Q1 journal prior-art candidates for tool-surface architecture and induced personality; three targeted texts, one abstract only; directness explicitly bounded

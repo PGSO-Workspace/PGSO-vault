@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5ac66cb7db
+created: 2026-09-15T07:38:12.403Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.22541/au.175555093.31837381/v1
+title: "Bridging AI and External Systems: A Comprehensive Analysis of the Model Context Protocol (MCP)"
+authors:
+  - Surya Rao Rayarao
+  - Naga Donikena
+year: 2025
+venue: null
+doi: 10.22541/au.175555093.31837381/v1
+url: https://doi.org/10.22541/au.175555093.31837381/v1
+abstract: The Model Context Protocol (MCP) represents a paradigm shift in how artificial intelligence systems interact with external data sources and services. As AI applications become increasingly sophisticated, the need for standardized, secure, and efficient methods of context sharing between AI models and external systems has become paramount. This paper provides a comprehensive analysis of MCP, exploring its foundational principles, architectural design, implementation strategies, and practical applications. We examine the protocol's role in addressing critical challenges in AI system integration, including data security, context management, and interoperability. Through detailed examination of use cases spanning from database integration to real-time data processing, we demonstrate how MCP enables more capable and contextually aware AI applications. Our analysis reveals that MCP not only solves existing integration challenges but also establishes a foundation for the next generation of AI-powered applications that can seamlessly interact with diverse external systems while maintaining security and performance standards.
+type: preprint
+open_access: null
+cited_by: 2
+query: '"Model Context Protocol (MCP) at First Glance" arXiv'
+question: null
+search: SEARCH-a96b00e8a8
+score: 1.049
+score_parts:
+  rank: 0.03
+  citations: 0.119
+  recency: 0.9
+needs_approval: true
+state: candidate

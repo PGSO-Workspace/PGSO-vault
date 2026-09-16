@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-285957a9ee
+created: 2026-09-14T16:51:30.061Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7219042
+title: "ExeCutie: The Dawn of Runtime Generative Software Agents"
+authors:
+  - Matin Mahzad
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7219042
+url: https://doi.org/10.2139/ssrn.7219042
+abstract: "Embedding a large language model (LLM) agent inside a running desktop application, with direct access to that application&apos;s live objects, requires solving two engineering problems: dispatching agent-generated code onto the application&apos;s main thread safely, and giving that code a namespace connected to the application&apos;s actual running state. Existing agents solve neither: they run as a separate process from the host application, and even when extended into an application&apos;s workflow via a plugin, they cannot reach its main thread, interact with its live GUI, or access its in-memory state — they operate alongside an application, not from inside it. This paper describes ExeCutie, a Python library exposed to the host application as a single Qt dock widget. Behind that widget, the library solves the thread-dispatch problem with a Qt signal-based dispatcher requiring only a running Qt event loop, and solves the namespace problem by reusing the live user namespace of a developer-configured IPython kernel, so the host application — not the library — determines the agent&apos;s scope of access, from a single object to the full namespace. Because the agent executes directly on the main thread, it can synthesize new software at runtime: front-end widgets and their back-end logic generated together and displayed on demand, for functionality absent from the application&apos;s source code until the moment a workflow requires it. In doing so, the boundary between developing an application and using it collapses: the same running process can be extended by whoever is operating it, without a restart."
+type: preprint
+open_access: null
+cited_by: 0
+query: runtime shields uncertainty abstention speech emotion agents
+question: null
+search: SEARCH-b8dd8c19fd
+score: 1.333
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

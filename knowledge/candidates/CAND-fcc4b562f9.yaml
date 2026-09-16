@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-fcc4b562f9
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.31234/osf.io/rtsm5_v1
+title: Personality Auto-Scoring with Large Language Models Using a Realistic Accuracy Model of Behavioral Cues in Chatbot Interviews
+authors:
+  - Zihan Yan
+  - Ashley Sylvara
+  - Pengda Wang
+  - Tianjun Sun
+  - Ziang Xiao
+year: 2025
+venue: null
+doi: 10.31234/osf.io/rtsm5_v1
+url: https://doi.org/10.31234/osf.io/rtsm5_v1
+abstract: Advances in artificial intelligence, particularly large language models (LLMs), have opened new possibilities for automating personality assessment through text-based chatbot interviews. While prior research has applied machine learning (ML) and natural language processing (NLP) methods to score interview responses, these approaches often lack a strong theoretical foundation for extracting and interpreting trait-relevant behavioral cues. In this study, we integrate Funder’s Realistic Accuracy Model (RAM) into LLM-based autoscoring to enhance the identification and utilization of behavioral cues in personality evaluation. We use two archival samples (N = 521) to examine the alignment between LLM-derived personality scores and established measures, including human-coded behavioral description and narrative interview ratings, as well as self-reported Big Five personality assessments. We compare results from a job-focused behavioral interview (Sample 1; N = 218) and narrative identity interviews (Sample 2; N = 303). In the behavioral interview sample, RAM-based LLM prompts demonstrated stronger convergence with human ratings than zero-shot prompts. However, in the narrative interview sample, this advantage was attenuated, with RAM- and zero-shot-based LLM scores showing similar convergence. In Study 2, we analyzed differences in the behavioral cues extracted by LLMs and human raters to better understand the rating reasoning process. Similarity analyses revealed moderate overlap between LLM-extracted and human-annotated cues. These findings suggest that theory-guided LLMs can identify behavioral cues that partially overlap with those used by humans. Limitations and implications for scalable, accurate, and interpretable AI-based personality assessment are discussed.
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 0.942
+score_parts:
+  rank: 0.042
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

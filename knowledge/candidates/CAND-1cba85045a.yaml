@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1cba85045a
+created: 2026-09-15T06:33:44.760Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4406851161
+title: "Synthetic users: insights from designers’ interactions with persona-based chatbots"
+authors:
+  - Heng Gu
+  - Senthil Chandrasegaran
+  - Peter Lloyd
+year: 2025
+venue: Artificial intelligence for engineering design analysis and manufacturing
+doi: 10.1017/s0890060424000283
+url: https://doi.org/10.1017/s0890060424000283
+abstract: Abstract Personas are hypothetical representations of real-world people used as storytelling tools to help designers identify the goals, constraints, and scenarios of particular user groups. A well-constructed persona can provide enough detail to trigger recognition and empathy while leaving room for varying interpretations of users. While a traditional persona is a static representation of a potential user group, a chatbot representation of a persona is dynamic, in that it allows designers to “converse with” the representation. Such representations are further augmented by the use of large language models (LLMs), displaying more human-like characteristics such as emotions, priorities, and values. In this paper, we introduce the term “Synthetic User” to describe such representations of personas that are informed by traditional data and augmented by synthetic data. We study the effect of one example of such a Synthetic User – embodied as a chatbot – on the designers’ process, outcome, and their perception of the persona using a between-subjects study comparing it to a traditional persona summary. While designers showed comparable diversity in the ideas that emerged from both conditions, we find in the Synthetic User condition a greater variation in how designers perceive the persona’s attributes. We also find that the Synthetic User allows novel interactions such as seeking feedback and testing assumptions. We make suggestions for balancing consistency and variation in Synthetic User performance and propose guidelines for future development.
+type: article
+open_access: true
+cited_by: 15
+query: tau Voice Benchmarking Full Duplex Voice Agents Real World Domains
+question: null
+search: SEARCH-b9d3c043db
+score: 1.701
+score_parts:
+  rank: 0.5
+  citations: 0.301
+  recency: 0.9
+needs_approval: false
+state: candidate

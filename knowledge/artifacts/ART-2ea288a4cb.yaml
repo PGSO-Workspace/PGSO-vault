@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-2ea288a4cb
+created: 2026-09-13T06:59:21.846Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/1b17c248d360/crates/pgso-core/tests/property_tests.rs.txt
+paths:
+  - sources/software/pgso-sdk/1b17c248d360/crates/pgso-core/tests/property_tests.rs.txt
+hash: 2ea288a4cb136dad97c09206bbaf3f8ceb419584c7913897b62fc6d011c1bc3e
+bytes: 6202
+mime: text/plain
+kind: txt
+role: notes
+extracted:
+  status: ok
+  method: text
+  text_chars: 6194
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-13T06:59:21.631Z

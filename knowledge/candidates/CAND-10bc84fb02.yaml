@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-10bc84fb02
+created: 2026-09-15T07:48:45.534Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.38007/ml.2025.050108
+title: Compiling Declarative Privacy Policies into Runtime Enforcement for Cloud and Web Infrastructure
+authors: []
+year: 2025
+venue: Machine Learning Theory and Practice
+doi: 10.38007/ml.2025.050108
+url: https://doi.org/10.38007/ml.2025.050108
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Gamma G-0" "L-DREA" runtime enforcement'
+question: null
+search: SEARCH-16d800e312
+score: 0.963
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

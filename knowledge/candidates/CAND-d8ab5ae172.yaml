@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d8ab5ae172
+created: 2026-09-15T07:48:45.534Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.14722/sdiotsec.2026.23019
+title: "WIP: Runtime Consistency Enforcement Between SBOM and Software Execution"
+authors:
+  - Yuta Shimamoto
+  - Hiroyuki Uekawa
+  - Mitsuaki Akiyama
+  - Toshihiro Yamauchi
+year: 2026
+venue: Proceedings 2026 Workshop on Security and Privacy in Standardized IoT
+doi: 10.14722/sdiotsec.2026.23019
+url: https://doi.org/10.14722/sdiotsec.2026.23019
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Gamma G-0" "L-DREA" runtime enforcement'
+question: null
+search: SEARCH-16d800e312
+score: 1.048
+score_parts:
+  rank: 0.048
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

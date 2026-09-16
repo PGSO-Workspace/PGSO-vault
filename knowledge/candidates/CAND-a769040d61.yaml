@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a769040d61
+created: 2026-09-15T07:33:42.712Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4399053129
+title: Recommendations for designing conversational companion robots with older adults through foundation models
+authors:
+  - Bahar Irfan
+  - Sanna Kuoppamäki
+  - Gabriel Skantze
+year: 2024
+venue: Frontiers in Robotics and AI
+doi: 10.3389/frobt.2024.1363713
+url: https://doi.org/10.3389/frobt.2024.1363713
+abstract: Companion robots are aimed to mitigate loneliness and social isolation among older adults by providing social and emotional support in their everyday lives. However, older adults' expectations of conversational companionship might substantially differ from what current technologies can achieve, as well as from other age groups like young adults. Thus, it is crucial to involve older adults in the development of conversational companion robots to ensure that these devices align with their unique expectations and experiences. The recent advancement in foundation models, such as large language models, has taken a significant stride toward fulfilling those expectations, in contrast to the prior literature that relied on humans controlling robots (i.e., Wizard of Oz) or limited rule-based architectures that are not feasible to apply in the daily lives of older adults. Consequently, we conducted a participatory design (co-design) study with 28 older adults, demonstrating a companion robot using a large language model (LLM), and design scenarios that represent situations from everyday life. The thematic analysis of the discussions around these scenarios shows that older adults expect a conversational companion robot to engage in conversation actively in isolation and passively in social settings, remember previous conversations and personalize, protect privacy and provide control over learned data, give information and daily reminders, foster social skills and connections, and express empathy and emotions. Based on these findings, this article provides actionable recommendations for designing conversational companion robots for older adults with foundation models, such as LLMs and vision-language models, which can also be applied to conversational robots in other domains.
+type: article
+open_access: true
+cited_by: 62
+query: empathetic conversational agents affective dialogue adaptation evaluation
+question: null
+search: SEARCH-6152ab5e94
+score: 1.5
+score_parts:
+  rank: 0.25
+  citations: 0.45
+  recency: 0.8
+needs_approval: false
+state: candidate

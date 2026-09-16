@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-c350c7ab7f
+created: 2026-09-15T17:53:56.324Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-mvp/eebf20e/08_baseline_prompt/run_baseline_prompt.py
+paths:
+  - sources/software/pgso-mvp/eebf20e/08_baseline_prompt/run_baseline_prompt.py
+hash: c350c7ab7f96bbdce2fe6af27d597100134a6e7aa12fd814088763c4cfd1f5c7
+bytes: 18378
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T16:50:41.609Z

@@ -1,0 +1,57 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e58e43e07e
+created: 2026-09-15T07:51:13.215Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4406152263
+title: The TRIPOD-LLM reporting guideline for studies using large language models
+authors:
+  - Jack Gallifant
+  - Majid Afshar
+  - Saleem Ameen
+  - Yindalon Aphinyanaphongs
+  - Shan Chen
+  - Giovanni Cacciamani
+  - Dina Demner‐Fushman
+  - Dmitriy Dligach
+  - Roxana Daneshjou
+  - Chrystinne Oliveira Fernandes
+  - Lasse Hyldig Hansen
+  - Adam Landman
+  - Lisa Soleymani Lehmann
+  - Liam G. McCoy
+  - Timothy A. Miller
+  - Amy C. Moreno
+  - Nikolaj Munch
+  - David Restrepo
+  - Guergana Savova
+  - Renato Umeton
+  - Judy Wawira Gichoya
+  - Professor Gary S. Collins
+  - Karel G.M. Moons
+  - Leo Anthony Celi
+  - Danielle S. Bitterman
+year: 2025
+venue: Nature Medicine
+doi: 10.1038/s41591-024-03425-5
+url: https://doi.org/10.1038/s41591-024-03425-5
+abstract: null
+type: article
+open_access: true
+cited_by: 492
+query: '"dynamic tool retrieval LLM agent journal 2024 2025'
+question: null
+search: SEARCH-da10c5ec54
+score: 2.573
+score_parts:
+  rank: 1
+  citations: 0.673
+  recency: 0.9
+needs_approval: false
+state: candidate

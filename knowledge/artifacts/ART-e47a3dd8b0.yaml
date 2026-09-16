@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-e47a3dd8b0
+created: 2026-09-15T00:58:29.542Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/aegis-v3.pdf
+paths:
+  - sources/literature/aegis-v3.pdf
+hash: e47a3dd8b0f264564545559649216cc4bde039fa7c091100023b2e45f2b497f1
+bytes: 4281331
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 190695
+  sections: 39
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T00:47:27.981Z

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-deab3f5326
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1561/2900000028
+title: Knowledge Paths in Design Science Research
+authors:
+  - Andreas Drechsler
+  - Alan Hevner
+year: 2022
+venue: Foundations and Trends® in Information Systems
+doi: 10.1561/2900000028
+url: https://doi.org/10.1561/2900000028
+abstract: Ralph Waldo Emerson brilliantly said, “Life is a journey, not a destination.” As researchers, we travel on paths of knowledge throughout life. The outcomes of rigorous scientific investigation are contributions of new knowledge to the world. By integrating the conceptual and methodological advice of extant design science research (DSR) publications, this review provides a comprehensive framework for understanding the roles of knowledge in DSR journeys. We position DSR at the intersection of science and technology where the interplay of descriptive and prescriptive knowledge is most active. We delineate the various forms of prescriptive design knowledge and we examine the knowledge paths that utilize and produce the varied forms of knowledge in a DSR project. Six knowledge paths describe how knowledge is manipulated in different ways to grow new design knowledge (e.g., artifacts, design theories). We apply this framework to define, analyze, and expand the ideas of knowledge gaps and knowledge journeys. We further argue that more attention to design postulates (e.g., design principles, design features) in DSR along the outlined knowledge paths can contribute to an increase in actionable and sustainably useful and impactful digital innovations within the information systems (IS) discipline.
+type: article
+open_access: null
+cited_by: 10
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 0.903
+score_parts:
+  rank: 0.043
+  citations: 0.26
+  recency: 0.6
+needs_approval: false
+state: candidate

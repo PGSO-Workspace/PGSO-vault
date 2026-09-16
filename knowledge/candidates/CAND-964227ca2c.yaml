@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-964227ca2c
+created: 2026-09-15T08:11:18.507Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W3008311394
+title: "50 Years of corporate and organizational foresight: Looking back and going forward"
+authors:
+  - Adam Vigdor Gordon
+  - Mirza Ramic
+  - René Rohrbeck
+  - Matthew J. Spaniol
+year: 2020
+venue: Technological Forecasting and Social Change
+doi: 10.1016/j.techfore.2020.119966
+url: https://doi.org/10.1016/j.techfore.2020.119966
+abstract: "On the occasion of the 50th anniversary of Technology Forecasting & Social Change, we review the evolution of corporate and organizational foresight within the journal and look ahead to the coming decade. We apply a systematic literature review process to identify the major contributions in this area of foresight theory and practice spanning five decades and present a thematic summary of these articles. We reveal the concerns of authors as they have sought to apply foresight in corporations, organizations, and institutions; how they have attempted to resolve the concerns; and the progress the authors have made. We discuss how these authors have cumulatively defined and evolved this portion of the strategic foresight field, from integrating technology with market forecasting, to expanding forecast approaches to include multiple futures and integrating foresight to create agile and adaptive organizations. We use this as a base for discussing current priorities and future challenges in corporate and organizational foresight and suggest three trajectories for further research: (a) further advancing organizational foresight practices; (b) connecting organizational foresight to strategy practice and theory; (c) and connecting organizational foresight to innovation, engineering, and R&D management practices and theory."
+type: article
+open_access: true
+cited_by: 149
+query: 10.2307/25148625
+question: null
+search: SEARCH-6980917c90
+score: 1.194
+score_parts:
+  rank: 0.25
+  citations: 0.544
+  recency: 0.4
+needs_approval: false
+state: candidate

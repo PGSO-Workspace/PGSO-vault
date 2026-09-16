@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-cc8e794e72
+created: 2026-09-15T17:53:56.321Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-mvp/eebf20e/08_baseline_prompt/analyze_baseline.py
+paths:
+  - sources/software/pgso-mvp/eebf20e/08_baseline_prompt/analyze_baseline.py
+hash: cc8e794e7201e0d1f51a44ff0af781b08f0665951c33eec02882af033f74e8d7
+bytes: 12791
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T16:50:41.609Z

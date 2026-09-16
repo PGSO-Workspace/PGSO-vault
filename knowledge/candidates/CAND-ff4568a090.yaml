@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ff4568a090
+created: 2026-09-15T01:07:48.528Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411345000
+title: Recent Progress of Artificial Intelligence Application in Polymer Materials
+authors:
+  - Teng Long
+  - Qianqian Pang
+  - Yanyan Deng
+  - Xiteng Pang
+  - Yixuan Zhang
+  - Rui Yang
+  - Chuanjian Zhou
+year: 2025
+venue: Polymers
+doi: 10.3390/polym17121667
+url: https://doi.org/10.3390/polym17121667
+abstract: Artificial intelligence (AI) technology has made remarkable progress in polymer materials, which has changed polymer science significantly. However, this community still relies heavily on the traditional research paradigm instead of the data-driven paradigm. This review advocates for a fundamental paradigm shift in polymer research from traditional experience-driven methods to data-driven approaches enabled by AI. While AI has made transformative advances in polymer design, property prediction, and process optimization, the field remains anchored in conventional methodologies. AI's computational advantages against persistent barriers are also evaluated, such as data scarcity, inadequate material descriptors, and algorithmic complexity. Potential solutions, including collaborative data platforms, domain-adapted descriptor frameworks, and active learning strategies, are also discussed. Furthermore, we demonstrate how high-quality data and explainable AI methodologies overcome computational limitations while ensuring result credibility in other areas, which can benefit polymer research. Ultimately, this work provides a roadmap for accelerating the sustainable convergence of data-driven AI innovation with polymer science.
+type: article
+open_access: true
+cited_by: 51
+query: 10.1038/s42256-025-01115-6
+question: null
+search: SEARCH-770fd28165
+score: 1.529
+score_parts:
+  rank: 0.2
+  citations: 0.429
+  recency: 0.9
+needs_approval: false
+state: candidate

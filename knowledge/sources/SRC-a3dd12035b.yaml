@@ -1,0 +1,16 @@
+schema: phdude.source
+version: 1
+id: SRC-a3dd12035b
+created: 2026-09-14T21:54:39.127Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: PGSO abstention fix verification — commit 1b4ef8b
+authors:
+  - Codex (AI-assisted technical implementation)
+type: report
+artifacts: []
+state: candidate
+year: 2026
+abstract: Implemented on local branch fix/abstention-recovery in /home/lucio/workspace/pgso-sdk-fix-abstention; base 1b17c248d360, commit 1b4ef8b. DecisionEngine retains internal Abstained/Nominal/Pending/Triggered outcomes while preserving its public Option API. The pipeline restores only for a nonempty entirely nominal window. Nonfinite values and confidence outside [0,1] abstain without updating baseline/hysteresis. The integration regression first failed on the original implementation and passes after the fix; it covers low confidence, invalid numbers, silence, mixed axes, pending hysteresis and subsequent valid recovery. An engine regression verifies invalid readings preserve baseline/hysteresis. Workspace tests passed in debug and release (67 tests including one doctest); the expanded final integration test was rerun in both modes. Formatting, clippy all targets with warnings denied, rustdoc with warnings denied and git diff --check passed. Public API unchanged; no new dependencies. Two existing assert expressions received rustfmt-only wrapping. Local commit only; not pushed or merged. This fixes abstention/numerical-reading handling, not per-rule reconciliation, missing-axis state retention, batch invariance, directive idempotency, directive-only audit, invalid configuration, expiry policy, dispatcher enforcement or scientific efficacy. Historical audit findings remain records of their original revision and are not automatically accepted/resolved. Raw audit tests remain unchanged in the separate pgso-sdk-review checkout. Manuscript and supplied sources unchanged.

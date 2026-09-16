@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1830fdc9da
+created: 2026-09-15T07:34:45.095Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7118158543
+title: "Agentic AI in Healthcare and Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-Based Agents"
+authors:
+  - Shubham Vatsal
+  - Harsh Dubey
+  - Aditi Singh
+year: 2026
+venue: IEEE Access
+doi: 10.1109/access.2026.3651218
+url: https://doi.org/10.1109/access.2026.3651218
+abstract: "Large Language Model (LLM)-based agents that plan, use tools and act has begun to shape healthcare and medicine. Reported studies demonstrate competence on various tasks ranging from EHR analysis and differential diagnosis to treatment planning and research workflows. Yet the literature largely consists of overviews which are either broad surveys or narrow dives into a single capability (e.g., memory, planning, reasoning), leaving healthcare work without a common frame. We address this by reviewing 49 studies using a seven-dimensional taxonomy: Cognitive Capabilities, Knowledge Management, Interaction Patterns, Adaptation & Learning, Safety & Ethics, Framework Typology and Core Tasks & Subtasks with 29 operational sub-dimensions. Using explicit inclusion and exclusion criteria and a labeling rubric (Fully Implemented✓,Partially ImplementedΔ,Not Implemented✗), we map each study to the taxonomy and report quantitative summaries of capability prevalence and co-occurrence patterns. Our empirical analysis surfaces clear asymmetries. For instance, the External Knowledge Integration sub-dimension under Knowledge Management is commonly realized (∼76% ✓) whereas Event-Triggered Activation sub-dimenison under Interaction Patterns is largely absent (∼92% ✗) and Drift Detection & Mitigation sub-dimension under Adaptation & Learning is rare (∼98% ✗). Architecturally, Multi-Agent Design sub-dimension under Framework Typology is the dominant pattern (∼82% ✓) while orchestration layers remain mostly partial. Across Core Tasks & Subtasks, information centric capabilities lead e.g., Medical Question Answering & Decision Support and Benchmarking & Simulation, while action and discovery oriented areas such as Treatment Planning & Prescription still show substantial gaps (∼59% ✗). Together, these findings provide an empirical baseline indicating that current agents excel at retrieval-grounded advising but require stronger adaptation and compliance platforms to move from early-stage systems to dependable systems."
+type: article
+open_access: true
+cited_by: 13
+query: 2024 2025 journal LLM agents runtime monitor policy enforcement tool calls
+question: null
+search: SEARCH-b7942200d3
+score: 1.487
+score_parts:
+  rank: 0.2
+  citations: 0.287
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8d0cb41f50
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.7206479
+title: "Policy Conflict Cascades in Multi-Agent Runtime Governance: A Taxonomy, Resolution Mechanism, and Empirical Evaluation"
+authors:
+  - Vignesh Iyer
+year: 2026
+venue: null
+doi: 10.2139/ssrn.7206479
+url: https://doi.org/10.2139/ssrn.7206479
+abstract: Enterprise multi-agent AI systems operate under simultaneous governance policies-regulatory, organizational, and task-level-that can produce conflicting enforcement decisions at runtime. Existing frameworks resolve such conflicts locally, evaluating only the policies attached to the single acting agent; we argue this is the wrong scope, since a governance decision's real cost is frequently graph-wide rather than local. When a governance policy blocks one agent, the effect propagates through dependent agents, creating enforcement cascades that existing, per-agent-scoped frameworks neither model nor measure. Current runtime governance approaches [6, 16, 19, 20] treat enforcement as a per-agent problem, leaving inter-agent dependency effects entirely unaddressed. We introduce a taxonomy of three policy conflict cascade types-blocking, contradiction, and escalation-and propose CARM, a Cascade-Aware Resolution Mechanism that detects conflicts, estimates downstream propagation, and selects resolution strategies that we prove are the exact minimizer of a stated governance cost, not a hand-tuned rule. CARM is extended along the same system-level principle by an outcome-aware resolution selector for which we prove, and adversarially stresstest across 15,000 synthetic trials, that permanent workflow failure cannot occur, and by a lightweight, privacypreserving reach-declaration handshake that extends reach estimation across organizational boundaries, recovering 95.9% of a full-visibility oracle's escalation decisions from a single declared number. Across a controlled four-agent workflow and a large-scale sweep of synthetic topologies, cascade-aware resolution achieves the highest resolution fidelity by selectively escalating only high-reach, highseverity conflicts to human review, minimizing irreversible automated failures. Policy conflict in multi-agent systems is not a per-agent problem, and, we show, not only a singleorganization problem either-it is a systems problem.
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.037
+score_parts:
+  rank: 0.037
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

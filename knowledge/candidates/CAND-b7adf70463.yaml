@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b7adf70463
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icse55347.2025.00140
+title: "SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents"
+authors:
+  - Feng Lin
+  - Dong Jae Kim
+  - Tse-Hsun Chen
+year: 2025
+venue: 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)
+doi: 10.1109/icse55347.2025.00140
+url: https://doi.org/10.1109/icse55347.2025.00140
+abstract: null
+type: article
+open_access: null
+cited_by: 21
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.279
+score_parts:
+  rank: 0.043
+  citations: 0.336
+  recency: 0.9
+needs_approval: false
+state: candidate

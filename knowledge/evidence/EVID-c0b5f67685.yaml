@@ -1,0 +1,27 @@
+schema: phdude.evidence
+version: 1
+id: EVID-c0b5f67685
+created: 2026-09-13T07:00:36.231Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-4c878e2b5b
+locator: docs/phase1-arousal-generalization-report.md lines 18–27, commit 1b17c248d3608a7d80cc1147e8aa57acbb715132
+excerpt: |-
+  Using 377 utterances from MUStARD++ with usable audio
+  and dimensional labels, the confidence-weighted-mean arousal correlated with
+  human arousal at Spearman rho = 0.206 (95% CI [0.10, 0.31], permutation
+  p = 0.0002), placing it in the pre-registered **WEAK** band. A pre-registered,
+  label-free calibration study then tested whether the weakness was an artifact of
+  the mapping's calibration: re-scaling the energy and F0-variability references
+  from feature percentiles changed rho by +0.008 (CI [-0.026, +0.044], i.e. zero),
+  and within-speaker normalization *lowered* rho to 0.146 (DOES NOT GENERALIZE
+  band). **The weak correlation is inherent to the two-feature prosodic mapping on
+  this corpus, not a calibration defect.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-65cfa5cfd2

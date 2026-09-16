@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3ecfe19d4c
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4409772215
+title: A Novel Emotion Recognition System for Human–Robot Interaction (HRI) Using Deep Ensemble Classification
+authors:
+  - Khalid Zaman
+  - Gan Zengkang
+  - Zhaoyun Sun
+  - Sayyed Mudassar Shah
+  - Waqar Riaz
+  - Jiancheng Ji
+  - Tariq Hussain
+  - Razaz Waheeb Attar
+year: 2025
+venue: International Journal of Intelligent Systems
+doi: 10.1155/int/6611276
+url: https://doi.org/10.1155/int/6611276
+abstract: Human emotion recognition (HER) has rapidly advanced, with applications in intelligent customer service, adaptive system training, human–robot interaction (HRI), and mental health monitoring. HER’s primary goal is to accurately recognize and classify emotions from digital inputs. Emotion recognition (ER) and feature extraction have long been core elements of HER, with deep neural networks (DNNs), particularly convolutional neural networks (CNNs), playing a critical role due to their superior visual feature extraction capabilities. This study proposes improving HER by integrating EfficientNet with transfer learning (TL) to train CNNs. Initially, an efficient R‐CNN accurately recognizes faces in online and offline videos. The ensemble classification model is trained by combining features from four CNN models using feature pooling. The novel VGG‐19 block is used to enhance the Faster R‐CNN learning block, boosting face recognition efficiency and accuracy. The model benefits from fully connected mean pooling, dense pooling, and global dropout layers, solving the evanescent gradient issue. Tested on CK+, FER‐2013, and the custom novel HER dataset (HERD), the approach shows significant accuracy improvements, reaching 89.23% (CK+), 94.36% (FER‐2013), and 97.01% (HERD), proving its robustness and effectiveness.
+type: article
+open_access: true
+cited_by: 23
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 1.745
+score_parts:
+  rank: 0.5
+  citations: 0.345
+  recency: 0.9
+needs_approval: false
+state: candidate

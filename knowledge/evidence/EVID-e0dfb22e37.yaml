@@ -1,0 +1,18 @@
+schema: phdude.evidence
+version: 1
+id: EVID-e0dfb22e37
+created: 2026-09-15T07:15:55.883Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-453af6fddf
+locator: integration-tests.log, final unittest summary; README Scope and evidence boundary
+excerpt: Seven integration tests passed, including twelve full orchestrator sessions using real PGSO and telecom tools with mocked external generation. This verifies the integration only; the metered conversational pilot has not run.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-a16b108533
+    - ART-c3da453526

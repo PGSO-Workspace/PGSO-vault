@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4b6a961f1d
+created: 2026-09-15T00:31:18.055Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.53555/ajbr.v27i4s.4017
+title: Analyzing the recent advancements for Speech Emotion Recognition Using Machine Learning Techniques
+authors:
+  - Arjun Singh
+year: 2024
+venue: African Journal OF Biomedical Research
+doi: 10.53555/ajbr.v27i4s.4017
+url: https://doi.org/10.53555/ajbr.v27i4s.4017
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: '"Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition"'
+question: null
+search: SEARCH-40c323d84c
+score: 0.972
+score_parts:
+  rank: 0.053
+  citations: 0.119
+  recency: 0.8
+needs_approval: false
+state: candidate

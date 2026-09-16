@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-637805699c
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7166674817
+title: Gender-Aware Conformer-Transformer for Fair Speech Emotion Recognition in Sensor-Oriented Applications
+authors:
+  - Haiyun Ma
+year: 2026
+venue: Journal of information and communication convergence engineering
+doi: 10.56977/jicce.2026.24.2.117
+url: https://doi.org/10.56977/jicce.2026.24.2.117
+abstract: Notwithstanding the growing role of speech emotion recognition (SER) in human-computer interaction, deep-learning models often display a gender imbalance, recognizing female speech less accurately.We explore a gender-aware conformer-transformer framework to solve this, which first learns gender-related patterns under noisy conditions instead of undergoing the standard end-to-end training.These patterns are then fed into a transformer emotion decoder via cross attention.A conformer encoder was pretrained on gender classification under heavy noise with a robustness of 97.73%.This framework achieved a weighted accuracy of 88.64% and narrowed the gender gap (91.1% recognition accuracy for female speech versus 85.2% for males) on the Ryerson audio-visual database of emotional speech and song dataset.The emotion recognition dropped, as expected, on the crowd-sourced emotional multimodal actors dataset without adaptation, owing to domain differences.However, the gender classification was reasonably accurate (F1 = 0.386).We conclude that using explicit gender information improves fairness under matched conditions, although cross-dataset generalization remains challenging.
+type: article
+open_access: true
+cited_by: 0
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 1.2
+score_parts:
+  rank: 0.2
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

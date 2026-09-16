@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3d0637bc38
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3776734.3794406
+title: "Hello, It’s Me, I Was Wondering if You’d Like to Speak: Creating an Embodied Conversational Agent for Neurodivergent Students’ Social Skills Training"
+authors:
+  - Angela Tran
+  - Zhao Zhao
+year: 2026
+venue: Companion Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction
+doi: 10.1145/3776734.3794406
+url: https://doi.org/10.1145/3776734.3794406
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 1.05
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

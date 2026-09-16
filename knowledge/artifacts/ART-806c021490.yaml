@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-806c021490
+created: 2026-09-15T09:06:09.094Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/task-comparators-151b6b4/frameworks.log
+paths:
+  - sources/software/pgso-sdk/task-comparators-151b6b4/frameworks.log
+hash: 806c021490c0ed7e5f0e3094a7e3f9f9c6aa75bde65c42d4bb774f3106be37ea
+bytes: 1407
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T09:04:09.406Z

@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7193add5f6
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4411666763
+title: "Federated reasoning LLMs: a survey"
+authors:
+  - Shuyue Wei
+  - Yongxin Tong
+  - Zimu Zhou
+  - Yi Xu
+  - Jingkai Gao
+  - Wei Tu
+  - Tianhua He
+  - Weifeng Lv
+year: 2025
+venue: Frontiers of Computer Science
+doi: 10.1007/s11704-025-50480-3
+url: https://doi.org/10.1007/s11704-025-50480-3
+abstract: Abstract Reasoning has long been regarded as a distinctive hallmark of human cognition, and recent advances in the artificial intelligence community have increasingly focused on the reasoning large language models (rLLMs). However, due to strict privacy regulations, the domain-specific reasoning knowledge is often distributed across multiple data owners, limiting the rLLM’s ability to fully leverage such valuable resources. In this context, federated learning (FL) has gained increasing attention in both the academia and industry as a promising privacy-preserving paradigm for addressing the challenges in the data-efficient training of rLLMs. In this paper, we conduct a comprehensive survey on federated rLLMs and propose a novel taxonomy based on training signals, including training signals derived from raw data, learned representations, and preference feedback. For each category, we emphasize the emerging trends according to how to use FL to enhance reasoning capabilities of rLLMs considering the model effectiveness, communication cost and privacy preservation. Finally, we envision future research directions and challenges based on insights from existing studies.
+type: article
+open_access: true
+cited_by: 18
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.297
+score_parts:
+  rank: 0.077
+  citations: 0.32
+  recency: 0.9
+needs_approval: false
+state: candidate

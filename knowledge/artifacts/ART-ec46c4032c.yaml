@@ -1,0 +1,26 @@
+schema: phdude.artifact
+version: 1
+id: ART-ec46c4032c
+created: 2026-09-15T05:18:19.742Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/comparator-tools-9aaa300/regression-results.json
+paths:
+  - sources/software/pgso-sdk/comparator-tools-9aaa300/regression-results.json
+  - sources/software/pgso-sdk/diagnostics-84242c9/comparison-results.json
+  - sources/software/pgso-sdk/lifecycle-090fcd8/results.json
+hash: ec46c4032c5d8e573bcb3d36dd2d35e0cad1b6d0adba2e559bd0d77c2d36dfe2
+bytes: 1372
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T05:18:19.515Z

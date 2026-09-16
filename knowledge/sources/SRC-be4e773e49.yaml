@@ -1,0 +1,18 @@
+schema: phdude.source
+version: 1
+id: SRC-be4e773e49
+created: 2026-09-15T08:35:19.007Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: UEFISCDI AIS quartile classification using JCR 2024, June 2025 edition
+authors:
+  - UEFISCDI
+type: report
+artifacts:
+  - ART-2403477e03
+state: candidate
+year: 2025
+url: https://uefiscdi.gov.ro/resource-860007-clasament.ais.jcr.2024.pdf
+abstract: Official agency classification based on AIS using JCR 2024, released June 2025. Distinct from JIF and SJR quartiles. European Journal of Information Systems visually verified Q1 in Computer Science, Information Systems on PDF page 95; not a claim about ranking year 2026 or article quality.

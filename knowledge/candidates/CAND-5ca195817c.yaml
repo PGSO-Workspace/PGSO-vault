@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5ca195817c
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6538784
+title: Context-aware Topology Entity Retrieval Contrastive Learning for End-to-End Task-Oriented Dialogue Response Generation
+authors:
+  - Di Wu
+  - Zhizhi Yu
+  - Yuheng Li
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6538784
+url: https://doi.org/10.2139/ssrn.6538784
+abstract: Accurately retrieving entity knowledge aligned with user intent is a critical requirement for task-oriented dialogue (TOD) systems, particularly in scenarios involving large-scale knowledge bases where personalization and localization are essential. Existing generative approaches often exhibit implicit association bias, while retrieval-generation pipelines suffer from knowledge transfer inconsistencies. To address these issues, we introduce CaTER, a Context-aware Topology Entity Retrieval Contrastive Learning framework that unifies entity retrieval and response generation. CaTER incorporates a cycle context-aware distilling attention mechanism, leveraging context-independent sparse pooling to mitigate noise from weakly relevant attributes. In addition, it constructs topologically hard negative samples by decoupling entity information from generated responses and optimizes the retriever via a topology entity retrieval contrastive loss with reverse distillation. Comprehensive experiments on three widely used TOD benchmarks under both small- and large-scale knowledge base settings demonstrate that CaTER consistently outperforms competitive baselines, including MAKER and MK-TOD, and achieves state-of-the-art performance across multiple evaluation metrics. Additionally, CaTER extends the entity-aware alignment distillation method, which called CaTER++, to further address knowledge transfer bias in retrieval-from-generation tasks.
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 1.036
+score_parts:
+  rank: 0.036
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,20 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-fb6f523ae4
+created: 2026-09-15T00:32:04.556Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/comparator-preflight-v1.json
+hash: fb6f523ae4905fb65d8fa6a898d2527c1a695e099ba9682787b89630c7f8ad91
+bytes: 1637
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Predeclared1206episode finite temporal-policy grid with explicit boundaries; no human claims
+versions_of: DATASET-4834a12c40
+latest: true

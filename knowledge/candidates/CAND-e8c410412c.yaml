@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e8c410412c
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415188343
+title: Review and Comparative Analysis of Databases for Speech Emotion Recognition
+authors:
+  - Salvatore Serrano
+  - Omar Serghini
+  - Gianluigi Esposito
+  - Silvia Carbone
+  - Carmela Mento
+  - Alessandro Floris
+  - Simone Porcu
+  - Luigi Atzori
+year: 2025
+venue: Data
+doi: 10.3390/data10100164
+url: https://doi.org/10.3390/data10100164
+abstract: Speech emotion recognition (SER) has become increasingly important in areas such as healthcare, customer service, robotics, and human–computer interaction. The progress of this field depends not only on advances in algorithms but also on the databases that provide the training material for SER systems. These resources set the boundaries for how well models can generalize across speakers, contexts, and cultures. In this paper, we present a narrative review and comparative analysis of emotional speech corpora released up to mid-2025, bringing together both psychological and technical perspectives. Rather than following a systematic review protocol, our approach focuses on providing a critical synthesis of more than fifty corpora covering acted, elicited, and natural speech. We examine how these databases were collected, how emotions were annotated, their demographic diversity, and their ecological validity, while also acknowledging the limits of available documentation. Beyond description, we identify recurring strengths and weaknesses, highlight emerging gaps, and discuss recent usage patterns to offer researchers both a practical guide for dataset selection and a critical perspective on how corpus design continues to shape the development of robust and generalizable SER systems.
+type: article
+open_access: true
+cited_by: 6
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.174
+score_parts:
+  rank: 0.063
+  citations: 0.211
+  recency: 0.9
+needs_approval: false
+state: candidate

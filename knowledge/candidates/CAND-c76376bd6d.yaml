@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c76376bd6d
+created: 2026-09-14T23:46:57.333Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3390/electronics15132829
+title: Runtime Policy Enforcement for MCP-Based LLM Agents
+authors:
+  - Shanshan Wang
+  - Sizheng Zhu
+  - Rende Li
+year: 2026
+venue: Electronics
+doi: 10.3390/electronics15132829
+url: https://doi.org/10.3390/electronics15132829
+abstract: "Tool-calling LLM agents are vulnerable to indirect prompt injection: externally retrieved data can redirect tool calls without system-prompt access, and prompt-level defences leave three harm classes undefended (path traversal, user-guided exfiltration, high-frequency tool abuse). We present a Policy Enforcement Point (PEP) that intercepts at the tool-call boundary with declarative rules over a cross-step information-flow label system (source integrity, data sensitivity) and a synchronous SHA-256 hash-chained audit log. On a controlled dataset across four attack classes, the full system cuts the attack success rate (ASR) from 40.0% to 5.0% (deepseek-v4-pro, five repeats) versus 35.0% for the strongest prompt-only baseline; disabling cross-step label propagation raises the call-level false-negative rate by 26.4 points. The 30.0% task-level false-positive rate is dominated by by-design least-privilege capability-token denials, not rule false positives—an expanded 30-task benign set yields 0/30 rule false positives under scripted isolation. A conservative-DS mitigation (intent-taint) closes the constructed denied-read reconstruction blind-spot variant (ASR 100% to 0%) at no cost on standard workflows. The audit log detects all three tested tamper classes; the in-process enforcement overhead is sub-millisecond per call. Across four further backends, ASR drops under the full system, though LLaMA-3.3-70B retains 16.7% (a rule-coverage gap). A preliminary run over a real MCP stdio transport (an official filesystem server) shows the mechanism operates at a real boundary with a sub-millisecond execution-path increment. We frame these as mechanism-coverage evidence on a controlled benchmark, not a deployability claim for production MCP workloads. Code, data, and metrics are openly available in the replication repository."
+type: article
+open_access: null
+cited_by: 2
+query: '"AgentSpec" runtime enforcement LLM agents'
+question: null
+search: SEARCH-ab8e976bec
+score: 1.202
+score_parts:
+  rank: 0.083
+  citations: 0.119
+  recency: 1
+needs_approval: false
+state: candidate

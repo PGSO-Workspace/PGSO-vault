@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b7e236276c
+created: 2026-09-15T06:32:59.436Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4400104114
+title: "AudioBench: A Universal Benchmark for Audio Large Language Models"
+authors:
+  - Bin Wang
+  - Xunlong Zou
+  - Geyu Lin
+  - Shuo Sun
+  - Zhuohan Liu
+  - Wenyu Zhang
+  - Zhengyuan Liu
+  - AiTi Aw
+  - Nancy F. Chen
+year: 2024
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2406.16020
+url: http://arxiv.org/abs/2406.16020
+abstract: "We introduce AudioBench, a universal benchmark designed to evaluate Audio Large Language Models (AudioLLMs). It encompasses 8 distinct tasks and 26 datasets, among which, 7 are newly proposed datasets. The evaluation targets three main aspects: speech understanding, audio scene understanding, and voice understanding (paralinguistic). Despite recent advancements, there lacks a comprehensive benchmark for AudioLLMs on instruction following capabilities conditioned on audio signals. AudioBench addresses this gap by setting up datasets as well as desired evaluation metrics. Besides, we also evaluated the capabilities of five popular models and found that no single model excels consistently across all tasks. We outline the research outlook for AudioLLMs and anticipate that our open-sourced evaluation toolkit, data, and leaderboard will offer a robust testbed for future model developments."
+type: preprint
+open_access: true
+cited_by: 4
+query: speech language model evaluation paralinguistic benchmark instruction following
+question: null
+search: SEARCH-463495b5f3
+score: 1.475
+score_parts:
+  rank: 0.5
+  citations: 0.175
+  recency: 0.8
+needs_approval: true
+state: candidate

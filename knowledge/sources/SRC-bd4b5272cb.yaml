@@ -1,0 +1,22 @@
+schema: phdude.source
+version: 1
+id: SRC-bd4b5272cb
+created: 2026-09-15T01:12:34.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: "LLM-Agent-UMF: LLM-based Agent Unified Modeling Framework for Seamless Design of Multi Active/Passive Core-Agent Architectures"
+authors:
+  - Amine Ben Hassouna
+  - Hana Chaari
+  - Ines Belhaj
+type: article
+artifacts:
+  - ART-53bdbeb059
+state: candidate
+year: 2026
+venue: Information Fusion
+doi: 10.1016/j.inffus.2025.103865
+url: https://doi.org/10.1016/j.inffus.2025.103865
+abstract: "Research review summary: Publisher bibliographic page and preview inspected; author manuscript arXiv v3 (21 November 2025) targeted sections inspected. Publisher full PDF inaccessible (403); arXiv v3 PDF downloaded and hashed. Conceptual architectural evaluation, not executed runtime efficacy, catalog filtering, or affect-conditioned governance. arXiv v3 text is separately identified; no assertion that it is identical to the journal version."

@@ -1,0 +1,16 @@
+schema: phdude.source
+version: 1
+id: SRC-79d17e652b
+created: 2026-09-15T00:27:55.588Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: Invariant official execution readiness — 2026-09-15
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts: []
+state: candidate
+year: 2026
+abstract: Executed local API smoke test against official invariantlabs-ai/invariant commit2340fe2d9cd619f73d5b67fa05bf8a08c7cad515, Apache-2.0. Isolated Python3.12.3 environment /tmp/pgso-invariant-venv, install succeeded53packages. LocalPolicy.from_string static deny-quote policy returned1error on quoteToolCall and0on cleantrace; assertions passed, noLLM/networkdetectors/paidcalls. Repeated in uv sync --frozen checkoutenvironment also passed. Upstream lock says0.3.4 while pyproject0.3.5; lock cannot be represented as currentfullymatched. CLI invariant --help returnsUnknown action; useimportableAPI. This is engineeringreadiness, notcomparativestudy or evidenceofaffectiveutility. Realcomparison must receive onlysameexogenousobservations/taskcontext, neverPGSO governed-state verdict. Commit, environmentfreeze andadapterpolicy must be registered inputs before PhDude scientificexecution.

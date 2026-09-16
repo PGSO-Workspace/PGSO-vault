@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-190f35e78b
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4321276130
+title: "Transformer models: an introduction and catalog"
+authors:
+  - Xavier Amatriain
+  - Sankar, Ananth
+  - Bing, Jie
+  - Bodigutla, Praveen Kumar
+  - Hazen, Timothy J.
+  - Kazi, Michaeel
+year: 2023
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2302.07730
+url: http://arxiv.org/abs/2302.07730
+abstract: In the past few years we have seen the meteoric appearance of dozens of foundation models of the Transformer family, all of which have memorable and sometimes funny, but not self-explanatory, names. The goal of this paper is to offer a somewhat comprehensive but simple catalog and classification of the most popular Transformer models. The paper also includes an introduction to the most important aspects and innovations in Transformer models. Our catalog will include models that are trained using self-supervised learning (e.g., BERT or GPT3) as well as those that are further trained using a human-in-the-loop (e.g. the InstructGPT model used by ChatGPT).
+type: preprint
+open_access: true
+cited_by: 34
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.197
+score_parts:
+  rank: 0.111
+  citations: 0.386
+  recency: 0.7
+needs_approval: true
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-95ada45a3e
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6898119
+title: A Path-Dependent, Multi-Layered Architecture for Runtime Governance and Post-Quantum Cryptographic Assurance of Autonomous AI Agents
+authors:
+  - Patrick Matthews
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6898119
+url: https://doi.org/10.2139/ssrn.6898119
+abstract: "As autonomous AI agents transition from sandboxed experiments to enterprise production environments, traditional reactive and identity-only security models have proven insufficient. These models fail to address the real-time, path-dependent nature of autonomous decision-making and the emerging threats of prompt injection, goal substitution, and semantic drift. This paper presents a novel runtime governance architecture comprising a 10-layer defence-in-depth enforcement pipeline. The framework introduces path-dependent policy evaluation, semantic intent alignment, and mandatory Client-Initiated Backchannel Authentication (CIBA) for high-risk actions. Furthermore, we detail the integration of post-quantum cryptographic identity management (hybrid Ed25519 and ML-DSA-65 / FIPS 204) across both server-side gateways and two distinct mobile companion applications: the Aegis CIBA companion (enterprise operator HITL approval) and the Sentinel companion (vendorlevel biometric-gated PQC authentication). Empirical evaluation of a preproduction reference implementation comprising 1,098 automated tests demonstrates that the structural and semantic perimeter introduces sub-millisecond per-layer overhead (&lt; 0.25 ms). Through rigorous load testing, we identify a PostgreSQL connection pool bottleneck at 150 req/sec (p95 latency 1,610 ms) and demonstrate that a Redis-backed read-through cache optimisation yields an 85× improvement, reducing p95 latency to 19 ms while maintaining a 100% detection rate across the evaluated adversarial test corpus for Fine-Grained Authorisation (FGA) violations under sustained load. The architecture natively supports publicly routable gateway endpoints, enabling seamless cellular CIBA device pairing over Wide Area Networks (WAN)."
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.037
+score_parts:
+  rank: 0.037
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

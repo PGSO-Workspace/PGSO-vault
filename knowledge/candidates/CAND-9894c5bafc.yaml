@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9894c5bafc
+created: 2026-09-15T07:38:48.880Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1002/cjoc.202390101
+title: Cover Picture
+authors: []
+year: 2023
+venue: Chinese Journal of Chemistry
+doi: 10.1002/cjoc.202390101
+url: https://doi.org/10.1002/cjoc.202390101
+abstract: In this work, we investigate the effects of heterogenization in an α‐diimine nickel catalytic system via installing –OH or –ONa anchoring groups on the ligand structure. The anchoring groups can facilitate facile heterogenization of catalyst on silica. The resulting heterogeneous catalysts led to enhanced thermal stabilities and the improvements of many other parameters, including polymer morphology control, catalytic activity and polyethylene molecular weight. Moreover, the structure and properties of the polymer products can be controlled by catalyst structures, polymerization conditions and heterogenization to achieve good mechanical properties and elasticity. More details are discussed in the article by Chen et al . on page 1155—1162. image
+type: article
+open_access: null
+cited_by: 1
+query: '"10.1145/3814959" published'
+question: null
+search: SEARCH-76dea7765d
+score: 0.975
+score_parts:
+  rank: 0.2
+  citations: 0.075
+  recency: 0.7
+needs_approval: false
+state: candidate

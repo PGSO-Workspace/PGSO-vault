@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-13433814bd
+created: 2026-09-15T00:45:29.120Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/cremad-acquisition-plan-v1.json
+hash: 13433814bdc6e6b78b2868f7192f1aa76df218290d3c2c425055158b778148c7
+bytes: 1871
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Predeclared acquisition and within-speaker intensity diagnostic on public CREMA-D; no continuous arousal labels

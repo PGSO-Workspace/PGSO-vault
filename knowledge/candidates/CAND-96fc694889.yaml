@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-96fc694889
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.22541/au.175761889.90929465/v1
+title: "Zero-Trust Proof-Gated Agent Architecture (ZPAA): A Comprehensive Security Model for the Model Context Protocol (MCP)"
+authors:
+  - Jalendar Reddy Maligireddy
+year: 2025
+venue: null
+doi: 10.22541/au.175761889.90929465/v1
+url: https://doi.org/10.22541/au.175761889.90929465/v1
+abstract: "The Model Context Protocol (MCP) enables AI agents to interact with external tools but enlarges the attack surface to prompt injection, tool poisoning, privilege escalation, remote code execution, data exfiltration, and supply-chain risks. Existing defenses such as TLS, authentication, and heuristics protect communication but leave post-decryption behavior ungoverned. We propose the Zero-Trust Proof-Gated Agent Architecture (ZPAA), which treats large language models (LLMs) as untrusted proposers. ZPAA enforces defensein-depth through a minimal action DSL verified by a deterministic policy engine, single-use capability tokens, sandboxed execution with strict guards, and layered validation via DLP, schema gates, and provenance checks. Audit logs ensure observability and tamper resistance. Contributions include: (1) a taxonomy of MCP vulnerabilities, (2) ZPAA design separating proposal from authority, (3) capability token formalization with a verifying interpreter, and (4) an evaluation framework. Results show ZPAA blocks major MCP attack classes, reducing residual risk to LLM fallibility and rare systemlevel exploits."
+type: preprint
+open_access: null
+cited_by: 1
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.006
+score_parts:
+  rank: 0.031
+  citations: 0.075
+  recency: 0.9
+needs_approval: true
+state: candidate

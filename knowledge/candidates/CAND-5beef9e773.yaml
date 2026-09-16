@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5beef9e773
+created: 2026-09-15T07:49:59.291Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.55277/researchhub.2disd8mm
+title: "[Most Accurate] H12-811_V1.0 Exam Dumps (2026) - Real PDF Dumps"
+authors:
+  - Selene Hart
+year: 2026
+venue: null
+doi: 10.55277/researchhub.2disd8mm
+url: https://doi.org/10.55277/researchhub.2disd8mm
+abstract: null
+type: other
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Chihao Li" PDF'
+question: null
+search: SEARCH-a24394c105
+score: 1.063
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

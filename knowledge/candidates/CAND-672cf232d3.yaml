@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-672cf232d3
+created: 2026-09-15T00:31:36.231Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.4018/978-1-6684-6303-1.ch016
+title: Towards a Sentiment Analysis Model Based on Semantic Relation Analysis
+authors:
+  - Thien Khai Tran
+  - Tuoi Thi Phan
+year: 2022
+venue: Research Anthology on Implementing Sentiment Analysis Across Multiple Disciplines
+doi: 10.4018/978-1-6684-6303-1.ch016
+url: https://doi.org/10.4018/978-1-6684-6303-1.ch016
+abstract: "Sentiment analysis is an important new field of research that has attracted the attention not only of researchers, but also businesses and organizations. In this article, the authors propose an effective model for aspect-based sentiment analysis for Vietnamese. First, sentiment dictionaries and syntactic dependency rules were combined to extract reliable word pairs (sentiment - aspect). They then relied on ontology to group these aspects and determine the sentiment polarity of each. They introduce two novel approaches in this work: 1) in order to “smooth” the sentiment scaling (rather than using discrete categories of 1, 0, and -1) for fined-grained classification, then extract multi-word sentiment phrases instead of sentiment words, and 2) the focus is not only on adjectives but also nouns and verbs. Initial evaluations of the system using real reviews show promising results."
+type: chapter
+open_access: null
+cited_by: 0
+query: '"Coupling Sentiment and Arousal Analysis Towards an Affective Dialogue Manager"'
+question: null
+search: SEARCH-7bc8da0319
+score: 0.725
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 0.6
+needs_approval: false
+state: candidate

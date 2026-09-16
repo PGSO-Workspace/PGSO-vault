@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3ad3863363
+created: 2026-09-14T23:44:09.730Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/979-8-8688-1784-7_11
+title: Code Migrations and Refactoring
+authors:
+  - Nick Wienholt
+year: 2025
+venue: GitHub Copilot and AI Coding Tools in Practice
+doi: 10.1007/979-8-8688-1784-7_11
+url: https://doi.org/10.1007/979-8-8688-1784-7_11
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees With Knowledge Graphs for Affective Human-AI Teaming" code GitHub'
+question: null
+search: SEARCH-2325920ecd
+score: 0.963
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

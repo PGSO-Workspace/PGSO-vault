@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-be498caee5
+created: 2026-09-15T01:07:29.902Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2026.acl-long.860
+title: "REG: Retrieval via Emotion Similarity for Guiding Empathetic Dialogue Generation"
+authors:
+  - Xu Wang
+  - Bo Wang
+  - Yang Xiang
+  - Yihong Tang
+  - Dongming Zhao
+  - Yuzifei
+  - Yuexian Hou
+year: 2026
+venue: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+doi: 10.18653/v1/2026.acl-long.860
+url: https://doi.org/10.18653/v1/2026.acl-long.860
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation" 11293762'
+question: null
+search: SEARCH-a309ac3231
+score: 1.056
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b0ad6cde5c
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415850419
+title: "Persuasive Conversational Agents for Environmental Sustainability: A Survey"
+authors:
+  - Mathyas Giudici
+  - Pietro Crovari
+  - Franca Garzotto
+year: 2025
+venue: ACM Computing Surveys
+doi: 10.1145/3774751
+url: https://doi.org/10.1145/3774751
+abstract: In the next few years, people are called upon to collectively contribute to environmental sustainability, such as mitigating climate change, reducing waste, conserving biodiversity, or promoting sustainable resource management. With this literature review, we are interested in investigating how conversational agents have been used to persuade people toward environmental sustainability behavioral change, and which design features and methods are used in the persuasion process. This field sits at the crossroads of multiple disciplines, including Computer Science, Human-Computer Interaction (HCI), Environmental Science, and Psychology, each contributing unique insights into the design and effectiveness of persuasive conversational agents. The survey proposes a structured report analyzing the current state of the art in persuasive conversational agents for environmental sustainability, considering the multidisciplinary nature of the issue. We explored multiple perspectives, including the conversational agents’ design features, the persuasion strategy adopted, the environmental sustainability issue considered, and the empirical evaluation method (if an empirical study was performed). From the lessons learned, we propose a research agenda to fill the gaps in the field and a checklist to guide future research in persuasive conversational agents applied to environmental sustainability.
+type: article
+open_access: true
+cited_by: 3
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.107
+score_parts:
+  rank: 0.056
+  citations: 0.151
+  recency: 0.9
+needs_approval: false
+state: candidate

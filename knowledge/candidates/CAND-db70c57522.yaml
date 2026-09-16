@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-db70c57522
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415259670
+title: "RustMap: Towards Project-Scale C-to-Rust Migration via Program Analysis and LLM"
+authors:
+  - Xuemeng Cai
+  - Jiakun Liu
+  - Xi‐Ping Huang
+  - Yijun Yu
+  - Haitao Wu
+  - Chunmiao Li
+  - Bo Wang
+  - Imam Nur Bani Yusuf
+  - Lingxiao Jiang
+year: 2025
+venue: Lecture notes in computer science
+doi: 10.1007/978-3-032-00828-2_16
+url: https://doi.org/10.1007/978-3-032-00828-2_16
+abstract: null
+type: other
+open_access: true
+cited_by: 4
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 2.075
+score_parts:
+  rank: 1
+  citations: 0.175
+  recency: 0.9
+needs_approval: false
+state: candidate

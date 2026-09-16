@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b33ad2b46d
+created: 2026-09-14T23:44:09.730Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/s00146-026-03171-x
+title: Empathy by design? The affective politics of ‘Empathy Theatre’ in human–robot interaction
+authors:
+  - Mark Paterson
+year: 2026
+venue: AI &amp; SOCIETY
+doi: 10.1007/s00146-026-03171-x
+url: https://doi.org/10.1007/s00146-026-03171-x
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees With Knowledge Graphs for Affective Human-AI Teaming" code GitHub'
+question: null
+search: SEARCH-2325920ecd
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8bc5307b29
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5365897
+title: "Neural-symbolic emotion-pose graph reasoning in AI-based human synthesis: A multimodal model integrating cognitive priors --Digital Restoration of the Aesthetics of the Statue of Venus"
+authors:
+  - Wei Meng
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5365897
+url: https://doi.org/10.2139/ssrn.5365897
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

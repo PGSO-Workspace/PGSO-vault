@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9ed1788060
+created: 2026-09-15T07:52:05.791Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.22541/au.174102439.94682577/v1
+title: "Beyond Words: The Evolution of Large Language Models in Context-Aware"
+authors:
+  - William Jack
+year: 2025
+venue: null
+doi: 10.22541/au.174102439.94682577/v1
+url: https://doi.org/10.22541/au.174102439.94682577/v1
+abstract: Large Language Models (LLMs) have revolutionized artificial intelligence by enabling sophisticated natural language understanding, generation, and reasoning. As these models evolve, context awareness has become a crucial factor in improving their adaptability, coherence, and decision-making capabilities. This paper explores the evolution of LLMs from rule-based systems to deep learning architectures, emphasizing advancements in contextual embeddings, multimodal learning, and real-time adaptation. We discuss the impact of reinforcement learning with human feedback (RLHF), memory-augmented models, and transformer-based architectures in enhancing contextual sensitivity. Additionally, ethical concerns such as bias, misinformation, and privacy risks are examined alongside mitigation strategies. The paper concludes by assessing future trends, including the integration of LLMs with edge AI, federated learning, and knowledge graphs to achieve more reliable, efficient, and human-aligned AI systems.
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal context induced behavior large language models personality Q1
+question: null
+search: SEARCH-26378cf9a3
+score: 0.933
+score_parts:
+  rank: 0.033
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

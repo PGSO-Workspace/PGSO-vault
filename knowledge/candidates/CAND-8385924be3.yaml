@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8385924be3
+created: 2026-09-15T07:34:50.322Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.ress.2023.109621
+title: Online hazard prediction of train operations with parametric hybrid automata based runtime verification
+authors:
+  - Ming Chai
+  - Xinyi Zhang
+  - Bernd-Holger Schlingloff
+  - Tao Tang
+  - Hongjie Liu
+year: 2024
+venue: Reliability Engineering &amp; System Safety
+doi: 10.1016/j.ress.2023.109621
+url: https://doi.org/10.1016/j.ress.2023.109621
+abstract: null
+type: article
+open_access: null
+cited_by: 19
+query: 2024 2025 journal AI agent abstention selective prediction runtime safety uncertainty
+question: null
+search: SEARCH-e78c321635
+score: 1.154
+score_parts:
+  rank: 0.029
+  citations: 0.325
+  recency: 0.8
+needs_approval: false
+state: candidate

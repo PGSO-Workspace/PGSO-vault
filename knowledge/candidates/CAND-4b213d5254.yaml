@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4b213d5254
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412017389
+title: Exploring Anthropomorphism in Conversational Agents for Environmental Sustainability
+authors:
+  - Mathyas Giudici
+  - Samuele Scherini
+  - Pascal Chaussumier
+  - S. Ginocchio
+  - Franca Garzotto
+year: 2025
+venue: null
+doi: 10.1145/3715336.3735700
+url: https://doi.org/10.1145/3715336.3735700
+abstract: "The paper investigates the integration of Large Language Models (LLMs) into Conversational Agents (CAs) to encourage a shift in consumption patterns from a demand-driven to a supply-based paradigm.Specifically, the research examines the role of anthropomorphic design in delivering environmentally conscious messages by comparing two CA designs: a personified agent representing an appliance and a traditional, non-personified assistant.A lab study (N=26) assessed the impact of these designs on interaction, perceived self-efficacy, and engagement.Results indicate that LLMbased CAs significantly enhance users' self-reported eco-friendly behaviors, with participants expressing greater confidence in managing energy consumption.While the anthropomorphic design did not notably affect self-efficacy, those interacting with the personified agent reported a stronger sense of connection with the system.These findings suggest that although anthropomorphic CAs may improve user engagement, both designs hold promise for fostering sustainable behaviors in home energy management."
+type: other
+open_access: true
+cited_by: 5
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.195
+score_parts:
+  rank: 0.1
+  citations: 0.195
+  recency: 0.9
+needs_approval: false
+state: candidate

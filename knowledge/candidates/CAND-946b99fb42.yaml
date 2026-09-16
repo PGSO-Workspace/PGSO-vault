@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-946b99fb42
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2023.3332742
+title: "Empathy by Design: The Influence of Trembling AI Voices on Prosocial Behavior"
+authors:
+  - Fotis Efthymiou
+  - Christian Hildebrand
+year: 2024
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2023.3332742
+url: https://doi.org/10.1109/taffc.2023.3332742
+abstract: null
+type: article
+open_access: null
+cited_by: 21
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.207
+score_parts:
+  rank: 0.071
+  citations: 0.336
+  recency: 0.8
+needs_approval: false
+state: candidate

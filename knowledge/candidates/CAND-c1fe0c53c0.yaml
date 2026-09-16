@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-c1fe0c53c0
+created: 2026-09-14T23:44:30.144Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.17209/st.2024.07.48.51
+title: "Computational Reciprocity: Open Source Practices and Devices of Gift-giving on GitHub"
+authors:
+  - Daecheong Ha
+year: 2024
+venue: Society and Theory
+doi: 10.17209/st.2024.07.48.51
+url: https://doi.org/10.17209/st.2024.07.48.51
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"WeClaw" "Adaptive Runtime" GitHub open source'
+question: null
+search: SEARCH-b132bc032f
+score: 0.853
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

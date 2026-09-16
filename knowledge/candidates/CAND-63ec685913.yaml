@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-63ec685913
+created: 2026-09-15T07:38:12.403Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7155247393
+title: "CASCADE reproduction artifacts: per-sample decision records, evaluation corpus and analysis scripts"
+authors:
+  - Ipek ABASIKELEŞ TURGUT
+  - Edip Gümüş
+year: 2026
+venue: arXiv (Cornell University)
+doi: 10.5281/zenodo.22277938
+url: https://arxiv.org/abs/2604.17125
+abstract: Reproduction artifacts for the CASCADE study of a layered local defense for MCP-based systems. Contains per-sample decision records for all three evaluated configurations (5,000 records each), the frozen evaluation corpus, the intermediate collection bundle documenting external provenance, the Layer 2 reference texts, the analysis scripts that regenerate every table in the paper, and a verification script that recomputes every confusion matrix, interval and count reported there before reporting success. The three result files are row-aligned and must be joined by row index rather than by sample_id, which is not unique. See README.md.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Model Context Protocol (MCP) at First Glance" arXiv'
+question: null
+search: SEARCH-a96b00e8a8
+score: 1.05
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

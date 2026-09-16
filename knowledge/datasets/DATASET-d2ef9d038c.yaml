@@ -1,0 +1,20 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-d2ef9d038c
+created: 2026-09-15T00:13:58.434Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/governance-scenarios-v1.json
+hash: d2ef9d038c0d29d95b0d3aa3adbed12567eb1e564a40434e386ab87a036c0d71
+bytes: 2807
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Authored synthetic acceptance criteria and sensitivity scenarios; no human labels
+license: CC0-1.0
+latest: false

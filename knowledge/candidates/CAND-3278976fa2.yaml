@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3278976fa2
+created: 2026-09-15T00:21:33.749Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0014652500004052
+title: "A Multi-Agent Architecture for Emotion Generation and Regulation in Conversational Agents: An Inside-Out Approach"
+authors:
+  - Aaron Pico
+  - Joaquin Taverner
+  - Emilio Vivancos
+  - Ana Garcia-Fornes
+  - Vicente Botti
+year: 2026
+venue: Proceedings of the 18th International Conference on Agents and Artificial Intelligence
+doi: 10.5220/0014652500004052
+url: https://doi.org/10.5220/0014652500004052
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: prosody emotion conversational agents Hume ElevenLabs voice workflow governance
+question: null
+search: SEARCH-cd7a32aa2c
+score: 1.5
+score_parts:
+  rank: 0.5
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

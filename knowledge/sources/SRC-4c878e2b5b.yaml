@@ -1,0 +1,39 @@
+schema: phdude.source
+version: 1
+id: SRC-4c878e2b5b
+created: 2026-09-13T07:00:34.348Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: PGSO SDK — implementation and experiment context at commit 1b17c248d3608a7d80cc1147e8aa57acbb715132
+authors:
+  - Lucio Yen
+type: other
+artifacts:
+  - ART-0c731df331
+  - ART-0d80a292c7
+  - ART-159f2c6b66
+  - ART-17468eb20f
+  - ART-29861c45a2
+  - ART-2ea288a4cb
+  - ART-389c2f2ec0
+  - ART-4cde0899c6
+  - ART-65cfa5cfd2
+  - ART-743f7ce120
+  - ART-7741540728
+  - ART-8fcc780add
+  - ART-93b7857ddf
+  - ART-9f1943f99f
+  - ART-a2cd6469da
+  - ART-c1f70accd8
+  - ART-cc927c2790
+  - ART-d51ebd4d22
+  - ART-db3f9dd6b5
+  - ART-dca4bb42b4
+  - ART-e42e168741
+  - ART-f9a76ffa05
+state: candidate
+year: 2026
+url: https://github.com/PGSO-Workspace/pgso-sdk/tree/1b17c248d3608a7d80cc1147e8aa57acbb715132
+abstract: Selected byte-preserving snapshots of repository source code, tests and reports; commit date 2026-06-21. Static inspection only; no test or experiment rerun. Root context.md is historical/stale as documented in docs/known-issues.md. Referenced untracked experiment outputs are not included in this Git checkout.

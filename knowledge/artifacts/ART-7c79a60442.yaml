@@ -1,0 +1,25 @@
+schema: phdude.artifact
+version: 1
+id: ART-7c79a60442
+created: 2026-09-15T09:06:09.094Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/task-comparators-151b6b4/framework_sidecar.py
+paths:
+  - sources/software/pgso-sdk/task-comparators-151b6b4/framework_sidecar.py
+hash: 7c79a604421348d4fec96853b3444782b5b469d4a9722daff2d88d05e36e696a
+bytes: 8771
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T08:58:46.695Z
+latest: false

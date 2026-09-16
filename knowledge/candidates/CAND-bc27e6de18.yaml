@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-bc27e6de18
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4391849646
+title: "Ethical and regulatory challenges of AI technologies in healthcare: A narrative review"
+authors:
+  - Ciro Mennella
+  - Umberto Maniscalco
+  - Giuseppe De Pietro
+  - Massimo Esposito
+year: 2024
+venue: Heliyon
+doi: 10.1016/j.heliyon.2024.e26297
+url: https://doi.org/10.1016/j.heliyon.2024.e26297
+abstract: Over the past decade, there has been a notable surge in AI-driven research, specifically geared toward enhancing crucial clinical processes and outcomes. The potential of AI-powered decision support systems to streamline clinical workflows, assist in diagnostics, and enable personalized treatment is increasingly evident. Nevertheless, the introduction of these cutting-edge solutions poses substantial challenges in clinical and care environments, necessitating a thorough exploration of ethical, legal, and regulatory considerations. A robust governance framework is imperative to foster the acceptance and successful implementation of AI in healthcare. This article delves deep into the critical ethical and regulatory concerns entangled with the deployment of AI systems in clinical practice. It not only provides a comprehensive overview of the role of AI technologies but also offers an insightful perspective on the ethical and regulatory challenges, making a pioneering contribution to the field. This research aims to address the current challenges in digital healthcare by presenting valuable recommendations for all stakeholders eager to advance the development and implementation of innovative AI systems.
+type: other
+open_access: true
+cited_by: 992
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.585
+score_parts:
+  rank: 0.036
+  citations: 0.749
+  recency: 0.8
+needs_approval: false
+state: candidate

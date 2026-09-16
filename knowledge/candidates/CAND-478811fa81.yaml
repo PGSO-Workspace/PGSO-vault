@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-478811fa81
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4401332682
+title: "The unpleasantness of thinking: A meta-analytic review of the association between mental effort and negative affect."
+authors:
+  - Louise David
+  - Eliana Vassena
+  - Erik Bijleveld
+year: 2024
+venue: Psychological Bulletin
+doi: 10.1037/bul0000443
+url: https://doi.org/10.1037/bul0000443
+abstract: "Influential theories in psychology, neuroscience, and economics assume that the exertion of mental effort should feel aversive. Yet, this assumption is usually untested, and it is challenged by casual observations and previous studies. Here, we meta-analyze (a) whether mental effort is generally experienced as aversive and (b) whether the association between mental effort and aversive feelings depends on population and task characteristics. We meta-analyzed a set of 170 studies (from 125 articles published in 2019-2020; 358 different tasks; 4,670 unique subjects). These studies were conducted in a variety of populations (e.g., health care employees, military employees, amateur athletes, college students; data were collected in 29 different countries) and used a variety of tasks (e.g., equipment testing tasks, virtual reality tasks, cognitive performance tasks). Despite this diversity, these studies had one crucial common feature: All used the NASA Task Load Index to examine participants' experiences of effort and negative affect. As expected, we found a strong positive association between mental effort and negative affect. Surprisingly, just one of our 15 moderators had a significant effect (effort felt somewhat less aversive in studies from Asia vs. Europe and North America). Overall, mental effort felt aversive in different types of tasks (e.g., tasks with and without feedback), in different types of populations (e.g., university-educated populations and non-university-educated populations), and on different continents. Supporting theories that conceptualize effort as a cost, we suggest that mental effort is inherently aversive. (PsycInfo Database Record (c) 2024 APA, all rights reserved)."
+type: article
+open_access: true
+cited_by: 64
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.344
+score_parts:
+  rank: 0.091
+  citations: 0.453
+  recency: 0.8
+needs_approval: false
+state: candidate

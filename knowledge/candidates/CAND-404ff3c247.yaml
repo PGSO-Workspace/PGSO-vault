@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-404ff3c247
+created: 2026-09-14T23:44:30.144Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.55041/ijsrem63247
+title: Design And Development of an AI Powered Open Source GitHub Repository Finder
+authors:
+  - Aditya Hood Aditya Hood
+year: 2026
+venue: International Journal of Scientific Research in Engineering and Management
+doi: 10.55041/ijsrem63247
+url: https://doi.org/10.55041/ijsrem63247
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"WeClaw" "Adaptive Runtime" GitHub open source'
+question: null
+search: SEARCH-b132bc032f
+score: 1.071
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

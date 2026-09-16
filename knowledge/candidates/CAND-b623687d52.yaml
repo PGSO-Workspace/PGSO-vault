@@ -1,0 +1,74 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b623687d52
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4285585446
+title: "Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy"
+authors:
+  - Yogesh K. Dwivedi
+  - Laurie Hughes
+  - Abdullah M. Baabdullah
+  - Samuel Ribeiro‐Navarrete
+  - Mihalis Giannakis
+  - Mutaz M. Al‐Debei
+  - Denis Dennehy
+  - Bhimaraya Metri
+  - Dimitrios Buhalis
+  - Christy M.K. Cheung
+  - Kieran Conboy
+  - Ronan Doyle
+  - Rameshwar Dubey
+  - Vincent Dutot
+  - Reto Felix
+  - D.P. Goyal
+  - Anders Gustafsson
+  - Chris Hinsch
+  - Ikram Jebabli
+  - Marijn Janssen
+  - Young‐Gab Kim
+  - Joo-Young Kim
+  - Stefan Koos
+  - David Kreps
+  - Nir Kshetri
+  - Vikram Kumar
+  - Keng‐Boon Ooi
+  - Savvas Papagiannidis
+  - Ilias O. Pappas
+  - Ariana Polyviou
+  - Sang‐Min Park
+  - Neeraj Pandey
+  - Maciel M. Queiroz
+  - Ramakrishnan Raman
+  - Philipp A. Rauschnabel
+  - Anuragini Shirish
+  - Μαριάννα Σιγάλα
+  - Konstantina Spanaki
+  - Garry Wei‐Han Tan
+  - Manoj Kumar Tiwari
+  - Giampaolo Viglia
+  - Samuel Fosso Wamba
+year: 2022
+venue: International Journal of Information Management
+doi: 10.1016/j.ijinfomgt.2022.102542
+url: https://doi.org/10.1016/j.ijinfomgt.2022.102542
+abstract: The metaverse has the potential to extend the physical world using augmented and virtual reality technologies allowing users to seamlessly interact within real and simulated environments using avatars and holograms. Virtual environments and immersive games (such as, Second Life, Fortnite, Roblox and VRChat) have been described as antecedents of the metaverse and offer some insight to the potential socio-economic impact of a fully functional persistent cross platform metaverse. Separating the hype and “meta…” rebranding from current reality is difficult, as “big tech” paints a picture of the transformative nature of the metaverse and how it will positively impact people in their work, leisure, and social interaction. The potential impact on the way we conduct business, interact with brands and others, and develop shared experiences is likely to be transformational as the distinct lines between physical and digital are likely to be somewhat blurred from current perceptions. However, although the technology and infrastructure does not yet exist to allow the development of new immersive virtual worlds at scale - one that our avatars could transcend across platforms, researchers are increasingly examining the transformative impact of the metaverse. Impacted sectors include marketing, education, healthcare as well as societal effects relating to social interaction factors from widespread adoption, and issues relating to trust, privacy, bias, disinformation, application of law as well as psychological aspects linked to addiction and impact on vulnerable people. This study examines these topics in detail by combining the informed narrative and multi-perspective approach from experts with varied disciplinary backgrounds on many aspects of the metaverse and its transformational impact. The paper concludes by proposing a future research agenda that is valuable for researchers, professionals and policy makers alike.
+type: article
+open_access: true
+cited_by: 2723
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 1.792
+score_parts:
+  rank: 0.333
+  citations: 0.859
+  recency: 0.6
+needs_approval: false
+state: candidate

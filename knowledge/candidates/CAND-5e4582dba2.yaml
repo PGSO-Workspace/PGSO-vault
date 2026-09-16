@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5e4582dba2
+created: 2026-09-15T00:31:36.231Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.bspc.2021.102517
+title: Towards a model of arousal change after affective word pronunciation based on electrodermal activity and speech analysis
+authors:
+  - Claudia Marzi
+  - Alberto Greco
+  - Enzo Pasquale Scilingo
+  - Nicola Vanello
+year: 2021
+venue: Biomedical Signal Processing and Control
+doi: 10.1016/j.bspc.2021.102517
+url: https://doi.org/10.1016/j.bspc.2021.102517
+abstract: null
+type: article
+open_access: null
+cited_by: 9
+query: '"Coupling Sentiment and Arousal Analysis Towards an Affective Dialogue Manager"'
+question: null
+search: SEARCH-7bc8da0319
+score: 0.85
+score_parts:
+  rank: 0.1
+  citations: 0.25
+  recency: 0.5
+needs_approval: false
+state: candidate

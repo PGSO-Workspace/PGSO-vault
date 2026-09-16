@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a2843ee616
+created: 2026-09-15T07:50:14.590Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.20944/preprints202511.1916.v1
+title: Synthesis-Dependent Adsorption Properties of Polythioamides Toward Mercury(II) Ions
+authors:
+  - Yue Gao
+  - Cheng Ma
+  - Xuan Qi
+  - Hao Yan
+  - Chao Yang
+  - Wei Xia
+  - Hanyu Du
+  - Junfeng Zhang
+year: 2025
+venue: null
+doi: 10.20944/preprints202511.1916.v1
+url: https://doi.org/10.20944/preprints202511.1916.v1
+abstract: Sulfur is an important constant element in the crust, with a mass abundance of approximately 0.03%, is mainly obtained as a by-product of hydrodesulfurization in petroleum refining. Although China produces over ten million tons of sulfur annually, its applications remain limited, and while sulfur is not flammable under normal conditions, its oxidizability and potential to catch fire under extreme conditions pose safety and environmental risks during storage. To address these issues, we developed a multicomponent polymerization (MCP) strategy using elemental sulfur, dicarboxylic acids, and diamines to synthesize functional polythioamides. This metal-free approach utilizes readily available raw materials and enables the efficient construction of structurally diverse polymers. Unlike previously reported MCP systems relying on aromatic monomers, our work employed aliphatic diamines and diacids, yielding polythioamides with rigid structures and excellent properties. Characterization by Fourier-transform infrared spectroscopy (FT-IR), thermogravimetric analysis (TGA), X-ray photoelectron spectroscopy (XPS). Adsorption studies demonstrated a strong affinity for Hg(II), with a maximum capacity of 187 mg·g⁻¹. SEM, XPS revealed clear morphological and compositional changes after Hg(II) uptake, confirming efficient adsorption. This work highlights MCP as a promising route for converting sulfur into functional polymers with high potential in wastewater treatment and environmental remediation.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Yue Qi" repository'
+question: null
+search: SEARCH-32580e75f5
+score: 0.977
+score_parts:
+  rank: 0.077
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

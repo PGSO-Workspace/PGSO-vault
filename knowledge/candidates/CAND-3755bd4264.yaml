@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3755bd4264
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4414093251
+title: A Review of Large Language Models for Automated Test Case Generation
+authors:
+  - Arda Celik
+  - Qusay H. Mahmoud
+year: 2025
+venue: Machine Learning and Knowledge Extraction
+doi: 10.3390/make7030097
+url: https://doi.org/10.3390/make7030097
+abstract: Automated test case generation aims to improve software testing by reducing the manual effort required to create test cases. Recent advancements in large language models (LLMs), with their ability to understand natural language and generate code, have identified new opportunities to enhance this process. In this review, the focus is on the use of LLMs in test case generation to identify the effectiveness of the proposed methods compared with existing tools and potential directions for future research. A literature search was conducted using online resources, filtering the studies based on the defined inclusion and exclusion criteria. This paper presents the findings from the selected studies according to the three research questions and further categorizes the findings based on the common themes. These findings highlight the opportunities and challenges associated with the use of LLMs in this domain. Although improvements were observed in metrics such as test coverage, usability, and correctness, limitations such as inconsistent performance and compilation errors were highlighted. This provides a state-of-the-art review of LLM-based test case generation, emphasizing the potential of LLMs to improve automated testing while identifying areas for further advancements.
+type: article
+open_access: true
+cited_by: 21
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.736
+score_parts:
+  rank: 0.5
+  citations: 0.336
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dd2b29b1ff
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2021.naacl-srw.15
+title: Multi-Task Learning of Generation and Classification for Emotion-Aware Dialogue Response Generation
+authors:
+  - Tatsuya Ide
+  - Daisuke Kawahara
+year: 2021
+venue: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop"
+doi: 10.18653/v1/2021.naacl-srw.15
+url: https://doi.org/10.18653/v1/2021.naacl-srw.15
+abstract: null
+type: article
+open_access: null
+cited_by: 8
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 0.784
+score_parts:
+  rank: 0.045
+  citations: 0.239
+  recency: 0.5
+needs_approval: false
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f695e4d2bf
+created: 2026-09-15T01:15:49.547Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21608/jesr.2023.287070
+title: Screening of some wild plants as antifungal agent against phytopathogenic fungi
+authors:
+  - Amal Sheikh Elsouk
+  - Zaki Turky
+  - Sabry Shahin
+year: 2023
+venue: Journal of Environmental Studies and Researches
+doi: 10.21608/jesr.2023.287070
+url: https://doi.org/10.21608/jesr.2023.287070
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"EAC-Agent" "10.1371/journal.pone.0346770"'
+question: null
+search: SEARCH-fa4f4eec19
+score: 0.858
+score_parts:
+  rank: 0.083
+  citations: 0.075
+  recency: 0.7
+needs_approval: false
+state: candidate

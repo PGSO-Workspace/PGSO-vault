@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4884d511c9
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1121/10.0037450
+title: Exploring cross-dataset generalization of Speech Emotion Recognition models
+authors:
+  - Dimitra Emmanouilidou
+year: 2025
+venue: The Journal of the Acoustical Society of America
+doi: 10.1121/10.0037450
+url: https://doi.org/10.1121/10.0037450
+abstract: "Speech Emotion Recognition (SER) is a technology that enables machines to identify, interpret, and respond to emotional nuances of human speech. Its role in enhancing human-computer interactions becomes increasingly apparent as we prioritize the development of more intuitive and empathetic AI systems. Despite the high performance achieved by prior work on individual datasets, a critical challenge remains: cross-dataset generalization. This aspect continues to pose significant challenges and hinders technology adoption. In this study, we investigate the cross-dataset generalization capabilities of various SER models. We build on our prior observation that large pre-trained models can result in fragmented class representations and further explore model capabilities in a multi-corpora learning paradigm, toward constructing corpus-independent class representations. We utilize audio-only and joint language-audio representation learning including Wav2vec, VGGish, WavLM, and CLAP. Additionally, we explore the impact of class-agnostic data augmentation in this multi-corpora training setting. Our experiments reveal significant insights into the robustness of these embeddings for cross-dataset generalization. The findings underscore the importance of evaluating SER models beyond single-dataset performance to ensure applicability in real-world scenarios. Additionally, this comprehensive evaluation helps confirm whether the models are learning the intended features and behaviors, thereby enhancing their reliability and effectiveness."
+type: article
+open_access: null
+cited_by: 0
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 0.943
+score_parts:
+  rank: 0.043
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-53eecf0bfc
+created: 2026-09-14T16:52:24.359Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/lra.2026.3667488
+title: Safety Guardrails for LLM-Enabled Robots
+authors:
+  - Zachary Ravichandran
+  - Alexander Robey
+  - Vijay Kumar
+  - George J. Pappas
+  - Hamed Hassani
+year: 2026
+venue: IEEE Robotics and Automation Letters
+doi: 10.1109/lra.2026.3667488
+url: https://doi.org/10.1109/lra.2026.3667488
+abstract: null
+type: article
+open_access: null
+cited_by: 11
+query: Safety Guardrails for LLM-Enabled Robots
+question: null
+search: SEARCH-1c5ef084bd
+score: 2.27
+score_parts:
+  rank: 1
+  citations: 0.27
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-e5b5e84240
+created: 2026-09-15T01:09:16.222Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1016/j.neucom.2026.133215
+title: A neuromorphic safety monitor for verifiable runtime assurance in stochastic control loops
+authors:
+  - Sylvester Kaczmarek
+year: 2026
+venue: Neurocomputing
+doi: 10.1016/j.neucom.2026.133215
+url: https://doi.org/10.1016/j.neucom.2026.133215
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: selective classification conformal risk control runtime safety
+question: null
+search: SEARCH-54176eb439
+score: 1.111
+score_parts:
+  rank: 0.111
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

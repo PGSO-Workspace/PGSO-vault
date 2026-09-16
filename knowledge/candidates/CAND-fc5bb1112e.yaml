@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-fc5bb1112e
+created: 2026-09-14T23:44:09.730Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.55248/gengpi.6.0825.3164
+title: "Human-Aware AI: Bridging Empathy and Algorithms in Society"
+authors:
+  - Arramshettti Sandeep
+  - Dr.K. Chandrashekar
+year: 2025
+venue: International Journal of Research Publication and Reviews
+doi: 10.55248/gengpi.6.0825.3164
+url: https://doi.org/10.55248/gengpi.6.0825.3164
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees With Knowledge Graphs for Affective Human-AI Teaming" code GitHub'
+question: null
+search: SEARCH-2325920ecd
+score: 1.233
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

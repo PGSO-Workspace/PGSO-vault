@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-13b7f4dd4f
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4390738827
+title: Predictive Maintenance on the Energy Distribution Grid–Design and Evaluation of a Digital Industrial Platform in the Context of a Smart Service System
+authors:
+  - Philipp zur Heiden
+  - Jennifer Priefer
+  - Daniel Beverungen
+year: 2024
+venue: IEEE Transactions on Engineering Management
+doi: 10.1109/tem.2024.3352819
+url: https://doi.org/10.1109/tem.2024.3352819
+abstract: The energy turnaround and the shift towards sustainable mobility threaten the stability of European energy distribution grids due to substantially increasing load fluctuations and power demand. These challenges can critically impact assets in the distribution grid—e.g., switchgears—intensifying the need to plan, conduct, and manage the maintenance of such assets. Predictive maintenance strategies that analyze assets' current and historical condition data have been discussed as promising approaches toward that end. However, the extant research focuses on designing and improving analytical algorithms or information technology (IT) artifacts while not considering how a maintenance service is co-created by companies with IT. This research article posits that IT and service must be aligned closely, presenting an ensemble artifact comprising a digital industrial platform and a smart service system for predictive maintenance on the distribution grid. The artifact is evaluated by conducting a willingness-to-pay analysis with asset operators, documenting their demand for condition monitoring and predictive maintenance as an integrated solution, although they still struggle with even getting the condition data of their assets. Building on these results, we formalize the knowledge in the form of design principles and implications for managing the maintenance of critical assets in the distribution grid.
+type: article
+open_access: true
+cited_by: 32
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.233
+score_parts:
+  rank: 0.053
+  citations: 0.38
+  recency: 0.8
+needs_approval: false
+state: candidate

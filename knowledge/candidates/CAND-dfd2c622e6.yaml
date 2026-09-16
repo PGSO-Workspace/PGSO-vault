@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-dfd2c622e6
+created: 2026-09-15T00:31:47.177Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icdew67478.2025.00010
+title: Agentic Workflows for Extraction of Access Control Matrices from Policy Documents
+authors:
+  - Pranav Subramaniam
+  - Sanjay Krishnan
+year: 2025
+venue: 2025 IEEE 41st International Conference on Data Engineering Workshops (ICDEW)
+doi: 10.1109/icdew67478.2025.00010
+url: https://doi.org/10.1109/icdew67478.2025.00010
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Towards Enforcing Company Policy Adherence in Agentic Workflows"'
+question: null
+search: SEARCH-3356d4436d
+score: 0.956
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

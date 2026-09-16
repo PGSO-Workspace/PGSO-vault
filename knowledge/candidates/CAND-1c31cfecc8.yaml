@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1c31cfecc8
+created: 2026-09-14T16:51:13.229Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404688214
+title: "Application of Large Language Models in Cybersecurity: A Systematic Literature Review"
+authors:
+  - Ismayil Hasanov
+  - Seppo Virtanen
+  - Antti Hakkala
+  - Jouni Isoaho
+year: 2024
+venue: IEEE Access
+doi: 10.1109/access.2024.3505983
+url: https://doi.org/10.1109/access.2024.3505983
+abstract: The emergence of Large Language Models (LLMs) is currently creating a major paradigm shift in societies and businesses in the way digital technologies are used. While the disruptive effect is especially observable in the information and communication technology field, there is a clear lack of systematic studies focusing on the application and impact of LLMs in cybersecurity holistically. This article presents an exhaustive systematic literature review of 177 articles published in 2018-2024 on the application of LLMs and the use of Artificial Intelligence (AI) as a defensive measure in cybersecurity. This article contributes an analytical compendium of the recent research on the application of LLMs in offensive and defensive cybersecurity as well as in research on cyberethics, current legal frameworks, and research regarding the use of LLMs for cybersecurity governance. It also contributes a statistical summary of global research trends in the field. Of the reviewed literature, 68% was published in 2023. Nearly 30% of the articles originate from the USA and 11% from China, with other countries currently having significantly lower contributions to recent research. Most attention in recent research has been given to AI as a defensive measure, accounting for 27% of the reviewed literature. It was observed that LLMs have proven highly effective in phishing attack simulations and in managing cybersecurity administrative aspects, including defending against advanced exploits. Furthermore, LLMs show significant potential in the development of security software, further cementing their role as a powerful tool in cybersecurity innovation.
+type: other
+open_access: true
+cited_by: 84
+query: large language model agents tool governance personality optimization
+question: null
+search: SEARCH-e3cb0bf860
+score: 1.615
+score_parts:
+  rank: 0.333
+  citations: 0.482
+  recency: 0.8
+needs_approval: false
+state: candidate

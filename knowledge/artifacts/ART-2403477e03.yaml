@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-2403477e03
+created: 2026-09-15T01:08:01.806Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/rankings/quartiles-ais-jcr-2024.pdf
+paths:
+  - sources/rankings/quartiles-ais-jcr-2024.pdf
+hash: 2403477e037df2f09104581de1821e962d44fa42b3c2a34a39992aa89f2fbbd5
+bytes: 1450113
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 4869143
+  sections: 546
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T00:52:51.163Z

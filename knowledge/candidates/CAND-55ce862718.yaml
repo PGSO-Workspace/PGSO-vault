@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-55ce862718
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/979-8-8688-2358-9_17
+title: Personalized Network Management with AI Agents
+authors:
+  - Het Mehta
+year: 2026
+venue: AI Agents for Secure and Software-Defined Networking
+doi: 10.1007/979-8-8688-2358-9_17
+url: https://doi.org/10.1007/979-8-8688-2358-9_17
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.025
+score_parts:
+  rank: 0.025
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

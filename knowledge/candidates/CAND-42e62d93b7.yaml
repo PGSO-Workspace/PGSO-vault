@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-42e62d93b7
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7163912516
+title: Personalizing Emotion-Aware Conversational Agents? Exploring User Traits-Driven Conversational Strategies for Enhanced Interaction
+authors:
+  - Y Zhang
+  - Yong Ma
+  - Di Fu
+  - Stephanie Zubicueta Portales
+  - Morten Fjeld
+  - Danica Kragic
+year: 2026
+venue: International Journal of Human-Computer Interaction
+doi: 10.1080/10447318.2026.2675404
+url: https://doi.org/10.1080/10447318.2026.2675404
+abstract: Conversational agents (CAs) are increasingly embedded in daily life, yet their ability to navigate user emotions efficiently is still evolving. This study investigates how users with varying traits – gender, personality, and cultural background – adapt their interaction strategies with emotion-aware CAs in specific emotional scenarios. Using an emotion-aware CA prototype expressing five distinct emotions (neutral, happy, sad, angry, and fear) through male and female voices, we examine how interaction dynamics shift across different voices and emotional contexts through empirical studies. Our findings reveal distinct variations in user engagement and conversational strategies based on individual traits, emphasizing the value of personalized, emotion-sensitive interactions. By analyzing both qualitative and quantitative data, we demonstrate that tailoring CAs to user characteristics can enhance user satisfaction and interaction quality. This work underscores the critical need for ongoing research to design CAs that not only recognize but also adaptively respond to emotional needs, ultimately supporting diverse user groups more effectively.
+type: article
+open_access: true
+cited_by: 2
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.202
+score_parts:
+  rank: 0.083
+  citations: 0.119
+  recency: 1
+needs_approval: false
+state: candidate

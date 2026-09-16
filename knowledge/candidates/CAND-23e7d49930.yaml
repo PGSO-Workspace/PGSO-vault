@@ -1,0 +1,59 @@
+schema: phdude.candidate
+version: 1
+id: CAND-23e7d49930
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4393238133
+title: Identifying depression-related topics in smartphone-collected free-response speech recordings using an automatic speech recognition system and a deep learning topic model
+authors:
+  - Yuezhou Zhang
+  - Amos Folarin
+  - Judith Dineley
+  - Pauline Conde
+  - Valeria de Angel
+  - Shaoxiong Sun
+  - Yatharth Ranjan
+  - Zulqarnain Rashid
+  - Callum Stewart
+  - Petroula Laiou
+  - Heet Sankesara
+  - Linglong Qian
+  - Faith Matcham
+  - Katie M White
+  - Carolin Oetzmann
+  - Femke Lamers
+  - Sara Siddi
+  - Sara Simblett
+  - Björn W. Schuller
+  - Srinivasan Vairavan
+  - Til Wykes
+  - Josep María Haro
+  - Brenda W.J.H. Penninx
+  - Vaibhav A. Narayan
+  - Matthew Hotopf
+  - Richard Dobson
+  - Nicholas Cummins
+year: 2024
+venue: Journal of Affective Disorders
+doi: 10.1016/j.jad.2024.03.106
+url: https://doi.org/10.1016/j.jad.2024.03.106
+abstract: "BACKGROUND: Prior research has associated spoken language use with depression, yet studies often involve small or non-clinical samples and face challenges in the manual transcription of speech. This paper aimed to automatically identify depression-related topics in speech recordings collected from clinical samples. METHODS: The data included 3919 English free-response speech recordings collected via smartphones from 265 participants with a depression history. We transcribed speech recordings via automatic speech recognition (Whisper tool, OpenAI) and identified principal topics from transcriptions using a deep learning topic model (BERTopic). To identify depression risk topics and understand the context, we compared participants' depression severity and behavioral (extracted from wearable devices) and linguistic (extracted from transcribed texts) characteristics across identified topics. RESULTS: From the 29 topics identified, we identified 6 risk topics for depression: 'No Expectations', 'Sleep', 'Mental Therapy', 'Haircut', 'Studying', and 'Coursework'. Participants mentioning depression risk topics exhibited higher sleep variability, later sleep onset, and fewer daily steps and used fewer words, more negative language, and fewer leisure-related words in their speech recordings. LIMITATIONS: Our findings were derived from a depressed cohort with a specific speech task, potentially limiting the generalizability to non-clinical populations or other speech tasks. Additionally, some topics had small sample sizes, necessitating further validation in larger datasets. CONCLUSION: This study demonstrates that specific speech topics can indicate depression severity. The employed data-driven workflow provides a practical approach for analyzing large-scale speech data collected from real-world settings."
+type: article
+open_access: true
+cited_by: 27
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.233
+score_parts:
+  rank: 0.071
+  citations: 0.362
+  recency: 0.8
+needs_approval: false
+state: candidate

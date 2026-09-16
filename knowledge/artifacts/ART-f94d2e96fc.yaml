@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-f94d2e96fc
+created: 2026-09-15T01:04:50.072Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/reports/war-room-evidence-2026-09-15.md
+paths:
+  - sources/reports/war-room-evidence-2026-09-15.md
+hash: f94d2e96fcce26d3fad31b577465cb130dcd575c82f1aff6fe45193e1888ba18
+bytes: 4825
+mime: text/markdown
+kind: md
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 4821
+  sections: 5
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:04:49.872Z

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-20e5ac9414
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5528763
+title: Building Secure AI Agents for Autonomous Data Access in Compliance/Regulatory-Critical Environments
+authors:
+  - Anusha Nerella
+  - Naveen Kolli
+  - John Wesly Sajja
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5528763
+url: https://doi.org/10.2139/ssrn.5528763
+abstract: "Artificial intelligence (AI) agents are increasingly being deployed across data-driven industries to automate decisionmaking, streamline workflows, and enhance operational efficiency. However, their integration into compliance-critical environments such as finance, healthcare, and government raises significant concerns around data privacy, security, auditability, and explainability. Ensuring that autonomous systems can access sensitive data without violating regulatory requirements remains a central challenge. This paper introduces a secure architectural framework for designing and deploying AI agents that operate under strict compliance constraints. The proposed framework emphasizes three pillars: (1) fine-grained access control with contextual awareness, (2) continuous monitoring and auditing mechanisms for regulatory transparency, and (3) interpretable decision-making pathways to support accountability. By aligning agent autonomy with compliance-by-design principles, the framework offers a pathway to safely unlock the benefits of AI in domains where trust, oversight, and risk management are paramount. Preliminary evaluation suggests that the architecture reduces compliance violations while maintaining efficiency, offering a practical blueprint for secure AI deployment in sensitive sectors."
+type: preprint
+open_access: null
+cited_by: 1
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.017
+score_parts:
+  rank: 0.042
+  citations: 0.075
+  recency: 0.9
+needs_approval: true
+state: candidate

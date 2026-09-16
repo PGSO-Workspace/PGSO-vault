@@ -1,0 +1,23 @@
+schema: phdude.source
+version: 1
+id: SRC-aae64c9963
+created: 2026-09-15T09:05:42.590Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: PGSO blinded action-permission packet exporter 7a3f504
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-183a1e31f2
+  - ART-2cea7b747e
+  - ART-50b87ef546
+  - ART-7228b1dd4b
+  - ART-a626407fac
+state: candidate
+year: 2026
+url: https://github.com/PGSO-Workspace/pgso-sdk/pull/12
+abstract: Offline-tested exporter binds reviewer packets to exact effective benchmark policy text and hash, pre-attempt simulator states and preceding dialogue. Treatment identifiers and subsequent outcomes are separated into private linkage. These are action-permission packets, not intervention-appropriateness judgments. No human labels or conversational utility estimates have been collected.
+bibkey: pgso2026aae64c9963

@@ -1,0 +1,19 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-0c7ae4f0fe
+created: 2026-09-15T19:02:42.806Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/public-voice-b0-identity-20260915.tar
+hash: 0c7ae4f0fea265a4b30b3fa6dc84de591ff630484e4066be3670b08d60558930
+bytes: 12318720
+format: other
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: "Complete B0 public telecom generic identity-resolution development run: three scored sessions, raw audio/transcripts, complete augmented-policy manifest, wrapper hash/provenance, frozen criteria and log; no participants or YaVendio data."
+license: research workspace evidence

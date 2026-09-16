@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-32305b4708
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5013113
+title: Theory of Prompting for Large Language Models
+authors:
+  - Miquel Noguer I Alonso
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5013113
+url: https://doi.org/10.2139/ssrn.5013113
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 0.94
+score_parts:
+  rank: 0.04
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

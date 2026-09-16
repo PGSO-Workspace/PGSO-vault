@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-566cb0d99f
+created: 2026-09-15T00:31:50.118Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.63044/w26che150
+title: A Building Automation System Prototype Based on Open Standards, Open-Source Software and Openly Available Hardware for Enabling Digital Twin Research in Building Operations
+authors: []
+year: 2026
+venue: 2026 ASHRAE Winter Conference
+doi: 10.63044/w26che150
+url: https://doi.org/10.63044/w26che150
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"LlamaFirewall: An open source guardrail system for building secure AI agents"'
+question: null
+search: SEARCH-be035c0076
+score: 1.026
+score_parts:
+  rank: 0.026
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

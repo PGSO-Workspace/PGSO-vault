@@ -1,0 +1,56 @@
+schema: phdude.candidate
+version: 1
+id: CAND-944c43bd2a
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4398138749
+title: "MOSS: An Open Conversational Large Language Model"
+authors:
+  - Tianxiang Sun
+  - Xiaotian Zhang
+  - Zhengfu He
+  - Peng Li
+  - Qinyuan Cheng
+  - Xiangyang Liu
+  - Hang Yan
+  - Yunfan Shao
+  - Qiong Tang
+  - Shiduo Zhang
+  - Xingjian Zhao
+  - Ke Chen
+  - Yining Zheng
+  - Zhejian Zhou
+  - Ruixiao Li
+  - Jun Zhan
+  - Yunhua Zhou
+  - Linyang Li
+  - Xiaogui Yang
+  - Lingling Wu
+  - Zhangyue Yin
+  - Xuanjing Huang
+  - Yu–Gang Jiang
+  - Xipeng Qiu
+year: 2024
+venue: Machine Intelligence Research
+doi: 10.1007/s11633-024-1502-8
+url: https://doi.org/10.1007/s11633-024-1502-8
+abstract: Abstract Conversational large language models (LLMs) such as ChatGPT and GPT-4 have recently exhibited remarkable capabilities across various domains, capturing widespread attention from the public. To facilitate this line of research, in this paper, we report the development of MOSS, an open-sourced conversational LLM that contains 16 B parameters and can perform a variety of instructions in multi-turn interactions with humans. The base model of MOSS is pre-trained on large-scale unlabeled English, Chinese, and code data. To optimize the model for dialogue, we generate 1.1 M synthetic conversations based on user prompts collected through our earlier versions of the model API. We then perform preference-aware training on preference data annotated from AI feedback. Evaluation results on real-world use cases and academic benchmarks demonstrate the effectiveness of the proposed approaches. In addition, we present an effective practice to augment MOSS with several external tools. Through the development of MOSS, we have established a complete technical roadmap for large language models from pre-training, supervised fine-tuning to alignment, verifying the feasibility of chatGPT under resource-limited conditions and providing a reference for both the academic and industrial communities. Model weights and code are publicly available at https://github.com/OpenMOSS/MOSS .
+type: article
+open_access: true
+cited_by: 21
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.303
+score_parts:
+  rank: 0.167
+  citations: 0.336
+  recency: 0.8
+needs_approval: false
+state: candidate

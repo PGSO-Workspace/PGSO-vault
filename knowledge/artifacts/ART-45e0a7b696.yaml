@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-45e0a7b696
+created: 2026-09-15T06:12:39.199Z
+actor:
+  researcher: Lucio
+  agent: codex
+path: sources/software/pgso-sdk/operational-7805fb9/measurement_worker.py.txt
+paths:
+  - sources/software/pgso-sdk/operational-7805fb9/measurement_worker.py.txt
+hash: 45e0a7b696871f8917aec629f2ec4d775dd30af91fde145534cc5379c6fb5ec0
+bytes: 1832
+mime: text/plain
+kind: txt
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 1832
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T06:12:38.776Z

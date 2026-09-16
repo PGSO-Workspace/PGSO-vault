@@ -1,0 +1,18 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-59d5a75465
+created: 2026-09-15T00:58:59.197Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-journal-quartiles-verified.json
+hash: 59d5a7546517bc016176ca5e7164dcac9da31c4858cfcc436f660f7b90d8591e
+bytes: 7895
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Journal quartile evidence with explicit 2024 ranking metric and category; AIS and SJR distinguished

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ddf73c32be
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/ccpis65231.2025.11234184
+title: "Emotion Aware Therapeutic Conversational Agent: A Multimodal Approach to Mental Health Support"
+authors:
+  - Aman Barnawal
+  - Rajakumar K
+  - Sai Bhargav Kasetty
+  - Issac Neha Margret
+year: 2025
+venue: 2025 2nd International Conference on Circuits, Power and Intelligent Systems (CCPIS)
+doi: 10.1109/ccpis65231.2025.11234184
+url: https://doi.org/10.1109/ccpis65231.2025.11234184
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 0.943
+score_parts:
+  rank: 0.043
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

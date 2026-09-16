@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-aa429bb2de
+created: 2026-09-14T23:46:57.333Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7148177575
+title: "SafeClaw-R: Towards Safe and Secure Multi-Agent Personal Assistants"
+authors:
+  - Haoyu Albert Wang
+  - Zibo Xiao
+  - Yedi Zhang
+  - Christopher M. Poskitt
+  - Jun Sun
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: http://arxiv.org/abs/2603.28807
+abstract: "LLM-based multi-agent systems (MASs) are transforming personal productivity by autonomously executing complex, cross-platform tasks. Frameworks such as OpenClaw demonstrate the potential of locally deployed agents integrated with personal data and services, but this autonomy introduces significant safety and security risks. Unintended actions from LLM reasoning failures can cause irreversible harm, while prompt injection attacks may exfiltrate credentials or compromise the system. Our analysis shows that 36.4% of OpenClaw's built-in skills pose high or critical risks. Existing approaches, including static guardrails and LLM-as-a-Judge, lack reliable real-time enforcement and consistent authority in MAS settings. To address this, we propose SafeClaw-R, a framework that enforces safety as a system-level invariant over the execution graph by ensuring that actions are mediated prior to execution, and systematically augments skills with safe counterparts. We evaluate SafeClaw-R across three representative domains: productivity platforms, third-party skill ecosystems, and code execution environments. SafeClaw-R achieves 95.2% accuracy in Google Workspace scenarios, significantly outperforming regex baselines (61.6%), detects 97.8% of malicious third-party skill patterns, and achieves 100% detection accuracy in our adversarial code execution benchmark. These results demonstrate that SafeClaw-R enables practical runtime enforcement for autonomous MASs."
+type: preprint
+open_access: true
+cited_by: 0
+query: '"AgentSpec" runtime enforcement LLM agents'
+question: null
+search: SEARCH-ab8e976bec
+score: 1.167
+score_parts:
+  rank: 0.167
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

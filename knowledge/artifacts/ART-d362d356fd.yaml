@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-d362d356fd
+created: 2026-09-15T01:13:21.580Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/cap.pdf
+paths:
+  - sources/literature/cap.pdf
+hash: d362d356fd40ddcbd02aa8bce9a2dbe6d90a093bd4d678675fcf3fab5b2b79de
+bytes: 1443291
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 275602
+  sections: 74
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:09:44.441Z

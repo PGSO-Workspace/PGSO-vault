@@ -1,0 +1,21 @@
+schema: phdude.source
+version: 1
+id: SRC-0624b0cd70
+created: 2026-09-15T08:48:09.749Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+title: PGSO public-task pre-attempt annotation trace 27ed615
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts:
+  - ART-5513bfd1e6
+  - ART-99ed997129
+  - ART-fb41a8fcd8
+state: candidate
+year: 2026
+url: https://github.com/PGSO-Workspace/pgso-sdk/pull/10
+abstract: Development instrumentation records immutable public simulator state before assistant attempts, tool-call identity and preceding-dialogue indices, including denied actions. Three offline pilot tests passed, including twelve real-orchestrator sessions with mocked external generation. State snapshots are audit-only and do not enter agent or user-simulator prompts. No human annotations or metered task outcomes are asserted.
+bibkey: pgso20260624b0cd70

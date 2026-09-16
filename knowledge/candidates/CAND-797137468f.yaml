@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-797137468f
+created: 2026-09-15T00:31:39.316Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3233/jcs-211385
+title: Permissive runtime information flow control in the presence of exceptions
+authors:
+  - Abhishek Bichhawat
+  - Vineet Rajani
+  - Deepak Garg
+  - Christian Hammer
+year: 2021
+venue: Journal of Computer Security
+doi: 10.3233/jcs-211385
+url: https://doi.org/10.3233/jcs-211385
+abstract: Information flow control (IFC) has been extensively studied as an approach to mitigate information leaks in applications. A vast majority of existing work in this area is based on static analysis. However, some applications, especially on the Web, are developed using dynamic languages like JavaScript where static analyses for IFC do not scale well. As a result, there has been a growing interest in recent years to develop dynamic or runtime information flow analysis techniques. In spite of the advances in the field, runtime information flow analysis has not been at the helm of information flow security, one of the reasons being that the analysis techniques and the security property related to them (non-interference) over-approximate information flows (particularly implicit flows), generating many false positives. In this paper, we present a sound and precise approach for handling implicit leaks at runtime. In particular, we present an improvement and enhancement of the so-called permissive-upgrade strategy, which is widely used to tackle implicit leaks in dynamic information flow control. We improve the strategy’s permissiveness and generalize it. Building on top of it, we present an approach to handle implicit leaks when dealing with complex features like unstructured control flow and exceptions in higher-order languages. We explain how we address the challenge of handling unstructured control flow using immediate post-dominator analysis. We prove that our approach is sound and precise.
+type: article
+open_access: null
+cited_by: 3
+query: '"Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies"'
+question: null
+search: SEARCH-bbb98987ab
+score: 0.714
+score_parts:
+  rank: 0.063
+  citations: 0.151
+  recency: 0.5
+needs_approval: false
+state: candidate

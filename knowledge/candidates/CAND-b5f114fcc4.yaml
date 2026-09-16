@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b5f114fcc4
+created: 2026-09-15T08:10:36.723Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.4018/978-1-4666-0179-6.ch012
+title: Models for Interpretive Information Systems Research, Part 2
+authors:
+  - M. R. (Ruth) De Villiers
+year: 2012
+venue: Research Methodologies, Innovations and Philosophies in Software Systems Engineering and Information Systems
+doi: 10.4018/978-1-4666-0179-6.ch012
+url: https://doi.org/10.4018/978-1-4666-0179-6.ch012
+abstract: This chapter introduces interpretive research as a background to research that is time-and context-dependent. The study presents practical, yet theoretical research approaches that are relevant to postgraduate studies and to ad-hoc research. The models proposed as interpretive research designs are development research, design-science research, and design-based research. Systems development, in and of itself, is not research, but when integrated with evaluation and applied both to solve real-world problems and to propose general design principles, it gives rise to development research. Design research – termed design-science research in the domain of information systems (where it has roots in software engineering) and design-based research in educational technology (where the approaches are more pragmatic) – has clearly defined features and methods in each domain respectively. The common attributes are the generation of creative and innovative artifacts to serve in complex situations, and the joint advancement of theory and practice. The three research designs are described, and each is illustrated by an example of a study where the model was applied
+type: chapter
+open_access: null
+cited_by: 6
+query: '"Design Science in Information Systems Research"'
+question: null
+search: SEARCH-e78eb7cdff
+score: 0.264
+score_parts:
+  rank: 0.053
+  citations: 0.211
+  recency: 0
+needs_approval: false
+state: candidate

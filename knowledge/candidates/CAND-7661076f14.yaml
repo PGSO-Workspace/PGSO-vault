@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7661076f14
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404145938
+title: "Deep emotion recognition in textual conversations: a survey"
+authors:
+  - Patrícia Pereira
+  - Helena Moniz
+  - João Paulo Carvalho
+year: 2024
+venue: Artificial Intelligence Review
+doi: 10.1007/s10462-024-11010-y
+url: https://doi.org/10.1007/s10462-024-11010-y
+abstract: Emotion Recognition in Conversations (ERC) is a key step towards successful human–machine interaction. While the field has seen tremendous advancement in the last few years, new applications and implementation scenarios present novel challenges and opportunities. These range from leveraging the conversational context, speaker, and emotion dynamics modelling, to interpreting common sense expressions, informal language, and sarcasm, addressing challenges of real-time ERC, recognizing emotion causes, different taxonomies across datasets, multilingual ERC, and interpretability. This survey starts by introducing ERC, elaborating on the challenges and opportunities of this task. It proceeds with a description of the emotion taxonomies and a variety of ERC benchmark datasets employing such taxonomies. This is followed by descriptions comparing the most prominent works in ERC with explanations of the neural architectures employed. Then, it provides advisable ERC practices towards better frameworks, elaborating on methods to deal with subjectivity in annotations and modelling and methods to deal with the typically unbalanced ERC datasets. Finally, it presents systematic review tables comparing several works regarding the methods used and their performance. Benchmarking these works highlights resorting to pre-trained Transformer Language Models to extract utterance representations, using Gated and Graph Neural Networks to model the interactions between these utterances, and leveraging Generative Large Language Models to tackle ERC within a generative framework. This survey emphasizes the advantage of leveraging techniques to address unbalanced data, the exploration of mixed emotions, and the benefits of incorporating annotation subjectivity in the learning phase.
+type: article
+open_access: true
+cited_by: 33
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.516
+score_parts:
+  rank: 0.333
+  citations: 0.383
+  recency: 0.8
+needs_approval: false
+state: candidate

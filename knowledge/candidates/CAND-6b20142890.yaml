@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6b20142890
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/ceii67787.2025.00064
+title: "Emotion-Aware HMI for Early Childhood Education: Multimodal Affect Recognition and Hybrid Learning-Path Recommendation"
+authors:
+  - Li Wang
+year: 2025
+venue: 2025 8th Asia Conference on Cognitive Engineering and Intelligent Interaction (CEII)
+doi: 10.1109/ceii67787.2025.00064
+url: https://doi.org/10.1109/ceii67787.2025.00064
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 0.932
+score_parts:
+  rank: 0.032
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

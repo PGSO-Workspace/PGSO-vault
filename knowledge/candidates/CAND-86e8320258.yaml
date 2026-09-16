@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-86e8320258
+created: 2026-09-15T00:30:50.983Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.25144/17356
+title: LARGE-SCALE STRATEGIC NOISE MAPPING - USING TILED ACOUSTIC MODELS
+authors:
+  - L FIND LARSEN
+year: 2023
+venue: 8th European Conference on Noise Control 2009
+doi: 10.25144/17356
+url: https://doi.org/10.25144/17356
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"'
+question: null
+search: SEARCH-40ed8087e2
+score: 0.75
+score_parts:
+  rank: 0.05
+  citations: 0
+  recency: 0.7
+needs_approval: false
+state: candidate

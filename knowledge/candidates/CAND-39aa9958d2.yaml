@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-39aa9958d2
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410819626
+title: "Deep Reinforcement Learning of Mobile Robot Navigation in Dynamic Environment: A Review"
+authors:
+  - Yingjie Zhu
+  - Wan Zuha Wan Hasan
+  - Hafiz Rashidi Ramli
+  - Nor Mohd Haziq Norsahperi
+  - Muhamad Saufi Mohd Kassim
+  - Yiduo Yao
+year: 2025
+venue: Sensors
+doi: 10.3390/s25113394
+url: https://doi.org/10.3390/s25113394
+abstract: Deep reinforcement learning (DRL), a vital branch of artificial intelligence, has shown great promise in mobile robot navigation within dynamic environments. However, existing studies mainly focus on simplified dynamic scenarios or the modeling of static environments, which results in trained models lacking sufficient generalization and adaptability when faced with real-world dynamic environments, particularly in handling complex task variations, dynamic obstacle interference, and multimodal data fusion. Addressing these gaps is essential for enhancing its real-time performance and versatility. Through a comparative analysis of classical DRL algorithms, this study highlights their advantages and limitations in handling real-time navigation tasks under dynamic environmental conditions. In particular, the paper systematically examines value-based, policy-based, and hybrid-based DRL methods, discussing their applicability to different navigation challenges. Additionally, by reviewing recent studies from 2021 to 2024, it identifies key trends in DRL-based navigation, revealing a strong focus on indoor environments while outdoor navigation and multi-robot collaboration remain underexplored. The analysis also highlights challenges in real-world deployment, particularly in sim-to-real transfer and sensor fusion. Based on these findings, this paper outlines future directions to enhance real-time adaptability, multimodal perception, and collaborative learning frameworks, providing theoretical and technical insights for advancing DRL in dynamic environments.
+type: article
+open_access: true
+cited_by: 61
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.473
+score_parts:
+  rank: 0.125
+  citations: 0.448
+  recency: 0.9
+needs_approval: false
+state: candidate

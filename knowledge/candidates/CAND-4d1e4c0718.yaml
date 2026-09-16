@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4d1e4c0718
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6380758
+title: Integrating Large Language Models with Autonomous Search Agents for Advanced Information Retrieval
+authors:
+  - Noah Gates
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6380758
+url: https://doi.org/10.2139/ssrn.6380758
+abstract: "The rapid advancement of Large Language Models (LLMs) has revolutionized natural language processing, yet these models remain fundamentally constrained by their reliance on static training corpora, resulting in knowledge cutoffs, factual hallucinations, and an inability to access real-time or proprietary information. This paper addresses these critical limitations by proposing a novel architectural framework for integrating LLMs with autonomous search agents to create hybrid systems capable of advanced information retrieval. Moving beyond simplistic retrievalaugmented generation (RAG) approaches, this research introduces a dynamic orchestration layer wherein LLMs function not merely as answer generators but as strategic reasoning cores that decompose complex queries, formulate search intentions, and delegate execution to specialized autonomous agents. These agents, equipped with tool-use capabilities, navigate heterogeneous information landscapes-including public web repositories, deep web databases, and structured knowledge bases-through iterative search, filtering, and evidence accumulation. The framework incorporates a bidirectional feedback loop: search results inform and refine the LLM's reasoning process, while the LLM's evolving understanding guides subsequent search strategies. We evaluate the integrated system against traditional LLM baselines and simple RAG implementations using benchmarks that test multi-step reasoning, temporal awareness, and information synthesis across disparate sources. Results demonstrate significant improvements in factual accuracy (reducing hallucinations by approximately 40%), query completion rates for complex multi-source requests, and the ability to answer time-sensitive questions requiring upto-date information. This work contributes a principled methodology for creating transparent, verifiable, and dynamically knowledgeable AI systems, with implications for academic research, enterprise intelligence, and the democratization of advanced information access. The proposed integration paradigm establishes a foundation for the next generation of intelligent information retrieval systems that combine the reasoning depth of LLMs with the breadth and timeliness of autonomous search."
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.04
+score_parts:
+  rank: 0.04
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

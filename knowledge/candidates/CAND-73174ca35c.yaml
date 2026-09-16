@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-73174ca35c
+created: 2026-09-14T23:44:09.730Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5550527
+title: Graph Neural Network-Based Mutation-Aware Regression Test Ordering Using Code Dependency Graphs and Execution Traces
+authors:
+  - Sowmyadevi S
+  - Anna Alphy
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5550527
+url: https://doi.org/10.2139/ssrn.5550527
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Combining Neural Empathy-Aware Behavior Trees With Knowledge Graphs for Affective Human-AI Teaming" code GitHub'
+question: null
+search: SEARCH-2325920ecd
+score: 1.15
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 0.9
+needs_approval: true
+state: candidate

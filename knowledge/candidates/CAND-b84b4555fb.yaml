@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b84b4555fb
+created: 2026-09-15T07:34:45.095Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6418638
+title: "Cryptographic Runtime Governance for Autonomous AI Systems: The Aegis Architecture for Verifiable Policy Enforcement"
+authors:
+  - Adam Mazzocchetti
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6418638
+url: https://doi.org/10.2139/ssrn.6418638
+abstract: "<div> Contemporary AI governance frameworks rely heavily on post hoc oversight, policy guidance, and behavioral alignment techniques, yet these mechanisms become fragile as systems gain autonomy, speed, and operational opacity. This paper presents Aegis, a runtime governance architecture for autonomous AI systems that treats policy and legal constraints as execution conditions rather than advisory principles. Aegis binds each governed agent to a cryptographically sealed Immutable Ethics Policy Layer (IEPL) at system genesis and enforces external emissions through an Ethics Verification Agent (EVA), an Enforcement Kernel Module (EKM), and an Immutable Logging Kernel (ILK). Amendments to the governing policy layer require quorum approval and redeclaration of the system trust root; verified violations trigger autonomous shutdown and generation of auditable proof artifacts.&nbsp; </div> <div> <br> </div> <div> We evaluate the architecture within the Civitas runtime using three operational measures: proof verification latency under tamper conditions, publication overhead, and alignmen retention performance relative to an ungoverned baseline. In controlled trials, Aegis demonstrates median proof verification latency of 238 ms, median publication overhead of approximately 9.4 ms, and higher alignment retention than the baseline condition across matched tasks. We argue that these results support a shift in AI governance from discretionary oversight toward verifiable runtime constraint. Rather than claiming to resolve machine ethics in the abstract, the proposed architecture seeks to show that policy violating behavior can be rendered operationally non executable within a controlled runtime governance framework. The paper concludes by discussing methodological limits, evidentiary implications, and the role of proof oriented governance in high assurance AI deployment. </div>"
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 journal LLM agents runtime monitor policy enforcement tool calls
+question: null
+search: SEARCH-b7942200d3
+score: 1.03
+score_parts:
+  rank: 0.03
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

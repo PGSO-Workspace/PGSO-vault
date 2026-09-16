@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0787607c7a
+created: 2026-09-15T01:09:30.246Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7160312449
+title: "Zono-Conformal Prediction: Zonotope-Based Uncertainty Quantification for Regression and Classification Tasks"
+authors:
+  - Laura Lützow
+  - Michael Eichelbeck
+  - Mykel J. Kochenderfer
+  - Matthias Althoff
+year: 2025
+venue: Repository KITopen (Karlsruhe Institute of Technology)
+doi: 10.5445/ir/1000192986
+url: https://publikationen.bibliothek.kit.edu/1000192986
+abstract: Conformal prediction is a popular uncertainty quantification method that augments a base predictor to return sets of predictions with statistically valid coverage guarantees.However, current methods are often computationally expensive and data-intensive, as they require constructing an uncertainty model before calibration.Moreover, existing approaches typically represent the prediction sets with intervals, which limits their ability to capture dependencies in multi-dimensional outputs.We address these limitations by introducing zono-conformal prediction, a novel approach inspired by interval predictor models and reachset-conformant identification that constructs prediction zonotopes with assured coverage.By placing zonotopic uncertainty sets directly into the model of the base predictor, zono-conformal predictors can be identified via a single, data-efficient linear program.While we can apply zono-conformal prediction to arbitrary nonlinear base predictors, we focus on feed-forward neural networks in this work.Aside from regression tasks, we also construct optimal zono-conformal predictors in classification settings where the output of an uncertain predictor is a set of possible classes.We provide probabilistic coverage guarantees and present methods for detecting outliers in the identification data.In extensive numerical experiments, we show that zono-conformal predictors are less conservative than interval predictor models and standard conformal prediction methods, while achieving a similar coverage over the test data.
+type: article
+open_access: true
+cited_by: 0
+query: Zono-Conformal Prediction Zonotope-Based Uncertainty Quantification for Regression and Classification Tasks
+question: null
+search: SEARCH-8abfe369f0
+score: 1.9
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

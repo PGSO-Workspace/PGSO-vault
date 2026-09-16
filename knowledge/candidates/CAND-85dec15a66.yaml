@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-85dec15a66
+created: 2026-09-14T23:44:12.626Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.62896/ijmsi.2.1.18
+title: "AI Code Reviewer: Real-Time Code Analysis with GitHub Integration"
+authors:
+  - Mohd Danish
+  - Mohmmad Kashif
+  - Al Zaid
+  - Saman Khan
+year: 2026
+venue: International Journal of Multidisciplinary Science and Innovation
+doi: 10.62896/ijmsi.2.1.18
+url: https://doi.org/10.62896/ijmsi.2.1.18
+abstract: This paper presents an AI Code Reviewer system designed to enhance software development workflows through real-time code analysis and automated GitHub integration. The system provides an interactive coding environment where developers receive immediate AI-powered feedback on syntax errors, security vulnerabilities, and optimisation opportunities. As users write code, artificial intelligence continuously reviews the content, offering suggestions to improve code quality and adherence to best practices. The system in- corporates an MCP (Model Context Protocol) server that enables natural language interaction, allowing developers to query the AI model for specific improvements. Our implementation utilises a dual-model architecture combining the Cerebras and Groq models to enhance response accuracy through iterative refinement. Upon completion, the AI agent automatically pushes reviewed code to GitHub repositories using secure access tokens. This end-to-end automation bridges the gap between code development and version control, reducing manual steps and deployment errors. Experimental evaluation demonstrates significant improvements in code quality and development efficiency compared to traditional review methods.
+type: article
+open_access: null
+cited_by: 0
+query: '"Coupling Sentiment and Arousal Analysis Towards an Affective Dialogue Manager" code GitHub'
+question: null
+search: SEARCH-da8e2200c9
+score: 1.2
+score_parts:
+  rank: 0.2
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-1604d673af
+created: 2026-09-15T07:34:04.334Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416986173
+title: "Ethical perspectives on deployment of large language model agents in biomedicine: a survey"
+authors:
+  - Nafiseh Ghaffar Nia
+  - Amin Amiri
+  - Yuan Luo
+  - Adrienne Kline
+year: 2025
+venue: AI and Ethics
+doi: 10.1007/s43681-025-00847-w
+url: https://doi.org/10.1007/s43681-025-00847-w
+abstract: Abstract Large language models (LLMs) and their integration into agentic and embodied systems are reshaping artificial intelligence (AI), enabling powerful cross-domain generation and reasoning while introducing new risks. Key concerns include hallucination and misinformation, embedded and amplified biases, privacy leakage, and susceptibility to adversarial manipulation. Ensuring trustworthy and responsible generative AI requires technical reliability, transparency, accountability, and attention to societal impact. The present study conducts a review of peer-reviewed literature on the ethical dimensions of LLMs and LLM-based agents across technical, biomedical, and societal domains. It maps the landscape of risks, distills mitigation strategies (e.g., robust evaluation and red-teaming, alignment and guardrailing, privacy-preserving data practices, bias measurement and reduction, and safety-aware deployment), and examines governance frameworks and operational practices relevant to real-world use. By organizing findings through interdisciplinary lenses and bioethical principles, the review identifies persistent gaps, such as limited context-aware evaluation, uneven reporting standards, and weak post-deployment monitoring, that impede accountability and fairness. The synthesis supports practitioners and policymakers in designing safer, more equitable, and auditable LLM systems, and outlines priorities for future research and governance.
+type: article
+open_access: true
+cited_by: 5
+query: 2024 2025 journal LLM agent tool permission authorization runtime enforcement security guardrails
+question: null
+search: SEARCH-b0fa183ef0
+score: 1.595
+score_parts:
+  rank: 0.5
+  citations: 0.195
+  recency: 0.9
+needs_approval: false
+state: candidate

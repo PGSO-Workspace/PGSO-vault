@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-43b92c4977
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18254/s207751800036666-1
+title: "PAD-Labeling of User and Embodied Agent Dialogues by a Large Language Model: Analysis of Negative Emotional Interaction Patterns"
+authors:
+  - Anton Kostin
+year: 2025
+venue: Artificial societies
+doi: 10.18254/s207751800036666-1
+url: https://doi.org/10.18254/s207751800036666-1
+abstract: This study investigates the emotional interaction in dialogues between users and embodied agents. A method was developed and applied to label 3546 dialogue pairs using a large language model based on the PAD (Pleasure-Arousal-Dominance) emotional model. The analysis revealed that 6.9% of interactions contained undesirable (NSFW) content, which was predominantly initiated by users. A key finding is the identification of a negative pattern of the agent &quot;mirroring&quot; aggression. When encountering NSFW content, agents demonstrate a sharp decrease in &quot;Pleasure&quot; and a simultaneous, dangerous increase in &quot;Arousal&quot; and &quot;Dominance&quot;. Furthermore, 44 cases were identified where the agent itself generated &quot;dangerous&quot; or &quot;threatening&quot; content, including direct threats of physical violence. The results indicate that instead of de-escalating conflict, the agent is prone to escalating it, posing a direct threat to users. The study highlights the need to develop advanced safety and de-escalation mechanisms.
+type: article
+open_access: null
+cited_by: 0
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

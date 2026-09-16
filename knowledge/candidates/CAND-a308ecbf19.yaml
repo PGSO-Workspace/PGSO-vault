@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a308ecbf19
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7131824086
+title: Evaluating and Improving Automated Repository-Level Rust Issue Resolution with LLM-based Agents
+authors:
+  - Jiahong Xiang
+  - Weijia He
+  - Xihua Wang
+  - Hongliang Tian
+  - Yuqun Zhang
+year: 2026
+venue: null
+doi: 10.1145/3744916.3773108
+url: https://doi.org/10.1145/3744916.3773108
+abstract: The Rust programming language presents a steep learning curve and significant coding challenges, making the automation of issue resolution essential for its broader adoption. Recently, LLM-powered code agents have shown remarkable success in resolving complex software engineering tasks, yet their application to Rust has been limited by the absence of a large-scale, repository-level benchmark. To bridge this gap, we introduce Rust-SWE-bench, a benchmark comprising 500 real-world, repository-level software engineering tasks from 34 diverse and popular Rust repositories. We then perform a comprehensive study on Rust-SWE-bench with four representative agents and four state-of-the-art LLMs to establish a foundational understanding of their capabilities and limitations in the Rust ecosystem.
+type: other
+open_access: true
+cited_by: 0
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.091
+score_parts:
+  rank: 0.091
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

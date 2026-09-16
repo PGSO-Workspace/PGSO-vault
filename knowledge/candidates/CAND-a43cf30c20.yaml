@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a43cf30c20
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/mass66014.2025.00090
+title: "We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems"
+authors:
+  - Zhihao Li
+  - Kun Li
+  - Boyang Ma
+  - Minghui Xu
+  - Yue Zhang
+  - Xiuzhen Cheng
+year: 2025
+venue: 2025 IEEE 22nd International Conference on Mobile Ad-Hoc and Smart Systems (MASS)
+doi: 10.1109/mass66014.2025.00090
+url: https://doi.org/10.1109/mass66014.2025.00090
+abstract: null
+type: article
+open_access: null
+cited_by: 6
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 1.254
+score_parts:
+  rank: 0.143
+  citations: 0.211
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-378879dfcc
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4409143265
+title: Perspectives and Realities of Disengagement Among Younger Generation Y and Z Workers in Contemporary Work Dynamics
+authors:
+  - Margarida Saraiva
+  - Teresa Nogueiro
+year: 2025
+venue: Administrative Sciences
+doi: 10.3390/admsci15040133
+url: https://doi.org/10.3390/admsci15040133
+abstract: The disengagement of younger workers, particularly from Generations Y and Z, is a growing concern in contemporary organizational environments. This study analyzes the factors influencing disengagement and the organizational strategies that can reduce its impact. A literature review was conducted, covering studies published between 2014 and 2024, with the selection of publications based on relevance, indexing, and thematic alignment. The findings indicate that disengagement results from a combination of factors. Firstly, job demand factors were identified, such as the misalignment between well-being policies and employee needs, excessive workloads, the absence of remote work and flexible schedules, challenges associated with digitalization and new technologies, economic insecurity, job instability, and frequent organizational changes. Secondly, job resource factors were also highlighted, including inadequate leadership, ineffective communication, limited professional development opportunities, and poorly structured evaluation and reward systems. These findings align with the Job Demands-Resources (JD-R) Model. In addition, psychological factors were observed, namely, a lack of autonomy, experiences of injustice and inequality in the workplace, misalignment between personal values and organizational culture, and the presence of hostile or toxic environments, which correspond to the theoretical assumptions of the Self-Determination Theory (SDT).To address disengagement, organizations should implement organizational strategies, such as physical and mental well-being programs, encourage regular breaks, promote healthy lifestyle campaigns, provide psychological support, and create ergonomic work environments. Additionally, they should foster professional growth through continuous training, mentoring, and transparent recognition and reward systems. Organizational communication must be open and effective, ensuring transparency and active employee participation. The adoption of remote work policies and flexible schedules, along with investments in technology and collaboration tools, also helps maintain engagement. These strategies promote employee satisfaction, motivation, and organizational commitment among workers, particularly those from Generations Y and Z, so organizations must adapt to the evolving expectations of the workforce to prevent long-term negative effects, such as decreased productivity and higher turnover, compromising their competitiveness and sustainability.
+type: article
+open_access: true
+cited_by: 43
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1.402
+score_parts:
+  rank: 0.091
+  citations: 0.411
+  recency: 0.9
+needs_approval: false
+state: candidate

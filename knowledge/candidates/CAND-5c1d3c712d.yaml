@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5c1d3c712d
+created: 2026-09-15T07:48:25.542Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5194/egusphere-2026-3782-ac1
+title: "Reply on CC3: Move model checkpoints to Zenodo"
+authors:
+  - Renu Singh
+year: 2026
+venue: null
+doi: 10.5194/egusphere-2026-3782-ac1
+url: https://doi.org/10.5194/egusphere-2026-3782-ac1
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"zenodo.22296644" L-DREA'
+question: null
+search: SEARCH-78cd1e9416
+score: 1.059
+score_parts:
+  rank: 0.059
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

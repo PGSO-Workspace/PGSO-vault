@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0be284bfc7
+created: 2026-09-15T07:50:14.590Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1038/s41598-026-65647-6
+title: "ACSFNet: adaptive channel–spatial fusion for efficient 2D human pose estimation toward motion analysis"
+authors:
+  - Zihang Xu
+  - Yue Qi
+  - Jinyi Yu
+year: 2026
+venue: Scientific Reports
+doi: 10.1038/s41598-026-65647-6
+url: https://doi.org/10.1038/s41598-026-65647-6
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Yue Qi" repository'
+question: null
+search: SEARCH-32580e75f5
+score: 1.1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

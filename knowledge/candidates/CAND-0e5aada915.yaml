@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0e5aada915
+created: 2026-09-15T07:35:27.619Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416187676
+title: "Software Quality Assurance and AI: A Systems-Theoretic Approach to Reliability, Safety, and Security"
+authors:
+  - Joseph R. Laracy
+  - Ziyuan Meng
+  - Vassilka Kirova
+  - Cyril S. Ku
+  - Thomas J. Marlowe
+year: 2025
+venue: Software
+doi: 10.3390/software4040030
+url: https://doi.org/10.3390/software4040030
+abstract: The integration of modern artificial intelligence into software systems presents transformative opportunities and novel challenges for software quality assurance (SQA). While AI enables powerful enhancements in testing, monitoring, and defect prediction, it also introduces non-determinism, continuous learning, and opaque behavior that challenge traditional quality and reliability paradigms. This paper proposes a framework for addressing these issues, drawing on concepts from systems theory. We argue that AI-enabled software systems should be understood as dynamical systems, i.e., stateful adaptive systems whose behavior depends on prior inputs, feedback, and environmental interaction, as well as components embedded within broader socio-technical ecosystems. From this perspective, quality assurance becomes a matter of maintaining stability by enforcing constraints as well as designing robust feedback and control mechanisms that account for interactions across the full ecosystem of stakeholders, infrastructure, and operational environments. This paper outlines how the systems-theoretic perspective can inform the development of modern SQA processes. This ecosystem-aware approach repositions software quality as an ongoing, systemic responsibility, especially important in mission-critical AI applications.
+type: article
+open_access: true
+cited_by: 2
+query: 2024 2025 IEEE TSE autonomous agents runtime assurance large language models
+question: null
+search: SEARCH-4adcdf60bf
+score: 1.078
+score_parts:
+  rank: 0.059
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

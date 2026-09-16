@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-66d46d2a70
+created: 2026-09-14T23:44:30.144Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5465/amproc.2025.16844abstract
+title: "Open Letter and Open Source: How Ethical Advocacy Shapes AI Repository Forking on GitHub"
+authors:
+  - Rui Yang
+  - Qiwen YU
+  - Tianyu Gong
+  - Zijian ZHAO
+year: 2025
+venue: Academy of Management Proceedings
+doi: 10.5465/amproc.2025.16844abstract
+url: https://doi.org/10.5465/amproc.2025.16844abstract
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"WeClaw" "Adaptive Runtime" GitHub open source'
+question: null
+search: SEARCH-b132bc032f
+score: 1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

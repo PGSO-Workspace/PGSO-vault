@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a811aaa31e
+created: 2026-09-15T01:08:00.178Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.5205898
+title: "Toward LLM-Agent-Based Modeling of Transportation Systems: A Conceptual Framework"
+authors:
+  - Tianming Liu
+  - Jirong Yang
+  - Yafeng Yin
+year: 2025
+venue: null
+doi: 10.2139/ssrn.5205898
+url: https://doi.org/10.2139/ssrn.5205898
+abstract: null
+type: preprint
+open_access: null
+cited_by: 2
+query: LLM-Agent-UMF LLM-based Agent Unified Modeling Framework
+question: null
+search: SEARCH-9784dfdfed
+score: 1.352
+score_parts:
+  rank: 0.333
+  citations: 0.119
+  recency: 0.9
+needs_approval: true
+state: candidate

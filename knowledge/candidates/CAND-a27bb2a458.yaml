@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a27bb2a458
+created: 2026-09-15T01:07:09.663Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/icaicta53211.2021.9640258
+title: Designing Embodied Virtual Agent in E-commerce System Recommendations using Conversational Design Interaction
+authors:
+  - Nadya Anastasia
+  - Harlili
+  - Lenny Putri Yulianti
+year: 2021
+venue: "2021 8th International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA)"
+doi: 10.1109/icaicta53211.2021.9640258
+url: https://doi.org/10.1109/icaicta53211.2021.9640258
+abstract: null
+type: article
+open_access: null
+cited_by: 3
+query: '"Effects of interaction modalities and emotional states" embodied conversational agent S1071581925001429'
+question: null
+search: SEARCH-a3e358976b
+score: 0.818
+score_parts:
+  rank: 0.167
+  citations: 0.151
+  recency: 0.5
+needs_approval: false
+state: candidate

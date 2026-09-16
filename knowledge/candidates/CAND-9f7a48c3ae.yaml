@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9f7a48c3ae
+created: 2026-09-15T07:49:59.291Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6027134
+title: Faecalibacterium prausnitzii and Its Metabolite Butyrate Ameliorate Psychological Stress-Induced Obesity in Adolescents
+authors:
+  - Lu Ma
+  - Zihan Guo
+  - Ying Li
+  - See PDF
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6027134
+url: https://doi.org/10.2139/ssrn.6027134
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Chihao Li" PDF'
+question: null
+search: SEARCH-a24394c105
+score: 1.053
+score_parts:
+  rank: 0.053
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

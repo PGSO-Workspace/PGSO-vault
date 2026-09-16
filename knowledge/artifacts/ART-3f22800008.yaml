@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-3f22800008
+created: 2026-09-15T00:58:29.778Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/coupling.pdf
+paths:
+  - sources/literature/coupling.pdf
+hash: 3f228000083fa734dbeff0abdb2eb2ba9c4e8451df6ef695c0503cd6c0cd1298
+bytes: 838241
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 69194
+  sections: 9
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T00:48:08.148Z

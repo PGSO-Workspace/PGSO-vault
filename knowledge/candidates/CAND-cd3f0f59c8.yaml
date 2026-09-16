@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-cd3f0f59c8
+created: 2026-09-15T07:34:04.334Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5220/0013128100003899
+title: Assessing the Effectiveness of an LLM-Based Permission Model for Android
+authors:
+  - Roberto Milanese
+  - Michele Guerra
+  - Michele Daniele
+  - Giovanni Fabbrocino
+  - Fausto Fasano
+year: 2025
+venue: Proceedings of the 11th International Conference on Information Systems Security and Privacy
+doi: 10.5220/0013128100003899
+url: https://doi.org/10.5220/0013128100003899
+abstract: null
+type: article
+open_access: null
+cited_by: 3
+query: 2024 2025 journal LLM agent tool permission authorization runtime enforcement security guardrails
+question: null
+search: SEARCH-b0fa183ef0
+score: 1.083
+score_parts:
+  rank: 0.032
+  citations: 0.151
+  recency: 0.9
+needs_approval: false
+state: candidate

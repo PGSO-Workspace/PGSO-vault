@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7213aea7e5
+created: 2026-09-15T07:35:08.490Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7134860184
+title: "Characterizing Faults in Agentic AI: A Taxonomy of Types, Symptoms, and Root Causes"
+authors:
+  - Mehil B. Shah
+  - Mohammad Mehdi Morovati
+  - Mohammad Mustafizur Rahman
+  - Foutse Khomh
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2603.06847
+abstract: Agentic AI systems combine LLM-based reasoning, orchestration, tool invocation, and interaction with external environments. These systems introduce faults that are difficult to characterize using existing taxonomies. To address this gap, we present an empirical study of faults in agentic AI systems. We collected 13,602 issues and pull requests from 40 repositories and, using stratified sampling, selected 385 faults for analysis. Through grounded theory, we derived taxonomies of fault types, symptoms, and root causes. We then used Apriori-based association rule mining to identify relationships among faults, symptoms, and root causes, and validated the taxonomy through a developer study with 145 practitioners. Our analysis produced a taxonomy of 34 fault types, organized into four architectural dimensions. These faults manifested as failures in structured-output interpretation, tool calls, runtime execution, and exception handling, with root causes including data schema mismatches, dependency drift, state management complexity, and model interface instability. Furthermore, association rules showed recurring cross-component propagation, linking structured data, dependency, and state management faults to their symptoms and root causes. Practitioners considered the taxonomy representative of agentic AI failures and suggested refinements related to multi-agent coordination and observability. These findings provide an empirical basis for diagnosing faults and improving reliability in agentic AI systems.
+type: preprint
+open_access: true
+cited_by: 0
+query: 2024 2025 ACM TOSEM LLM agent security tool calling safety
+question: null
+search: SEARCH-e4e32a7221
+score: 1.063
+score_parts:
+  rank: 0.063
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

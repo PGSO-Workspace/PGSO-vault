@@ -1,0 +1,16 @@
+schema: phdude.source
+version: 1
+id: SRC-c9eff7a2fa
+created: 2026-09-15T00:38:01.937Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: PGSO first matched external comparator run and bibliography screening — 2026-09-15
+authors:
+  - "{PGSO Workspace}"
+type: report
+artifacts: []
+state: candidate
+year: 2026
+abstract: RegisteredANALYSIS-607978b848 executed actualPGSO binarylineage60113da, NeMoGuardrails0.24.0commit5e8a729 andInvariantcommit2340fe2. Threecontrollers1206finiteepisodecases each,16expectedblock/1190expectedallow; zero missed/unnecessaryblocks for all. NativeNeMoColang andInvariantDSL implementpredicates, noPythonexternaldecisionfedtoengine. Reversedepisodeorderfreshprocesschecks pass. Outputs analysis/out/comparator-preflight-v1 includeinputs, rawdecisions, emptydifferences,build/environmentmanifest andresults. This is only finite-policy capabilitypreflight, notsuperiority/voiceutility/actualdispatch proof. Bibliography ANALYSIS-e26a794548 renders20screenedworks(12journals,7conferences,1preprint;12priority8reserve) with10exactmetadataquerychecks; nofulltext/Q1eligibilityclearance. Matrix analysis/out/bibliography-screen-v1/matrix.csv. OfficialSJR indexedsearchsnippets suggestTAFFCandEAAIQ1, but directrankingpageswereblocked; nofullyauditableyear/category clearanceclaimed. Originalmanuscriptunchanged.

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-43cf6d9dac
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4393169119
+title: "Evaluating the Potential and Pitfalls of AI-Powered Conversational Agents as Humanlike Virtual Health Carers in the Remote Management of Noncommunicable Diseases: Scoping Review"
+authors:
+  - Sadia Azmin Anisha
+  - Arkendu Sen
+  - Chris Bain
+year: 2024
+venue: Journal of Medical Internet Research
+doi: 10.2196/56114
+url: https://doi.org/10.2196/56114
+abstract: "BACKGROUND: The rising prevalence of noncommunicable diseases (NCDs) worldwide and the high recent mortality rates (74.4%) associated with them, especially in low- and middle-income countries, is causing a substantial global burden of disease, necessitating innovative and sustainable long-term care solutions. OBJECTIVE: This scoping review aims to investigate the impact of artificial intelligence (AI)-based conversational agents (CAs)-including chatbots, voicebots, and anthropomorphic digital avatars-as human-like health caregivers in the remote management of NCDs as well as identify critical areas for future research and provide insights into how these technologies might be used effectively in health care to personalize NCD management strategies. METHODS: A broad literature search was conducted in July 2023 in 6 electronic databases-Ovid MEDLINE, Embase, PsycINFO, PubMed, CINAHL, and Web of Science-using the search terms \"conversational agents,\" \"artificial intelligence,\" and \"noncommunicable diseases,\" including their associated synonyms. We also manually searched gray literature using sources such as ProQuest Central, ResearchGate, ACM Digital Library, and Google Scholar. We included empirical studies published in English from January 2010 to July 2023 focusing solely on health care-oriented applications of CAs used for remote management of NCDs. The narrative synthesis approach was used to collate and summarize the relevant information extracted from the included studies. RESULTS: The literature search yielded a total of 43 studies that matched the inclusion criteria. Our review unveiled four significant findings: (1) higher user acceptance and compliance with anthropomorphic and avatar-based CAs for remote care; (2) an existing gap in the development of personalized, empathetic, and contextually aware CAs for effective emotional and social interaction with users, along with limited consideration of ethical concerns such as data privacy and patient safety; (3) inadequate evidence of the efficacy of CAs in NCD self-management despite a moderate to high level of optimism among health care professionals regarding CAs' potential in remote health care; and (4) CAs primarily being used for supporting nonpharmacological interventions such as behavioral or lifestyle modifications and patient education for the self-management of NCDs. CONCLUSIONS: This review makes a unique contribution to the field by not only providing a quantifiable impact analysis but also identifying the areas requiring imminent scholarly attention for the ethical, empathetic, and efficacious implementation of AI in NCD care. This serves as an academic cornerstone for future research in AI-assisted health care for NCD management. TRIAL REGISTRATION: Open Science Framework; https://doi.org/10.17605/OSF.IO/GU5PX."
+type: article
+open_access: true
+cited_by: 68
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.51
+score_parts:
+  rank: 0.25
+  citations: 0.46
+  recency: 0.8
+needs_approval: false
+state: candidate

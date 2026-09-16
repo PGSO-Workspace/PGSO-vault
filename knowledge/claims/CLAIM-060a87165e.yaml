@@ -1,0 +1,21 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-060a87165e
+created: 2026-09-13T07:00:37.689Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The repository documents missing aligned per-utterance predictions for the learned comparator and unequal sample sets, explaining why a paired extractor comparison was not performed.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-96c2c8bfa2
+questions: []
+sections:
+  - methods
+  - discussion
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-f9a76ffa05

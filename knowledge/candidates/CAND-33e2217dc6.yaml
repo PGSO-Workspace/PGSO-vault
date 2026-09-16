@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-33e2217dc6
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4415368556
+title: "Internet of Agents: Fundamentals, Applications, and Challenges"
+authors:
+  - Yuntao Wang
+  - Shaolong Guo
+  - Yanghe Pan
+  - Zhou Su
+  - Fahao Chen
+  - Tom H. Luan
+  - Peng Li
+  - Jiawen Kang
+  - Dusit Niyato
+year: 2025
+venue: IEEE Transactions on Cognitive Communications and Networking
+doi: 10.1109/tccn.2025.3623369
+url: https://doi.org/10.1109/tccn.2025.3623369
+abstract: With the rapid proliferation of large language models and vision‑language models, AI agents have evolved from isolated, task‑specific systems into autonomous, interactive entities capable of perceiving, reasoning, and acting without human intervention. As these agents proliferate across virtual and physical environments, from virtual assistants to embodied robots, the need for a unified, agent‑centric infrastructure becomes paramount. In this survey, we introduce the Internet of Agents (IoA) as a foundational framework that enables seamless interconnection, dynamic discovery, and collaborative orchestration among heterogeneous agents at scale. We begin by presenting a general IoA architecture, highlighting its hierarchical organization, distinguishing features relative to the traditional Internet, and emerging applications. Next, we analyze the key operational enablers of IoA, including capability notification and discovery, adaptive communication protocols, dynamic task matching, consensus and conflict‑resolution mechanisms, and incentive models. Finally, we identify open research directions toward building resilient and trustworthy IoA ecosystems.
+type: article
+open_access: true
+cited_by: 34
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.786
+score_parts:
+  rank: 0.5
+  citations: 0.386
+  recency: 0.9
+needs_approval: false
+state: candidate

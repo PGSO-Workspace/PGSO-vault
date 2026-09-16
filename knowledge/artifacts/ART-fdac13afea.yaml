@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-fdac13afea
+created: 2026-09-15T01:08:01.121Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/rankings/ieee-access-sjr-university-copy.pdf
+paths:
+  - sources/rankings/ieee-access-sjr-university-copy.pdf
+hash: fdac13afea1240adab22b039390190755fa9026c6050d67c5686fd94718987b8
+bytes: 7304099
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 265173
+  sections: 50
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T00:53:37.622Z

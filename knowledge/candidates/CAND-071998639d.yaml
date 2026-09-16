@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-071998639d
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.3389/fpsyg.2026.1820194
+title: "Affective resonance and place bonds: the roles of empathy and place attachment for pro-environmental behavior"
+authors:
+  - Wanxia Jiang
+year: 2026
+venue: Frontiers in Psychology
+doi: 10.3389/fpsyg.2026.1820194
+url: https://doi.org/10.3389/fpsyg.2026.1820194
+abstract: As environmental pollution intensifies and ecological challenges become more pronounced, fostering pro-environmental behavior (PEB) is increasingly important for sustainable urban development. Although prior studies have linked environmental perception to environmental behavior, the emotional mechanisms underlying this relationship remain insufficiently explored, especially the joint roles of multiple pathways. This study examines how landscape perception is associated with pro-environmental behavior through empathy and place attachment. A questionnaire survey was conducted with 478 users across three comprehensive urban parks in Chengdu, China. Structural equation modeling was applied to estimate direct and indirect relationships among landscape perception, emotional responses, and PEB. Results indicate that positive landscape perceptions significantly promote PEB both directly and indirectly. Empathy and place attachment serve as key mediators, with empathy exerting a stronger mediating effect. Clarifying these differentiated emotional pathways advances understanding of environment and behavior relationships and informs the design and management of urban green spaces to support broader urban environmental governance.
+type: article
+open_access: null
+cited_by: 1
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.128
+score_parts:
+  rank: 0.053
+  citations: 0.075
+  recency: 1
+needs_approval: false
+state: candidate

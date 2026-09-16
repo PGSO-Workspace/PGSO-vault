@@ -1,0 +1,41 @@
+schema: phdude.candidate
+version: 1
+id: CAND-82e05bc5b1
+created: 2026-09-15T07:52:00.075Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+  - crossref
+external_id: W4416034135
+title: "The Prompt Makes the Person(a): A Systematic Evaluation of Sociodemographic Persona Prompting for Large Language Models"
+authors:
+  - Marlene Lutz
+  - Indira Sen
+  - Georg Ahnert
+  - Elisa Rogers
+  - Markus Strohmaier
+year: 2025
+venue: "Findings of the Association for Computational Linguistics: EMNLP 2025"
+doi: 10.18653/v1/2025.findings-emnlp.1261
+url: https://doi.org/10.18653/v1/2025.findings-emnlp.1261
+abstract: Persona prompting is increasingly used in large language models (LLMs) to simulate views of various sociodemographic groups.However, how a persona prompt is formulated can significantly affect outcomes, raising concerns about the fidelity of such simulations.Using five open-source LLMs, we systematically examine how different persona prompt strategies, specifically role adoption formats and demographic priming strategies, influence LLM simulations across 15 intersectional demographic groups in both open-and closed-ended tasks.Our findings show that LLMs struggle to simulate marginalized groups but that the choice of demographic priming and role adoption strategy significantly impacts their portrayal.Specifically, we find that prompting in an interviewstyle format and name-based priming can help reduce stereotyping and improve alignment.Surprisingly, smaller models like OLMo-2-7B outperform larger ones such as Llama-3.3-70B.Our findings offer actionable guidance for designing sociodemographic persona prompts in LLM-based simulation studies.
+type: other
+open_access: true
+cited_by: 7
+query: 2024 2025 journal persona prompting large language models empirical personality
+question: null
+search: SEARCH-550eca5f80
+score: 1.376
+score_parts:
+  rank: 0.25
+  citations: 0.226
+  recency: 0.9
+needs_approval: false
+state: candidate
+ext:
+  ids:
+    crossref: 10.18653/v1/2025.findings-emnlp.1261

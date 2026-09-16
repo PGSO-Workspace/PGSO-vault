@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-cf29477d8a
+created: 2026-09-15T07:48:07.669Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.52843/cassyni.x36fmy
+title: BioModels Reproducibility Scorecard
+authors:
+  - Rahuman Sheriff
+year: 2022
+venue: null
+doi: 10.52843/cassyni.x36fmy
+url: https://doi.org/10.52843/cassyni.x36fmy
+abstract: Systems biology modelling involves the mathematical representation of biological processes to study complex system behaviour and was expected to be least affected by the reproducibility crisis. However, models often fail to reproduce and the reasons for the failure and prevalence were not fully understood. In a recent study, we analyzed 455 kinetic models published in 152 peer-reviewed journals. Most of these models were manually encoded from scratch to assess the reproducibility. Our investigation revealed that 49% of the models could not be reproduced using the information provided in the manuscripts. Among the corresponding authors, we contacted over 70% did not respond. Models across several life science journals failed to reproduce, revealing a common problem in the peer-review process. As a solution, we proposed a simple easy-to-use reproducibility scorecard with 8 yes-or-no questions that can be used by model authors, reviewers and journal editors during the peer-review process. We demonstrated that the scorecard is a good indicator of model reproducibility. In this workshop we discuss about our study in details, run a hands-on training to use the scorecard to assess models during the peer-review process. The reproducibility crisis in systems biology modelling can be tackled as a community, where model authors, reviewers, journal editors and funding bodies embrace reproducibility more proactively than before.
+type: preprint
+open_access: null
+cited_by: 0
+query: '"LDREA-IEEE-Reproducibility" "FULL_SPEC"'
+question: null
+search: SEARCH-e7c8c764f9
+score: 0.767
+score_parts:
+  rank: 0.167
+  citations: 0
+  recency: 0.6
+needs_approval: true
+state: candidate

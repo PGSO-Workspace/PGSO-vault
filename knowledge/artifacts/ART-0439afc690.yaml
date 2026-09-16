@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-0439afc690
+created: 2026-09-15T18:03:38.236Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-mvp/research-bootstrap-9fcb654/live-integration-runner.py
+paths:
+  - sources/software/pgso-mvp/research-bootstrap-9fcb654/live-integration-runner.py
+hash: 0439afc690208adb0982c908535947f37690eac73f6cc28524cef2473cb60ff6
+bytes: 1010
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T18:03:34.572Z

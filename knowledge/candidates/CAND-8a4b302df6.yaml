@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8a4b302df6
+created: 2026-09-14T23:44:46.279Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6008534
+title: "From Sycophancy to Surplus: Institutional Guardrails as Commitment Devices in LLM Bargaining"
+authors:
+  - Xuliang Wang
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6008534
+url: https://doi.org/10.2139/ssrn.6008534
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Safety Guardrails for LLM-Enabled Robots" code GitHub'
+question: null
+search: SEARCH-babb92a8ed
+score: 1.1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

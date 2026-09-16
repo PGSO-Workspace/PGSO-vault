@@ -1,0 +1,27 @@
+schema: phdude.result
+version: 1
+id: RESULT-51c41ddbc2
+created: 2026-09-15T00:48:15.157Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: "CREMA-D fixed-sentence anger diagnostic: 87/89 complete speaker triplets have higher PGSO heuristic output for instructed HI than LO intensity"
+from: ANALYSIS-762c466961
+values:
+  clips: 273
+  speakers: 91
+  complete_triplets: 89
+  abstained_clips: 2
+  positive_high_minus_low: 87
+  zero_high_minus_low: 0
+  negative_high_minus_low: 2
+  median_high_minus_low: 0.43881569000000004
+  bootstrap_median_lower_95: 0.37012069999999997
+  bootstrap_median_upper_95: 0.46824160000000004
+  monotonic_triplets: 68
+state: candidate
+ext:
+  analysis:
+    key: intensity
+    run_at: 2026-09-15T00:48:15.157Z

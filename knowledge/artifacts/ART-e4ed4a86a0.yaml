@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-e4ed4a86a0
+created: 2026-09-15T01:12:19.989Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/rankings/jcr-june-2024.pdf
+paths:
+  - sources/rankings/jcr-june-2024.pdf
+hash: e4ed4a86a0fe53748ad310529c7d0d2a2dd6647422992e0d58a0c5ac267738f2
+bytes: 3262403
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 8879639
+  sections: 1776
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:10:54.441Z

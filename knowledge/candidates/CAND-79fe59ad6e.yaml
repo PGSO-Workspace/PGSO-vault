@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-79fe59ad6e
+created: 2026-09-15T09:45:55.769Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.47832/sharjahconf1-6
+title: Excessive exposure to screens in early childhood and its effects on psychological development A clinical study on (10) cases in Mostaganem wilaya (Algeria)
+authors:
+  - lina Belal
+year: 2024
+venue: Full Text Book of Sharjah Conference 1
+doi: 10.47832/sharjahconf1-6
+url: https://doi.org/10.47832/sharjahconf1-6
+abstract: "Childhood is considered the future of communities, and the prosperity and development of nations is based on the values and skills that we inculcate in our childhood. Perhaps the most important period in childhood is the first years, as it is a critical period of great importance in forming the child’s skills and abilities, especially since research in modern cognitive neurosciences has made clear The nervous system is characterized by flexibility and speed in processing information in the first years of a child’s life. With the emergence of modern technology, all kinds of screens, and the development of applications for children, our desire and curiosity have grown to discover the impact of this early and excessive exposure on the psychological development in all its aspects: cognitive, linguistic, emotional, and social for children. . So we decided to study the extent of the impact of excessive and early exposure to screens on the psychological development of the child? To study this problem, we used the descriptive approach, which enabled us to collect study data, and we studied (10) cases who were exposed at an early age, i.e. less than five years, to exposure exceeding five hours a day in front of all types of screens. Our study was conducted at the level of a private psychological and speech therapist clinic in the state of Mostaganem - Algeria - and the most important results of the study resulted in a clear decline in the spontaneous communicative linguistic level of children. The study also showed the emergence of social isolation and difficulties in emotional expression and in managing emotions in children"
+type: article
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Yue Qi" full text'
+question: null
+search: SEARCH-aa21877eb5
+score: 0.856
+score_parts:
+  rank: 0.056
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

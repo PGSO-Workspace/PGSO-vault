@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4aa8b53585
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1587/transinf.2022edl8045
+title: Convolutional Auto-Encoder and Adversarial Domain Adaptation for Cross-Corpus Speech Emotion Recognition
+authors:
+  - Yang WANG
+  - Hongliang FU
+  - Huawei TAO
+  - Jing YANG
+  - Hongyi GE
+  - Yue XIE
+year: 2022
+venue: IEICE Transactions on Information and Systems
+doi: 10.1587/transinf.2022edl8045
+url: https://doi.org/10.1587/transinf.2022edl8045
+abstract: null
+type: article
+open_access: null
+cited_by: 5
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 0.845
+score_parts:
+  rank: 0.05
+  citations: 0.195
+  recency: 0.6
+needs_approval: false
+state: candidate

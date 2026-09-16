@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-185720ca41
+created: 2026-09-15T07:34:25.049Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410956361
+title: "AI-Powered Educational Agents: Opportunities, Innovations, and Ethical Challenges"
+authors:
+  - Diana‐Margarita Córdova‐Esparza
+year: 2025
+venue: Information
+doi: 10.3390/info16060469
+url: https://doi.org/10.3390/info16060469
+abstract: "Recent advances in large language models (LLMs) have triggered rapid growth in AI-powered educational agents, yet researchers and practitioners still lack a consolidated view of how these systems are engineered and validated. To address this gap, we conducted a systematic literature review of 82 peer-reviewed and industry studies published from January 2023 to February 2025. Using a four-phase protocol, we extracted and coded them along six groups: technical and pedagogical frameworks, tutoring systems, assessment and feedback, curriculum design, personalization, and ethical considerations. Synthesizing these findings, we propose design principles that link technical choices to instructional goals and outline safeguards for privacy, fairness, and academic integrity. Across all domains, the evidence converges on a key insight: hybrid human–AI workflows, in which teachers curate and moderate LLM output, outperform fully autonomous tutors by combining scalable automation with pedagogical expertise. Limitations in the current literature, including short study horizons, small-sample experiments, and a bias toward positive findings, temper the generalizability of reported gains, highlighting the need for rigorous, long-term evaluations."
+type: article
+open_access: true
+cited_by: 86
+query: 2024 2025 journal large language model agent tool use safety governance capability access control
+question: null
+search: SEARCH-fb9ee2e339
+score: 1.448
+score_parts:
+  rank: 0.063
+  citations: 0.485
+  recency: 0.9
+needs_approval: false
+state: candidate

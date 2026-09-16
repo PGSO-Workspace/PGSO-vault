@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-17f7ee37db
+created: 2026-09-14T23:47:13.887Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416034379
+title: "Safety Through Reasoning: An Empirical Study of Reasoning Guardrail Models"
+authors:
+  - Makesh Narsimhan Sreedhar
+  - Traian Rebedea
+  - Christopher Parisien
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.findings-emnlp.1193
+url: https://doi.org/10.18653/v1/2025.findings-emnlp.1193
+abstract: "Reasoning-based language models have demonstrated strong performance across various domains, with the most notable gains seen in mathematical and coding tasks.Recent research has shown that reasoning also offers significant benefits for LLM safety and guardrail applications.In this work, we conduct a comprehensive analysis of training reasoning-based guardrail models for content moderation, with an emphasis on generalization to custom safety policies at inference time.Our study focuses on two key dimensions: data efficiency and inference efficiency.On the data front, we find that reasoning-based models exhibit strong sample efficiency, achieving competitive performance with significantly fewer training examples than their non-reasoning counterparts.This unlocks the potential to repurpose the remaining data for mining high-value, difficult samples that further enhance model performance.On the inference side, we evaluate practical trade-offs by introducing reasoning budgets, examining the impact of reasoning length on latency and accuracy, and exploring dual-mode training to allow runtime control over reasoning behavior.Our findings will provide practical insights for researchers and developers to effectively and efficiently train and deploy reasoning-based guardrails models in real-world systems."
+type: other
+open_access: true
+cited_by: 2
+query: '"LlamaFirewall" runtime security framework'
+question: null
+search: SEARCH-dd1444607d
+score: 1.13
+score_parts:
+  rank: 0.111
+  citations: 0.119
+  recency: 0.9
+needs_approval: false
+state: candidate

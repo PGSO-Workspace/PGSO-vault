@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-eb45eb58d6
+created: 2026-09-14T20:37:00.456Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.17016/2380-7172.3698
+title: How to Design Rules for Ex-Post Evaluation
+authors:
+  - Benjamin S. Kay
+  - Marco Migueis
+year: 2025
+venue: FEDS Notes
+doi: 10.17016/2380-7172.3698
+url: https://doi.org/10.17016/2380-7172.3698
+abstract: "Ex-ante cost-benefit analyses and other impact assessments are now a standard part of the rulemaking process. Yet some important effects of regulation are difficultâor impossibleâto assess before a rule takes effect. In such cases, ex-post (or retrospective) evaluation, conducted after a rule is in effect, offers an opportunity to measure real-world outcomes that could not reliably be predicted in advance. Such an evaluation can help determine whether a rule achieves its intended goals, whether the imposed costs are justified, and whether any unintended consequences have emerged. However, when rules are not designed with ex-post evaluation in mind, measuring certain impacts may be difficult or impossible in practice. This article discusses options to revise the rulemaking process to avoid this problem. Designing rules with ex-post evaluation in mind would facilitate such evaluations, ultimately leading to better rules."
+type: article
+open_access: null
+cited_by: 1
+query: FEDS a Framework for Evaluation in Design Science Research
+question: null
+search: SEARCH-ada5118369
+score: 1.475
+score_parts:
+  rank: 0.5
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

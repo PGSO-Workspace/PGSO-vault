@@ -1,0 +1,21 @@
+schema: phdude.source
+version: 1
+id: SRC-906f9bb5b6
+created: 2026-09-15T00:59:18.315Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+title: Coupling Sentiment and Arousal Analysis Towards an Affective Dialogue Manager
+authors:
+  - Adria Mallol-Ragolta
+  - Björn Schuller
+type: article
+artifacts:
+  - ART-3f22800008
+state: candidate
+year: 2024
+venue: IEEE Access
+doi: 10.1109/access.2024.3361750
+url: https://doi.org/10.1109/access.2024.3361750
+abstract: "Targeted primary text review: Publisher-layout article, Volume 12 (2024), pages 20654–20662; publication 2024-02-02, current version 2024-02-12; DOI verified on first page. CMU-MOSEI text sentiment model; MSP-Podcast arousal classified into low [1,3], mid (3,5], high (5,7]. Mel-spectrogram windows span five seconds with 50% overlap. A rule-based manager selects predefined sentence bodies and interjections from inferred sentiment/arousal. Limits: Real-user assessment and comparison against existing dialogue managers are explicitly future work (VI, p.20661). The demonstrator uses Android TTS; emotional synthesis is future work. No tool authorization, confidence abstention, hysteresis or trusted expiry is demonstrated in the inspected system."

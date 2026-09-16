@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-064f9c1512
+created: 2026-09-15T08:27:35.758Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/978-3-032-28313-9_14
+title: "Critical Incident Technique for Semi-Naturalistic DSR Evaluation: A Methodology and an Illustration"
+authors:
+  - Charon Abbott
+  - Mary Tate
+  - Wasana Bandara
+  - Lisa Tam
+year: 2026
+venue: Lecture Notes in Computer Science
+doi: 10.1007/978-3-032-28313-9_14
+url: https://doi.org/10.1007/978-3-032-28313-9_14
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: 10.1080/0960085X.2026.2627280 MEDS Methodology for Evaluation in Design Science
+question: null
+search: SEARCH-6539f3f4d3
+score: 1.125
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

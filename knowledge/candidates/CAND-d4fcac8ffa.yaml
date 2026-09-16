@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d4fcac8ffa
+created: 2026-09-15T07:51:13.215Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/airc64931.2025.11077480
+title: "LLM-Powered Multi-Agent Systems: A Technical Framework for Collaborative Intelligence Through Optimized Knowledge Retrieval and Communication"
+authors:
+  - Vineeth Gogineni
+year: 2025
+venue: 2025 6th International Conference on Artificial Intelligence, Robotics and Control (AIRC)
+doi: 10.1109/airc64931.2025.11077480
+url: https://doi.org/10.1109/airc64931.2025.11077480
+abstract: null
+type: article
+open_access: null
+cited_by: 6
+query: '"dynamic tool retrieval LLM agent journal 2024 2025'
+question: null
+search: SEARCH-da10c5ec54
+score: 1.138
+score_parts:
+  rank: 0.027
+  citations: 0.211
+  recency: 0.9
+needs_approval: false
+state: candidate

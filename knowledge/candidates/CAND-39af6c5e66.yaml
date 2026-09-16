@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-39af6c5e66
+created: 2026-09-15T00:30:53.802Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4387559339
+title: Integrating Contrastive Learning into a Multitask Transformer Model for Effective Domain Adaptation
+authors:
+  - Chung-Soo Ahn
+  - Jagath C. Rajapakse
+  - Rajib Rana
+year: 2023
+venue: arXiv (Cornell University)
+doi: 10.48550/arxiv.2310.04703
+url: http://arxiv.org/abs/2310.04703
+abstract: While speech emotion recognition (SER) research has made significant progress, achieving generalization across various corpora continues to pose a problem. We propose a novel domain adaptation technique that embodies a multitask framework with SER as the primary task, and contrastive learning and information maximisation loss as auxiliary tasks, underpinned by fine-tuning of transformers pre-trained on large language models. Empirical results obtained through experiments on well-established datasets like IEMOCAP and MSP-IMPROV, illustrate that our proposed model achieves state-of-the-art performance in SER within cross-corpus scenarios.
+type: preprint
+open_access: true
+cited_by: 0
+query: '"Adversarial Domain Generalized Transformer for Cross-Corpus Speech Emotion Recognition"'
+question: null
+search: SEARCH-632a6d5def
+score: 0.867
+score_parts:
+  rank: 0.167
+  citations: 0
+  recency: 0.7
+needs_approval: true
+state: candidate

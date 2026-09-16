@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-edd25bd7ad
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4399613938
+title: ‘The future we want’? – the ideal twenty-first century learner and education’s neuro-affective turn
+authors:
+  - Kirsi Yliniva
+  - Audrey Bryan
+  - Kristiina Brunila
+year: 2024
+venue: Comparative Education
+doi: 10.1080/03050068.2024.2363096
+url: https://doi.org/10.1080/03050068.2024.2363096
+abstract: We examine the ideal twenty-first century learner as discursively produced in recent future-oriented documents published by the OECD and UNESCO. Drawing inspiration from Bacchi’s question ‘What is the problem represented to be?’, we identify a constellation of interrelated discourses that together craft an image of a post-political, resilient, empathic, bio-perfected, transhuman learner. This learner is conditioned to endure, adapt and adjust to ongoing socio-political conditions and crises, rather than to contest, resist, or alter them. We argue that this portrayal is reflective of a deepening ideological alignment between the OECD and UNESCO – organisations that have traditionally held divergent views on the purpose and value of education. We conclude by advocating for the reinvigoration of subjectivities that prioritise political agency, defined as the capacity to act upon and transform the existing social order and power structures.
+type: article
+open_access: true
+cited_by: 36
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 1.259
+score_parts:
+  rank: 0.067
+  citations: 0.392
+  recency: 0.8
+needs_approval: false
+state: candidate

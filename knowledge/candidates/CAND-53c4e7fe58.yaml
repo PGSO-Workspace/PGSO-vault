@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-53c4e7fe58
+created: 2026-09-15T07:36:10.243Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.17504/protocols.io.3byl46ebzgo5/v1
+title: Model Context Protocol (MCP)  v1
+authors:
+  - Paola Di Maio
+year: 2025
+venue: null
+doi: 10.17504/protocols.io.3byl46ebzgo5/v1
+url: https://doi.org/10.17504/protocols.io.3byl46ebzgo5/v1
+abstract: The Model Context Protocol (MCP) is a standardized open protocol designed to enable seamless, secure interaction between AI models and external tools, resources, and systems by managing context across sessions.
+type: preprint
+open_access: null
+cited_by: 1
+query: '"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"'
+question: null
+search: SEARCH-3b126227d7
+score: 1.007
+score_parts:
+  rank: 0.032
+  citations: 0.075
+  recency: 0.9
+needs_approval: true
+state: candidate

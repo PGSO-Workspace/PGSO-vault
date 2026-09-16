@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-284f9dd897
+created: 2026-09-15T01:06:50.211Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-10355583/v1
+title: PromptCanary Detecting Silent Behavioral Drift in Large Language Model APIs
+authors:
+  - Min Htet Myet
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-10355583/v1
+url: https://doi.org/10.21203/rs.3.rs-10355583/v1
+abstract: "Abstract Large language model (LLM) providers routinely update the models behind a stable API identifier without announcing the change or exposing a version number a caller can pin to. When such an update alters output formatting, reasoning style, tool-calling structure, or refusal behavior, applications built on top of that API can regress silently: no exception is raised, no status code changes, and the failure surfaces only when a downstream parser breaks or a user notices something is wrong. We present PromptCanary, an open-source Python library and command-line tool that applies the golden-master regression-testing pattern, well established in traditional software engineering, to this problem. A user defines a small suite of representative prompts and a set of scoring functions (“probes”); the tool runs the suite against a provider, saves the result as a versioned baseline, and on subsequent runs reports exactly which probes regressed, by how much, and against which prompt. We describe the system’s design, its probe taxonomy and scoring model, its provideragnostic architecture built on top of LiteLLM, and its testing methodology, which favors deterministic mock providers and property-based invariant checking over live API calls. We report on a set of independently executed, illustrative case studies — run separately from our own development environment, using the published package — that demonstrate correct end-to-end behavior and surface a genuine design limitation: probes in the current version are scoped to a suite, not to individual prompts, which can dilute the drift signal with persistent, expected non-matches. We discuss this and other limitations candidly, including the heuristic nature of several pattern-matching probes and the absence of statistical drift modeling. PromptCanary is released under the MIT license and is available via the Python Package Index"
+type: preprint
+open_access: null
+cited_by: 0
+query: large language model agent tools personality behavioral adaptation runtime governance
+question: null
+search: SEARCH-d5018524dd
+score: 1.026
+score_parts:
+  rank: 0.026
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

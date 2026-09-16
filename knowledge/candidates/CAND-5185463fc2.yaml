@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5185463fc2
+created: 2026-09-15T00:31:18.055Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5121/csit.2021.112305
+title: Sign Language Recognition for Sentence Level Continuous Signings
+authors:
+  - Ishika Godage
+  - Ruvan Weerasignhe
+  - Damitha Sandaruwan
+year: 2021
+venue: Natural Language Processing
+doi: 10.5121/csit.2021.112305
+url: https://doi.org/10.5121/csit.2021.112305
+abstract: It is no doubt that communication plays a vital role in human life. There is, however, a significant population of hearing-impaired people who use non-verbal techniques for communication, which a majority of the people cannot understand. The predominant of these techniques is based on sign language, the main communication protocol among hearing impaired people. In this research, we propose a method to bridge the communication gap between hearing impaired people and others, which translates signed gestures into text. Most existing solutions, based on technologies such as Kinect, Leap Motion, Computer vision, EMG and IMU try to recognize and translate individual signs of hearing impaired people. The few approaches to sentence-level sign language recognition suffer from not being user-friendly or even practical owing to the devices they use. The proposed system is designed to provide full freedom to the user to sign an uninterrupted full sentence at a time. For this purpose, we employ two Myo armbands for gesture-capturing. Using signal processing and supervised learning based on a vocabulary of 49 words and 346 sentences for training with a single signer, we were able to achieve 75-80% word-level accuracy and 45-50% sentence level accuracy using gestural (EMG) and spatial (IMU) features for our signer-dependent experiment.
+type: article
+open_access: null
+cited_by: 3
+query: '"Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition"'
+question: null
+search: SEARCH-40c323d84c
+score: 0.728
+score_parts:
+  rank: 0.077
+  citations: 0.151
+  recency: 0.5
+needs_approval: false
+state: candidate

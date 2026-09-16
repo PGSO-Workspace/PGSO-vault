@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-3b94784c57
+created: 2026-09-15T00:24:33.994Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410187459
+title: "Emotional Intelligence in Artificial Agents: Leveraging Deep Multimodal Big Data for Contextual Social Interaction and Adaptive Behavioral Modelling"
+authors:
+  - Jeevani Singireddy
+  - Botlagunta Preethish Nandan
+  - Phanish Lakkarasu
+  - Venkata Narasareddy Annapareddy
+  - Jai Kiran Reddy Burugulla
+year: 2025
+venue: Metallurgical and Materials Engineering
+doi: 10.63278/1489
+url: https://doi.org/10.63278/1489
+abstract: As artificial agents develop beyond mere tools and begin to perform roles traditionally associated with humans, expectations of their performance are equally evolving. Not only must agents be able to accomplish their tasks; but they must also be able to do so in a manner that observers would consider socially or contextually appropriate. For social interaction where the agent and human are co-performers, adherence to social cues that signal emergent aspects of a relationship such as intimacy or status is paramount to the experience of the interacting humans. For autonomous agents who function alone, adaptive behavioral modeling and user state awareness are critical to the impact of the agent’s actions on humans. Such contextual social behavior is a requirement for complex applications including physically located social robots, virtual avatars emerging in gaming, online social environments, or customer service interactions, and proactive virtual assistants. Humans have sophisticated socio-emotional capacities that enable them to behaviorally coordinate their interactions with others, inferring mental states that may lie far beyond explicit observable cues. Furthermore, emotional expressions are multimodal and are the result of a complex interaction between inherent affective states and contextual interaction. The Human Centered Intelligent Systems conceptual framework describes a pathway whereby artificial agents may also achieve aspects of this intelligence through rich user state modeling based on deep multimodal analysis of big data that can capture the social behavior and interaction context. In this chapter, we describe this "user-state" modeling approach and exemplify its applicability to a spectrum of agent applications.
+type: article
+open_access: true
+cited_by: 1
+query: voice agents prosody paralinguistic affective dialogue governance evaluation
+question: null
+search: SEARCH-fb4225ca20
+score: 1.175
+score_parts:
+  rank: 0.2
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

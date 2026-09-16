@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-17b940554e
+created: 2026-09-15T07:33:42.712Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4406423087
+title: "Pedagogical AI conversational agents in higher education: a conceptual framework and survey of the state of the art"
+authors:
+  - Habeeb Yusuf
+  - Arthur Money
+  - Damon Daylamani-Zad
+year: 2025
+venue: Educational Technology Research and Development
+doi: 10.1007/s11423-025-10447-4
+url: https://doi.org/10.1007/s11423-025-10447-4
+abstract: Abstract The ever-changing global educational landscape, coupled with the advancement of Web3, is seeing rapid changes in the ways pedagogical artificially intelligent conversational agents are being developed and used to advance teaching and learning in higher education. Given the rapidly evolving research landscape, there is a need to establish what the current state of the art is in terms of the pedagogical applications and technological functions of these conversational agents and to identify the key existing research gaps, and future research directions, in the field. A literature survey of the state of the art of pedagogical AI conversational agents in higher education was conducted. The resulting literature sample (n = 92) was analysed using thematic template analysis, the results of which were used to develop a conceptual framework of pedagogical conversational agents in higher education. Furthermore, a survey of the state of the art was then presented as a function of the framework. The conceptual framework proposes that pedagogical AI conversational agents can primarily be considered in terms of their pedagogical applications and their pedagogical purposes , which include pastoral , instructional and cognitive , and are further considered in terms of mode of study and intent . The technological functions of the agents are also considered in terms of embodiment (embodied/disembodied) and functional type and features . This research proposes that there are numerous opportunities for future research, such as, the use of conversational agents for enhancing assessment, reflective practice and to support more effective administration and management practice. In terms of technological functions, future research would benefit from focusing on enhancing the level of personalisation and media richness of interaction that can be achieved by AI conversational agents.
+type: article
+open_access: true
+cited_by: 96
+query: empathetic conversational agents affective dialogue adaptation evaluation
+question: null
+search: SEARCH-6152ab5e94
+score: 1.897
+score_parts:
+  rank: 0.5
+  citations: 0.497
+  recency: 0.9
+needs_approval: false
+state: candidate

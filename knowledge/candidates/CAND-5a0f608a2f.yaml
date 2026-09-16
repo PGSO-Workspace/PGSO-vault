@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-5a0f608a2f
+created: 2026-09-14T23:46:57.333Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7202351711
+title: "Delegation-Aware Runtime Contracts for Open LLM Multi-Agent Systems: Constraint Preservation, Capability Revocation, and State Recovery"
+authors:
+  - Vinay Bamil
+year: 2026
+venue: Research Square
+doi: 10.21203/rs.3.rs-10533072/v1
+url: https://doi.org/10.21203/rs.3.rs-10533072/v1
+abstract: null
+type: preprint
+open_access: true
+cited_by: 0
+query: '"AgentSpec" runtime enforcement LLM agents'
+question: null
+search: SEARCH-ab8e976bec
+score: 1.1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

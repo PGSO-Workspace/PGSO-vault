@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-478ee2b819
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.61838/jhrlp.167
+title: The Impact of the Works of Shah Ni‘matullah Vali on the Socio-Political Interaction Between the Ni‘matullahi Order and the Imami School in the Safavid Era
+authors:
+  - Seyed Hasan  Dehghani Sanij
+  - Ahmad Fallahzadeh
+year: 2025
+venue: Journal of Historical Research, Law and Policy
+doi: 10.61838/jhrlp.167
+url: https://doi.org/10.61838/jhrlp.167
+abstract: The Ni‘matullahi order is one of the Shiʿi Sufi traditions that emerged in the fourteenth century and became actively involved in significant social and political affairs during the Safavid era. Despite governmental restrictions and pressures imposed during the Safavid period, this order attracted segments of the population and some members of the court due to its mystical teachings and its emphasis on social service. This article examines the socio-political interaction between the Ni‘matullahi order and the Imami (Twelver Shiʿi) school during the Safavid era. By analyzing the religious and political climate of the period, the study investigates the position of the Ni‘matullahi order and the role of Sayyid Nur al-Din Shah Ni‘matullah Vali and his works in cultural and social developments (Tabataba'i, 2008). The research method is based on library research and data analysis aimed at assessing the extent of the influence of Ni‘matullahi writings on Imami thought. The findings indicate that the relationship between the Ni‘matullahi order and the Imami school was neither mere peaceful coexistence nor outright confrontation, but rather a form of reciprocal interaction that contributed to the formation of Shiʿi mysticism and the consolidation of the political order of the period. In addition, the role of the Safavid government in regulating and managing this interaction to strengthen Twelver Shiʿism and maintain political stability is highlighted. This article seeks to present a clear picture of the mutual influences of mysticism and politics in Safavid society.
+type: article
+open_access: null
+cited_by: 0
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 1.025
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-da7c10b557
+created: 2026-09-15T07:50:54.613Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4410512509
+title: "'I'm Categorizing LLM as a Productivity Tool': Examining Ethics of LLM Use in HCI Research Practices"
+authors:
+  - Shivani Kapania
+  - Ruiyi Wang
+  - Toby Jia-Jun Li
+  - Tianshi Li
+  - Hong Shen
+year: 2025
+venue: Proceedings of the ACM on Human-Computer Interaction
+doi: 10.1145/3711000
+url: https://doi.org/10.1145/3711000
+abstract: Large language models are increasingly applied in real-world scenarios, including research and education. These models, however, come with well-known ethical issues, which may manifest in unexpected ways in human-computer interaction research due to the extensive engagement with human subjects. This paper reports on research practices related to LLM use, drawing on 16 semi-structured interviews and a survey with 50 HCI researchers. We discuss the ways in which LLMs are already being utilized throughout the entire HCI research pipeline, from ideation to system development and paper writing. While researchers described nuanced understandings of ethical issues, they were rarely or only partially able to identify and address those ethical concerns in their own projects. This lack of action and reliance on workarounds was explained through the perceived lack of control and distributed responsibility in the LLM supply chain, the conditional nature of engaging with ethics, and competing priorities. Finally, we reflect on the implications of our findings and present opportunities to shape emerging norms of engaging with large language models in HCI research.
+type: article
+open_access: true
+cited_by: 27
+query: '"context-aware tool selection LLM agent journal 2025'
+question: null
+search: SEARCH-ae5bb71a48
+score: 1.339
+score_parts:
+  rank: 0.077
+  citations: 0.362
+  recency: 0.9
+needs_approval: false
+state: candidate

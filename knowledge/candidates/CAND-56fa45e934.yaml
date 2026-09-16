@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-56fa45e934
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412073955
+title: "AI and employee wellbeing in the workplace: An empirical study"
+authors:
+  - Alena Valtonen
+  - Minna Saunila
+  - Juhani Ukko
+  - Luke Treves
+  - Paavo Ritala
+year: 2025
+venue: Journal of Business Research
+doi: 10.1016/j.jbusres.2025.115584
+url: https://doi.org/10.1016/j.jbusres.2025.115584
+abstract: The integration of artificial intelligence (AI) in workplace settings significantly affects employees, particularly their wellbeing. Despite its growing relevance, the impact of AI on employee wellbeing remains underexplored. To address this gap, we conducted a survey and employed structural equation modeling to analyze data from Finnish and international companies headquartered in Finland (n = 207). We found that AI adoption does not directly impact employee wellbeing but indirectly influences it through work-related factors of task optimization and safety. This highlights the importance of strategically implementing AI to enhance aspects of work that are important to employees, thereby maximizing the wellbeing benefits of AI adoption. Practically, this study underscores the need for AI adoption to result in tangible improvements in organizational tasks and processes, data security, and occupational health. When these aspects are adequately addressed, AI adoption can enhance employee wellbeing and contribute to improved human-AI integration in the workplace.
+type: article
+open_access: true
+cited_by: 77
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.432
+score_parts:
+  rank: 0.059
+  citations: 0.473
+  recency: 0.9
+needs_approval: false
+state: candidate

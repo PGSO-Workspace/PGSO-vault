@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4c44cad05d
+created: 2026-09-15T09:45:10.696Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1109/taffc.2026.3683357
+title: "DQ-Former: Layer-Wise Querying Transformer With Dynamic Modality Priority for Conversational Multimodal Emotion Recognition"
+authors:
+  - Jing Ye
+  - Lu Xiang
+  - Xinpei Zhao
+  - Chengqing Zong
+year: 2026
+venue: IEEE Transactions on Affective Computing
+doi: 10.1109/taffc.2026.3683357
+url: https://doi.org/10.1109/taffc.2026.3683357
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: emotion recognition response adaptation conversational agent IEEE Transactions Affective Computing 2024
+question: null
+search: SEARCH-bce3157698
+score: 1.042
+score_parts:
+  rank: 0.042
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

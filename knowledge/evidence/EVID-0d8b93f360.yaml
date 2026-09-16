@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-0d8b93f360
+created: 2026-09-15T06:13:14.001Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-a2a8634f13
+locator: Interpretation, paragraph 1
+excerpt: PGSO incurred lower batch latency and worker CPU time than the three configured paths in this measurement. Against the minimal Python reference, the median paired latency ratio corresponds to approximately 14.8% lower latency. The Python reference used less warm resident memory (12.311 versus 13.127 MiB). Both findings must remain visible.
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-ef680b9749

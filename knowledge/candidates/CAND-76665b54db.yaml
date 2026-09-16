@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-76665b54db
+created: 2026-09-15T08:10:36.723Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W3046827137
+title: "Evaluation of the Information Systems Research Framework : Empirical Evidence from a Design Science Research Project"
+authors:
+  - Stefan Cronholm
+  - Hannes Göbel
+year: 2016
+venue: Electronic Journal of Information Systems Evaluation
+doi: null
+url: https://academic-publishing.org/index.php/ejise/article/view/158
+abstract: "Abstract: The purpose of this paper is to provide empirical evidence that the design science framework Information System Research (ISR) works in practice. More than ten years has passed since ISR was published in the well‑cited article ‘Design Science in Information Systems Research’. However, there is no thoroughly documented evaluation of ISR based on primary data. That is, existing evaluations are based on reconstructions of prior studies conducted for other purposes. To use an existing data set to answer new or extended research questions means to conduct a secondary analysis. We point to several risks related to secondary analyses and claim that popular design science research frameworks should be based on primary data. In this paper, we present an evaluation consisting of empirical experiences based on primary data. We have systematically collected experiences from a three‑year research project and we present ting of both strengths and weaknesses are presented. The main strengths are: the bridging of the contextual environment with the design science activities and the rigorousness of testing IT artefacts. The main weaknesses are: imbalance in support for making contributions to both theory and practice, and ambiguity concerning the practitioners’ role in design and evaluation of artefacts. We claim that the identified weaknesses can be used for further development of frameworks or methods concerning design science research."
+type: article
+open_access: true
+cited_by: 8
+query: '"Design Science in Information Systems Research"'
+question: null
+search: SEARCH-e78eb7cdff
+score: 0.364
+score_parts:
+  rank: 0.125
+  citations: 0.239
+  recency: 0
+needs_approval: false
+state: candidate

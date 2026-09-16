@@ -1,0 +1,24 @@
+schema: phdude.artifact
+version: 1
+id: ART-fa7589ad05
+created: 2026-09-15T09:50:06.677Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/task-agentspec-62937ad/framework-tests.log
+paths:
+  - sources/software/pgso-sdk/task-agentspec-62937ad/framework-tests.log
+hash: fa7589ad05e7771ac5464030095edddaade4e8136945ae4be3d69e0a31c956e8
+bytes: 1529
+mime: application/octet-stream
+kind: other
+role: unknown
+extracted:
+  status: unavailable
+  method: ""
+  text_chars: 0
+  sections: 0
+  tables: 0
+  warnings:
+    - no parser for kind other
+mtime: 2026-09-15T09:50:06.466Z

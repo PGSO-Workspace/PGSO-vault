@@ -1,0 +1,32 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2dcd37f349
+created: 2026-09-15T01:06:33.363Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3617448.3617470
+title: "Intelligent Interfaces: Artificial Intelligence in Interaction Techniques, Speech Recognition, and Conversational Agents"
+authors: []
+year: 2024
+venue: Pick, Click, Flick!
+doi: 10.1145/3617448.3617470
+url: https://doi.org/10.1145/3617448.3617470
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: affective conversational agents empathy speech dialogue action
+question: null
+search: SEARCH-fdb119aa74
+score: 0.9
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

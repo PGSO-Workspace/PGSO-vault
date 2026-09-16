@@ -1,0 +1,85 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9c86f48609
+created: 2026-09-15T06:33:44.760Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7161090491
+title: Towards Conversational Medical AI with Eyes, Ears and a Voice
+authors:
+  - Meet Shah
+  - Jason Gusdorf
+  - Anil Palepu
+  - Chunjong Park
+  - Jack W. O'Sullivan
+  - Vishnu Ravi
+  - Tim Strother
+  - Pavel Dubov
+  - Aliya Rysbek
+  - Toshiyuki Fukuzawa
+  - Yana Lunts
+  - Jan Freyberg
+  - Michael B. Chang
+  - Aniruddh Raghu
+  - David Stutz
+  - Devora Berlowitz
+  - Eliseo Papa
+  - Taylan Cemgil
+  - JD Velasquez
+  - Jack Chen
+  - Arthur Chen
+  - Doug Fritz
+  - Charlie Taylor
+  - Katya Tregubova
+  - Jing Rong Lim
+  - Richard Green
+  - Sara Mahdavi
+  - Mahvish Nagda
+  - Jihyeon Lee
+  - Craig Schiff
+  - Liviu Panait
+  - Sukhdeep Singh
+  - Valentin Liévin
+  - David G. T. Barrett
+  - Hannah Gladman
+  - Anna Cupani
+  - Francesca Pietra
+  - Uchechi Okereke
+  - Katherine Tong
+  - Clemens Meyer
+  - Erwan Rolland
+  - Mili Sanwalka
+  - Michael D. Howell
+  - Shixiang Gu
+  - Bibo Xu
+  - Euan A. Ashley
+  - S. M. Ali Eslami
+  - Gregory Wayne
+  - Pushmeet Kohli
+  - Vivek Natarajan
+  - Adam Rodman
+  - Alan Karthikesalingam
+  - Ryutaro Tanno
+year: 2026
+venue: arXiv (Cornell University)
+doi: null
+url: https://arxiv.org/abs/2605.09272
+abstract: The practice of medicine relies not only upon skillful dialogue but also on the nuanced exchange and interpretation of rich auditory and visual cues between doctors and patients. Building on the low-latency voice and video processing capabilities of Gemini, we introduce AI co-clinician, a first-of-its-kind conversational AI system utilizing continuous streams of audio-visual data from live patient conversations to inform real-time clinical decisions. Its dual-agent architecture balances deep clinical reasoning with the low latency required for natural dialogue. To assess this system, we implemented a video-based interface emulating telemedicine consultations. We crafted 20 standardized outpatient scenarios requiring proactive real-time auditory and visual reasoning and designed "TelePACES" evaluation criteria alongside case-specific rubrics. In a randomized, interface-blinded, crossover simulation study (n = 120 encounters) with 10 internal medicine residents as patient actors, we compared AI co-clinician with primary care physicians (PCPs), GPT-Realtime, and a baseline agent. AI co-clinician approached PCPs in key TelePACES dimensions, including management plans and differential diagnosis, while significantly outperforming GPT-Realtime across all general criteria. While our agent demonstrated parity with PCPs in case-specific triage measures, physicians maintained superior overall performance in case-specific assessments. Although AI co-clinician marks a significant advance in real-time telemedical AI, gaps remain in physical examination and disease-specific reasoning. Our work shows that text-only approaches fail to capture the true challenges of medical consultation and suggests that high-stakes real-time diagnostic AI is most safely advanced in collaborative, triadic models where AI can be a supportive co-clinician for doctors and patients.
+type: preprint
+open_access: true
+cited_by: 0
+query: tau Voice Benchmarking Full Duplex Voice Agents Real World Domains
+question: null
+search: SEARCH-b9d3c043db
+score: 1.2
+score_parts:
+  rank: 0.2
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-8d8c148400
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4404132421
+title: "Beyond Prompt Brittleness: Evaluating the Reliability and Consistency of Political Worldviews in LLMs"
+authors:
+  - Tanise Ceron
+  - Neele Falk
+  - Ana Barić
+  - Dmitry Nikolaev
+  - Sebastian Padó
+year: 2024
+venue: Transactions of the Association for Computational Linguistics
+doi: 10.1162/tacl_a_00710
+url: https://doi.org/10.1162/tacl_a_00710
+abstract: "Abstract Due to the widespread use of large language models (LLMs), we need to understand whether they embed a specific “worldview” and what these views reflect. Recent studies report that, prompted with political questionnaires, LLMs show left-liberal leanings (Feng et al., 2023; Motoki et al., 2024). However, it is as yet unclear whether these leanings are reliable (robust to prompt variations) and whether the leaning is consistent across policies and political leaning. We propose a series of tests which assess the reliability and consistency of LLMs’ stances on political statements based on a dataset of voting-advice questionnaires collected from seven EU countries and annotated for policy issues. We study LLMs ranging in size from 7B to 70B parameters and find that their reliability increases with parameter count. Larger models show overall stronger alignment with left-leaning parties but differ among policy programs: They show a (left-wing) positive stance towards environment protection, social welfare state, and liberal society but also (right-wing) law and order, with no consistent preferences in the areas of foreign policy and migration."
+type: article
+open_access: true
+cited_by: 16
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.158
+score_parts:
+  rank: 0.05
+  citations: 0.308
+  recency: 0.8
+needs_approval: false
+state: candidate

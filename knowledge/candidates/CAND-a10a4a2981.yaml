@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a10a4a2981
+created: 2026-09-15T00:21:13.389Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.21203/rs.3.rs-9890341/v1
+title: "A Layered Guardrail Architecture for Agentic AI in Cloud-Native DevOps Pipelines: Design, Implementation, and Empirical Evaluation on Live AWS Infrastructure"
+authors:
+  - MANVITHA POTLURI
+year: 2026
+venue: null
+doi: 10.21203/rs.3.rs-9890341/v1
+url: https://doi.org/10.21203/rs.3.rs-9890341/v1
+abstract: "Abstract Autonomous AI agents capable of executing cloud 2 infrastructure operations introduce a new class of risk that 3 existing safety mechanisms address incompletely. LLM output 4 filters govern what the model says but not what the agent does; 5 static admission controllers enforce rules at deployment time 6 but not at agent runtime; human oversight mechanisms are 7 decoupled from real-time execution pipelines. This paper presents 8 a five-layer guardrail architecture intercepting at the tool-call 9 execution boundary, combining: (1) AWS Bedrock Guardrails 10 for LLM output interception; (2) Open Policy Agent (OPA) 11 evaluation against live infrastructure state; (3) confidence-delta 12 scoring via A/B model comparison; (4) human-in-the-loop (HITL) 13 approval gating with DynamoDB time-to-live auto-rejection; 14 and (5) CloudWatch audit telemetry with S3 rollback. Em15 pirical evaluation on live AWS (us-east-1) across 100 prompts 16 spanning five risk categories including 20 adversarial jailbreak 17 variants demonstrates 96% overall accuracy, 1% false positive 18 rate, 0% false negative rate on destructive operations, and 19 a 22× latency reduction for intercepted actions (347 ms vs. 20 8,099 ms). An iterative calibration study across four tuning cycles 21 documents convergence from 60% to 96% accuracy, providing 22 empirical evidence that multi-layer defense-in-depth is necessary 23 rather than merely sufficient for production-grade DevOps agent 24 governance. Total evaluation cost: $0.0017 USD. Implementation: 25 https://github.com/ManvithaP-hub/agentic-devops-guardrails"
+type: preprint
+open_access: null
+cited_by: 0
+query: LlamaFirewall open source guardrail agentic AI systems
+question: null
+search: SEARCH-70332b9336
+score: 1.333
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

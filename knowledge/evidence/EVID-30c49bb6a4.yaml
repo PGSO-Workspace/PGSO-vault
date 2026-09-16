@@ -1,0 +1,17 @@
+schema: phdude.evidence
+version: 1
+id: EVID-30c49bb6a4
+created: 2026-09-15T01:08:42.318Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+source: SRC-7422f5a97d
+locator: arXiv:2410.05641v3, revised 2025-10-23, accepted-author manuscript; 39 pages. Placeholder Vol.1/Article1/January2025 footers are not bibliographic publication dates. Published journal full text not downloaded (ACM 403).; 3.1–3.2 example and program sketch PDF pp.7,8,9, 3.4–3.5 refinement and switching strategy PDF pp.15,16,17, 4.1–4.4 setup, effectiveness, efficiency, permissiveness PDF pp.17,18,19,20,21,22, 5.4–5.5 limitations/threats and 7 conclusion PDF pp.27,29
+excerpt: "Research paraphrase, not a quotation: Synthesizes linear fallback controllers through counterexample-guided refinement and chooses a command-deviation switching threshold by Bayesian optimization. Eight control systems are compared with VRL; effectiveness uses 1,000 episodes of 5,000 steps; experiments repeat ten times. §5.4 requires convex safety regions; §5.5 assumes sufficiently linearizable dynamics. Audio-input systems are future work. Zero observed violations do not prove safety for arbitrary uncertain speech observations. Controller verification and optimized switching must not be conflated."
+strength: moderate
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-e47a3dd8b0

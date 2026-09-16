@@ -1,0 +1,39 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0c952469bf
+created: 2026-09-15T09:44:31.275Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4408763549
+title: "A review of hybrid EEG-based multimodal human–computer interfaces using deep learning: applications, advances, and challenges"
+authors:
+  - Hyung-Tak Lee
+  - Miseon Shim
+  - Xianghong Liu
+  - Hye-Ran Cheon
+  - Sang‐Gyu Kim
+  - Chang Hee Han
+  - Han-Jeong Hwang
+year: 2025
+venue: Biomedical Engineering Letters
+doi: 10.1007/s13534-025-00469-5
+url: https://doi.org/10.1007/s13534-025-00469-5
+abstract: null
+type: article
+open_access: true
+cited_by: 20
+query: emotion-aware human robot interaction adaptive behavior multimodal 2024 2025 journal
+question: null
+search: SEARCH-862031304d
+score: 1.287
+score_parts:
+  rank: 0.056
+  citations: 0.331
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-65f2119402
+created: 2026-09-15T05:35:43.947Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/software/pgso-sdk/diagnostics-84242c9/execution-tests.rs.txt
+paths:
+  - sources/software/pgso-sdk/diagnostics-84242c9/execution-tests.rs.txt
+hash: 65f211940287799202193c15b27b801eb8565d66e4502da3aff7753af67bdc4d
+bytes: 13930
+mime: text/plain
+kind: txt
+role: unknown
+extracted:
+  status: ok
+  method: text
+  text_chars: 13930
+  sections: 1
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T05:35:43.719Z

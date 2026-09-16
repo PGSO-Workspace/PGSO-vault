@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d2f89c01e2
+created: 2026-09-15T07:34:04.334Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1093/9780198920168.003.0010
+title: Permission Denied
+authors:
+  - Andrew Martin
+year: 2025
+venue: Securing the Digital Frontier
+doi: 10.1093/9780198920168.003.0010
+url: https://doi.org/10.1093/9780198920168.003.0010
+abstract: "Abstract Access to a computer, and the data it contains, and much else beside, is generally subject to some sort of policy. The policy may be determined according to the identity of the person (or system) undertaking the access, proof of that identity (authentication), and a series of authorization rules governing who can do what. This is great in principle, but in practice the rules are near-impossible to get right: they will be too permissive or too strict. This plays out in many settings, not least in managing modern Internet of Things situations, and digital assistants. Authentication may also take many forms, appropriate to the circumstances—passwords, PINs, biometrics, and a combination of these."
+type: chapter
+open_access: null
+cited_by: 0
+query: 2024 2025 journal LLM agent tool permission authorization runtime enforcement security guardrails
+question: null
+search: SEARCH-b0fa183ef0
+score: 0.934
+score_parts:
+  rank: 0.034
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

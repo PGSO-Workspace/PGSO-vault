@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4f5a84790a
+created: 2026-09-15T00:24:33.994Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.7765/9789198740479.00015
+title: Text and dialogue prosody
+authors:
+  - Gösta Bruce
+year: 2026
+venue: The melody and rhythm of speech
+doi: 10.7765/9789198740479.00015
+url: https://doi.org/10.7765/9789198740479.00015
+abstract: null
+type: chapter
+open_access: null
+cited_by: 0
+query: voice agents prosody paralinguistic affective dialogue governance evaluation
+question: null
+search: SEARCH-fb4225ca20
+score: 1.1
+score_parts:
+  rank: 0.1
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

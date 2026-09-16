@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-7b90ac83d2
+created: 2026-09-14T16:50:28.785Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.54097/1y0ms617
+title: Performance Optimization and Interpretability Analysis of Lightweight Transformer Models for Speech Emotion Recognition Using Open-Source Emotional Speech Datasets
+authors:
+  - Shaoyang Zhang
+year: 2026
+venue: Academic Journal of Science and Technology
+doi: 10.54097/1y0ms617
+url: https://doi.org/10.54097/1y0ms617
+abstract: "Accurate speech-emotion recognition (SER) remains challenging across speakers, languages, and recording conditions, especially under tight computing conditions. We present a lightweight three-class SER framework that unifies acted corpora and pairs frozen self-supervised speech embeddings with a compact residual CNN. A Multi-Corpus Unified Labelling Protocol (MCULP) harmonises CREMA-D, RAVDESS, and EmoDB into a balanced three-class taxonomy (negative, sad_fear, pos_neutral), yielding 7,618 utterances with an 80/10/10 speaker-independent split. Our 3.9-M-parameter Residual Squeeze-and-Excitation 1-D CNN (ResAttn1D-CNN) uses five residual blocks with channel attention and 768×400 wav2vec 2.0-base embeddings. A Tri-Aug pipeline—Gaussian noise, random crop-pad, and SpecAugment-style temporal masking—improves robustness. Trained with AdamW and mixed precision, the model converges in ≈10 hours. On the held-out test set, it reaches 62.9% accuracy and 0.627 macro-F1, outperforming a strong three-layer CNN by 20.9 points and exceeding prior CNN results on comparable tasks. Ablations: +4.9 pp (attention), +2.9 pp (Tri-Aug), +3.2 pp (depth); the confusion matrix shows residual ambiguity between low-arousal negative and neutral speech. Real-time inference (<3.5 ms/utterance, <15 MB GPU) enables edge deployment. Code, manifests, and Docker recipes will be released for reproducibility and benchmarking."
+type: article
+open_access: null
+cited_by: 0
+query: speech emotion recognition paralinguistics foundation models
+question: null
+search: SEARCH-e3f4ee6a6e
+score: 1.04
+score_parts:
+  rank: 0.04
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

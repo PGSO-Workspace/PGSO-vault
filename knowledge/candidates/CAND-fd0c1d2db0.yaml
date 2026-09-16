@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-fd0c1d2db0
+created: 2026-09-15T00:31:42.447Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6828838
+title: "Prompt Injection Attacks Against Clinical LLM Agents Accessing Electronic Health Records: A Survey, Threat Model, Benchmark Specification, and Layered Defense Synthesis"
+authors:
+  - Divya Pandey
+  - Shivani Manchanda
+  - Gangesh Pathak
+  - Nishant Sonkar
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6828838
+url: https://doi.org/10.2139/ssrn.6828838
+abstract: "Clinical large language model (LLM) agents are entering production hospital deployments, where they read longitudinal electronic health records (EHRs), retrieve evidence from clinical knowledge bases, and assist with summarization, dosing, triage, and guideline-based decisions. The same architectural patterns that make these agents useful-instruction-following on retrieved text, tool use over patient data, and multi-turn conversation-also expose them to prompt injection attacks across heterogeneous input channels. This paper makes four contributions: (i) a structured survey of prompt injection in medical LLMs, including the MPIB benchmark, the JAMA Network Open simulation study, oncology vision-language attacks, and the broader prompt-injection literature; (ii) a threat model for EHR-accessing agents organized around five injection channels, four attacker objectives, and three cross-tenant risks, with explicit mapping to defense layers; (iii) EHR-Agent-PI, a benchmark specification extending MPIB and BIPIA along agentic, cross-channel, and outcome-aware dimensions, with specified scenarios, attack rules, disambiguated evaluation metrics (ASR, CHER, PER, TMR, FPR-H), per-cell instance counts, a reference judge prompt, a synthetic-data schema, a documented cost model, and a responsible-release plan compatible with HIPAA and GDPR constraints; and (iv) a layered six-layer defense architecture for clinical deployments, with explicit layerinteraction analysis. Empirical instantiation of EHR-Agent-PI is described as planned future work, with a small-scale pilot outlined in Section 8.5."
+type: preprint
+open_access: null
+cited_by: 0
+query: '"The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents"'
+question: null
+search: SEARCH-3ba9680bea
+score: 1.036
+score_parts:
+  rank: 0.036
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

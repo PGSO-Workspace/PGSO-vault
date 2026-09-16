@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4690b29bd6
+created: 2026-09-15T08:10:10.366Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4366597469
+title: "Blockchain-based digital rights management systems: Design principles for the music industry"
+authors:
+  - Raffaele Ciriello
+  - Alexandra Cecilie Gjøl Torbensen
+  - Magnus Rotvit Perlt Hansen
+  - Christoph Müller-Bloch
+year: 2023
+venue: Electronic Markets
+doi: 10.1007/s12525-023-00628-5
+url: https://doi.org/10.1007/s12525-023-00628-5
+abstract: Abstract Initially designed to protect intellectual property (IP) of digitalized information goods such as music, games, or books, existing centralized digital rights management (DRM) systems mostly serve the interests of major publishers, with scant inclusion of rights owners, creators, and consumers. Although various blockchain-based DRM systems have been proposed, most of them mirror existing counterproductive IP restrictions. Analyzing the music industry as a case in point, this paper proposes design principles for blockchain-based DRM systems that provide an integrated and flexible solution by enabling transparent music licensing structures, consistent and complete rights metadata, and efficient and transparent royalty payout. The solution can be achieved by storing rights metadata on a public distributed ledger, by validating metadata through a consensus mechanism on a permissioned blockchain, and by algorithmically enforcing royalty payout via stablecoin through a smart contract. The design principles were evaluated by industry experts, validating their benefit for the music industry by increasing surplus value that is currently destroyed through previous suboptimal designs.
+type: article
+open_access: true
+cited_by: 38
+query: Design Science in Information Systems Research Hevner March Park Ram 2004 MIS Quarterly DOI
+question: null
+search: SEARCH-b74dc6adde
+score: 1.198
+score_parts:
+  rank: 0.1
+  citations: 0.398
+  recency: 0.7
+needs_approval: false
+state: candidate

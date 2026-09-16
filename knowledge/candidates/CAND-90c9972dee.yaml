@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-90c9972dee
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4408614762
+title: Enhancing Visitor Engagement in Interactive Art Exhibitions with Visual-Enhanced Conversational Agents
+authors:
+  - Hoang Phuoc Ho
+  - Vani Ramesh
+  - Ivo Zaloudek
+  - Delaram Javdani Rikhtehgar
+  - Shenghui Wang
+year: 2025
+venue: null
+doi: 10.1145/3708359.3712145
+url: https://doi.org/10.1145/3708359.3712145
+abstract: Conversational agents in art exhibitions can enhance user engagement and understanding of artworks by providing contextual information, especially through voice interactions. However, creating a deeper personal connection with art - which often requires direct aesthetic and visual experiences - remains a challenge. This paper examines how integrating visual perception into conversational agents can enhance alignment with visitors' artistic interpretations, thereby fostering deeper engagement with interactive art exhibitions. We introduce a voice-based conversational agent enhanced with visual capabilities via a multimodal large language model (MLLM), allowing the agent to perceive, interpret and discuss artworks in real-time with visitors. The system utilizes a simplified Retrieval-Augmented Generation (RAG) architecture, which collects voice inputs, retrieves relevant information from a domain knowledge graph, and uses the LLM to generate conversational responses, which are then converted into voice outputs. A user study with 36 participants, divided into two groups, was conducted to compare the enhanced system with a baseline system that lacked visual input. Our results show that the visually enhanced system significantly improved visitor engagement and perception. Content analysis of the conversational transcripts further revealed a wider range of conversational topics, deeper visitor perceptions, and the agent's ability to provide more nuanced, visually-related discussions.
+type: other
+open_access: true
+cited_by: 15
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.401
+score_parts:
+  rank: 0.2
+  citations: 0.301
+  recency: 0.9
+needs_approval: false
+state: candidate

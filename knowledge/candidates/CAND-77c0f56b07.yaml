@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-77c0f56b07
+created: 2026-09-15T01:14:24.708Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4408037952
+title: "Conceptualizing blended learning models as a sustainable and inclusive educational approach: an organizational dynamics perspective"
+authors:
+  - Nessrin Shaya
+  - Rawan Abukhait
+  - Rehaf Madani
+  - Vian Ahmed
+year: 2025
+venue: International Journal of Sustainability in Higher Education
+doi: 10.1108/ijshe-03-2024-0167
+url: https://doi.org/10.1108/ijshe-03-2024-0167
+abstract: Purpose The theoretical landscape surrounding the contribution of digital transformation to sustainability in higher education institutions is lacking in literature. Blended learning has gained popularity and poises for further growth as a sustainable and inclusive mode of learning that will shape the future of education. This study aims to investigate the organizational critical success factors that ensure high-quality blended learning opportunities. Design/methodology/approach Data was collected through an online student survey and semistructured interviews with academic leaders and faculty members. Findings Exploratory factor analysis and multiple linear regression revealed five main contributing factors to a successful overall hybrid experience, namely, faculty support, cognitive flexibility, learner self-actualization, student engagement and sense of belonging. In the results, students were satisfied with their gained skills, knowledge and engagement, and have succeeded in developing cognitive flexibility, self-actualization and sense of belonging. Faculty support was the strongest determinant. The presence of certain organizational dynamics, comprising management support of those with sustainability mindset, effective communication, blended leadership qualities and adequate faculty personality traits, presents as a major predictor to quality learning opportunities. Originality/value The theoretical landscape surrounding the contribution of digital transformation to sustainability in higher education institutions is lacking in literature, which emphasizes the novel aspects of this study. In particular, it contributes by determining the overall level of research on the subject, theoretical stances in this area and potential avenues for further investigation.
+type: article
+open_access: true
+cited_by: 6
+query: 2024 2025 affect-aware dialogue manager emotion perception response generation journal Q1
+question: null
+search: SEARCH-b185df6a8b
+score: 1.178
+score_parts:
+  rank: 0.067
+  citations: 0.211
+  recency: 0.9
+needs_approval: false
+state: candidate

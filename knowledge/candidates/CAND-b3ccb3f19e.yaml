@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b3ccb3f19e
+created: 2026-09-15T09:47:41.794Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4391753820
+title: Conflict Avoidance in Social Navigation—a Survey
+authors:
+  - Reuth Mirsky
+  - Xuesu Xiao
+  - Justin Hart
+  - Peter Stone
+year: 2024
+venue: ACM Transactions on Human-Robot Interaction
+doi: 10.1145/3647983
+url: https://doi.org/10.1145/3647983
+abstract: A major goal in robotics is to enable intelligent mobile robots to operate smoothly in shared human-robot environments. One of the most fundamental capabilities in service of this goal is competent navigation in this “social” context. As a result, there has been a recent surge of research on social navigation; and especially as it relates to the handling of conflicts between agents during social navigation. These developments introduce a variety of models and algorithms, however as this research area is inherently interdisciplinary, many of the relevant papers are not comparable and there is no shared standard vocabulary. This survey aims at bridging this gap by introducing such a common language, using it to survey existing work, and highlighting open problems. It starts by defining the boundaries of this survey to a limited, yet highly common type of social navigation—conflict avoidance. Within this proposed scope, this survey introduces a detailed taxonomy of the conflict avoidance components. This survey then maps existing work into this taxonomy, while discussing papers using its framing. Finally, this article proposes some future research directions and open problems that are currently on the frontier of social navigation to aid ongoing and future research.
+type: article
+open_access: true
+cited_by: 32
+query: emotion-aware adaptive response social robot conversational agent 2024 journal empirical
+question: null
+search: SEARCH-b8a7912ede
+score: 1.207
+score_parts:
+  rank: 0.027
+  citations: 0.38
+  recency: 0.8
+needs_approval: false
+state: candidate

@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-068ae5d89c
+created: 2026-09-15T00:31:18.055Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7160084581
+title: Adaptive Confidence-Gated Hybrid Ensemble Framework for Speech Emotion Recognition
+authors:
+  - Salem Titouni
+  - Nadhir Djeffal
+  - Abdallah Hedir
+  - Massinissa Belazzoug
+  - Boualem Hammache
+  - Idris Messaoudene
+year: 2026
+venue: Electronics
+doi: 10.3390/electronics15091931
+url: https://doi.org/10.3390/electronics15091931
+abstract: Speech Emotion Recognition (SER) is a key enabling technology for advanced human–computer interaction and affective computing. This paper presents an adaptive hybrid SER framework that combines a deep neural feature extraction module with a heterogeneous ensemble of machine learning classifiers, including XGBoost, Support Vector Machines (SVMs), and Random Forest. To overcome the limitations of static fusion strategies, a confidence-gated meta-classification mechanism is introduced to dynamically weight the contribution of each base classifier according to its instance-level reliability. The proposed approach is evaluated on two widely adopted benchmark datasets, EmoDB and SAVEE, achieving competitive accuracies of 98.88% and 91.92%, respectively. Experimental results demonstrate that the proposed fusion strategy significantly improves robustness against inter-speaker variability and emotional ambiguity, while maintaining low computational complexity suitable for real-time implementation. These findings highlight the effectiveness of the proposed framework as a robust and efficient solution for speech emotion recognition. While the model is evaluated on benchmark datasets, it is intended as a foundational component for future emotion-aware systems, including applications in human–computer interaction.
+type: article
+open_access: true
+cited_by: 0
+query: '"Analyzing Continuous-Time and Sentence-Level Annotations for Speech Emotion Recognition"'
+question: null
+search: SEARCH-40c323d84c
+score: 1.333
+score_parts:
+  rank: 0.333
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

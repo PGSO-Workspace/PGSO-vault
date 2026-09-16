@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-de75c6a206
+created: 2026-09-15T01:13:21.805Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/zono.pdf
+paths:
+  - sources/literature/zono.pdf
+hash: de75c6a2067f60ebe3c4de06c683c62582908a4986fa1585b59f0557bde83f78
+bytes: 511885
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 124481
+  sections: 37
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:09:44.571Z

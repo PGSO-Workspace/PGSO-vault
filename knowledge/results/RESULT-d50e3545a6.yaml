@@ -1,0 +1,19 @@
+schema: phdude.result
+version: 1
+id: RESULT-d50e3545a6
+created: 2026-09-15T00:45:29.623Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+summary: 273 original CREMA-D anger-intensity WAVs acquired with GitLFS hash/size verification at pinned commit
+from: ANALYSIS-76670b0fe7
+values:
+  clips: 273
+  speakers: 91
+  bytes: 20374990
+state: candidate
+ext:
+  analysis:
+    key: acquisition
+    run_at: 2026-09-15T00:45:29.623Z

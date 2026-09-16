@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-254de297b1
+created: 2026-09-15T07:34:45.095Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.63412/ss28se48
+title: Policy-Constrained Runtime Defense for Tool-Using AI Agents in Enterprise API Ecosystems
+authors:
+  - Swapneswar Ray
+year: 2026
+venue: International Journal of Global Innovations and Solutions
+doi: 10.63412/ss28se48
+url: https://doi.org/10.63412/ss28se48
+abstract: "Tool-using AI agents can invoke internal APIs, retrieve documents, update records, and coordinate enterprise workflows. These capabilities create a runtime security problem: an agent may select an unauthorized tool, hallucinate an endpoint, follow malicious instructions embedded in retrieved context, rely on poisoned memory, retry unsafe operations, or submit a schema-valid but policy-violating payload. This paper presents a policy-constrained runtime enforcement framework that intercepts each proposed action before execution and classifies it as allow, deny, or escalate. We implement a deterministic trace-driven simulator with five service domains, six user roles, six threat classes, benign and adversarial tasks, and four defense configurations. The evaluation isolates enforcement effectiveness by replaying identical seeded action traces across all configurations. Across 8,000 controlled workflow executions, the framework reduces adversarial attack success from 100.0% for an unconstrained agent, 72.2% for prompt-only controls, and 18.5% for static gateway rules to 0.2%. It achieves a 99.9% overall safe-outcome rate, 100.0% benign safe completion under simulated reviewer approval, a 4.8% benign false-positive rate, and a 24.9 ms median enforcement latency. Ablation results show that registry validation, authorization, retry governance, and intent checking directly reduce attack success. Payload inspection addresses schema-valid semantic misuse, while context-integrity and escalation controls provide defense-in-depth and operational-governance benefits. The framework provides a structured basis for controlled evaluation of policy-constrained runtime enforcement across tool-using enterprise agents."
+type: article
+open_access: null
+cited_by: 0
+query: 2024 2025 journal LLM agents runtime monitor policy enforcement tool calls
+question: null
+search: SEARCH-b7942200d3
+score: 1.031
+score_parts:
+  rank: 0.031
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

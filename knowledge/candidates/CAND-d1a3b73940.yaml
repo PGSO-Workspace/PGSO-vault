@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d1a3b73940
+created: 2026-09-15T07:51:33.621Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4321013654
+title: "The Programmer’s Assistant: Conversational Interaction with a Large Language Model for Software Development"
+authors:
+  - Steven Ross
+  - Fernando Martinez
+  - Stephanie Houde
+  - Michael Müller
+  - Justin D. Weisz
+year: 2023
+venue: null
+doi: 10.1145/3581641.3584037
+url: https://doi.org/10.1145/3581641.3584037
+abstract: Large language models (LLMs) have recently been applied in software engineering to perform tasks such as translating code between programming languages, generating code from natural language, and autocompleting code as it is being written. When used within development tools, these systems typically treat each model invocation independently from all previous invocations, and only a specific limited functionality is exposed within the user interface. This approach to user interaction misses an opportunity for users to more deeply engage with the model by having the context of their previous interactions, as well as the context of their code, inform the model’s responses. We developed a prototype system – the Programmer’s Assistant – in order to explore the utility of conversational interactions grounded in code, as well as software engineers’ receptiveness to the idea of conversing with, rather than invoking, a code-fluent LLM. Through an evaluation with 42 participants with varied levels of programming experience, we found that our system was capable of conducting extended, multi-turn discussions, and that it enabled additional knowledge and capabilities beyond code generation to emerge from the LLM. Despite skeptical initial expectations for conversational programming assistance, participants were impressed by the breadth of the assistant’s capabilities, the quality of its responses, and its potential for improving their productivity. Our work demonstrates the unique potential of conversational interactions with LLMs for co-creative processes like software development.
+type: other
+open_access: true
+cited_by: 258
+query: '"tool catalog filtering LLM agents journal'
+question: null
+search: SEARCH-7d8f285f66
+score: 1.428
+score_parts:
+  rank: 0.125
+  citations: 0.603
+  recency: 0.7
+needs_approval: false
+state: candidate

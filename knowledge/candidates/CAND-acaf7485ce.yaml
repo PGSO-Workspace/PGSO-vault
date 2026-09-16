@@ -1,0 +1,36 @@
+schema: phdude.candidate
+version: 1
+id: CAND-acaf7485ce
+created: 2026-09-15T07:52:11.603Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2025.emnlp-main.324
+title: Multilingual Prompting for Improving LLM Generation Diversity
+authors:
+  - Qihan Wang
+  - Shidong Pan
+  - Tal Linzen
+  - Emily Black
+year: 2025
+venue: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
+doi: 10.18653/v1/2025.emnlp-main.324
+url: https://doi.org/10.18653/v1/2025.emnlp-main.324
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: 2024 journal role prompting LLM personality empirical
+question: null
+search: SEARCH-bdad43c751
+score: 1.018
+score_parts:
+  rank: 0.043
+  citations: 0.075
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a52ea31f61
+created: 2026-09-15T09:44:28.028Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2024.scichat-1.7
+title: Emo-Gen BART - A Multitask Emotion-Informed Dialogue Generation Framework
+authors:
+  - Alok Debnath
+  - Yvette Graham
+  - Owen Conlan
+year: 2024
+venue: Proceedings of the 1st Workshop on Simulating Conversational Intelligence in Chat (SCI-CHAT 2024)
+doi: 10.18653/v1/2024.scichat-1.7
+url: https://doi.org/10.18653/v1/2024.scichat-1.7
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: affective dialogue system emotion conditioned response generation 2024 journal
+question: null
+search: SEARCH-ef9ffcba6d
+score: 0.827
+score_parts:
+  rank: 0.027
+  citations: 0
+  recency: 0.8
+needs_approval: false
+state: candidate

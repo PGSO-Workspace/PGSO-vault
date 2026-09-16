@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-4d514a467a
+created: 2026-09-14T23:46:57.333Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4416037414
+title: "MCIP: Protecting MCP Safety via Model Contextual Integrity Protocol"
+authors:
+  - Huihao Jing
+  - Haoran Li
+  - Wenbin Hu
+  - Qing‐Miao Hu
+  - Xu Heli
+  - Tianshu Chu
+  - Ping Hu
+  - Yangqiu Song
+year: 2025
+venue: null
+doi: 10.18653/v1/2025.emnlp-main.62
+url: https://doi.org/10.18653/v1/2025.emnlp-main.62
+abstract: As Model Context Protocol (MCP) introduces an easy-to-use ecosystem for users and developers, it also brings underexplored safety risks.Its decentralized architecture, which separates clients and servers, poses unique challenges for systematic safety analysis.This paper proposes a novel framework to enhance MCP safety.Guided by the MAESTRO framework, we first analyze the missing safety mechanisms in MCP, and based on this analysis, we propose the Model Contextual Integrity Protocol (MCIP), a refined version of MCP that addresses these gaps.Next, we develop a fine-grained taxonomy that captures a diverse range of unsafe behaviors observed in MCP scenarios.Building on this taxonomy, we develop benchmark and training data that support the evaluation and improvement of LLMs' capabilities in identifying safety risks within MCP interactions.Leveraging the proposed benchmark and training data, we conduct extensive experiments on state-of-the-art LLMs.The results highlight LLMs' vulnerabilities in MCP interactions and demonstrate that our approach substantially improves their safety performance.1
+type: other
+open_access: true
+cited_by: 11
+query: '"AgentSpec" runtime enforcement LLM agents'
+question: null
+search: SEARCH-ab8e976bec
+score: 2.17
+score_parts:
+  rank: 1
+  citations: 0.27
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-0a1a960e64
+created: 2026-09-15T09:48:16.617Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4412980707
+title: Limits of ChatGPT's conversational pragmatics in a Turing test on ethics, commonsense, and cultural sensitivity
+authors:
+  - Wolfgang Wagner
+  - George Gaskell
+  - Eva Paraschou
+  - Siqi Lyu
+  - Maria Michali
+  - Athena Vakali
+year: 2025
+venue: Computers in Human Behavior Artificial Humans
+doi: 10.1016/j.chbah.2025.100191
+url: https://doi.org/10.1016/j.chbah.2025.100191
+abstract: Does ChatGPT deliver its explicit claim to be culturally sensitive and its implicit claim to be a friendly digital person when conversing with human users? These claims are investigated from the perspective of linguistic pragmatics, particularly Grice's cooperative principle in communication. Following the pattern of real-life communication, turn-taking conversations reveal limitations in the LLM's grasp of the entire contextual setting described in the prompt. The prompts included ethical issues, a hiking adventure, geographical orientation and body movement. For cultural sensitivity the prompts came from a Pakistani Muslim in English language, from a Hindu in English, and from a Chinese in Chinese language. The issues were deeply cultural involving feelings and emotions. Qualitative analysis of the conversation pragmatics showed that ChatGPT is often unable to conduct conversations according to the pragmatic principles of quantity, reliable quality, remaining in focus, and being clear in expression. We conclude that ChatGPT should be promoted as a machine and not a faux human and not be presented as a global LLM but be subdivided into culture-specific modules.
+type: article
+open_access: true
+cited_by: 0
+query: '"Toward accurate psychological simulations: Investigating LLMs responses to personality and cultural variables"'
+question: null
+search: SEARCH-e379e9ef48
+score: 1.025
+score_parts:
+  rank: 0.125
+  citations: 0
+  recency: 0.9
+needs_approval: false
+state: candidate

@@ -1,0 +1,44 @@
+schema: phdude.candidate
+version: 1
+id: CAND-d5ba582bc0
+created: 2026-09-15T00:30:50.983Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18653/v1/2026.acl-long.1088
+title: "LaoBench: A Large-Scale Multidimensional Lao Benchmark for Large Language Models"
+authors:
+  - Jian Gao
+  - Richeng Xuan
+  - Zhaolu Kang
+  - Dingshi Liao
+  - Wenxin Huang
+  - Zongmou Huang
+  - Yangdi Xu
+  - Bowen Qin
+  - Zheqi He
+  - Xi Yang
+  - Changjinli
+  - Yonghua Lin
+year: 2026
+venue: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+doi: 10.18653/v1/2026.acl-long.1088
+url: https://doi.org/10.18653/v1/2026.acl-long.1088
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics Over Acoustic Foundation Models"'
+question: null
+search: SEARCH-40ed8087e2
+score: 1.038
+score_parts:
+  rank: 0.038
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,20 @@
+schema: phdude.claim
+version: 1
+id: CLAIM-374833033e
+created: 2026-09-13T07:00:38.519Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+statement: The inspected DecisionEngine returns None before changing baseline state when confidence is below threshold.
+kind: methodological
+state: candidate
+supported_by:
+  - EVID-01a22dcb27
+questions: []
+sections:
+  - methods
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-389c2f2ec0

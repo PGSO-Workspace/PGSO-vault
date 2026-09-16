@@ -1,0 +1,40 @@
+schema: phdude.candidate
+version: 1
+id: CAND-18f1ec071f
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W7166806618
+title: "TeleAI at SemEval-2026 Task 3: Large Language Models for Dimensional Aspect-Based Sentiment Analysis"
+authors:
+  - Yan Zhou
+  - Wangshicheng Wang
+  - Shiquan Wang
+  - Mengjiao Bao
+  - Ruiyu Fang
+  - Shuangyong Song
+  - Yongxiang Li
+  - Xuelong Li
+year: 2026
+venue: null
+doi: 10.18653/v1/2026.semeval-1.233
+url: https://doi.org/10.18653/v1/2026.semeval-1.233
+abstract: "We present TeleAI's system for SemEval-2026 Task 3 (Track A), focusing on Subtask 1 (Di-mASR): given a text and aspect terms, the system predicts continuous Valence-Arousal (VA) scores under the official RM SE V A metric (Yu et al., 2026).Our regression framework uses Qwen2.5-7B as a feature extractor with LoRA-based parameter-efficient finetuning, multilingual/multi-domain mixed training, R-Drop-style consistency regularization, embedding-level PGD adversarial training, output interval mapping, and post-hoc linear calibration.Experimental observations and ablation trends indicate that mixed training and robustness/consistency regularization substantially reduce RM SE V A , yielding competitive performance across multiple language-domain settings.We also tried lightweight direct-JSON prompting for Subtasks 2 and 3, but those runs were less competitive, so we focus on Subtask 1."
+type: other
+open_access: true
+cited_by: 0
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 2
+score_parts:
+  rank: 1
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

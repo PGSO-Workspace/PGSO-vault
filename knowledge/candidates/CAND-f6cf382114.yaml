@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-f6cf382114
+created: 2026-09-14T23:44:30.144Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.5465/amproc.2024.303bp
+title: Does Platform Owners’ Entry Suppress Open Source Contributions? Evidence from GitHub Developers
+authors:
+  - Yuping Li
+year: 2024
+venue: Academy of Management Proceedings
+doi: 10.5465/amproc.2024.303bp
+url: https://doi.org/10.5465/amproc.2024.303bp
+abstract: null
+type: article
+open_access: null
+cited_by: 2
+query: '"WeClaw" "Adaptive Runtime" GitHub open source'
+question: null
+search: SEARCH-b132bc032f
+score: 1.01
+score_parts:
+  rank: 0.091
+  citations: 0.119
+  recency: 0.8
+needs_approval: false
+state: candidate

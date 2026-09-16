@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-ae09cadb58
+created: 2026-09-15T06:32:12.812Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: openalex
+providers:
+  - openalex
+external_id: W4405185373
+title: A review of large language models and autonomous agents in chemistry
+authors:
+  - Mayk Caldas Ramos
+  - Christopher J. Collison
+  - Andrew Dickson White
+year: 2024
+venue: Chemical Science
+doi: 10.1039/d4sc03921a
+url: https://doi.org/10.1039/d4sc03921a
+abstract: "Large language models (LLMs) have emerged as powerful tools in chemistry, significantly impacting molecule design, property prediction, and synthesis optimization. This review highlights LLM capabilities in these domains and their potential to accelerate scientific discovery through automation. We also review LLM-based autonomous agents: LLMs with a broader set of tools to interact with their surrounding environment. These agents perform diverse tasks such as paper scraping, interfacing with automated laboratories, and synthesis planning. As agents are an emerging topic, we extend the scope of our review of agents beyond chemistry and discuss across any scientific domains. This review covers the recent history, current capabilities, and design of LLMs and autonomous agents, addressing specific challenges, opportunities, and future directions in chemistry. Key challenges include data quality and integration, model interpretability, and the need for standard benchmarks, while future directions point towards more sophisticated multi-modal agents and enhanced collaboration between agents and experimental methods. Due to the quick pace of this field, a repository has been built to keep track of the latest studies: https://github.com/ur-whitelab/LLMs-in-science."
+type: article
+open_access: true
+cited_by: 242
+query: conversational agents task success evaluation benchmark tool policy reliability
+question: null
+search: SEARCH-b2b151cc68
+score: 1.563
+score_parts:
+  rank: 0.167
+  citations: 0.596
+  recency: 0.8
+needs_approval: false
+state: candidate

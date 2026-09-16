@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6892c05231
+created: 2026-09-14T16:50:56.433Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1007/s10803-026-07315-2
+title: "Cognitive Empathy, Affective Empathy and Empirical Research on the Double Empathy Problem: A Critical Methodology Review"
+authors:
+  - Sam Fellowes
+year: 2026
+venue: Journal of Autism and Developmental Disorders
+doi: 10.1007/s10803-026-07315-2
+url: https://doi.org/10.1007/s10803-026-07315-2
+abstract: Abstract Purpose The double empathy problem posits that autistic people and non-autistic people both lack empathy with the other side rather than the lack of empathy solely residing in one side. There have been empirical studies which lend support for the double empathy problem. I show that these studies are largely not engaging with cognitive nor affective empathy. Methods Twenty different papers are assessed on measurement made, set-up of the interaction employed and duration of the interaction to establish whether the evidence those studies generate is applicable to cognitive and affective empathy. Results Firstly the experimental measures in these studies are largely not making measurements that would detect cognitive or affective empathy. Secondly, many use setups which do not encourage or are not conducive towards cognitive or affective empathy occurring. Thirdly, many involve a short period of interaction for cognitive or affective empathy to occur. Conclusion These studies are largely not generating data about whether the double empathy problem is applicable to cognitive or affective empathy. Which aspects of empathy the evidence supporting the double empathy problem is related to is considered and suggestions are made for how future studies on the double empathy problem could target cognitive and affective empathy.
+type: article
+open_access: null
+cited_by: 0
+query: affective dialogue agents empathy behavior trees
+question: null
+search: SEARCH-44c0c554f3
+score: 1.042
+score_parts:
+  rank: 0.042
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

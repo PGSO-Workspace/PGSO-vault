@@ -1,0 +1,34 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b9c6f9dfab
+created: 2026-09-15T07:38:43.488Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.14293/s2199-ssp-am24-01025
+title: AI Generated Metadata for Equitable Publication Access
+authors:
+  - Jesubukade Ajakaye
+  - Natalie Pendergast
+year: 2024
+venue: AI Generated Metadata for Equitable Publication Access
+doi: 10.14293/s2199-ssp-am24-01025
+url: https://doi.org/10.14293/s2199-ssp-am24-01025
+abstract: null
+type: article
+open_access: null
+cited_by: 1
+query: '"10.1109/ACCESS.2026.3719838" "Date of Publication"'
+question: null
+search: SEARCH-210eb9e969
+score: 0.931
+score_parts:
+  rank: 0.056
+  citations: 0.075
+  recency: 0.8
+needs_approval: false
+state: candidate

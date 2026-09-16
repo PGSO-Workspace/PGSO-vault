@@ -1,0 +1,23 @@
+schema: phdude.artifact
+version: 1
+id: ART-fcaff9cc78
+created: 2026-09-15T01:11:33.971Z
+actor:
+  researcher: Lucio
+  agent: cli
+path: sources/literature/npj-state-anxiety-2025.pdf
+paths:
+  - sources/literature/npj-state-anxiety-2025.pdf
+hash: fcaff9cc78c8e2503bb70a17a3c45ca52c717deed63e712856bf04f9363fdf10
+bytes: 666421
+mime: application/pdf
+kind: pdf
+role: unknown
+extracted:
+  status: ok
+  method: pdf
+  text_chars: 51438
+  sections: 6
+  tables: 0
+  warnings: []
+mtime: 2026-09-15T01:10:54.831Z

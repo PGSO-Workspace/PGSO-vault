@@ -1,0 +1,33 @@
+schema: phdude.candidate
+version: 1
+id: CAND-2e780e8f79
+created: 2026-09-15T01:15:52.713Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1117/12.3108999
+title: Emotion classification method based on improved graph convolutional network model and phase lag index
+authors:
+  - Tingting Yang
+year: 2026
+venue: Sixth International Conference on Telecommunications, Optics, and Computer Science (TOCS 2025)
+doi: 10.1117/12.3108999
+url: https://doi.org/10.1117/12.3108999
+abstract: null
+type: article
+open_access: null
+cited_by: 0
+query: '"MEGE: A mixed emotion graph model" "10.1016/j.neunet.2025.108252"'
+question: null
+search: SEARCH-afcb4eed37
+score: 1.071
+score_parts:
+  rank: 0.071
+  citations: 0
+  recency: 1
+needs_approval: false
+state: candidate

@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-9a9c74a7f5
+created: 2026-09-15T07:49:59.291Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.4897822
+title: Accurate Calculation of Magnetic Forces on Irregular Magnetic Mineral Particles Using Micromagnetic Simulations
+authors:
+  - Xin Li
+  - Zhaolian Wang
+  - Michael Wang
+  - Kaixi Jiang
+  - Jiangang Ku
+year: 2024
+venue: null
+doi: 10.2139/ssrn.4897822
+url: https://doi.org/10.2139/ssrn.4897822
+abstract: null
+type: preprint
+open_access: null
+cited_by: 0
+query: '"Toward accurate psychological simulations" "Chihao Li" PDF'
+question: null
+search: SEARCH-a24394c105
+score: 1.05
+score_parts:
+  rank: 0.25
+  citations: 0
+  recency: 0.8
+needs_approval: true
+state: candidate

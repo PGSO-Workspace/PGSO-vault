@@ -1,0 +1,18 @@
+schema: phdude.evidence
+version: 1
+id: EVID-a02702247d
+created: 2026-09-15T08:30:58.480Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+source: SRC-40b9e43bb8
+locator: "test_bridge.py: test_sustained_signal_can_withhold_selected_task_repair; test-run.log, six tests OK; SDK source ff8f5ffbafcdd4196e4da25aaa107d8a9a807e88"
+excerpt: The offline test asserts false original task predicates before and after a blocked enable_roaming attempt with no callback effect, then true predicates after a nominal observation retires the directive and the same repair executes. This establishes a reproducible possible treatment harm in one fixed sandbox scenario, not its frequency in conversations.
+strength: strong
+state: candidate
+provenance:
+  method: agent-extraction
+  derived_from:
+    - ART-2ac4c12dce
+    - ART-d2b027525f

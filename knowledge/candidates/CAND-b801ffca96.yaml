@@ -1,0 +1,37 @@
+schema: phdude.candidate
+version: 1
+id: CAND-b801ffca96
+created: 2026-09-15T09:44:24.437Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.2139/ssrn.6232271
+title: An Emotion-Aware Conversational Agent for Symptom and Quality-of-Life Monitoring in Hematologic Malignancies
+authors:
+  - Maria  Evangelia Chatzimina
+  - Helen  A. Papadaki
+  - Charalampos Pontikoglou
+  - Kostas Marias
+  - Manolis Tsiknakis
+year: 2026
+venue: null
+doi: 10.2139/ssrn.6232271
+url: https://doi.org/10.2139/ssrn.6232271
+abstract: BackgroundPatients with hematologic malignancies often experience a high burden of physical symptoms together with emotional distress, especially during long disease trajectories and in palliative care settings. Continuous monitoring of symptoms and quality of life (QoL) may support timely clinical follow-up, but this is not always systematically implemented in routine care. Although digital health tools are increasingly used, many existing conversational systems mainly focus on structured data collection and do not adequately respond to the emotional state of patients during interaction.ObjectiveThe aim of this study was to develop and perform an initial expert-based evaluation of an emotion-aware conversational agent that supports symptom and QoL monitoring in patients with hematologic malignancies, while adapting its behavior to show empathy when emotional distress is expressed.MethodsWe developed a bilingual conversational agent based on a large language model fine-tuned on real Greek clinician–patient conversations and adapted to the clinical domain of hematology. A separate sentiment analysis module analyzes patient messages in real time to detect negative emotional expressions, such as fear, sadness, or anxiety. When emotional distress is identified, the system temporarily shifts from structured medical questioning to short supportive and empathic responses and resumes monitoring once emotional intensity decreases. The system supports both initial patient profiling and follow-up interactions and is available through web and mobile applications, including speech-to-text functionality. An expert-based evaluation was conducted using simulated patient scenarios. User experience was assessed with the User Experience Questionnaire (UEQ), and perceived empathy was evaluated using an adapted version of the Consultation and Relational Empathy (CARE) measure.ResultsThe evaluation showed positive user experience across all UEQ dimensions. Experts also reported high perceived empathy scores, indicating that the conversational agent was considered clear, usable, and emotionally appropriate during sensitive interactions.ConclusionsThe findings suggest that emotion-adaptive conversational agents based on large language models can support patient-centered symptom and QoL monitoring in hematologic malignancies and may complement clinical care, particularly in palliative and long-term follow-up contexts. The proposed modular architecture can be adapted to other chronic diseases where emotional support is an important component of care.
+type: preprint
+open_access: null
+cited_by: 0
+query: 2024 2025 emotion-aware conversational agent affect adaptive response multimodal journal
+question: null
+search: SEARCH-9b4ec8468e
+score: 1.025
+score_parts:
+  rank: 0.025
+  citations: 0
+  recency: 1
+needs_approval: true
+state: candidate

@@ -1,0 +1,38 @@
+schema: phdude.candidate
+version: 1
+id: CAND-a9744fffbb
+created: 2026-09-15T07:39:08.130Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.18502/jehsd.v9i3.16581
+title: Health Risk Assessment of Nitrate, Nitrite, and Fluoride Ions in Water Reservoirs of Mehriz, Iran in 2023
+authors:
+  - Ali Ghasemzadeh
+  - Mohammad Taghi Ghaneian
+  - Reza Ali Fallahzadeh
+  - Vahid Jafari Nodoshan
+  - Hossein Fallahzadeh
+  - Arash Dalvand
+year: 2024
+venue: Journal of Environmental Health and Sustainable Development
+doi: 10.18502/jehsd.v9i3.16581
+url: https://doi.org/10.18502/jehsd.v9i3.16581
+abstract: "Introduction: High concentrations of nitrate, nitrite, and fluoride in drinking water can cause adverse health effects. This study aims to investigate concentration and health risks assessment of nitrate, nitrite, and fluoride ions in water reservoirs of Mehriz city and Bahadoran district. Materials and Methods: Monthly sampling was done from water reservoirs of Mehriz city and Bahadoran district for 6 months. Nitrate, nitrite, and fluoride concentrations were measured in the samples using a spectrophotometer. Then, health risk assessment and sensitivity analysis were performed on the obtained data using Crystal Ball software and Monte Carlo simulation method. Results: Nitrate, nitrite, and fluoride concentrations were lower than the standard limitation in all of the studied areas. Risk assessment findings indicated that hazard quotient (HQ) values of nitrite in Miankoh-Movahedin, Bidok and Bahadoran water reservoirs were less than 1 for all age groups. HQ values of nitrate were also below 1 for all age groups except children. HQ values of fluoride in Bahadoran water reservoir were below 1 for all age groups except children. Conclusion: Health risk of consuming water containing nitrates and fluorides is high for children. Based on sensitivity analysis, the concentration of nitrate and fluoride in drinking water is the key factor in raising health risks. Reducing nitrate and fluoride concentrations in drinking water can reduce health risks in the population."
+type: article
+open_access: null
+cited_by: 2
+query: '"3814959" Hasan Li Fallahzadeh MCP TOSEM'
+question: null
+search: SEARCH-7269150f4c
+score: 0.969
+score_parts:
+  rank: 0.05
+  citations: 0.119
+  recency: 0.8
+needs_approval: false
+state: candidate

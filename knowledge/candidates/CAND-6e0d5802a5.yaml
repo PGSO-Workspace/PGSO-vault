@@ -1,0 +1,35 @@
+schema: phdude.candidate
+version: 1
+id: CAND-6e0d5802a5
+created: 2026-09-15T06:32:12.812Z
+actor:
+  researcher: Lucio
+  agent: codex
+tags: []
+provider: crossref
+providers:
+  - crossref
+external_id: 10.1145/3640794.3665575
+title: "Situated Conversational Agents for Task Guidance: A Preliminary User Study"
+authors:
+  - Alexandra W.D. Bremers
+  - Manaswi Saha
+  - Adolfo G. Ramirez-Aristizabal
+year: 2024
+venue: ACM Conversational User Interfaces 2024
+doi: 10.1145/3640794.3665575
+url: https://doi.org/10.1145/3640794.3665575
+abstract: null
+type: article
+open_access: null
+cited_by: 5
+query: conversational agents task success evaluation benchmark tool policy reliability
+question: null
+search: SEARCH-b2b151cc68
+score: 1.095
+score_parts:
+  rank: 0.1
+  citations: 0.195
+  recency: 0.8
+needs_approval: false
+state: candidate
