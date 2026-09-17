@@ -17,10 +17,11 @@ for n in sorted(v['nodes'],key=lambda z:z['level']):
         P.append(f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="4" fill="#FAFAFA" stroke="#9a9a9a" stroke-width="1.2" stroke-dasharray="6 4"/>')
         P.append(f'<text x="{x+14}" y="{y+26}" font-size="17" font-weight="bold" fill="#333">{esc(n.get("title"))}</text>')
         continue
-    ext = n.get('kind')=='external'
+    kind=n.get('kind')
+    ext = kind in ('external','person')
     P.append(f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="3" fill="{"#F2F2F2" if ext else "white"}" '
              f'stroke="#1a1a1a" stroke-width="{1.0 if ext else 1.4}" {"stroke-dasharray=\"5 3\"" if ext else ""}/>')
-    lines=textwrap.wrap(txt(n.get("description")),34)[:4]
+    lines=textwrap.wrap(txt(n.get("description")),38)[:5]
     blk=26+len(lines)*22
     top=y+(h-blk)/2+20
     P.append(f'<text x="{x+w/2}" y="{top}" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">{esc(n.get("title"))}</text>')

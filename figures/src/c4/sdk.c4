@@ -1,38 +1,94 @@
 specification {
-  element layer { style { shape rectangle } }
+  element person   { style { shape person } }
+  element system
+  element external { style { shape rectangle } }
+  element container
   element crate
-  element external { style { color muted } }
+
+  relationship implements
+  relationship uses
 }
 
 model {
-  host = external 'Trusted host' {
-    description 'Owns permissions, approvals and the expiry clock'
+  researcher = person 'Researcher' {
+    description 'Configures rules and thresholds, opens execution, reads the scored outcome'
+  }
+  llm = external 'Model provider' {
+    description 'Agent and simulated user generation; speech synthesis and transcription'
+  }
+  tau = external 'Public task benchmark' {
+    description 'Pinned TAU telecom environment and its original final-state predicates'
   }
 
-  sdk = layer 'PGSO SDK' {
-    perception = crate 'pgso-signal-egemaps' {
-      description '1 174 lines. eGeMAPS-style heuristic. Replaceable behind the Observation interface.'
+  harness = system 'Governed voice-task harness' {
+    description 'The evaluated integration: acoustic observations reach tool dispatch, and an independent scorer reads live final state'
+
+    pilot = container 'Pilot orchestrator' {
+      technology 'Python'
+      description 'Drives the session, synthesises user speech, transcribes it, and records attempted calls separately from executed effects'
     }
-    core = crate 'pgso-core' {
-      description '3 111 lines. engine, pipeline, rules, state, action, audit. No transport dependency.'
+
+    runtime = container 'PGSO runtime' {
+      technology 'Rust'
+      description 'Temporal intervention state, effective policy composition, and the invocation authorization boundary'
+
+      core = crate 'pgso-core' {
+        description '3 111 lines. engine, pipeline, rules, state, action, audit. Defines the Signal and Actuator traits. Depends on no other crate.'
+      }
+      egemaps = crate 'pgso-signal-egemaps' {
+        description '1 174 lines. eGeMAPS-style heuristic over 800 ms windows'
+      }
+      local = crate 'pgso-actuator-local' {
+        description '127 lines. In-process dispatch'
+      }
+      mcp = crate 'pgso-actuator-mcp' {
+        description '1 115 lines. MCP tool surface'
+      }
+      http = crate 'pgso-actuator-http' {
+        description '2 323 lines. Shared runtime lock; callback runs inside the authorization operation'
+      }
     }
-    local = crate 'pgso-actuator-local' { description '127 lines. In-process dispatch.' }
-    http = crate 'pgso-actuator-http' { description '2 323 lines. Shared runtime lock.' }
-    mcp = crate 'pgso-actuator-mcp' { description '1 115 lines. MCP tool surface.' }
+
+    sandbox = container 'Sandbox tool environment' {
+      technology 'Rust'
+      description 'Executes a permitted callback and returns a receipt carrying a bounded reason'
+    }
+
+    scorer = container 'Independent scorer' {
+      technology 'Python'
+      description 'Evaluates the original predicates on the actual final environment; never replays an attempted call'
+    }
   }
 
-  perception -> core 'Observation (value, confidence, axis, timestamp)'
-  core -> local
-  core -> http
-  core -> mcp 'the same effective catalog + context\nto every actuator'
-  host -> core 'rules, expiry cutoff'
-  host -> http 'permission ceiling, approvals'
+  researcher -> harness 'configures the policy, reads the outcome'
+  pilot -> llm 'generation, TTS, ASR'
+  scorer -> tau 'original predicates'
+  pilot -> runtime 'observations,\ncandidate calls'
+  runtime -> sandbox 'authorized callback only'
+  scorer -> sandbox 'reads live final state'
+  researcher -> runtime 'permission ceiling, approvals, expiry cutoff'
+
+  egemaps -> core 'implements Signal'
+  local -> core 'implements Actuator'
+  mcp -> core 'implements Actuator'
+  http -> core 'implements Actuator'
+  http -> mcp 'reuses the tool surface'
 }
 
 views {
-  view sdk_layers {
-    title 'PGSO SDK: core independent of perception and of every actuator'
-    include *, sdk.*
-    style * { opacity 15% }
+  view c1_context {
+    title 'C1 Context: who the governed harness talks to'
+    include researcher, harness, llm, tau
+  }
+
+  view c2_containers of harness {
+    title 'C2 Containers: dispatch is separated from scoring'
+    include *, researcher, llm, tau
+    exclude core, egemaps, local, mcp, http
+  }
+
+  view c3_components of runtime {
+    title 'C3 Components: every crate depends on the core, the core depends on none'
+    include *, pilot, sandbox
   }
 }
