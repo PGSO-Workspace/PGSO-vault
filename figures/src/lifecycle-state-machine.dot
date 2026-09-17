@@ -1,0 +1,24 @@
+digraph lifecycle {
+  rankdir=LR; splines=spline; pad=0.22; nodesep=0.45; ranksep=1.35; bgcolor="white";
+  node [fontname="Helvetica", fontsize=11, shape=ellipse, style=filled,
+        fillcolor="white", color="#1a1a1a", penwidth=1.1, width=1.6, height=0.66];
+  edge [fontname="Helvetica", fontsize=9.5, color="#1a1a1a", penwidth=0.95, arrowsize=0.75];
+
+  start [shape=point, width=0.09, color="#1a1a1a", fillcolor="#1a1a1a", label=""];
+  NOM [label="NOMINAL\nbaseline tracks input"];
+  PEN [label="PENDING\nbaseline frozen"];
+  TRG [label="TRIGGERED\ncontribution active", penwidth=2.2];
+
+  start -> NOM [label=" b₀, warm-up W "];
+  NOM -> PEN [label=" d ≥ δ,  H > 1 \n freeze b,  k←1 "];
+  PEN -> TRG [label=" k ≥ H "];
+
+  NOM -> NOM [label="d < δ\nupdate b,  k←0"];
+  PEN -> PEN [label="same side\nk←k+1"];
+  TRG -> TRG [label="same side\nre-assert"];
+
+  PEN -> NOM [label=" d < δ \n retire "];
+  TRG -> PEN [label=" side change  ∨ \n gap > G "];
+  NOM -> TRG [label=" d ≥ δ,  H ≤ 1 "];
+  TRG -> NOM [label=" d < δ  /  retire "];
+}

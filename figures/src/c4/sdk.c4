@@ -1,0 +1,38 @@
+specification {
+  element layer { style { shape rectangle } }
+  element crate
+  element external { style { color muted } }
+}
+
+model {
+  host = external 'Trusted host' {
+    description 'Owns permissions, approvals and the expiry clock'
+  }
+
+  sdk = layer 'PGSO SDK' {
+    perception = crate 'pgso-signal-egemaps' {
+      description '1 174 lines. eGeMAPS-style heuristic. Replaceable behind the Observation interface.'
+    }
+    core = crate 'pgso-core' {
+      description '3 111 lines. engine, pipeline, rules, state, action, audit. No transport dependency.'
+    }
+    local = crate 'pgso-actuator-local' { description '127 lines. In-process dispatch.' }
+    http = crate 'pgso-actuator-http' { description '2 323 lines. Shared runtime lock.' }
+    mcp = crate 'pgso-actuator-mcp' { description '1 115 lines. MCP tool surface.' }
+  }
+
+  perception -> core 'Observation (value, confidence, axis, timestamp)'
+  core -> local
+  core -> http
+  core -> mcp 'the same effective catalog + context\nto every actuator'
+  host -> core 'rules, expiry cutoff'
+  host -> http 'permission ceiling, approvals'
+}
+
+views {
+  view sdk_layers {
+    title 'PGSO SDK: core independent of perception and of every actuator'
+    include *, sdk.*
+    style * { opacity 15% }
+  }
+}

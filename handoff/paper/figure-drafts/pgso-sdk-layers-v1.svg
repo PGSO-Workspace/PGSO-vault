@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1642 976" width="1642" height="976" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#1a1a1a"/></marker></defs>
+<rect x="1308" y="69" width="334" height="180" rx="3" fill="#F2F2F2" stroke="#1a1a1a" stroke-width="1.0" stroke-dasharray="5 3"/>
+<text x="1475.0" y="144.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Trusted host</text>
+<text x="1475.0" y="170.0" font-size="15" text-anchor="middle" fill="#444">Owns permissions, approvals and</text>
+<text x="1475.0" y="192.0" font-size="15" text-anchor="middle" fill="#444">the expiry clock</text>
+<rect x="8" y="8" width="1260" height="960" rx="4" fill="#FAFAFA" stroke="#9a9a9a" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="22" y="34" font-size="17" font-weight="bold" fill="#333">PGSO SDK</text>
+<rect x="464" y="69" width="348" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="638.0" y="133.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">pgso-signal-egemaps</text>
+<text x="638.0" y="159.0" font-size="15" text-anchor="middle" fill="#444">1 174 lines. eGeMAPS-style</text>
+<text x="638.0" y="181.0" font-size="15" text-anchor="middle" fill="#444">heuristic. Replaceable behind the</text>
+<text x="638.0" y="203.0" font-size="15" text-anchor="middle" fill="#444">Observation interface.</text>
+<rect x="478" y="409" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="638.0" y="473.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">pgso-core</text>
+<text x="638.0" y="499.0" font-size="15" text-anchor="middle" fill="#444">3 111 lines. engine, pipeline,</text>
+<text x="638.0" y="521.0" font-size="15" text-anchor="middle" fill="#444">rules, state, action, audit. No</text>
+<text x="638.0" y="543.0" font-size="15" text-anchor="middle" fill="#444">transport dependency.</text>
+<rect x="48" y="748" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="208.0" y="834.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">pgso-actuator-local</text>
+<text x="208.0" y="860.0" font-size="15" text-anchor="middle" fill="#444">127 lines. In-process dispatch.</text>
+<rect x="908" y="748" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="1068.0" y="834.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">pgso-actuator-http</text>
+<text x="1068.0" y="860.0" font-size="15" text-anchor="middle" fill="#444">2 323 lines. Shared runtime lock.</text>
+<rect x="478" y="748" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="638.0" y="834.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">pgso-actuator-mcp</text>
+<text x="638.0" y="860.0" font-size="15" text-anchor="middle" fill="#444">1 115 lines. MCP tool surface.</text>
+<path d="M 1308,243 L 1304,245 L 1299,247 L 1295,249 L 1132,320 L 941,391 L 807,439" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="1136" y="333" font-size="15" fill="#222">rules, expiry cutoff</text>
+<path d="M 1422,249 L 1345,376 L 1206,608 L 1127,740" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="1326" y="502" font-size="15" fill="#222">permission ceiling, approvals</text>
+<path d="M 638,249 L 638,295 L 638,351 L 638,399" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="639" y="324" font-size="15" fill="#222">Observation (value,</text>
+<text x="639" y="343" font-size="15" fill="#222">confidence, axis,  timestamp)</text>
+<path d="M 525,589 L 465,636 L 391,694 L 329,742" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<path d="M 798,582 L 831,602 L 865,625 L 895,649 L 929,676 L 962,710 L 990,741" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<path d="M 638,589 L 638,634 L 638,691 L 638,738" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="639" y="664" font-size="15" fill="#222">the same effective catalog +</text>
+<text x="639" y="683" font-size="15" fill="#222">context to every actuator</text>
+</svg>

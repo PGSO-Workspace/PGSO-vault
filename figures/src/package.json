@@ -1,0 +1,14 @@
+{
+  "name": "pgso-figure-sources",
+  "private": true,
+  "description": "Diagram sources for the PGSO Paper 1 figures. Graphviz DOT for the processor state machine, LikeC4 for the SDK component view. No system Graphviz, Java or TeX required: both layout engines ship as WebAssembly.",
+  "scripts": {
+    "layout:c4": "likec4 export json -o c4/model.json c4",
+    "render:lifecycle": "node render-dot.js lifecycle-state-machine.dot ../out/pgso-lifecycle-v1.svg",
+    "render:sdk": "python3 render-c4.py c4/model.json ../out/pgso-sdk-layers-v1.svg sdk_layers"
+  },
+  "dependencies": {
+    "@hpcc-js/wasm-graphviz": "^1.9.0",
+    "likec4": "^1.39.0"
+  }
+}
