@@ -1,0 +1,28 @@
+digraph amigable {
+  rankdir=TB; splines=spline; pad=0.28; nodesep=0.55; ranksep=0.9; bgcolor="white";
+  node [fontname="Helvetica", fontsize=13, shape=box, style="filled,rounded",
+        fillcolor="white", color="#1a1a1a", penwidth=1.3, margin="0.22,0.14"];
+  edge [fontname="Helvetica", fontsize=11, color="#333333", penwidth=1.1, arrowsize=0.8];
+
+  lectura [label="Llega una medición acústica\nde una ventana de 800 ms",
+           shape=box, style="filled", fillcolor="#EFEFEF", color="#777777", penwidth=1.0];
+
+  ABS [label="NO MIDO\n\n«La ventana no tenía voz suficiente\npara medirla con fiabilidad»\n\nNo toco nada: ni la referencia\nni la restricción vigente",
+       fillcolor="#F5F5F5", color="#777777", style="filled,rounded,dashed"];
+  NOM [label="NORMAL\n\n«Esto se parece al nivel habitual\nde esta persona»\n\nIncorporo la medición a mi referencia\ny retiro la restricción si la había"];
+  PEN [label="DISTINTO, PERO AÚN NO\n\n«Se salió del rango, pero llevo\nmenos de H mediciones seguidas»\n\nCongelo la referencia y espero.\nTodavía no restrinjo nada"];
+  TRG [label="SOSTENIDO\n\n«Llevo H mediciones seguidas\nfuera del rango, del mismo lado»\n\nAfirmo la intervención y la mantengo\nmientras siga siendo cierto",
+       penwidth=2.4];
+
+  lectura -> ABS [label="  poca voz en la ventana,\l  valor no finito, o\l  llegó desordenada  \l", color="#777777", style=dashed];
+  lectura -> NOM [label="  se desvía menos de δ  "];
+  lectura -> PEN [label="  se desvía δ o más,\l  pero la racha no llega a H\l"];
+  PEN -> TRG [label="  otra medición fuera de rango,\l  del mismo lado: racha = H\l"];
+  TRG -> TRG [label="  sigue fuera de rango:\l  reafirmo en cada medición\l"];
+  TRG -> NOM [label="  vuelve a menos de δ:\l  retiro la restricción\l"];
+  TRG -> PEN [label="  cambia de lado, o pasa\l  más de G ms sin medir:\l  la racha vuelve a empezar\l"];
+  PEN -> NOM [label="  vuelve a menos de δ  "];
+
+  { rank=same; ABS; lectura; }
+  { rank=same; NOM; PEN; }
+}
