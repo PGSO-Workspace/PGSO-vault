@@ -1,0 +1,24 @@
+figures/pgso_lifecycle_trace.py
+  s_36b45cf056dc09::t_6dcd1e5ce93414 20,88
+  s_36b45cf056dc09::t_02da3afce382e5 38
+  s_36b45cf056dc09::t_2c04f18600e53b 1-19,21-37,39-87,89-101
+  s_36b45cf056dc09::t_6e6eb69dee2458 102-103
+handoff/paper/figure-drafts/pgso-lifecycle-trace-v1.svg
+  s_36b45cf056dc09::t_da93cc807fdc0b 1-90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1b7308c4540e3f7dc035ce5dab441862ea987d92",
+  "prompts": {},
+  "sessions": {
+    "s_36b45cf056dc09": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e2fa5244-9a93-4acd-a718-8c491aa3d5ee",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Lucio <lucioyen1@gmail.com>"
+    }
+  }
+}
