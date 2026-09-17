@@ -26,7 +26,7 @@ sections:
     file: manuscript/methods.md
     order: 3
     status: revised
-    hash: cc8ff6fb0293a0a2d62b5453ce2ea3aa74d9c1dc50d789718d587b90da478740
+    hash: 7adf87606b59b435d616d9b23f28d3ead268ad7a962798b44a8a48fd06499932
     claims: []
     questions: []
   - id: results

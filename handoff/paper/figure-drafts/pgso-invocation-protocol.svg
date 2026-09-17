@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1410 896" width="1410" height="896" font-family="Helvetica, Arial, sans-serif"><rect width="100%" height="100%" fill="white"/>
+<defs><marker id="h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#1a1a1a"/></marker><marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#8a8a8a"/></marker></defs>
+<line x1="1069" y1="62" x2="1069" y2="788" stroke="#d0d0d0" stroke-width="1"/>
+<text x="1085" y="56" font-size="12" font-weight="bold" fill="#555">recorded reason on denial</text>
+<rect x="26" y="42" width="188" height="30" fill="white" stroke="#1a1a1a" stroke-width="1.3"/>
+<text x="120" y="61" font-size="13" font-weight="bold" text-anchor="middle" fill="#111">Agent</text>
+<line x1="120" y1="74" x2="120" y2="788" stroke="#9a9a9a" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="336" y="42" width="188" height="30" fill="white" stroke="#1a1a1a" stroke-width="1.3"/>
+<text x="430" y="61" font-size="13" font-weight="bold" text-anchor="middle" fill="#111">PGSO runtime</text>
+<line x1="430" y1="74" x2="430" y2="788" stroke="#9a9a9a" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="606" y="42" width="188" height="30" fill="white" stroke="#1a1a1a" stroke-width="1.3"/>
+<text x="700" y="61" font-size="13" font-weight="bold" text-anchor="middle" fill="#111">Trusted host</text>
+<line x1="700" y1="74" x2="700" y2="788" stroke="#9a9a9a" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="811" y="26" width="188" height="46" fill="white" stroke="#1a1a1a" stroke-width="1.3"/>
+<text x="905" y="45" font-size="13" font-weight="bold" text-anchor="middle" fill="#111">Tool binding</text>
+<text x="905" y="61" font-size="13" font-weight="bold" text-anchor="middle" fill="#111">(sandbox)</text>
+<line x1="905" y1="74" x2="905" y2="788" stroke="#9a9a9a" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="423" y="135" width="14" height="533" fill="#EDEDED" stroke="#8a8a8a" stroke-width="0.9"/>
+<line x1="128" y1="108" x2="422" y2="108" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#h)"/>
+<text x="275.0" y="100" font-size="12.5" text-anchor="middle" fill="#111">call(tool, arguments, session, token?)</text>
+<line x1="438" y1="149" x2="692" y2="149" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#h)"/>
+<text x="565.0" y="141" font-size="12.5" text-anchor="middle" fill="#111">read trusted monotonic clock</text>
+<path d="M438,181 h30 a7,7 0 0 1 0,14 h-30" fill="none" stroke="#8a8a8a" stroke-width="1.1" marker-end="url(#g)"/>
+<text x="482" y="184" font-size="12.5" fill="#333">clock moved backwards  →  revoke every outstanding approval</text>
+<text x="1085" y="194" font-size="12" fill="#444" font-style="italic">ClockRollback</text>
+<path d="M438,222 h30 a7,7 0 0 1 0,14 h-30" fill="none" stroke="#8a8a8a" stroke-width="1.1" marker-end="url(#g)"/>
+<text x="482" y="225" font-size="12.5" fill="#333">session matches the runtime session</text>
+<text x="1085" y="235" font-size="12" fill="#444" font-style="italic">WrongSession</text>
+<path d="M438,263 h30 a7,7 0 0 1 0,14 h-30" fill="none" stroke="#1a1a1a" stroke-width="1.1" marker-end="url(#g)"/>
+<text x="482" y="266" font-size="12.5" fill="#111" font-weight="bold">consume the presented token</text>
+<text x="482" y="281" font-size="12.5" fill="#111" font-weight="bold">(single-use, even if the call is denied below)</text>
+<path d="M438,304 h30 a7,7 0 0 1 0,14 h-30" fill="none" stroke="#8a8a8a" stroke-width="1.1" marker-end="url(#g)"/>
+<text x="482" y="307" font-size="12.5" fill="#333">tool within the host permission ceiling  Lₜ</text>
+<text x="1085" y="317" font-size="12" fill="#444" font-style="italic">PermissionDenied</text>
+<path d="M438,345 h30 a7,7 0 0 1 0,14 h-30" fill="none" stroke="#8a8a8a" stroke-width="1.1" marker-end="url(#g)"/>
+<text x="482" y="348" font-size="12.5" fill="#333">tool within the governed catalog  Cₜ</text>
+<text x="1085" y="358" font-size="12" fill="#444" font-style="italic">ToolUnavailable</text>
+<path d="M438,386 h30 a7,7 0 0 1 0,14 h-30" fill="none" stroke="#8a8a8a" stroke-width="1.1" marker-end="url(#g)"/>
+<text x="482" y="389" font-size="12.5" fill="#333">a binding is registered for the identifier</text>
+<text x="1085" y="399" font-size="12" fill="#444" font-style="italic">UnknownTool</text>
+<path d="M438,427 h30 a7,7 0 0 1 0,14 h-30" fill="none" stroke="#8a8a8a" stroke-width="1.1" marker-end="url(#g)"/>
+<text x="482" y="430" font-size="12.5" fill="#333">arguments validate against the registered schema</text>
+<text x="1085" y="440" font-size="12" fill="#444" font-style="italic">InvalidArguments</text>
+<path d="M438,468 h30 a7,7 0 0 1 0,14 h-30" fill="none" stroke="#1a1a1a" stroke-width="1.1" marker-end="url(#g)"/>
+<text x="482" y="471" font-size="12.5" fill="#111" font-weight="bold">if the tool is marked for step-up:</text>
+<path d="M438,509 h30 a7,7 0 0 1 0,14 h-30" fill="none" stroke="#8a8a8a" stroke-width="1.1" marker-end="url(#g)"/>
+<text x="482" y="512" font-size="12.5" fill="#333">a token was presented</text>
+<text x="1085" y="522" font-size="12" fill="#444" font-style="italic">ConfirmationMissing</text>
+<path d="M438,550 h30 a7,7 0 0 1 0,14 h-30" fill="none" stroke="#8a8a8a" stroke-width="1.1" marker-end="url(#g)"/>
+<text x="482" y="553" font-size="12.5" fill="#333">token binds this tool, these exact arguments and the</text>
+<text x="482" y="568" font-size="12.5" fill="#333">current policy revision, and has not expired</text>
+<text x="1085" y="563" font-size="12" fill="#444" font-style="italic">InvalidOrExpiredConfirmation</text>
+<line x1="438" y1="600" x2="897" y2="600" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#h)"/>
+<text x="667.5" y="592" font-size="12.5" text-anchor="middle" fill="#111">run the handler inside the authorization operation</text>
+<path d="M438,632 h30 a7,7 0 0 1 0,14 h-30" fill="none" stroke="#8a8a8a" stroke-width="1.1" marker-end="url(#g)"/>
+<text x="482" y="635" font-size="12.5" fill="#333">the callback neither panicked nor returned an error</text>
+<text x="1085" y="645" font-size="12" fill="#444" font-style="italic">CallbackPanicked / CallbackFailed</text>
+<line x1="897" y1="682" x2="438" y2="682" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#h)" stroke-dasharray="6 4"/>
+<text x="667.5" y="674" font-size="12.5" text-anchor="middle" fill="#111">value</text>
+<line x1="422" y1="723" x2="128" y2="723" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#h)" stroke-dasharray="6 4"/>
+<text x="275.0" y="715" font-size="12.5" text-anchor="middle" fill="#111">receipt  { outcome, bounded reason }</text>
+<text x="26" y="822" font-size="12" fill="#555">Every check is a conjunction, so the reason recorded is the first one that fails, in this order. approve() runs the same checks, so no approval can be</text>
+<text x="26" y="839" font-size="12" fill="#555">issued for a call that would be denied anyway. The callback executes inside the authorization operation, under the shared runtime lock, so no</text>
+<text x="26" y="856" font-size="12" fill="#555">separately checked permit is handed to the caller for later use.</text>
+</svg>

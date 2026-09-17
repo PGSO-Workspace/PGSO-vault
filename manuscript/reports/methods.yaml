@@ -1,8 +1,8 @@
 schema: phdude.section-report
 version: 1
 section: methods
-hash: cc8ff6fb0293a0a2d62b5453ce2ea3aa74d9c1dc50d789718d587b90da478740
-at: 2026-09-16T05:42:21.758Z
+hash: 7adf87606b59b435d616d9b23f28d3ead268ad7a962798b44a8a48fd06499932
+at: 2026-09-17T20:50:03.181Z
 gates:
   - gate: gate-citations
     findings: 0
