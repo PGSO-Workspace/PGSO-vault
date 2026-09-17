@@ -1,0 +1,20 @@
+handoff/checks/citation-audit-matrix-2026-09-17.md
+  s_36b45cf056dc09::t_30fd81a7b214bb 1-2,4-8,39-41,74-81,83-96,98-113,115-130,132-146,148-162,164-178,180-196,198-212,214-228,230-244,246-290,292-308,310-323,325-337,339-351,353-366,368-394,396-535
+  s_36b45cf056dc09::t_14aa2d8221e335 3,9-38,42-73,82,97,114,131,147,163,179,197,213,229,245,291,309,324,338,352,367,395
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a51d8c4d03318919cb6720316254e3287d051a6e",
+  "prompts": {},
+  "sessions": {
+    "s_36b45cf056dc09": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e2fa5244-9a93-4acd-a718-8c491aa3d5ee",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Lucio <lucioyen1@gmail.com>"
+    }
+  }
+}
