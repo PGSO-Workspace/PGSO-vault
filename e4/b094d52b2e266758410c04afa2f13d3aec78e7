@@ -1,0 +1,30 @@
+manuscript/methods.md
+  s_36b45cf056dc09::t_26e38cf383bab7 4-5,9,114
+manuscript/reports/methods.yaml
+  s_36b45cf056dc09::t_26e38cf383bab7 4-5
+manuscript/manuscript.yaml
+  s_36b45cf056dc09::t_26e38cf383bab7 29
+figures/src/invocation-protocol.py
+  s_36b45cf056dc09::t_9ddaf723df21ec 1-11,14-20,22-86
+  s_36b45cf056dc09::t_db310b609e9115 12-13,21
+handoff/paper/paper1-es-2026-09-16.md
+  s_36b45cf056dc09::t_49cab7d86f2551 199
+handoff/paper/figure-drafts/pgso-invocation-protocol.svg
+  s_36b45cf056dc09::t_49cab7d86f2551 1-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e4b094d52b2e266758410c04afa2f13d3aec78e7",
+  "prompts": {},
+  "sessions": {
+    "s_36b45cf056dc09": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e2fa5244-9a93-4acd-a718-8c491aa3d5ee",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Lucio <lucioyen1@gmail.com>"
+    }
+  }
+}
