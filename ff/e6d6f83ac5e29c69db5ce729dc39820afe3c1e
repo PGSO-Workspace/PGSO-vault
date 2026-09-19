@@ -1,0 +1,19 @@
+handoff/checks/candidate-paper-matrix-2026-09-19.md
+  s_36b45cf056dc09::t_052c03c8cdc034 1-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ffe6d6f83ac5e29c69db5ce729dc39820afe3c1e",
+  "prompts": {},
+  "sessions": {
+    "s_36b45cf056dc09": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e2fa5244-9a93-4acd-a718-8c491aa3d5ee",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Lucio <lucioyen1@gmail.com>"
+    }
+  }
+}
