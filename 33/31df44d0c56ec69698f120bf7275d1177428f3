@@ -1,0 +1,20 @@
+serve.py
+  s_36b45cf056dc09::t_86648e5a0e4578 9,27-29,50,93-106,110-131,146-148
+  s_36b45cf056dc09::t_33504e6defee00 107-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3331df44d0c56ec69698f120bf7275d1177428f3",
+  "prompts": {},
+  "sessions": {
+    "s_36b45cf056dc09": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e2fa5244-9a93-4acd-a718-8c491aa3d5ee",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Lucio <lucioyen1@gmail.com>"
+    }
+  }
+}
