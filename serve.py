@@ -6,7 +6,7 @@ PDFs to the browser; nothing here writes to the workspace.
 
     python3 serve.py [port]      ->  http://127.0.0.1:8733
 """
-import html, mimetypes, subprocess, sys
+import html, json, mimetypes, subprocess, sys
 from functools import partial
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
@@ -24,6 +24,9 @@ NAV = [
     ("Matriz de papers candidatos", "md/handoff/checks/candidate-paper-matrix-2026-09-19.md"),
     ("Recomendaciones de citación", "md/handoff/checks/citation-review-recommendations.md"),
     ("Figuras", "figs"),
+    ("── Auditoría ──", "vault"),
+    ("Todo el vault", "vault"),
+    ("Conocimiento", "kb"),
 ]
 
 CSS = """
@@ -44,6 +47,7 @@ th{background:var(--line)}code{background:var(--line);padding:1px 5px;border-rad
 pre{background:var(--line);padding:12px;border-radius:8px;overflow-x:auto}
 img{max-width:100%;border:1px solid var(--line);border-radius:8px;margin:10px 0}
 blockquote{border-left:3px solid var(--accent);margin:12px 0;padding:2px 14px;color:var(--mut)}
+details{margin:4px 0;border-bottom:1px solid var(--line);padding:6px 0}summary{cursor:pointer;font-size:14px}summary::marker{color:var(--mut)}
 h1,h2,h3{line-height:1.25}h2{margin-top:30px;border-bottom:1px solid var(--line);padding-bottom:5px}
 .stamp{color:var(--mut);font-size:12px;margin-bottom:18px}
 """
@@ -86,6 +90,45 @@ class H(BaseHTTPRequestHandler):
             return self.send(shell("", "", "<h1>PGSO · lector local</h1>"
                                    "<p class=stamp>Elige algo en la izquierda. La página se recarga sola "
                                    "cuando el archivo cambia en disco.</p>"))
+        if kind == "vault":
+            skip = {".git", "__pycache__", ".ruff_cache", "node_modules"}
+            rows = []
+            for d in sorted(p for p in ROOT.rglob("*") if p.is_dir()
+                            and not skip & set(p.relative_to(ROOT).parts)):
+                fs = [f for f in d.iterdir() if f.is_file()]
+                if not fs:
+                    continue
+                size = sum(f.stat().st_size for f in fs)
+                rel = d.relative_to(ROOT)
+                items = "".join(
+                    f"<tr><td><a href='/{'md' if f.suffix=='.md' else 'txt' if f.suffix in {'.yaml','.yml','.json','.py','.txt','.jsonl','.rs','.dot','.c4','.bib'} else 'raw'}/{rel}/{f.name}'>{html.escape(f.name)}</a></td>"
+                    f"<td style='text-align:right;color:var(--mut)'>{f.stat().st_size:,}</td></tr>"
+                    for f in sorted(fs))
+                rows.append(f"<details><summary><b>{html.escape(str(rel))}</b> "
+                            f"<span style='color:var(--mut)'>{len(fs)} archivos · {size/1048576:.1f} MB</span>"
+                            f"</summary><table>{items}</table></details>")
+            return self.send(shell("vault", "", "<h1>Todo el vault</h1>"
+                                   "<p class=stamp>Cada archivo es un enlace. Se omiten .git y cachés.</p>"
+                                   + "".join(rows)))
+        if kind == "kb":
+            out = subprocess.run(["phdude", "knowledge", "list", "--json"],
+                                 capture_output=True, text=True, cwd=ROOT)
+            try:
+                objs = json.loads(out.stdout)
+                objs = objs if isinstance(objs, list) else objs.get("objects") or objs.get("items") or []
+            except Exception:
+                objs = []
+            by = {}
+            for o in objs:
+                by.setdefault(o.get("id", "?").split("-")[0], []).append(o)
+            body = "<h1>Conocimiento</h1><p class=stamp>%d objetos registrados.</p>" % len(objs)
+            for k, v in sorted(by.items(), key=lambda kv: -len(kv[1])):
+                rows = "".join(
+                    f"<tr><td><code>{o.get('id')}</code></td><td>{html.escape(str(o.get('state') or ''))}</td>"
+                    f"<td>{html.escape(str(o.get('title') or o.get('statement') or o.get('text') or o.get('name') or o.get('key') or '')[:110])}</td></tr>"
+                    for o in v[:400])
+                body += f"<h2>{k} <span style='font-size:13px;color:var(--mut);font-weight:400'>{len(v)}</span></h2><table>{rows}</table>"
+            return self.send(shell("kb", "", body))
         if kind == "figs":
             imgs = sorted((ROOT / "handoff/paper/figure-drafts").glob("*.png"))
             body = "<h1>Figuras</h1>" + "".join(
@@ -100,6 +143,9 @@ class H(BaseHTTPRequestHandler):
                                  capture_output=True, text=True)
             stamp = f"<p class=stamp>{html.escape(rel)}</p>"
             return self.send(shell(route, rel, stamp + out.stdout))
+        if kind == "txt":
+            body = f"<p class=stamp>{html.escape(rel)}</p><pre>{html.escape(p.read_text(errors='replace')[:400000])}</pre>"
+            return self.send(shell(route, rel, body))
         if kind == "mtime":
             return self.send(str(p.stat().st_mtime).encode(), "text/plain")
         if kind == "raw":
