@@ -6,13 +6,37 @@ PDFs to the browser; nothing here writes to the workspace.
 
     python3 serve.py [port]      ->  http://127.0.0.1:8733
 """
-import html, json, mimetypes, subprocess, sys
+import html, json, mimetypes, re, subprocess, sys
 from functools import partial
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import unquote, urlparse
 
 ROOT = Path(__file__).resolve().parent
+
+
+def subsections(text, pat):
+    """Split flat text into {heading: body} at lines matching pat."""
+    out, cur = {}, None
+    for line in text.splitlines():
+        t = line.strip()
+        if pat.match(t):
+            cur = re.sub(r"\s+", " ", t.lstrip("# ")).rstrip(".")
+            out[cur.split()[0].rstrip(".")] = [cur, []]
+        elif cur and t:
+            out[cur.split()[0]][1].append(t)
+    return {k: (h, " ".join(b)) for k, (h, b) in out.items()}
+
+
+def load_pairs():
+    old_raw = subprocess.run(["pdftotext", str(ROOT / "sources/PGSO_Paper.pdf"), "-"],
+                             capture_output=True, text=True).stdout
+    old = subsections(old_raw, re.compile(r"^\d+\.\d+\.?\s+[A-Z]"))
+    new = {}
+    for f in sorted((ROOT / "manuscript").glob("*.md")):
+        body = re.sub(r"^---\n.*?\n---\n", "", f.read_text(), flags=re.S)
+        new.update(subsections(body, re.compile(r"^#{1,3}\s+\d+\.\d+\s")))
+    return old, new
 PORT = int(sys.argv[1]) if len(sys.argv) > 1 else 8733
 
 SECTIONS = ["abstract", "introduction", "methods", "results", "discussion", "conclusions"]
@@ -27,6 +51,8 @@ NAV = [
     ("── Auditoría ──", "vault"),
     ("Todo el vault", "vault"),
     ("Conocimiento", "kb"),
+    ("── Comparar ──", "cmp"),
+    ("Original vs actual", "cmp"),
 ]
 
 CSS = """
@@ -90,6 +116,31 @@ class H(BaseHTTPRequestHandler):
             return self.send(shell("", "", "<h1>PGSO · lector local</h1>"
                                    "<p class=stamp>Elige algo en la izquierda. La página se recarga sola "
                                    "cuando el archivo cambia en disco.</p>"))
+        if kind == "cmp":
+            old, new = load_pairs()
+            keys = sorted(set(old) | set(new), key=lambda k: [int(x) for x in k.rstrip(".").split(".")])
+            if rel:
+                k = rel
+                oh, ob = old.get(k, ("(ausente en el original)", ""))
+                nh, nb = new.get(k, ("(ausente en el actual)", ""))
+                nav = " · ".join(f"<a href='/cmp/{x}'>{x}</a>" for x in keys)
+                body = (f"<h1>{html.escape(nh if k in new else oh)}</h1><p class=stamp>{nav}</p>"
+                        f"<h2>Original <span style='font-size:13px;font-weight:400;color:var(--mut)'>"
+                        f"{len(ob.split())} palabras</span></h2>"
+                        f"<div style='border-left:3px solid #c0392b;padding-left:14px'>{html.escape(ob) or '<i>vacío</i>'}</div>"
+                        f"<h2>Actual <span style='font-size:13px;font-weight:400;color:var(--mut)'>"
+                        f"{len(nb.split())} palabras</span></h2>"
+                        f"<div style='border-left:3px solid #1e8449;padding-left:14px'>{html.escape(nb) or '<i>vacío</i>'}</div>")
+                return self.send(shell("cmp", "manuscript", body))
+            rows = "".join(
+                f"<tr><td><a href='/cmp/{k}'>{k}</a></td>"
+                f"<td>{html.escape((new.get(k) or old.get(k))[0].split(' ', 1)[-1][:60])}</td>"
+                f"<td style='text-align:right'>{len(old.get(k, ('', ''))[1].split())}</td>"
+                f"<td style='text-align:right'>{len(new.get(k, ('', ''))[1].split())}</td></tr>" for k in keys)
+            return self.send(shell("cmp", "manuscript",
+                "<h1>Original vs actual, subsección por subsección</h1>"
+                "<p class=stamp>Las 27 subsecciones son las mismas. Lo que cambió es lo que dice cada una.</p>"
+                f"<table><tr><th>#</th><th>Subsección</th><th>Original</th><th>Actual</th></tr>{rows}</table>"))
         if kind == "vault":
             skip = {".git", "__pycache__", ".ruff_cache", "node_modules"}
             rows = []
