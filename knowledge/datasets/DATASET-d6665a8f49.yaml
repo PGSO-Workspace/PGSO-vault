@@ -16,4 +16,4 @@ profile:
 sensitive: false
 state: candidate
 versions_of: DATASET-8cd05c2cfc
-latest: true
+latest: false

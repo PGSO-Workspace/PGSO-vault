@@ -1,29 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2545 351" width="2545" height="351" font-family="Helvetica, Arial, sans-serif">
-<rect width="100%" height="100%" fill="white"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-24 -24 2232 931" width="2232" height="931" font-family="Helvetica, Arial, sans-serif">
+<rect x="-24" y="-24" width="2232" height="931" fill="white"/>
 <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#1a1a1a"/></marker></defs>
-<rect x="0" y="171" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
-<text x="160.0" y="257.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Extractor</text>
-<text x="160.0" y="283.0" font-size="15" text-anchor="middle" fill="#444">Signal · audio → lecturas</text>
-<rect x="553" y="171" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
-<text x="713.0" y="257.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Motor de gobernanza</text>
-<text x="713.0" y="283.0" font-size="15" text-anchor="middle" fill="#444">Baseline, persistencia y políticas</text>
-<rect x="1140" y="0" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
-<text x="1300.0" y="86.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Actuador</text>
-<text x="1300.0" y="112.0" font-size="15" text-anchor="middle" fill="#444">Actuator · reconcile → catálogo</text>
-<rect x="1716" y="0" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
-<text x="1876.0" y="86.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Control de ejecución</text>
-<text x="1876.0" y="112.0" font-size="15" text-anchor="middle" fill="#444">Catálogo, permisos y aprobación</text>
-<rect x="2225" y="171" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
-<text x="2385.0" y="257.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Auditoría</text>
-<text x="2385.0" y="283.0" font-size="15" text-anchor="middle" fill="#444">Transiciones y resultados</text>
-<path d="M 320,261 L 390,261 L 472,261 L 543,261" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
-<text x="381" y="253" font-size="15" fill="#222">Valor y confianza</text>
-<path d="M 873,215 L 953,191 L 1049,163 L 1131,139" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
-<text x="934" y="147" font-size="15" fill="#222">Contribuciones activas</text>
-<path d="M 1460,90 L 1537,90 L 1628,90 L 1706,90" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
-<text x="1521" y="82" font-size="15" fill="#222">Catálogo y directivas</text>
-<path d="M 873,261 L 1189,261 L 1891,261 L 2215,261" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
-<text x="1547" y="253" font-size="15" fill="#222">Transiciones</text>
-<path d="M 2036,144 L 2093,163 L 2158,185 L 2216,204" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
-<text x="2097" y="157" font-size="15" fill="#222">Resultado</text>
+<rect x="1250" y="0" width="338" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="1419.0" y="43.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Adaptador del host</text>
+<text x="1419.0" y="65.0" font-size="13" text-anchor="middle" fill="#555">Python · public_voice/bridge.py</text>
+<text x="1419.0" y="89.0" font-size="15" text-anchor="middle" fill="#444">Transporta audio, observaciones y</text>
+<text x="1419.0" y="111.0" font-size="15" text-anchor="middle" fill="#444">llamadas. Atiende el callback dentro</text>
+<text x="1419.0" y="133.0" font-size="15" text-anchor="middle" fill="#444">de la operación autorizada; no</text>
+<text x="1419.0" y="155.0" font-size="15" text-anchor="middle" fill="#444">reintenta una ejecución incierta.</text>
+<rect x="8" y="271" width="2168" height="604" rx="4" fill="#FAFAFA" stroke="#9a9a9a" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="2162" y="297" text-anchor="end" font-size="17" font-weight="bold" fill="#333">Runtime PGSO</text>
+<rect x="909" y="332" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="1069.0" y="375.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Pipeline Pgso</text>
+<text x="1069.0" y="397.0" font-size="13" text-anchor="middle" fill="#555">pgso-core</text>
+<text x="1069.0" y="421.0" font-size="15" text-anchor="middle" fill="#444">Coordina lecturas, reglas y</text>
+<text x="1069.0" y="443.0" font-size="15" text-anchor="middle" fill="#444">contribuciones por eje. Confirma el</text>
+<text x="1069.0" y="465.0" font-size="15" text-anchor="middle" fill="#444">nuevo estado tras reconciliar el</text>
+<text x="1069.0" y="487.0" font-size="15" text-anchor="middle" fill="#444">actuador sin error.</text>
+<rect x="1599" y="332" width="339" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="1768.5" y="375.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Runtime de ejecución</text>
+<text x="1768.5" y="397.0" font-size="13" text-anchor="middle" fill="#555">pgso-actuator-http</text>
+<text x="1768.5" y="421.0" font-size="15" text-anchor="middle" fill="#444">Serializa autorización y callback.</text>
+<text x="1768.5" y="443.0" font-size="15" text-anchor="middle" fill="#444">Comprueba el catálogo, los permisos</text>
+<text x="1768.5" y="465.0" font-size="15" text-anchor="middle" fill="#444">del host y la aprobación de un solo</text>
+<text x="1768.5" y="487.0" font-size="15" text-anchor="middle" fill="#444">uso.</text>
+<rect x="486" y="655" width="351" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="661.5" y="698.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Extractor de señal</text>
+<text x="661.5" y="720.0" font-size="13" text-anchor="middle" fill="#555">Signal · egemaps</text>
+<text x="661.5" y="744.0" font-size="15" text-anchor="middle" fill="#444">Obtiene valor y confianza por eje. El</text>
+<text x="661.5" y="766.0" font-size="15" text-anchor="middle" fill="#444">extractor actual es heurístico</text>
+<text x="661.5" y="788.0" font-size="15" text-anchor="middle" fill="#444">eGeMAPS-style; el contrato admite</text>
+<text x="661.5" y="810.0" font-size="15" text-anchor="middle" fill="#444">otras implementaciones.</text>
+<rect x="948" y="655" width="326" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="1111.0" y="709.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">DecisionEngine</text>
+<text x="1111.0" y="731.0" font-size="13" text-anchor="middle" fill="#555">pgso-core</text>
+<text x="1111.0" y="755.0" font-size="15" text-anchor="middle" fill="#444">Aplica confianza mínima, baseline y</text>
+<text x="1111.0" y="777.0" font-size="15" text-anchor="middle" fill="#444">persistencia. Una abstención no</text>
+<text x="1111.0" y="799.0" font-size="15" text-anchor="middle" fill="#444">equivale a recuperación.</text>
+<rect x="48" y="655" width="328" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="212.0" y="709.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">RuleEngine</text>
+<text x="212.0" y="731.0" font-size="13" text-anchor="middle" fill="#555">pgso-core</text>
+<text x="212.0" y="755.0" font-size="15" text-anchor="middle" fill="#444">Asocia desviaciones con reglas y</text>
+<text x="212.0" y="777.0" font-size="15" text-anchor="middle" fill="#444">acciones: modificar herramientas,</text>
+<text x="212.0" y="799.0" font-size="15" text-anchor="middle" fill="#444">argumentos o directivas.</text>
+<rect x="1384" y="655" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="1544.0" y="709.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">McpActuator</text>
+<text x="1544.0" y="731.0" font-size="13" text-anchor="middle" fill="#555">Actuator · pgso-actuator-mcp</text>
+<text x="1544.0" y="755.0" font-size="15" text-anchor="middle" fill="#444">Compone el catálogo y las directivas</text>
+<text x="1544.0" y="777.0" font-size="15" text-anchor="middle" fill="#444">vigentes. reconcile reemplaza las</text>
+<text x="1544.0" y="799.0" font-size="15" text-anchor="middle" fill="#444">contribuciones de forma atómica.</text>
+<rect x="1814" y="655" width="322" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="1975.0" y="709.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Auditoría y recibos</text>
+<text x="1975.0" y="731.0" font-size="13" text-anchor="middle" fill="#555">Memoria de la sesión</text>
+<text x="1975.0" y="755.0" font-size="15" text-anchor="middle" fill="#444">Registra cambios de alcance e intentos</text>
+<text x="1975.0" y="777.0" font-size="15" text-anchor="middle" fill="#444">de ejecución. El host debe drenar y</text>
+<text x="1975.0" y="799.0" font-size="15" text-anchor="middle" fill="#444">persistir los registros.</text>
+<path d="M 956,512 L 902,554 L 838,605 L 783,649" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="879" y="587" font-size="15" fill="#222">Signal::extract</text>
+<path d="M 1046,512 L 1042,539 L 1041,568 L 1047,595 L 1050,612 L 1056,629 L 1062,645" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="1048" y="587" font-size="15" fill="#222">Lecturas por eje</text>
+<path d="M 909,479 L 780,525 L 593,592 L 431,655 L 416,660 L 401,666 L 386,673" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="642" y="587" font-size="15" fill="#222">Evaluar desviación</text>
+<path d="M 1164,512 L 1196,540 L 1232,570 L 1268,595 L 1301,618 L 1339,640 L 1375,660" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="1269" y="587" font-size="15" fill="#222">Actuator::reconcile</text>
+<path d="M 1229,493 L 1310,527 L 1410,566 L 1501,595 L 1614,630 L 1647,619 L 1759,655 L 1774,660 L 1789,665 L 1804,671" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="1502" y="587" font-size="15" fill="#222">Registrar transición</text>
+<path d="M 1711,512 L 1694,539 L 1674,568 L 1655,595 L 1643,612 L 1630,629 L 1618,647" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="1669" y="587" font-size="15" fill="#222">Leer catálogo</text>
+<path d="M 1826,512 L 1853,554 L 1885,603 L 1912,646" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="1879" y="587" font-size="15" fill="#222">Recibo del intento</text>
+<path d="M 1325,180 L 1277,225 L 1219,279 L 1171,325" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="1255" y="255" font-size="15" fill="#222">Observación y expiración</text>
+<path d="M 1513,180 L 1561,225 L 1619,279 L 1667,325" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="1595" y="255" font-size="15" fill="#222">Llamada y contexto del host</text>
 </svg>

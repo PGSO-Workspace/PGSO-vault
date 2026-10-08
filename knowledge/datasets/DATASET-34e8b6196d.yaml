@@ -1,0 +1,20 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-34e8b6196d
+created: 2026-10-08T21:07:34.998Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-c4-sdk-20261008.json
+hash: 34e8b6196dfc125fdb862d3791bf4be75fee6dd88e24292d9f37ea1365dacb9f
+bytes: 8035
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: C4 de PGSO con responsabilidades, contratos y límites de integración
+versions_of: DATASET-8cd05c2cfc
+latest: true

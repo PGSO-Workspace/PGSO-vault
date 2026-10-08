@@ -15,7 +15,9 @@ Base: Project Charter, OE2 y sus indicadores I1–I4. Las vistas 4+1 ayudan a co
 
 Completar con una tabla de contratos (tipos, entradas, salidas, errores) y otra de garantías con criterios de verificación (OE2-I3). Un diagrama de componentes no reemplaza esas especificaciones.
 
-C2 describe la alternativa con proceso PGSO externo, no un despliegue obligatorio ni la instalación actual de Sami. El SDK también admite integración como biblioteca. C3 resume responsabilidades; el control de ejecución recibe además la llamada y los permisos del host, omitidos de esa vista interna. La confianza acústica no es una probabilidad calibrada de emoción.
+C1 identifica al agente de voz como consumidor de PGSO. C2 detalla el adaptador Python y el proceso Rust de la integración experimental `public_voice`; no representa la instalación de Sami ni un despliegue obligatorio. El SDK también admite integración como biblioteca.
+
+C3 muestra las responsabilidades y contratos del SDK dentro del runtime. La biblioteca coordina `Signal::extract` desde el pipeline; el bridge experimental separa los comandos `extract` y `observe` e inyecta las lecturas. Las flechas de C3 representan dependencias e interfaces, no una secuencia temporal de comandos. La confianza acústica no es una probabilidad calibrada de emoción. Los crates `pgso-actuator-local` y `pgso-actuator-http` ofrecen alternativas de integración; esta vista desarrolla el runtime con `McpActuator`, no enumera todos los adaptadores.
 
 Los tres C4 fueron regenerados mediante PhDude como FIG-a505e15474 y revisados visualmente. Los antiguos C4 del experimento se conservan en `experimental-harness-20260917/`. Los originales de estados y protocolo no fueron corregidos en esta entrega; no presentarlos como revisados.
 

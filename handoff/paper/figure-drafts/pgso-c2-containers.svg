@@ -1,20 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2004 180" width="2004" height="180" font-family="Helvetica, Arial, sans-serif">
-<rect width="100%" height="100%" fill="white"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-24 -24 1286 883" width="1286" height="883" font-family="Helvetica, Arial, sans-serif">
+<rect x="-24" y="-24" width="1286" height="883" fill="white"/>
 <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#1a1a1a"/></marker></defs>
-<rect x="0" y="0" width="320" height="180" rx="3" fill="#F2F2F2" stroke="#1a1a1a" stroke-width="1.0" stroke-dasharray="5 3"/>
-<text x="160.0" y="97.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Interlocutor</text>
-<rect x="482" y="0" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
-<text x="642.0" y="86.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Orquestador de voz</text>
-<text x="642.0" y="112.0" font-size="15" text-anchor="middle" fill="#444">Recibe audio y propone llamadas</text>
-<rect x="1108" y="0" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
-<text x="1268.0" y="86.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Runtime PGSO</text>
-<text x="1268.0" y="112.0" font-size="15" text-anchor="middle" fill="#444">Proceso Rust de referencia</text>
-<rect x="1684" y="0" width="320" height="180" rx="3" fill="#F2F2F2" stroke="#1a1a1a" stroke-width="1.0" stroke-dasharray="5 3"/>
-<text x="1844.0" y="97.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Herramientas</text>
-<path d="M 320,90 L 368,90 L 422,90 L 472,90" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
-<text x="381" y="82" font-size="15" fill="#222">Audio</text>
-<path d="M 801,90 L 892,90 L 1005,90 L 1097,90" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
-<text x="863" y="82" font-size="15" fill="#222">Audio y llamadas propuestas</text>
-<path d="M 1427,90 L 1504,90 L 1596,90 L 1674,90" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
-<text x="1489" y="82" font-size="15" fill="#222">Ejecución autorizada</text>
+<rect x="0" y="0" width="331" height="180" rx="3" fill="#F2F2F2" stroke="#1a1a1a" stroke-width="1.0" stroke-dasharray="5 3"/>
+<text x="165.5" y="64.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Agente de IA de voz</text>
+<text x="165.5" y="90.0" font-size="15" text-anchor="middle" fill="#444">Consumidor de PGSO. Recibe el catálogo</text>
+<text x="165.5" y="112.0" font-size="15" text-anchor="middle" fill="#444">vigente y propone llamadas a</text>
+<text x="165.5" y="134.0" font-size="15" text-anchor="middle" fill="#444">herramientas.</text>
+<rect x="442" y="0" width="346" height="180" rx="3" fill="#F2F2F2" stroke="#1a1a1a" stroke-width="1.0" stroke-dasharray="5 3"/>
+<text x="615.0" y="64.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Integrador del agente</text>
+<text x="615.0" y="90.0" font-size="15" text-anchor="middle" fill="#444">Configura reglas, catálogo, permisos y</text>
+<text x="615.0" y="112.0" font-size="15" text-anchor="middle" fill="#444">caducidad. Decide qué operaciones</text>
+<text x="615.0" y="134.0" font-size="15" text-anchor="middle" fill="#444">necesitan aprobación.</text>
+<rect x="182" y="271" width="1048" height="281" rx="4" fill="#FAFAFA" stroke="#9a9a9a" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="1216" y="297" text-anchor="end" font-size="17" font-weight="bold" fill="#333">Integración PGSO</text>
+<rect x="1" y="655" width="339" height="180" rx="3" fill="#F2F2F2" stroke="#1a1a1a" stroke-width="1.0" stroke-dasharray="5 3"/>
+<text x="170.5" y="719.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Herramientas de negocio</text>
+<text x="170.5" y="745.0" font-size="15" text-anchor="middle" fill="#444">Ejecutan efectos externos. Solo se</text>
+<text x="170.5" y="767.0" font-size="15" text-anchor="middle" fill="#444">invocan a través del callback</text>
+<text x="170.5" y="789.0" font-size="15" text-anchor="middle" fill="#444">autorizado por el runtime.</text>
+<rect x="451" y="655" width="320" height="180" rx="3" fill="#F2F2F2" stroke="#1a1a1a" stroke-width="1.0" stroke-dasharray="5 3"/>
+<text x="611.0" y="719.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Registro del host</text>
+<text x="611.0" y="745.0" font-size="15" text-anchor="middle" fill="#444">Persiste transiciones y recibos. PGSO</text>
+<text x="611.0" y="767.0" font-size="15" text-anchor="middle" fill="#444">no incluye una base de datos ni</text>
+<text x="611.0" y="789.0" font-size="15" text-anchor="middle" fill="#444">garantiza la persistencia por sí solo.</text>
+<rect x="222" y="332" width="338" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="391.0" y="375.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Adaptador del host</text>
+<text x="391.0" y="397.0" font-size="13" text-anchor="middle" fill="#555">Python · public_voice/bridge.py</text>
+<text x="391.0" y="421.0" font-size="15" text-anchor="middle" fill="#444">Transporta audio, observaciones y</text>
+<text x="391.0" y="443.0" font-size="15" text-anchor="middle" fill="#444">llamadas. Atiende el callback dentro</text>
+<text x="391.0" y="465.0" font-size="15" text-anchor="middle" fill="#444">de la operación autorizada; no</text>
+<text x="391.0" y="487.0" font-size="15" text-anchor="middle" fill="#444">reintenta una ejecución incierta.</text>
+<rect x="870" y="332" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="1030.0" y="375.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Runtime PGSO</text>
+<text x="1030.0" y="397.0" font-size="13" text-anchor="middle" fill="#555">Rust · ejemplo voice_bridge</text>
+<text x="1030.0" y="421.0" font-size="15" text-anchor="middle" fill="#444">Mantiene la sesión y su política.</text>
+<text x="1030.0" y="443.0" font-size="15" text-anchor="middle" fill="#444">Verifica catálogo, permisos y</text>
+<text x="1030.0" y="465.0" font-size="15" text-anchor="middle" fill="#444">aprobación antes de solicitar el</text>
+<text x="1030.0" y="487.0" font-size="15" text-anchor="middle" fill="#444">callback.</text>
+<path d="M 560,422 L 653,422 L 767,422 L 860,422" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="616" y="411" font-size="15" fill="#222">NDJSON: extract, observe, call</text>
+<path d="M 870,441 L 841,444 L 810,446 L 781,448 L 723,451 L 708,451 L 649,448 L 624,447 L 597,445 L 571,442" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="650" y="440" font-size="15" fill="#222">Callback y resultado</text>
+<path d="M 227,180 L 257,224 L 294,278 L 325,324" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="279" y="255" font-size="15" fill="#222">Audio, catálogo y llamadas</text>
+<path d="M 555,180 L 525,224 L 488,278 L 457,324" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="511" y="255" font-size="15" fill="#222">Configuración de la sesión</text>
+<path d="M 330,512 L 301,554 L 267,604 L 238,647" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="289" y="587" font-size="15" fill="#222">Efecto autorizado</text>
+<path d="M 452,512 L 481,554 L 515,604 L 544,647" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="509" y="587" font-size="15" fill="#222">Persistir registros</text>
 </svg>

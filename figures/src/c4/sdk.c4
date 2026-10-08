@@ -1,65 +1,98 @@
 specification {
   element person { style { shape person } }
   element system
-  element external
+  element external { style { shape rectangle } }
   element container
   element component
 }
 model {
-  human = person 'Interlocutor'
-  tools = external 'Herramientas'
-  host = system 'Agente de IA de voz' {
-    description 'Aplicación que integra PGSO'
-    agent = container 'Orquestador de voz' {
-      description 'Recibe audio y propone llamadas'
+  human = person 'Interlocutor' {
+    description 'Conversa con el agente. Su audio alimenta la percepción; conserva el control de las aprobaciones explícitas.'
+  }
+  integrator = person 'Integrador del agente' {
+    description 'Configura reglas, catálogo, permisos y caducidad. Decide qué operaciones necesitan aprobación.'
+  }
+  agent = external 'Agente de IA de voz' {
+    description 'Consumidor de PGSO. Recibe el catálogo vigente y propone llamadas a herramientas.'
+  }
+  tools = external 'Herramientas de negocio' {
+    description 'Ejecutan efectos externos. Solo se invocan a través del callback autorizado por el runtime.'
+  }
+  records = external 'Registro del host' {
+    description 'Persiste transiciones y recibos. PGSO no incluye una base de datos ni garantiza la persistencia por sí solo.'
+  }
+  pgso = system 'Integración PGSO' {
+    description 'Gobierna el acceso a herramientas con señales acústicas. Separa percepción incierta, política determinista y autorización.'
+    bridge = container 'Adaptador del host' {
+      technology 'Python · public_voice/bridge.py'
+      description 'Transporta audio, observaciones y llamadas. Atiende el callback dentro de la operación autorizada; no reintenta una ejecución incierta.'
     }
     runtime = container 'Runtime PGSO' {
-      description 'Proceso Rust de referencia'
-      signal = component 'Extractor' {
-        description 'Signal · audio → lecturas'
+      technology 'Rust · ejemplo voice_bridge'
+      description 'Mantiene la sesión y su política. Verifica catálogo, permisos y aprobación antes de solicitar el callback.'
+      signal = component 'Extractor de señal' {
+        technology 'Signal · egemaps'
+        description 'Obtiene valor y confianza por eje. El extractor actual es heurístico eGeMAPS-style; el contrato admite otras implementaciones.'
       }
-      core = component 'Motor de gobernanza' {
-        description 'Baseline, persistencia y políticas'
+      pipeline = component 'Pipeline Pgso' {
+        technology 'pgso-core'
+        description 'Coordina lecturas, reglas y contribuciones por eje. Confirma el nuevo estado tras reconciliar el actuador sin error.'
       }
-      actuator = component 'Actuador' {
-        description 'Actuator · reconcile → catálogo'
+      engine = component 'DecisionEngine' {
+        technology 'pgso-core'
+        description 'Aplica confianza mínima, baseline y persistencia. Una abstención no equivale a recuperación.'
       }
-      dispatch = component 'Control de ejecución' {
-        description 'Catálogo, permisos y aprobación'
+      rules = component 'RuleEngine' {
+        technology 'pgso-core'
+        description 'Asocia desviaciones con reglas y acciones: modificar herramientas, argumentos o directivas.'
       }
-      audit = component 'Auditoría' {
-        description 'Transiciones y resultados'
+      actuator = component 'McpActuator' {
+        technology 'Actuator · pgso-actuator-mcp'
+        description 'Compone el catálogo y las directivas vigentes. reconcile reemplaza las contribuciones de forma atómica.'
+      }
+      execution = component 'Runtime de ejecución' {
+        technology 'pgso-actuator-http'
+        description 'Serializa autorización y callback. Comprueba el catálogo, los permisos del host y la aprobación de un solo uso.'
+      }
+      audit = component 'Auditoría y recibos' {
+        technology 'Memoria de la sesión'
+        description 'Registra cambios de alcance e intentos de ejecución. El host debe drenar y persistir los registros.'
       }
     }
   }
-  human -> host 'Conversación'
-  host -> tools 'Llamadas autorizadas'
-  human -> agent 'Audio'
-  agent -> runtime 'Audio y llamadas propuestas'
-  runtime -> tools 'Ejecución autorizada'
-  agent -> signal 'Ventanas de audio'
-  signal -> core 'Valor y confianza'
-  core -> actuator 'Contribuciones activas'
-  actuator -> dispatch 'Catálogo y directivas'
-  agent -> dispatch 'Llamada propuesta'
-  dispatch -> tools 'Callback autorizado'
-  core -> audit 'Transiciones'
-  dispatch -> audit 'Resultado'
+  human -> agent 'Conversación y aprobación'
+  integrator -> pgso 'Configuración y permisos'
+  agent -> pgso 'Audio y llamadas propuestas'
+  pgso -> tools 'Ejecución autorizada'
+  pgso -> records 'Transiciones y recibos'
+  agent -> bridge 'Audio, catálogo y llamadas'
+  integrator -> bridge 'Configuración de la sesión'
+  bridge -> runtime 'NDJSON: extract, observe, call'
+  runtime -> bridge 'Callback y resultado'
+  bridge -> tools 'Efecto autorizado'
+  bridge -> records 'Persistir registros'
+  bridge -> pipeline 'Observación y expiración'
+  bridge -> execution 'Llamada y contexto del host'
+  pipeline -> signal 'Signal::extract'
+  pipeline -> engine 'Lecturas por eje'
+  pipeline -> rules 'Evaluar desviación'
+  pipeline -> actuator 'Actuator::reconcile'
+  pipeline -> audit 'Registrar transición'
+  execution -> actuator 'Leer catálogo'
+  execution -> audit 'Recibo del intento'
 }
 views {
   view c1_context {
-    title 'C1 · Agente de voz que integra PGSO'
-    include human, host, tools
+    title 'C1 · Contexto de uso de PGSO'
+    include human, integrator, agent, pgso, tools, records
     autoLayout LeftRight
   }
-  view c2_containers of host {
-    title 'C2 · Integración con runtime externo'
-    include human, agent, runtime, tools
-    autoLayout LeftRight
+  view c2_containers of pgso {
+    title 'C2 · Integración de referencia mediante bridge'
+    include pgso, pgso.*, agent, integrator, tools, records
   }
   view c3_components of runtime {
-    title 'C3 · Responsabilidades de PGSO'
-    include signal, core, actuator, dispatch, audit
-    autoLayout LeftRight
+    title 'C3 · Componentes del runtime PGSO'
+    include runtime, runtime.*, bridge
   }
 }
