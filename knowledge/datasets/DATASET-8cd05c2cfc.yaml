@@ -1,0 +1,19 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-8cd05c2cfc
+created: 2026-10-08T20:57:18.573Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-c4-sdk-20261008.json
+hash: 8cd05c2cfc091907161e7d45cc59d58018e15363393b31a3f883ca61205eab18
+bytes: 5000
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Fuentes C4 del SDK, revisión 2026-10-08; sin resultados experimentales
+latest: false

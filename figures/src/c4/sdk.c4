@@ -1,94 +1,65 @@
 specification {
-  element person   { style { shape person } }
+  element person { style { shape person } }
   element system
-  element external { style { shape rectangle } }
+  element external
   element container
-  element crate
-
-  relationship implements
-  relationship uses
+  element component
 }
-
 model {
-  researcher = person 'Researcher' {
-    description 'Configures rules and thresholds, opens execution, reads the scored outcome'
-  }
-  llm = external 'Model provider' {
-    description 'Agent and simulated user generation; speech synthesis and transcription'
-  }
-  tau = external 'Public task benchmark' {
-    description 'Pinned TAU telecom environment and its original final-state predicates'
-  }
-
-  harness = system 'Governed voice-task harness' {
-    description 'The evaluated integration: acoustic observations reach tool dispatch, and an independent scorer reads live final state'
-
-    pilot = container 'Pilot orchestrator' {
-      technology 'Python'
-      description 'Drives the session, synthesises user speech, transcribes it, and records attempted calls separately from executed effects'
+  human = person 'Interlocutor'
+  tools = external 'Herramientas'
+  host = system 'Agente de IA de voz' {
+    description 'Aplicación que integra PGSO'
+    agent = container 'Orquestador de voz' {
+      description 'Recibe audio y propone llamadas'
     }
-
-    runtime = container 'PGSO runtime' {
-      technology 'Rust'
-      description 'Temporal intervention state, effective policy composition, and the invocation authorization boundary'
-
-      core = crate 'pgso-core' {
-        description '3 111 lines. engine, pipeline, rules, state, action, audit. Defines the Signal and Actuator traits. Depends on no other crate.'
+    runtime = container 'Runtime PGSO' {
+      description 'Proceso Rust de referencia'
+      signal = component 'Extractor' {
+        description 'Signal · audio → lecturas'
       }
-      egemaps = crate 'pgso-signal-egemaps' {
-        description '1 174 lines. eGeMAPS-style heuristic over 800 ms windows'
+      core = component 'Motor de gobernanza' {
+        description 'Baseline, persistencia y políticas'
       }
-      local = crate 'pgso-actuator-local' {
-        description '127 lines. In-process dispatch'
+      actuator = component 'Actuador' {
+        description 'Actuator · reconcile → catálogo'
       }
-      mcp = crate 'pgso-actuator-mcp' {
-        description '1 115 lines. MCP tool surface'
+      dispatch = component 'Control de ejecución' {
+        description 'Catálogo, permisos y aprobación'
       }
-      http = crate 'pgso-actuator-http' {
-        description '2 323 lines. Shared runtime lock; callback runs inside the authorization operation'
+      audit = component 'Auditoría' {
+        description 'Transiciones y resultados'
       }
     }
-
-    sandbox = container 'Sandbox tool environment' {
-      technology 'Rust'
-      description 'Executes a permitted callback and returns a receipt carrying a bounded reason'
-    }
-
-    scorer = container 'Independent scorer' {
-      technology 'Python'
-      description 'Evaluates the original predicates on the actual final environment; never replays an attempted call'
-    }
   }
-
-  researcher -> harness 'configures the policy, reads the outcome'
-  pilot -> llm 'generation, TTS, ASR'
-  scorer -> tau 'original predicates'
-  pilot -> runtime 'observations,\ncandidate calls'
-  runtime -> sandbox 'authorized callback only'
-  scorer -> sandbox 'reads live final state'
-  researcher -> runtime 'permission ceiling, approvals, expiry cutoff'
-
-  egemaps -> core 'implements Signal'
-  local -> core 'implements Actuator'
-  mcp -> core 'implements Actuator'
-  http -> core 'implements Actuator'
-  http -> mcp 'reuses the tool surface'
+  human -> host 'Conversación'
+  host -> tools 'Llamadas autorizadas'
+  human -> agent 'Audio'
+  agent -> runtime 'Audio y llamadas propuestas'
+  runtime -> tools 'Ejecución autorizada'
+  agent -> signal 'Ventanas de audio'
+  signal -> core 'Valor y confianza'
+  core -> actuator 'Contribuciones activas'
+  actuator -> dispatch 'Catálogo y directivas'
+  agent -> dispatch 'Llamada propuesta'
+  dispatch -> tools 'Callback autorizado'
+  core -> audit 'Transiciones'
+  dispatch -> audit 'Resultado'
 }
-
 views {
   view c1_context {
-    title 'C1 Context: who the governed harness talks to'
-    include researcher, harness, llm, tau
+    title 'C1 · Agente de voz que integra PGSO'
+    include human, host, tools
+    autoLayout LeftRight
   }
-
-  view c2_containers of harness {
-    title 'C2 Containers: dispatch is separated from scoring'
-    include *, researcher, llm, tau
-    exclude core, egemaps, local, mcp, http
+  view c2_containers of host {
+    title 'C2 · Integración con runtime externo'
+    include human, agent, runtime, tools
+    autoLayout LeftRight
   }
-
   view c3_components of runtime {
-    title 'C3 Components: every crate depends on the core, the core depends on none'
-    include *, pilot, sandbox
+    title 'C3 · Responsabilidades de PGSO'
+    include signal, core, actuator, dispatch, audit
+    autoLayout LeftRight
   }
 }

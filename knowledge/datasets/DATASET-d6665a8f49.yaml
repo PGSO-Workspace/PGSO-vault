@@ -1,0 +1,19 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-d6665a8f49
+created: 2026-10-08T20:59:15.036Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-c4-sdk-20261008.json
+hash: d6665a8f49c773b06556ada195a97cbd2f6a8ae15651c98f476e2b1f4f40697c
+bytes: 5064
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+versions_of: DATASET-8cd05c2cfc
+latest: true

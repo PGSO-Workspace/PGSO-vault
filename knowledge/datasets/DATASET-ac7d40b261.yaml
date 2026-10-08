@@ -1,0 +1,20 @@
+schema: phdude.dataset
+version: 1
+id: DATASET-ac7d40b261
+created: 2026-10-08T20:58:21.329Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+path: data/pgso-c4-sdk-20261008.json
+hash: ac7d40b26150e088ce633c40caedee7f1b44a16f468599948a19d25bbd07e315
+bytes: 5064
+format: json
+profile:
+  rows: 0
+  columns: []
+sensitive: false
+state: candidate
+description: Fuentes C4 compactas del SDK; revisión arquitectónica, sin resultados experimentales
+versions_of: DATASET-8cd05c2cfc
+latest: false

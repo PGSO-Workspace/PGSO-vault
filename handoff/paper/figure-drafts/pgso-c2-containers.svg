@@ -1,52 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2052 960" width="2052" height="960" font-family="Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2004 180" width="2004" height="180" font-family="Helvetica, Arial, sans-serif">
 <rect width="100%" height="100%" fill="white"/>
 <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#1a1a1a"/></marker></defs>
-<rect x="1732" y="69" width="320" height="180" rx="3" fill="#F2F2F2" stroke="#1a1a1a" stroke-width="1.0" stroke-dasharray="5 3"/>
-<text x="1892.0" y="144.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Researcher</text>
-<text x="1892.0" y="170.0" font-size="15" text-anchor="middle" fill="#444">Configures rules and thresholds, opens</text>
-<text x="1892.0" y="192.0" font-size="15" text-anchor="middle" fill="#444">execution, reads the scored outcome</text>
-<rect x="812" y="8" width="850" height="944" rx="4" fill="#FAFAFA" stroke="#9a9a9a" stroke-width="1.2" stroke-dasharray="6 4"/>
-<text x="826" y="34" font-size="17" font-weight="bold" fill="#333">Governed voice-task harness</text>
-<rect x="0" y="409" width="341" height="180" rx="3" fill="#F2F2F2" stroke="#1a1a1a" stroke-width="1.0" stroke-dasharray="5 3"/>
-<text x="170.5" y="484.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Model provider</text>
-<text x="170.5" y="510.0" font-size="15" text-anchor="middle" fill="#444">Agent and simulated user generation;</text>
-<text x="170.5" y="532.0" font-size="15" text-anchor="middle" fill="#444">speech synthesis and transcription</text>
-<rect x="452" y="409" width="320" height="180" rx="3" fill="#F2F2F2" stroke="#1a1a1a" stroke-width="1.0" stroke-dasharray="5 3"/>
-<text x="612.0" y="484.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Public task benchmark</text>
-<text x="612.0" y="510.0" font-size="15" text-anchor="middle" fill="#444">Pinned TAU telecom environment and its</text>
-<text x="612.0" y="532.0" font-size="15" text-anchor="middle" fill="#444">original final-state predicates</text>
-<rect x="852" y="69" width="339" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
-<text x="1021.5" y="122.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Pilot orchestrator</text>
-<text x="1021.5" y="148.0" font-size="15" text-anchor="middle" fill="#444">Drives the session, synthesises user</text>
-<text x="1021.5" y="170.0" font-size="15" text-anchor="middle" fill="#444">speech, transcribes it, and records</text>
-<text x="1021.5" y="192.0" font-size="15" text-anchor="middle" fill="#444">attempted calls separately from</text>
-<text x="1021.5" y="214.0" font-size="15" text-anchor="middle" fill="#444">executed effects</text>
-<rect x="1302" y="69" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
-<text x="1462.0" y="133.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Independent scorer</text>
-<text x="1462.0" y="159.0" font-size="15" text-anchor="middle" fill="#444">Evaluates the original predicates on</text>
-<text x="1462.0" y="181.0" font-size="15" text-anchor="middle" fill="#444">the actual final environment; never</text>
-<text x="1462.0" y="203.0" font-size="15" text-anchor="middle" fill="#444">replays an attempted call</text>
-<rect x="902" y="409" width="340" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
-<text x="1072.0" y="473.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">PGSO runtime</text>
-<text x="1072.0" y="499.0" font-size="15" text-anchor="middle" fill="#444">Temporal intervention state, effective</text>
-<text x="1072.0" y="521.0" font-size="15" text-anchor="middle" fill="#444">policy composition, and the invocation</text>
-<text x="1072.0" y="543.0" font-size="15" text-anchor="middle" fill="#444">authorization boundary</text>
-<rect x="1194" y="732" width="331" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
-<text x="1359.5" y="796.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Sandbox tool environment</text>
-<text x="1359.5" y="822.0" font-size="15" text-anchor="middle" fill="#444">Executes a permitted callback and</text>
-<text x="1359.5" y="844.0" font-size="15" text-anchor="middle" fill="#444">returns a receipt carrying a bounded</text>
-<text x="1359.5" y="866.0" font-size="15" text-anchor="middle" fill="#444">reason</text>
-<path d="M 1732,231 L 1718,237 L 1703,243 L 1689,249 L 1542,311 L 1375,378 L 1252,427" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
-<text x="1538" y="324" font-size="15" fill="#222">permission ceiling, approvals,</text>
-<text x="1538" y="343" font-size="15" fill="#222">expiry  cutoff</text>
-<path d="M 1035,249 L 1042,295 L 1050,351 L 1057,399" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
-<text x="1049" y="324" font-size="15" fill="#222">observations, candidate calls</text>
-<path d="M 1152,589 L 1190,631 L 1235,681 L 1273,724" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
-<text x="1226" y="664" font-size="15" fill="#222">authorized callback only</text>
-<path d="M 1458,249 L 1452,351 L 1438,525 L 1407,672 L 1404,688 L 1399,705 L 1394,722" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
-<text x="1446" y="502" font-size="15" fill="#222">reads live final state</text>
-<path d="M 852,228 L 707,285 L 499,368 L 351,426" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
-<text x="623" y="333" font-size="15" fill="#222">generation, TTS, ASR</text>
-<path d="M 1302,231 L 1284,238 L 1265,244 L 1247,249 L 1096,293 L 1045,252 L 899,309 L 841,332 L 782,369 L 732,403" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
-<text x="900" y="333" font-size="15" fill="#222">original predicates</text>
+<rect x="0" y="0" width="320" height="180" rx="3" fill="#F2F2F2" stroke="#1a1a1a" stroke-width="1.0" stroke-dasharray="5 3"/>
+<text x="160.0" y="97.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Interlocutor</text>
+<rect x="482" y="0" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="642.0" y="86.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Orquestador de voz</text>
+<text x="642.0" y="112.0" font-size="15" text-anchor="middle" fill="#444">Recibe audio y propone llamadas</text>
+<rect x="1108" y="0" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="1268.0" y="86.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Runtime PGSO</text>
+<text x="1268.0" y="112.0" font-size="15" text-anchor="middle" fill="#444">Proceso Rust de referencia</text>
+<rect x="1684" y="0" width="320" height="180" rx="3" fill="#F2F2F2" stroke="#1a1a1a" stroke-width="1.0" stroke-dasharray="5 3"/>
+<text x="1844.0" y="97.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Herramientas</text>
+<path d="M 320,90 L 368,90 L 422,90 L 472,90" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="381" y="82" font-size="15" fill="#222">Audio</text>
+<path d="M 801,90 L 892,90 L 1005,90 L 1097,90" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="863" y="82" font-size="15" fill="#222">Audio y llamadas propuestas</text>
+<path d="M 1427,90 L 1504,90 L 1596,90 L 1674,90" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="1489" y="82" font-size="15" fill="#222">Ejecución autorizada</text>
 </svg>

@@ -1,0 +1,86 @@
+schema: phdude.figure
+version: 1
+id: FIG-a505e15474
+created: 2026-10-08T20:57:34.510Z
+actor:
+  researcher: Lucio
+  agent: cli
+tags: []
+name: pgso-sdk-c4-20261008
+caption: "Arquitectura de referencia de PGSO integrado por un agente de voz. C1: contexto. C2: runtime externo. C3: componentes y contratos. No representa una validación de producción."
+alt: Tres vistas C4 compactas del agente de voz y PGSO, con percepción, gobernanza, actuador, control de ejecución y auditoría.
+generator:
+  runtime: python3
+  script: figures/src/build-sdk-c4.py
+  args:
+    - /home/lucio/.npm/_npx/f8ded909d942c3b7/node_modules/likec4/bin/likec4.mjs
+inputs:
+  - DATASET-d6665a8f49
+outputs:
+  - path: figures/out/pgso-c1-context.svg
+    format: svg
+  - path: figures/out/pgso-c1-context.png
+    format: png
+  - path: figures/out/pgso-c2-containers.svg
+    format: svg
+  - path: figures/out/pgso-c2-containers.png
+    format: png
+  - path: figures/out/pgso-c3-components.svg
+    format: svg
+  - path: figures/out/pgso-c3-components.png
+    format: png
+runs:
+  - at: 2026-10-08T20:57:41.893Z
+    exit: 0
+    duration_ms: 3324
+    input_hashes:
+      DATASET-8cd05c2cfc: 8cd05c2cfc091907161e7d45cc59d58018e15363393b31a3f883ca61205eab18
+    output_hashes:
+      figures/out/pgso-c1-context.svg: 02b9d0e2515c41f1f8f0a9c9823b1a812e9065b91c253ccb39de51d61a579c18
+      figures/out/pgso-c2-containers.svg: db4216959e9f97263927786a5820ffa77da8d95a91813bb4dcff6b2ba75d4056
+      figures/out/pgso-c3-components.svg: 310c62a2e14c83dea058b6e9ab74a5a6286fbc68ac9ec6afa562f87cdf65c742
+    script_hash: 78098db704222581b0d7ce3b3e851fe8facebc1711b35033995e9ca94d67772d
+  - at: 2026-10-08T20:58:15.974Z
+    exit: 0
+    duration_ms: 7328
+    input_hashes:
+      DATASET-8cd05c2cfc: 8cd05c2cfc091907161e7d45cc59d58018e15363393b31a3f883ca61205eab18
+    output_hashes:
+      figures/out/pgso-c1-context.svg: 02b9d0e2515c41f1f8f0a9c9823b1a812e9065b91c253ccb39de51d61a579c18
+      figures/out/pgso-c2-containers.svg: db4216959e9f97263927786a5820ffa77da8d95a91813bb4dcff6b2ba75d4056
+      figures/out/pgso-c3-components.svg: 310c62a2e14c83dea058b6e9ab74a5a6286fbc68ac9ec6afa562f87cdf65c742
+    script_hash: 52becfc7f7321f2c4693730c28a8a1ed782063acdc6ff6360bd9e06f6a4b80f6
+  - at: 2026-10-08T20:59:01.060Z
+    exit: 1
+    duration_ms: 4392
+    input_hashes:
+      DATASET-ac7d40b261: ac7d40b26150e088ce633c40caedee7f1b44a16f468599948a19d25bbd07e315
+    output_hashes: {}
+    script_hash: 52becfc7f7321f2c4693730c28a8a1ed782063acdc6ff6360bd9e06f6a4b80f6
+  - at: 2026-10-08T20:59:19.344Z
+    exit: 0
+    duration_ms: 3553
+    input_hashes:
+      DATASET-ac7d40b261: d6665a8f49c773b06556ada195a97cbd2f6a8ae15651c98f476e2b1f4f40697c
+    output_hashes:
+      figures/out/pgso-c1-context.svg: 694245c52f26e35f59b2e181400673b8568f66c6cadc511601949a355278e965
+      figures/out/pgso-c1-context.png: c60cd312acb374362cf05f0fd96c90279bb47ee7aa0408eb2a61de1a4ebb8623
+      figures/out/pgso-c2-containers.svg: 984a5b02a5754f9c56e54f02bce6509b2e9e3b36ed08aeed786422eff343f1fa
+      figures/out/pgso-c2-containers.png: 1ea3c7b45bf130dc4d5ee822a971f50981be56e2ac64167e4c02dda9d7f5a525
+      figures/out/pgso-c3-components.svg: 5ff98e96925d5950ced862ef980ab49b7e3578e712c715b38a4f66c6d19380bf
+      figures/out/pgso-c3-components.png: 1e3676773570082cb67fad7996480dc7bf4b74d92a89ca8dfb4f742be0be2443
+    script_hash: 52becfc7f7321f2c4693730c28a8a1ed782063acdc6ff6360bd9e06f6a4b80f6
+  - at: 2026-10-08T20:59:30.265Z
+    exit: 0
+    duration_ms: 4247
+    input_hashes:
+      DATASET-d6665a8f49: d6665a8f49c773b06556ada195a97cbd2f6a8ae15651c98f476e2b1f4f40697c
+    output_hashes:
+      figures/out/pgso-c1-context.svg: 694245c52f26e35f59b2e181400673b8568f66c6cadc511601949a355278e965
+      figures/out/pgso-c1-context.png: c60cd312acb374362cf05f0fd96c90279bb47ee7aa0408eb2a61de1a4ebb8623
+      figures/out/pgso-c2-containers.svg: 984a5b02a5754f9c56e54f02bce6509b2e9e3b36ed08aeed786422eff343f1fa
+      figures/out/pgso-c2-containers.png: 1ea3c7b45bf130dc4d5ee822a971f50981be56e2ac64167e4c02dda9d7f5a525
+      figures/out/pgso-c3-components.svg: 5ff98e96925d5950ced862ef980ab49b7e3578e712c715b38a4f66c6d19380bf
+      figures/out/pgso-c3-components.png: 1e3676773570082cb67fad7996480dc7bf4b74d92a89ca8dfb4f742be0be2443
+    script_hash: 52becfc7f7321f2c4693730c28a8a1ed782063acdc6ff6360bd9e06f6a4b80f6
+state: candidate

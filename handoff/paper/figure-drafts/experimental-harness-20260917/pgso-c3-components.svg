@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1529 1437" width="1529" height="1437" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#1a1a1a"/></marker></defs>
+<rect x="53" y="0" width="339" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="222.5" y="53.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Pilot orchestrator</text>
+<text x="222.5" y="79.0" font-size="15" text-anchor="middle" fill="#444">Drives the session, synthesises user</text>
+<text x="222.5" y="101.0" font-size="15" text-anchor="middle" fill="#444">speech, transcribes it, and records</text>
+<text x="222.5" y="123.0" font-size="15" text-anchor="middle" fill="#444">attempted calls separately from</text>
+<text x="222.5" y="145.0" font-size="15" text-anchor="middle" fill="#444">executed effects</text>
+<rect x="8" y="249" width="1513" height="927" rx="4" fill="#FAFAFA" stroke="#9a9a9a" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="22" y="275" font-size="17" font-weight="bold" fill="#333">PGSO runtime</text>
+<rect x="527" y="1257" width="331" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="692.5" y="1321.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Sandbox tool environment</text>
+<text x="692.5" y="1347.0" font-size="15" text-anchor="middle" fill="#444">Executes a permitted callback and</text>
+<text x="692.5" y="1369.0" font-size="15" text-anchor="middle" fill="#444">returns a receipt carrying a bounded</text>
+<text x="692.5" y="1391.0" font-size="15" text-anchor="middle" fill="#444">reason</text>
+<rect x="48" y="310" width="350" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="223.0" y="385.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">pgso-signal-egemaps</text>
+<text x="223.0" y="411.0" font-size="15" text-anchor="middle" fill="#444">1 174 lines. eGeMAPS-style heuristic</text>
+<text x="223.0" y="433.0" font-size="15" text-anchor="middle" fill="#444">over 800 ms windows</text>
+<rect x="508" y="310" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="668.0" y="396.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">pgso-actuator-local</text>
+<text x="668.0" y="422.0" font-size="15" text-anchor="middle" fill="#444">127 lines. In-process dispatch</text>
+<rect x="1050" y="310" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="1210.0" y="374.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">pgso-actuator-http</text>
+<text x="1210.0" y="400.0" font-size="15" text-anchor="middle" fill="#444">2 323 lines. Shared runtime lock;</text>
+<text x="1210.0" y="422.0" font-size="15" text-anchor="middle" fill="#444">callback runs inside the authorization</text>
+<text x="1210.0" y="444.0" font-size="15" text-anchor="middle" fill="#444">operation</text>
+<rect x="807" y="633" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="967.0" y="719.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">pgso-actuator-mcp</text>
+<text x="967.0" y="745.0" font-size="15" text-anchor="middle" fill="#444">1 115 lines. MCP tool surface</text>
+<rect x="532" y="956" width="322" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="693.0" y="1009.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">pgso-core</text>
+<text x="693.0" y="1035.0" font-size="15" text-anchor="middle" fill="#444">3 111 lines. engine, pipeline, rules,</text>
+<text x="693.0" y="1057.0" font-size="15" text-anchor="middle" fill="#444">state, action, audit. Defines the</text>
+<text x="693.0" y="1079.0" font-size="15" text-anchor="middle" fill="#444">Signal and Actuator traits. Depends on</text>
+<text x="693.0" y="1101.0" font-size="15" text-anchor="middle" fill="#444">no other crate.</text>
+<path d="M 267,490 L 311,576 L 385,709 L 465,813 L 501,861 L 547,909 L 588,949" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="466" y="727" font-size="15" fill="#222">implements Signal</text>
+<path d="M 643,490 L 623,573 L 601,702 L 618,813 L 625,858 L 640,905 L 654,946" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="619" y="727" font-size="15" fill="#222">implements Actuator</text>
+<path d="M 891,813 L 855,855 L 812,905 L 776,948" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="839" y="888" font-size="15" fill="#222">implements Actuator</text>
+<path d="M 1252,490 L 1260,510 L 1266,530 L 1270,550 L 1290,654 L 1288,697 L 1182,813 L 1098,906 L 968,965 L 864,1000" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="1281" y="727" font-size="15" fill="#222">implements Actuator</text>
+<path d="M 1143,490 L 1111,532 L 1073,582 L 1040,625" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="1097" y="565" font-size="15" fill="#222">reuses the tool surface</text>
+<path d="M 223,180 L 223,198 L 223,218 L 223,239" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="125" y="230" font-size="15" fill="#222">observations, candidate calls</text>
+<path d="M 693,1176 L 693,1199 L 693,1224 L 693,1247" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="539" y="1209" font-size="15" fill="#222">authorized callback only</text>
+</svg>

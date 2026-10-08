@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 772 826" width="772" height="826" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#1a1a1a"/></marker></defs>
+<rect x="231" y="0" width="320" height="180" rx="3" fill="#F2F2F2" stroke="#1a1a1a" stroke-width="1.0" stroke-dasharray="5 3"/>
+<text x="391.0" y="75.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Researcher</text>
+<text x="391.0" y="101.0" font-size="15" text-anchor="middle" fill="#444">Configures rules and thresholds, opens</text>
+<text x="391.0" y="123.0" font-size="15" text-anchor="middle" fill="#444">execution, reads the scored outcome</text>
+<rect x="231" y="323" width="320" height="180" rx="3" fill="white" stroke="#1a1a1a" stroke-width="1.4" />
+<text x="391.0" y="376.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Governed voice-task harness</text>
+<text x="391.0" y="402.0" font-size="15" text-anchor="middle" fill="#444">The evaluated integration: acoustic</text>
+<text x="391.0" y="424.0" font-size="15" text-anchor="middle" fill="#444">observations reach tool dispatch, and</text>
+<text x="391.0" y="446.0" font-size="15" text-anchor="middle" fill="#444">an independent scorer reads live final</text>
+<text x="391.0" y="468.0" font-size="15" text-anchor="middle" fill="#444">state</text>
+<rect x="0" y="646" width="341" height="180" rx="3" fill="#F2F2F2" stroke="#1a1a1a" stroke-width="1.0" stroke-dasharray="5 3"/>
+<text x="170.5" y="721.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Model provider</text>
+<text x="170.5" y="747.0" font-size="15" text-anchor="middle" fill="#444">Agent and simulated user generation;</text>
+<text x="170.5" y="769.0" font-size="15" text-anchor="middle" fill="#444">speech synthesis and transcription</text>
+<rect x="452" y="646" width="320" height="180" rx="3" fill="#F2F2F2" stroke="#1a1a1a" stroke-width="1.0" stroke-dasharray="5 3"/>
+<text x="612.0" y="721.0" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">Public task benchmark</text>
+<text x="612.0" y="747.0" font-size="15" text-anchor="middle" fill="#444">Pinned TAU telecom environment and its</text>
+<text x="612.0" y="769.0" font-size="15" text-anchor="middle" fill="#444">original final-state predicates</text>
+<path d="M 391,180 L 391,221 L 391,270 L 391,313" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="392" y="255" font-size="15" fill="#222">configures the policy, reads</text>
+<text x="392" y="274" font-size="15" fill="#222">the outcome</text>
+<path d="M 330,503 L 301,545 L 267,594 L 238,637" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="289" y="578" font-size="15" fill="#222">generation, TTS, ASR</text>
+<path d="M 452,503 L 481,545 L 515,594 L 545,637" fill="none" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="509" y="578" font-size="15" fill="#222">original predicates</text>
+</svg>
