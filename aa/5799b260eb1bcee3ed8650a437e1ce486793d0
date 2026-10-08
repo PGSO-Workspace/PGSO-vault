@@ -1,0 +1,51 @@
+.phdude/events.jsonl
+  s_ac4c3eee4b09c9::t_e75b6d0b180e46 87-95
+data/pgso-c4-sdk-20261008.json
+  s_ac4c3eee4b09c9::t_02b8fac9dc77bf 5-6,9-10
+figures/FIG-a505e15474.yaml
+  s_ac4c3eee4b09c9::t_e2cd173cfb4206 10,18,86-124
+figures/out/pgso-c1-context.svg
+  s_ac4c3eee4b09c9::t_353d894233a97f 1-2,4-45
+figures/out/pgso-c2-containers.svg
+  s_ac4c3eee4b09c9::t_c9dda7fca8949b 1-2,4-51
+figures/out/pgso-c3-components.svg
+  s_ac4c3eee4b09c9::t_def5a11051ec92 1-2,4-75
+figures/src/c4/model.json
+  s_ac4c3eee4b09c9::t_14183c31678b5d 1
+figures/src/c4/sdk.c4
+  s_ac4c3eee4b09c9::t_e415df4e108d2b 4,9-28,31-35,37-39,41-43,45-47,49-59,63-82,86-87,90-92,95-96
+figures/src/render-c4.py
+  s_ac4c3eee4b09c9::t_353f8c97f15a1b 5-6,15,18,24-27,30-32
+handoff/paper/figure-drafts/LEEME-OE2.md
+  s_ac4c3eee4b09c9::t_5bb23b4649e832 18-20
+handoff/paper/figure-drafts/pgso-c1-context.svg
+  s_ac4c3eee4b09c9::t_eafd5500d145cf 1-2,4-45
+handoff/paper/figure-drafts/pgso-c2-containers.svg
+  s_ac4c3eee4b09c9::t_6f7622d1c4dc84 1-2,4-51
+handoff/paper/figure-drafts/pgso-c3-components.svg
+  s_ac4c3eee4b09c9::t_6ae50129468f0e 1-2,4-75
+knowledge/datasets/DATASET-34e8b6196d.yaml
+  s_ac4c3eee4b09c9::t_69b09ff6819135 1-20
+knowledge/datasets/DATASET-6a8bcb605e.yaml
+  s_ac4c3eee4b09c9::t_17ef92f6d9aa6e 1-20
+knowledge/datasets/DATASET-7ce9d04489.yaml
+  s_ac4c3eee4b09c9::t_f305745a7b20d4 1-20
+knowledge/datasets/DATASET-d6665a8f49.yaml
+  s_ac4c3eee4b09c9::t_4fe1cd75f785f9 19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aa5799b260eb1bcee3ed8650a437e1ce486793d0",
+  "prompts": {},
+  "sessions": {
+    "s_ac4c3eee4b09c9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11a3d-b06c-74f1-ab48-22ef78627225",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Lucio <lucioyen1@gmail.com>"
+    }
+  }
+}
